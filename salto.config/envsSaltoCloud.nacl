@@ -1,20 +1,8 @@
 envs {
   envsCloud = [
     {
-      uuid = "e97e134c-08e2-4417-8afd-beeaee04623b"
-      folderName = "grd"
-    },
-    {
-      uuid = "8dfaa30d-7586-4b5e-a41e-11b7f42368ef"
-      folderName = "ffd"
-    },
-    {
-      uuid = "51ef4007-f2f2-4b69-a29a-cac1c3329b16"
-      folderName = "uiop"
-    },
-    {
-      uuid = "60836148-128f-4c5f-a713-bea6dedf63f5"
-      folderName = "k"
+      uuid = "bfe16180-8f9b-4747-87e2-457f853c9ff0"
+      folderName = "deploy"
     },
   ]
 }
