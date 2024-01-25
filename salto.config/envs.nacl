@@ -1,10 +1,4 @@
 envs {
   envs = [
-    {
-      name = "dwef"
-      accountToServiceName = {
-        dummy = "dummy"
-      }
-    },
   ]
 }
