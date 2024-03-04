@@ -1,0 +1,70 @@
+salesforce.Layout TestSyncFromAccountObjdycsfkvbzmvt__c_TestSyncFromAccountObjdycsfkvbzmvt_Layout@uubs {
+  layoutSections = [
+    {
+      customLabel = false
+      detailHeading = false
+      editHeading = true
+      label = "Information"
+      layoutColumns = [
+        {
+          layoutItems = [
+            {
+              behavior = "Required"
+              field = salesforce.TestSyncFromAccountObjdycsfkvbzmvt__c.field.Name
+            },
+          ]
+        },
+        {
+          layoutItems = [
+            {
+              behavior = "Edit"
+              field = salesforce.TestSyncFromAccountObjdycsfkvbzmvt__c.field.OwnerId
+            },
+          ]
+        },
+      ]
+      style = "TwoColumnsTopToBottom"
+    },
+    {
+      customLabel = false
+      detailHeading = false
+      editHeading = true
+      label = "System Information"
+      layoutColumns = [
+        {
+          layoutItems = [
+            {
+              behavior = "Readonly"
+              field = salesforce.TestSyncFromAccountObjdycsfkvbzmvt__c.field.CreatedById
+            },
+          ]
+        },
+        {
+          layoutItems = [
+            {
+              behavior = "Readonly"
+              field = salesforce.TestSyncFromAccountObjdycsfkvbzmvt__c.field.LastModifiedById
+            },
+          ]
+        },
+      ]
+      style = "TwoColumnsTopToBottom"
+    },
+    {
+      customLabel = false
+      detailHeading = false
+      editHeading = true
+      style = "CustomLinks"
+    },
+  ]
+  showEmailCheckbox = false
+  showHighlightsPanel = false
+  showInteractionLogPanel = false
+  showRunAssignmentRulesCheckbox = false
+  showSubmitAndAttachButton = false
+  fullName = "TestSyncFromAccountObjdycsfkvbzmvt__c-TestSyncFromAccountObjdycsfkvbzmvt Layout"
+  _parent = [
+    salesforce.TestSyncFromAccountObjdycsfkvbzmvt__c,
+  ]
+  _alias = "TestSyncFromAccountObjdycsfkvbzmvt__c-TestSyncFromAccountObjdycsfkvbzmvt Layout"
+}

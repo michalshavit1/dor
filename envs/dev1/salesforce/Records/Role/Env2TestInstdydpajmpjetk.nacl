@@ -1,0 +1,10 @@
+salesforce.Role Env2TestInstdydpajmpjetk {
+  fullName = "Env2TestInstdydpajmpjetk"
+  caseAccessLevel = "Edit"
+  contactAccessLevel = "Edit"
+  description = "Common instance"
+  mayForecastManagerShare = false
+  name = "Env2TestInstdydpajmpjetk"
+  opportunityAccessLevel = "Edit"
+  _alias = "Env2TestInstdydpajmpjetk"
+}

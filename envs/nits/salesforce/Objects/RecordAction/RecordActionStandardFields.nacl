@@ -1,0 +1,1022 @@
+type salesforce.RecordAction {
+  serviceid Id {
+    apiName = "RecordAction.Id"
+    label = "RecordAction ID"
+    queryable = true
+    _hidden_value = true
+    updateable = false
+    createable = false
+  }
+  salesforce.Checkbox IsDeleted {
+    apiName = "RecordAction.IsDeleted"
+    label = "Deleted"
+    defaultValue = false
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime CreatedDate {
+    apiName = "RecordAction.CreatedDate"
+    label = "Created Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup CreatedById {
+    apiName = "RecordAction.CreatedById"
+    label = "Created By ID"
+    referenceTo = [
+      salesforce.User,
+    ]
+    createable = false
+    updateable = false
+    relationshipName = "CreatedBy"
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime LastModifiedDate {
+    apiName = "RecordAction.LastModifiedDate"
+    label = "Last Modified Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup LastModifiedById {
+    apiName = "RecordAction.LastModifiedById"
+    label = "Last Modified By ID"
+    referenceTo = [
+      salesforce.User,
+    ]
+    createable = false
+    updateable = false
+    relationshipName = "LastModifiedBy"
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime SystemModstamp {
+    apiName = "RecordAction.SystemModstamp"
+    label = "System Modstamp"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup RecordId {
+    apiName = "RecordAction.RecordId"
+    label = "Parent Record ID"
+    _required = true
+    referenceTo = [
+      salesforce.Account,
+      salesforce.Asset,
+      salesforce.AssetRelationship,
+      salesforce.AssignedResource,
+      salesforce.AssociatedLocation,
+      salesforce.Campaign,
+      salesforce.CampaignMember,
+      salesforce.Case,
+      salesforce.CollaborationGroup,
+      salesforce.Contact,
+      salesforce.ContactRequest,
+      salesforce.Contract,
+      "EnhancedLetterhead",
+      salesforce.Lead,
+      salesforce.Location,
+      salesforce.MessagingSession,
+      salesforce.OperatingHours,
+      salesforce.Opportunity,
+      salesforce.Order,
+      salesforce.Pricebook2,
+      salesforce.PricebookEntry,
+      salesforce.Product2,
+      salesforce.ResourceAbsence,
+      salesforce.ResourcePreference,
+      salesforce.ReturnOrder,
+      salesforce.ReturnOrderLineItem,
+      salesforce.Scorecard,
+      salesforce.ServiceAppointment,
+      salesforce.ServiceResource,
+      salesforce.ServiceResourceSkill,
+      salesforce.ServiceTerritory,
+      salesforce.ServiceTerritoryMember,
+      salesforce.SkillRequirement,
+      salesforce.TestCustomObj100__c,
+      salesforce.TestCustomObj101__c,
+      salesforce.TestCustomObj102__c,
+      salesforce.TestCustomObj103__c,
+      salesforce.TestCustomObj104__c,
+      salesforce.TestCustomObj105__c,
+      salesforce.TestCustomObj106__c,
+      salesforce.TestCustomObj107__c,
+      salesforce.TestCustomObj108__c,
+      salesforce.TestCustomObj109__c,
+      salesforce.TestCustomObj10__c,
+      salesforce.TestCustomObj110__c,
+      salesforce.TestCustomObj111__c,
+      salesforce.TestCustomObj112__c,
+      salesforce.TestCustomObj113__c,
+      salesforce.TestCustomObj114__c,
+      salesforce.TestCustomObj115__c,
+      salesforce.TestCustomObj116__c,
+      salesforce.TestCustomObj117__c,
+      salesforce.TestCustomObj118__c,
+      salesforce.TestCustomObj119__c,
+      salesforce.TestCustomObj11__c,
+      salesforce.TestCustomObj120__c,
+      salesforce.TestCustomObj121__c,
+      salesforce.TestCustomObj122__c,
+      salesforce.TestCustomObj123__c,
+      salesforce.TestCustomObj124__c,
+      salesforce.TestCustomObj125__c,
+      salesforce.TestCustomObj126__c,
+      salesforce.TestCustomObj127__c,
+      salesforce.TestCustomObj128__c,
+      salesforce.TestCustomObj129__c,
+      salesforce.TestCustomObj12__c,
+      salesforce.TestCustomObj130__c,
+      salesforce.TestCustomObj131__c,
+      salesforce.TestCustomObj132__c,
+      salesforce.TestCustomObj133__c,
+      salesforce.TestCustomObj134__c,
+      salesforce.TestCustomObj135__c,
+      salesforce.TestCustomObj136__c,
+      salesforce.TestCustomObj137__c,
+      salesforce.TestCustomObj138__c,
+      salesforce.TestCustomObj139__c,
+      salesforce.TestCustomObj13__c,
+      salesforce.TestCustomObj140__c,
+      salesforce.TestCustomObj141__c,
+      salesforce.TestCustomObj142__c,
+      salesforce.TestCustomObj143__c,
+      salesforce.TestCustomObj144__c,
+      salesforce.TestCustomObj145__c,
+      salesforce.TestCustomObj146__c,
+      salesforce.TestCustomObj147__c,
+      salesforce.TestCustomObj148__c,
+      salesforce.TestCustomObj149__c,
+      salesforce.TestCustomObj14__c,
+      salesforce.TestCustomObj150__c,
+      salesforce.TestCustomObj151__c,
+      salesforce.TestCustomObj152__c,
+      salesforce.TestCustomObj153__c,
+      salesforce.TestCustomObj154__c,
+      salesforce.TestCustomObj155__c,
+      salesforce.TestCustomObj156__c,
+      salesforce.TestCustomObj157__c,
+      salesforce.TestCustomObj158__c,
+      salesforce.TestCustomObj159__c,
+      salesforce.TestCustomObj15__c,
+      salesforce.TestCustomObj160__c,
+      salesforce.TestCustomObj161__c,
+      salesforce.TestCustomObj162__c,
+      salesforce.TestCustomObj163__c,
+      salesforce.TestCustomObj164__c,
+      salesforce.TestCustomObj165__c,
+      salesforce.TestCustomObj166__c,
+      salesforce.TestCustomObj167__c,
+      salesforce.TestCustomObj168__c,
+      salesforce.TestCustomObj169__c,
+      salesforce.TestCustomObj16__c,
+      salesforce.TestCustomObj170__c,
+      salesforce.TestCustomObj171__c,
+      salesforce.TestCustomObj172__c,
+      salesforce.TestCustomObj173__c,
+      salesforce.TestCustomObj174__c,
+      salesforce.TestCustomObj175__c,
+      salesforce.TestCustomObj176__c,
+      salesforce.TestCustomObj177__c,
+      salesforce.TestCustomObj178__c,
+      salesforce.TestCustomObj179__c,
+      salesforce.TestCustomObj17__c,
+      salesforce.TestCustomObj180__c,
+      salesforce.TestCustomObj181__c,
+      salesforce.TestCustomObj182__c,
+      salesforce.TestCustomObj183__c,
+      salesforce.TestCustomObj184__c,
+      salesforce.TestCustomObj185__c,
+      salesforce.TestCustomObj186__c,
+      salesforce.TestCustomObj187__c,
+      salesforce.TestCustomObj188__c,
+      salesforce.TestCustomObj189__c,
+      salesforce.TestCustomObj18__c,
+      salesforce.TestCustomObj190__c,
+      salesforce.TestCustomObj191__c,
+      salesforce.TestCustomObj192__c,
+      salesforce.TestCustomObj193__c,
+      salesforce.TestCustomObj194__c,
+      salesforce.TestCustomObj195__c,
+      salesforce.TestCustomObj196__c,
+      salesforce.TestCustomObj197__c,
+      salesforce.TestCustomObj198__c,
+      salesforce.TestCustomObj199__c,
+      salesforce.TestCustomObj19__c,
+      salesforce.TestCustomObj1__c,
+      salesforce.TestCustomObj200__c,
+      salesforce.TestCustomObj201__c,
+      salesforce.TestCustomObj202__c,
+      salesforce.TestCustomObj203__c,
+      salesforce.TestCustomObj204__c,
+      salesforce.TestCustomObj205__c,
+      salesforce.TestCustomObj206__c,
+      salesforce.TestCustomObj207__c,
+      salesforce.TestCustomObj208__c,
+      salesforce.TestCustomObj209__c,
+      salesforce.TestCustomObj20__c,
+      salesforce.TestCustomObj210__c,
+      salesforce.TestCustomObj211__c,
+      salesforce.TestCustomObj212__c,
+      salesforce.TestCustomObj213__c,
+      salesforce.TestCustomObj214__c,
+      salesforce.TestCustomObj215__c,
+      salesforce.TestCustomObj216__c,
+      salesforce.TestCustomObj217__c,
+      salesforce.TestCustomObj218__c,
+      salesforce.TestCustomObj219__c,
+      salesforce.TestCustomObj21__c,
+      salesforce.TestCustomObj220__c,
+      salesforce.TestCustomObj221__c,
+      salesforce.TestCustomObj222__c,
+      salesforce.TestCustomObj223__c,
+      salesforce.TestCustomObj224__c,
+      salesforce.TestCustomObj225__c,
+      salesforce.TestCustomObj226__c,
+      salesforce.TestCustomObj227__c,
+      salesforce.TestCustomObj228__c,
+      salesforce.TestCustomObj229__c,
+      salesforce.TestCustomObj22__c,
+      salesforce.TestCustomObj230__c,
+      salesforce.TestCustomObj231__c,
+      salesforce.TestCustomObj232__c,
+      salesforce.TestCustomObj233__c,
+      salesforce.TestCustomObj234__c,
+      salesforce.TestCustomObj235__c,
+      salesforce.TestCustomObj236__c,
+      salesforce.TestCustomObj237__c,
+      salesforce.TestCustomObj238__c,
+      salesforce.TestCustomObj239__c,
+      salesforce.TestCustomObj23__c,
+      salesforce.TestCustomObj240__c,
+      salesforce.TestCustomObj241__c,
+      salesforce.TestCustomObj242__c,
+      salesforce.TestCustomObj243__c,
+      salesforce.TestCustomObj244__c,
+      salesforce.TestCustomObj245__c,
+      salesforce.TestCustomObj246__c,
+      salesforce.TestCustomObj247__c,
+      salesforce.TestCustomObj248__c,
+      salesforce.TestCustomObj249__c,
+      salesforce.TestCustomObj24__c,
+      salesforce.TestCustomObj250__c,
+      salesforce.TestCustomObj251__c,
+      salesforce.TestCustomObj252__c,
+      salesforce.TestCustomObj253__c,
+      salesforce.TestCustomObj254__c,
+      salesforce.TestCustomObj255__c,
+      salesforce.TestCustomObj256__c,
+      salesforce.TestCustomObj257__c,
+      salesforce.TestCustomObj258__c,
+      salesforce.TestCustomObj259__c,
+      salesforce.TestCustomObj25__c,
+      salesforce.TestCustomObj260__c,
+      salesforce.TestCustomObj261__c,
+      salesforce.TestCustomObj262__c,
+      salesforce.TestCustomObj263__c,
+      salesforce.TestCustomObj264__c,
+      salesforce.TestCustomObj265__c,
+      salesforce.TestCustomObj266__c,
+      salesforce.TestCustomObj267__c,
+      salesforce.TestCustomObj268__c,
+      salesforce.TestCustomObj269__c,
+      salesforce.TestCustomObj26__c,
+      salesforce.TestCustomObj270__c,
+      salesforce.TestCustomObj271__c,
+      salesforce.TestCustomObj272__c,
+      salesforce.TestCustomObj273__c,
+      salesforce.TestCustomObj274__c,
+      salesforce.TestCustomObj275__c,
+      salesforce.TestCustomObj276__c,
+      salesforce.TestCustomObj277__c,
+      salesforce.TestCustomObj278__c,
+      salesforce.TestCustomObj279__c,
+      salesforce.TestCustomObj27__c,
+      salesforce.TestCustomObj280__c,
+      salesforce.TestCustomObj281__c,
+      salesforce.TestCustomObj282__c,
+      salesforce.TestCustomObj283__c,
+      salesforce.TestCustomObj284__c,
+      salesforce.TestCustomObj285__c,
+      salesforce.TestCustomObj286__c,
+      salesforce.TestCustomObj287__c,
+      salesforce.TestCustomObj288__c,
+      salesforce.TestCustomObj289__c,
+      salesforce.TestCustomObj28__c,
+      salesforce.TestCustomObj290__c,
+      salesforce.TestCustomObj291__c,
+      salesforce.TestCustomObj292__c,
+      salesforce.TestCustomObj293__c,
+      salesforce.TestCustomObj294__c,
+      salesforce.TestCustomObj295__c,
+      salesforce.TestCustomObj296__c,
+      salesforce.TestCustomObj297__c,
+      salesforce.TestCustomObj298__c,
+      salesforce.TestCustomObj299__c,
+      salesforce.TestCustomObj29__c,
+      salesforce.TestCustomObj2__c,
+      salesforce.TestCustomObj300__c,
+      salesforce.TestCustomObj301__c,
+      salesforce.TestCustomObj302__c,
+      salesforce.TestCustomObj303__c,
+      salesforce.TestCustomObj304__c,
+      salesforce.TestCustomObj305__c,
+      salesforce.TestCustomObj306__c,
+      salesforce.TestCustomObj307__c,
+      salesforce.TestCustomObj308__c,
+      salesforce.TestCustomObj309__c,
+      salesforce.TestCustomObj30__c,
+      salesforce.TestCustomObj310__c,
+      salesforce.TestCustomObj311__c,
+      salesforce.TestCustomObj312__c,
+      salesforce.TestCustomObj313__c,
+      salesforce.TestCustomObj314__c,
+      salesforce.TestCustomObj315__c,
+      salesforce.TestCustomObj316__c,
+      salesforce.TestCustomObj317__c,
+      salesforce.TestCustomObj318__c,
+      salesforce.TestCustomObj319__c,
+      salesforce.TestCustomObj31__c,
+      salesforce.TestCustomObj320__c,
+      salesforce.TestCustomObj321__c,
+      salesforce.TestCustomObj322__c,
+      salesforce.TestCustomObj323__c,
+      salesforce.TestCustomObj324__c,
+      salesforce.TestCustomObj325__c,
+      salesforce.TestCustomObj326__c,
+      salesforce.TestCustomObj327__c,
+      salesforce.TestCustomObj328__c,
+      salesforce.TestCustomObj329__c,
+      salesforce.TestCustomObj32__c,
+      salesforce.TestCustomObj330__c,
+      salesforce.TestCustomObj331__c,
+      salesforce.TestCustomObj332__c,
+      salesforce.TestCustomObj333__c,
+      salesforce.TestCustomObj334__c,
+      salesforce.TestCustomObj335__c,
+      salesforce.TestCustomObj336__c,
+      salesforce.TestCustomObj337__c,
+      salesforce.TestCustomObj338__c,
+      salesforce.TestCustomObj339__c,
+      salesforce.TestCustomObj33__c,
+      salesforce.TestCustomObj340__c,
+      salesforce.TestCustomObj341__c,
+      salesforce.TestCustomObj342__c,
+      salesforce.TestCustomObj343__c,
+      salesforce.TestCustomObj344__c,
+      salesforce.TestCustomObj345__c,
+      salesforce.TestCustomObj346__c,
+      salesforce.TestCustomObj347__c,
+      salesforce.TestCustomObj348__c,
+      salesforce.TestCustomObj349__c,
+      salesforce.TestCustomObj34__c,
+      salesforce.TestCustomObj350__c,
+      salesforce.TestCustomObj351__c,
+      salesforce.TestCustomObj352__c,
+      salesforce.TestCustomObj353__c,
+      salesforce.TestCustomObj354__c,
+      salesforce.TestCustomObj355__c,
+      salesforce.TestCustomObj356__c,
+      salesforce.TestCustomObj357__c,
+      salesforce.TestCustomObj358__c,
+      salesforce.TestCustomObj359__c,
+      salesforce.TestCustomObj35__c,
+      salesforce.TestCustomObj360__c,
+      salesforce.TestCustomObj361__c,
+      salesforce.TestCustomObj362__c,
+      salesforce.TestCustomObj363__c,
+      salesforce.TestCustomObj364__c,
+      salesforce.TestCustomObj365__c,
+      salesforce.TestCustomObj366__c,
+      salesforce.TestCustomObj367__c,
+      salesforce.TestCustomObj368__c,
+      salesforce.TestCustomObj369__c,
+      salesforce.TestCustomObj36__c,
+      salesforce.TestCustomObj370__c,
+      salesforce.TestCustomObj371__c,
+      salesforce.TestCustomObj372__c,
+      salesforce.TestCustomObj373__c,
+      salesforce.TestCustomObj374__c,
+      salesforce.TestCustomObj375__c,
+      salesforce.TestCustomObj376__c,
+      salesforce.TestCustomObj377__c,
+      salesforce.TestCustomObj378__c,
+      salesforce.TestCustomObj379__c,
+      salesforce.TestCustomObj37__c,
+      salesforce.TestCustomObj380__c,
+      salesforce.TestCustomObj381__c,
+      salesforce.TestCustomObj382__c,
+      salesforce.TestCustomObj383__c,
+      salesforce.TestCustomObj384__c,
+      salesforce.TestCustomObj385__c,
+      salesforce.TestCustomObj386__c,
+      salesforce.TestCustomObj387__c,
+      salesforce.TestCustomObj388__c,
+      salesforce.TestCustomObj389__c,
+      salesforce.TestCustomObj38__c,
+      salesforce.TestCustomObj390__c,
+      salesforce.TestCustomObj391__c,
+      salesforce.TestCustomObj392__c,
+      salesforce.TestCustomObj393__c,
+      salesforce.TestCustomObj394__c,
+      salesforce.TestCustomObj395__c,
+      salesforce.TestCustomObj396__c,
+      salesforce.TestCustomObj397__c,
+      salesforce.TestCustomObj398__c,
+      salesforce.TestCustomObj399__c,
+      salesforce.TestCustomObj39__c,
+      salesforce.TestCustomObj3__c,
+      salesforce.TestCustomObj40__c,
+      salesforce.TestCustomObj41__c,
+      salesforce.TestCustomObj42__c,
+      salesforce.TestCustomObj43__c,
+      salesforce.TestCustomObj44__c,
+      salesforce.TestCustomObj45__c,
+      salesforce.TestCustomObj46__c,
+      salesforce.TestCustomObj47__c,
+      salesforce.TestCustomObj48__c,
+      salesforce.TestCustomObj49__c,
+      salesforce.TestCustomObj4__c,
+      salesforce.TestCustomObj50__c,
+      salesforce.TestCustomObj51__c,
+      salesforce.TestCustomObj52__c,
+      salesforce.TestCustomObj53__c,
+      salesforce.TestCustomObj54__c,
+      salesforce.TestCustomObj55__c,
+      salesforce.TestCustomObj56__c,
+      salesforce.TestCustomObj57__c,
+      salesforce.TestCustomObj58__c,
+      salesforce.TestCustomObj59__c,
+      salesforce.TestCustomObj5__c,
+      salesforce.TestCustomObj60__c,
+      salesforce.TestCustomObj61__c,
+      salesforce.TestCustomObj62__c,
+      salesforce.TestCustomObj63__c,
+      salesforce.TestCustomObj64__c,
+      salesforce.TestCustomObj65__c,
+      salesforce.TestCustomObj66__c,
+      salesforce.TestCustomObj67__c,
+      salesforce.TestCustomObj68__c,
+      salesforce.TestCustomObj69__c,
+      salesforce.TestCustomObj6__c,
+      salesforce.TestCustomObj70__c,
+      salesforce.TestCustomObj71__c,
+      salesforce.TestCustomObj72__c,
+      salesforce.TestCustomObj73__c,
+      salesforce.TestCustomObj74__c,
+      salesforce.TestCustomObj75__c,
+      salesforce.TestCustomObj76__c,
+      salesforce.TestCustomObj77__c,
+      salesforce.TestCustomObj78__c,
+      salesforce.TestCustomObj79__c,
+      salesforce.TestCustomObj7__c,
+      salesforce.TestCustomObj80__c,
+      salesforce.TestCustomObj81__c,
+      salesforce.TestCustomObj82__c,
+      salesforce.TestCustomObj83__c,
+      salesforce.TestCustomObj84__c,
+      salesforce.TestCustomObj85__c,
+      salesforce.TestCustomObj86__c,
+      salesforce.TestCustomObj87__c,
+      salesforce.TestCustomObj88__c,
+      salesforce.TestCustomObj89__c,
+      salesforce.TestCustomObj8__c,
+      salesforce.TestCustomObj90__c,
+      salesforce.TestCustomObj91__c,
+      salesforce.TestCustomObj92__c,
+      salesforce.TestCustomObj93__c,
+      salesforce.TestCustomObj94__c,
+      salesforce.TestCustomObj95__c,
+      salesforce.TestCustomObj96__c,
+      salesforce.TestCustomObj97__c,
+      salesforce.TestCustomObj98__c,
+      salesforce.TestCustomObj99__c,
+      salesforce.TestCustomObj9__c,
+      salesforce.TimeSlot,
+      salesforce.User,
+      salesforce.WorkType,
+      salesforce.WorkTypeGroup,
+    ]
+    createable = true
+    updateable = true
+    relationshipName = "Record"
+    queryable = true
+  }
+  salesforce.Picklist FlowDefinition {
+    apiName = "RecordAction.FlowDefinition"
+    label = "Interaction Definition ID"
+    valueSet = [
+      {
+        fullName = "runtime_commerce_adj__Discount_Item"
+        isActive = true
+        label = "runtime_commerce_adj__Discount_Item"
+        default = false
+      },
+      {
+        fullName = "runtime_commerce_exc__Exchange_Flow"
+        isActive = true
+        label = "runtime_commerce_exc__Exchange_Flow"
+        default = false
+      },
+      {
+        fullName = "runtime_commerce_oe__Order_Entry"
+        isActive = true
+        label = "runtime_commerce_oe__Order_Entry"
+        default = false
+      },
+      {
+        fullName = "runtime_commerce_oms__Cancel_Item"
+        isActive = true
+        label = "runtime_commerce_oms__Cancel_Item"
+        default = false
+      },
+      {
+        fullName = "runtime_commerce_oms__Create_OS"
+        isActive = true
+        label = "runtime_commerce_oms__Create_OS"
+        default = false
+      },
+      {
+        fullName = "runtime_commerce_oms__Create_PE"
+        isActive = true
+        label = "runtime_commerce_oms__Create_PE"
+        default = false
+      },
+      {
+        fullName = "runtime_commerce_oms__Return_Item"
+        isActive = true
+        label = "runtime_commerce_oms__Return_Item"
+        default = false
+      },
+      {
+        fullName = "runtime_commerce_rma__Create_CO"
+        isActive = true
+        label = "runtime_commerce_rma__Create_CO"
+        default = false
+      },
+      {
+        fullName = "runtime_commerce_rma__Return_Item_RMA"
+        isActive = true
+        label = "runtime_commerce_rma__Return_Item_RMA"
+        default = false
+      },
+      {
+        fullName = "runtime_commerce_rs__Reship_FO"
+        isActive = true
+        label = "runtime_commerce_rs__Reship_FO"
+        default = false
+      },
+      {
+        fullName = "runtime_industries_loyalty__Merge"
+        isActive = true
+        label = "runtime_industries_loyalty__Merge"
+        default = false
+      },
+      {
+        fullName = "runtime_industries_recurrence__Orch"
+        isActive = true
+        label = "runtime_industries_recurrence__Orch"
+        default = false
+      },
+      {
+        fullName = "runtime_industries_recurrence__Schdlr"
+        isActive = true
+        label = "runtime_industries_recurrence__Schdlr"
+        default = false
+      },
+      {
+        fullName = "setup_service_experience__Create_Case"
+        isActive = true
+        label = "setup_service_experience__Create_Case"
+        default = false
+      },
+      {
+        fullName = "setup_service_experience__Reset_Pwd"
+        isActive = true
+        label = "setup_service_experience__Reset_Pwd"
+        default = false
+      },
+      {
+        fullName = "setup_service_experience__Verify_Cust"
+        isActive = true
+        label = "setup_service_experience__Verify_Cust"
+        default = false
+      },
+    ]
+    restricted = true
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Lookup FlowInterviewId {
+    apiName = "RecordAction.FlowInterviewId"
+    label = "FlowInterview ID"
+    referenceTo = [
+      "FlowInterview",
+    ]
+    createable = true
+    updateable = true
+    relationshipName = "FlowInterview"
+    queryable = true
+  }
+  salesforce.Number Order {
+    apiName = "RecordAction.Order"
+    label = "Order"
+    _required = true
+    precision = 9
+    createable = true
+    updateable = true
+    scale = 0
+    unique = false
+    queryable = true
+  }
+  salesforce.Picklist Status {
+    apiName = "RecordAction.Status"
+    label = "Status"
+    valueSet = [
+      {
+        fullName = "New"
+        default = true
+        label = "New"
+        isActive = true
+      },
+      {
+        fullName = "Paused"
+        default = false
+        label = "Paused"
+        isActive = true
+      },
+      {
+        fullName = "Complete"
+        default = false
+        label = "Complete"
+        isActive = true
+      },
+      {
+        fullName = "Started"
+        default = false
+        label = "Started"
+        isActive = true
+      },
+      {
+        fullName = "Unlinked"
+        default = false
+        label = "Unlinked"
+        isActive = true
+      },
+    ]
+    restricted = true
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Picklist Pinned {
+    apiName = "RecordAction.Pinned"
+    label = "Pinned"
+    valueSet = [
+      {
+        fullName = "None"
+        default = true
+        label = "None"
+        isActive = true
+      },
+      {
+        fullName = "Top"
+        default = false
+        label = "Top"
+        isActive = true
+      },
+      {
+        fullName = "Bottom"
+        default = false
+        label = "Bottom"
+        isActive = true
+      },
+    ]
+    restricted = true
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Picklist ActionType {
+    apiName = "RecordAction.ActionType"
+    label = "Action Type"
+    valueSet = [
+      {
+        fullName = "Flow"
+        isActive = true
+        label = "Flow"
+        default = true
+      },
+      {
+        fullName = "QuickAction"
+        isActive = true
+        label = "QuickAction"
+        default = false
+      },
+      {
+        fullName = "Omniscript"
+        isActive = true
+        label = "Omniscript"
+        default = false
+      },
+    ]
+    restricted = true
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Picklist ActionDefinition {
+    apiName = "RecordAction.ActionDefinition"
+    label = "Action Definition"
+    valueSet = [
+      {
+        fullName = "QuickActionDefinition.Account.runtime_appointmentbooking__Flow"
+        isActive = true
+        label = "QuickActionDefinition.Account.runtime_appointmentbooking__Flow"
+        default = false
+      },
+      {
+        fullName = "QuickActionDefinition.Case._LightningUpdateCase"
+        isActive = true
+        label = "QuickActionDefinition.Case._LightningUpdateCase"
+        default = false
+      },
+      {
+        fullName = "QuickActionDefinition.Case.LogACall"
+        isActive = true
+        label = "QuickActionDefinition.Case.LogACall"
+        default = false
+      },
+      {
+        fullName = "QuickActionDefinition.Case.NewChildCase"
+        isActive = true
+        label = "QuickActionDefinition.Case.NewChildCase"
+        default = false
+      },
+      {
+        fullName = "QuickActionDefinition.CollaborationGroup.NewGroupMember"
+        isActive = true
+        label = "QuickActionDefinition.CollaborationGroup.NewGroupMember"
+        default = false
+      },
+      {
+        fullName = "QuickActionDefinition.CollaborationGroup.NewGroupRecord"
+        isActive = true
+        label = "QuickActionDefinition.CollaborationGroup.NewGroupRecord"
+        default = false
+      },
+      {
+        fullName = "QuickActionDefinition.Contact._LightningRelatedContact"
+        isActive = true
+        label = "QuickActionDefinition.Contact._LightningRelatedContact"
+        default = false
+      },
+      {
+        fullName = "QuickActionDefinition.FeedItem.ContentPost"
+        isActive = true
+        label = "QuickActionDefinition.FeedItem.ContentPost"
+        default = false
+      },
+      {
+        fullName = "QuickActionDefinition.FeedItem.LinkPost"
+        isActive = true
+        label = "QuickActionDefinition.FeedItem.LinkPost"
+        default = false
+      },
+      {
+        fullName = "QuickActionDefinition.FeedItem.MobileSmartActions"
+        isActive = true
+        label = "QuickActionDefinition.FeedItem.MobileSmartActions"
+        default = false
+      },
+      {
+        fullName = "QuickActionDefinition.FeedItem.PollPost"
+        isActive = true
+        label = "QuickActionDefinition.FeedItem.PollPost"
+        default = false
+      },
+      {
+        fullName = "QuickActionDefinition.FeedItem.QuestionPost"
+        isActive = true
+        label = "QuickActionDefinition.FeedItem.QuestionPost"
+        default = false
+      },
+      {
+        fullName = "QuickActionDefinition.FeedItem.TextPost"
+        isActive = true
+        label = "QuickActionDefinition.FeedItem.TextPost"
+        default = false
+      },
+      {
+        fullName = "QuickActionDefinition.Lead.runtime_appointmentbooking__Flow"
+        isActive = true
+        label = "QuickActionDefinition.Lead.runtime_appointmentbooking__Flow"
+        default = false
+      },
+      {
+        fullName = "QuickActionDefinition.LogACall"
+        isActive = true
+        label = "QuickActionDefinition.LogACall"
+        default = false
+      },
+      {
+        fullName = "QuickActionDefinition.NewAccount"
+        isActive = true
+        label = "QuickActionDefinition.NewAccount"
+        default = false
+      },
+      {
+        fullName = "QuickActionDefinition.NewCase"
+        isActive = true
+        label = "QuickActionDefinition.NewCase"
+        default = false
+      },
+      {
+        fullName = "QuickActionDefinition.NewContact"
+        isActive = true
+        label = "QuickActionDefinition.NewContact"
+        default = false
+      },
+      {
+        fullName = "QuickActionDefinition.NewEvent"
+        isActive = true
+        label = "QuickActionDefinition.NewEvent"
+        default = false
+      },
+      {
+        fullName = "QuickActionDefinition.NewGroup"
+        isActive = true
+        label = "QuickActionDefinition.NewGroup"
+        default = false
+      },
+      {
+        fullName = "QuickActionDefinition.NewLead"
+        isActive = true
+        label = "QuickActionDefinition.NewLead"
+        default = false
+      },
+      {
+        fullName = "QuickActionDefinition.NewNote"
+        isActive = true
+        label = "QuickActionDefinition.NewNote"
+        default = false
+      },
+      {
+        fullName = "QuickActionDefinition.NewOpportunity"
+        isActive = true
+        label = "QuickActionDefinition.NewOpportunity"
+        default = false
+      },
+      {
+        fullName = "QuickActionDefinition.NewTask"
+        isActive = true
+        label = "QuickActionDefinition.NewTask"
+        default = false
+      },
+      {
+        fullName = "QuickActionDefinition.Opportunity.runtime_appointmentbooking__Flow"
+        isActive = true
+        label = "QuickActionDefinition.Opportunity.runtime_appointmentbooking__Flow"
+        default = false
+      },
+      {
+        fullName = "QuickActionDefinition.SendEmail"
+        isActive = true
+        label = "QuickActionDefinition.SendEmail"
+        default = false
+      },
+      {
+        fullName = "QuickActionDefinition.ServiceAppointment.runtime_appointmentbooking__Out_Modify"
+        isActive = true
+        label = "QuickActionDefinition.ServiceAppointment.runtime_appointmentbooking__Out_Modify"
+        default = false
+      },
+      {
+        fullName = "runtime_commerce_adj__Discount_Item"
+        isActive = true
+        label = "runtime_commerce_adj__Discount_Item"
+        default = false
+      },
+      {
+        fullName = "runtime_commerce_exc__Exchange_Flow"
+        isActive = true
+        label = "runtime_commerce_exc__Exchange_Flow"
+        default = false
+      },
+      {
+        fullName = "runtime_commerce_oe__Order_Entry"
+        isActive = true
+        label = "runtime_commerce_oe__Order_Entry"
+        default = false
+      },
+      {
+        fullName = "runtime_commerce_oms__Cancel_Item"
+        isActive = true
+        label = "runtime_commerce_oms__Cancel_Item"
+        default = false
+      },
+      {
+        fullName = "runtime_commerce_oms__Create_OS"
+        isActive = true
+        label = "runtime_commerce_oms__Create_OS"
+        default = false
+      },
+      {
+        fullName = "runtime_commerce_oms__Create_PE"
+        isActive = true
+        label = "runtime_commerce_oms__Create_PE"
+        default = false
+      },
+      {
+        fullName = "runtime_commerce_oms__Return_Item"
+        isActive = true
+        label = "runtime_commerce_oms__Return_Item"
+        default = false
+      },
+      {
+        fullName = "runtime_commerce_rma__Create_CO"
+        isActive = true
+        label = "runtime_commerce_rma__Create_CO"
+        default = false
+      },
+      {
+        fullName = "runtime_commerce_rma__Return_Item_RMA"
+        isActive = true
+        label = "runtime_commerce_rma__Return_Item_RMA"
+        default = false
+      },
+      {
+        fullName = "runtime_commerce_rs__Reship_FO"
+        isActive = true
+        label = "runtime_commerce_rs__Reship_FO"
+        default = false
+      },
+      {
+        fullName = "runtime_industries_loyalty__Merge"
+        isActive = true
+        label = "runtime_industries_loyalty__Merge"
+        default = false
+      },
+      {
+        fullName = "runtime_industries_recurrence__Orch"
+        isActive = true
+        label = "runtime_industries_recurrence__Orch"
+        default = false
+      },
+      {
+        fullName = "runtime_industries_recurrence__Schdlr"
+        isActive = true
+        label = "runtime_industries_recurrence__Schdlr"
+        default = false
+      },
+      {
+        fullName = "setup_service_experience__Create_Case"
+        isActive = true
+        label = "setup_service_experience__Create_Case"
+        default = false
+      },
+      {
+        fullName = "setup_service_experience__Reset_Pwd"
+        isActive = true
+        label = "setup_service_experience__Reset_Pwd"
+        default = false
+      },
+      {
+        fullName = "setup_service_experience__Verify_Cust"
+        isActive = true
+        label = "setup_service_experience__Verify_Cust"
+        default = false
+      },
+    ]
+    restricted = true
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Checkbox IsMandatory {
+    apiName = "RecordAction.IsMandatory"
+    label = "Is Mandatory"
+    defaultValue = false
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Checkbox IsUiRemoveHidden {
+    apiName = "RecordAction.IsUiRemoveHidden"
+    label = "Hide Remove Action in UI"
+    defaultValue = false
+    createable = true
+    updateable = true
+    queryable = true
+  }
+}

@@ -1,0 +1,15 @@
+salesforce.AuraDefinitionBundle TestAuraDefinitionBundle {
+  apiVersion = 49
+  description = "Test Lightning Component Bundle"
+  fullName = "TestAuraDefinitionBundle"
+  type = "Component"
+  SVGContent = file("salesforce/Records/AuraDefinitionBundle/TestAuraDefinitionBundle/TestAuraDefinitionBundle.svg")
+  rendererContent = file("salesforce/Records/AuraDefinitionBundle/TestAuraDefinitionBundle/TestAuraDefinitionBundleRenderer.js")
+  designContent = file("salesforce/Records/AuraDefinitionBundle/TestAuraDefinitionBundle/TestAuraDefinitionBundle.design")
+  markup = file("salesforce/Records/AuraDefinitionBundle/TestAuraDefinitionBundle/TestAuraDefinitionBundle.cmp")
+  styleContent = file("salesforce/Records/AuraDefinitionBundle/TestAuraDefinitionBundle/TestAuraDefinitionBundle.css")
+  documentationContent = file("salesforce/Records/AuraDefinitionBundle/TestAuraDefinitionBundle/TestAuraDefinitionBundle.auradoc")
+  controllerContent = file("salesforce/Records/AuraDefinitionBundle/TestAuraDefinitionBundle/TestAuraDefinitionBundleController.js")
+  helperContent = file("salesforce/Records/AuraDefinitionBundle/TestAuraDefinitionBundle/TestAuraDefinitionBundleHelper.js")
+  _alias = "TestAuraDefinitionBundle"
+}

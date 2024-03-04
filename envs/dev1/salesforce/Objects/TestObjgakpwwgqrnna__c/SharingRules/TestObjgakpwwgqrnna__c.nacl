@@ -1,0 +1,7 @@
+salesforce.SharingRules TestObjgakpwwgqrnna__c {
+  fullName = "TestObjgakpwwgqrnna__c"
+  _parent = [
+    salesforce.TestObjgakpwwgqrnna__c,
+  ]
+  _alias = "TestObjgakpwwgqrnna__c"
+}

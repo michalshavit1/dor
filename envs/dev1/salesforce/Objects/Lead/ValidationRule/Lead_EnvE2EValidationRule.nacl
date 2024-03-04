@@ -1,0 +1,11 @@
+salesforce.ValidationRule Lead_EnvE2EValidationRule {
+  fullName = "Lead.EnvE2EValidationRule"
+  active = false
+  description = "ValidationRule that should be fetched in environment operations e2e test by envId: a05b0ecf-3a6c-4536-be54-1fe65377e12f"
+  errorConditionFormula = "false"
+  errorMessage = "Error Message!"
+  _parent = [
+    salesforce.Lead,
+  ]
+  _alias = "Lead.EnvE2EValidationRule"
+}

@@ -1,0 +1,1578 @@
+type salesforce.TestCustomObj269__c {
+  salesforce.MasterDetail a269TestMasterDetail993721996085__c {
+    apiName = "TestCustomObj269__c.a269TestMasterDetail993721996085__c"
+    label = "MasterDetail label 269"
+    writeRequiresMasterRead = true
+    reparentableMasterDetail = true
+    referenceTo = [
+      salesforce.Case,
+    ]
+    createable = true
+    updateable = true
+    relationshipOrder = 0
+    relationshipName = "TestMasterDetail993721996085"
+    queryable = true
+    externalId = false
+    trackTrending = false
+  }
+  salesforce.Currency a269_0Alpha__c {
+    apiName = "TestCustomObj269__c.a269_0Alpha__c"
+    label = "Currency label 269 0"
+    _required = true
+    defaultValueFormula = "25"
+    inlineHelpText = "Currency help"
+    createable = true
+    updateable = true
+    scale = 3
+    precision = 18
+    queryable = true
+    description = "Currency description"
+    externalId = false
+    trackTrending = false
+  }
+  salesforce.Phone a269_0Juliett__c {
+    apiName = "TestCustomObj269__c.a269_0Juliett__c"
+    label = "Phone label 269 0"
+    _required = true
+    inlineHelpText = "Phone help"
+    createable = true
+    updateable = true
+    queryable = true
+    externalId = false
+    trackTrending = false
+  }
+  salesforce.Time a269_0Delta__c {
+    apiName = "TestCustomObj269__c.a269_0Delta__c"
+    label = "Time label 269 0"
+    _required = true
+    defaultValueFormula = "TIMENOW() + 5"
+    inlineHelpText = "Time help"
+    createable = true
+    updateable = true
+    queryable = true
+    description = "Time description"
+    externalId = false
+    trackTrending = false
+  }
+  salesforce.Time a269_5Delta__c {
+    apiName = "TestCustomObj269__c.a269_5Delta__c"
+    label = "Time label 269 5"
+    _required = true
+    defaultValueFormula = "TIMENOW() + 5"
+    inlineHelpText = "Time help"
+    createable = true
+    updateable = true
+    queryable = true
+    description = "Time description"
+    externalId = false
+    trackTrending = false
+  }
+  salesforce.Phone a269_5Juliett__c {
+    apiName = "TestCustomObj269__c.a269_5Juliett__c"
+    label = "Phone label 269 5"
+    _required = true
+    inlineHelpText = "Phone help"
+    createable = true
+    updateable = true
+    queryable = true
+    externalId = false
+    trackTrending = false
+  }
+  salesforce.Currency a269_4Alpha__c {
+    apiName = "TestCustomObj269__c.a269_4Alpha__c"
+    label = "Currency label 269 4"
+    _required = true
+    defaultValueFormula = "25"
+    inlineHelpText = "Currency help"
+    createable = true
+    updateable = true
+    scale = 3
+    precision = 18
+    queryable = true
+    description = "Currency description"
+    externalId = false
+    trackTrending = false
+  }
+  salesforce.Currency a269_3Alpha__c {
+    apiName = "TestCustomObj269__c.a269_3Alpha__c"
+    label = "Currency label 269 3"
+    _required = true
+    defaultValueFormula = "25"
+    inlineHelpText = "Currency help"
+    createable = true
+    updateable = true
+    scale = 3
+    precision = 18
+    queryable = true
+    description = "Currency description"
+    externalId = false
+    trackTrending = false
+  }
+  salesforce.Currency a269_5Alpha__c {
+    apiName = "TestCustomObj269__c.a269_5Alpha__c"
+    label = "Currency label 269 5"
+    _required = true
+    defaultValueFormula = "25"
+    inlineHelpText = "Currency help"
+    createable = true
+    updateable = true
+    scale = 3
+    precision = 18
+    queryable = true
+    description = "Currency description"
+    externalId = false
+    trackTrending = false
+  }
+  salesforce.Phone a269_4Juliett__c {
+    apiName = "TestCustomObj269__c.a269_4Juliett__c"
+    label = "Phone label 269 4"
+    _required = true
+    inlineHelpText = "Phone help"
+    createable = true
+    updateable = true
+    queryable = true
+    externalId = false
+    trackTrending = false
+  }
+  salesforce.Time a269_4Delta__c {
+    apiName = "TestCustomObj269__c.a269_4Delta__c"
+    label = "Time label 269 4"
+    _required = true
+    defaultValueFormula = "TIMENOW() + 5"
+    inlineHelpText = "Time help"
+    createable = true
+    updateable = true
+    queryable = true
+    description = "Time description"
+    externalId = false
+    trackTrending = false
+  }
+  salesforce.Time a269_2Delta__c {
+    apiName = "TestCustomObj269__c.a269_2Delta__c"
+    label = "Time label 269 2"
+    _required = true
+    defaultValueFormula = "TIMENOW() + 5"
+    inlineHelpText = "Time help"
+    createable = true
+    updateable = true
+    queryable = true
+    description = "Time description"
+    externalId = false
+    trackTrending = false
+  }
+  salesforce.Phone a269_2Juliett__c {
+    apiName = "TestCustomObj269__c.a269_2Juliett__c"
+    label = "Phone label 269 2"
+    _required = true
+    inlineHelpText = "Phone help"
+    createable = true
+    updateable = true
+    queryable = true
+    externalId = false
+    trackTrending = false
+  }
+  salesforce.Currency a269_2Alpha__c {
+    apiName = "TestCustomObj269__c.a269_2Alpha__c"
+    label = "Currency label 269 2"
+    _required = true
+    defaultValueFormula = "25"
+    inlineHelpText = "Currency help"
+    createable = true
+    updateable = true
+    scale = 3
+    precision = 18
+    queryable = true
+    description = "Currency description"
+    externalId = false
+    trackTrending = false
+  }
+  salesforce.Time a269_3Delta__c {
+    apiName = "TestCustomObj269__c.a269_3Delta__c"
+    label = "Time label 269 3"
+    _required = true
+    defaultValueFormula = "TIMENOW() + 5"
+    inlineHelpText = "Time help"
+    createable = true
+    updateable = true
+    queryable = true
+    description = "Time description"
+    externalId = false
+    trackTrending = false
+  }
+  salesforce.Phone a269_3Juliett__c {
+    apiName = "TestCustomObj269__c.a269_3Juliett__c"
+    label = "Phone label 269 3"
+    _required = true
+    inlineHelpText = "Phone help"
+    createable = true
+    updateable = true
+    queryable = true
+    externalId = false
+    trackTrending = false
+  }
+  salesforce.Phone a269_1Juliett__c {
+    apiName = "TestCustomObj269__c.a269_1Juliett__c"
+    label = "Phone label 269 1"
+    _required = true
+    inlineHelpText = "Phone help"
+    createable = true
+    updateable = true
+    queryable = true
+    externalId = false
+    trackTrending = false
+  }
+  salesforce.Currency a269_1Alpha__c {
+    apiName = "TestCustomObj269__c.a269_1Alpha__c"
+    label = "Currency label 269 1"
+    _required = true
+    defaultValueFormula = "25"
+    inlineHelpText = "Currency help"
+    createable = true
+    updateable = true
+    scale = 3
+    precision = 18
+    queryable = true
+    description = "Currency description"
+    externalId = false
+    trackTrending = false
+  }
+  salesforce.Time a269_1Delta__c {
+    apiName = "TestCustomObj269__c.a269_1Delta__c"
+    label = "Time label 269 1"
+    _required = true
+    defaultValueFormula = "TIMENOW() + 5"
+    inlineHelpText = "Time help"
+    createable = true
+    updateable = true
+    queryable = true
+    description = "Time description"
+    externalId = false
+    trackTrending = false
+  }
+  salesforce.AutoNumber a269_0Bravo__c {
+    apiName = "TestCustomObj269__c.a269_0Bravo__c"
+    description = "Autonumber description"
+    displayFormat = "ZZZ-{0000}"
+    externalId = true
+    inlineHelpText = "Autonumber help"
+    label = "Autonumber label 269 0"
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Date a269_0Charlie__c {
+    apiName = "TestCustomObj269__c.a269_0Charlie__c"
+    defaultValueFormula = "Today() + 7"
+    description = "Date description"
+    externalId = false
+    inlineHelpText = "Date help"
+    label = "Date label 269 0"
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.DateTime a269_0Echo__c {
+    apiName = "TestCustomObj269__c.a269_0Echo__c"
+    defaultValueFormula = "NOW() + 7"
+    description = "DateTime description"
+    externalId = false
+    inlineHelpText = "DateTime help"
+    label = "DateTime label 269 0"
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Email a269_0Foxtrot__c {
+    apiName = "TestCustomObj269__c.a269_0Foxtrot__c"
+    caseSensitive = "true"
+    externalId = true
+    label = "Email label 269 0"
+    trackTrending = false
+    unique = true
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Geolocation a269_0Golf__c {
+    apiName = "TestCustomObj269__c.a269_0Golf__c"
+    displayLocationInDecimal = true
+    externalId = false
+    label = "Location label 269 0"
+    scale = 2
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Percent a269_0India__c {
+    apiName = "TestCustomObj269__c.a269_0India__c"
+    description = "Percent description"
+    externalId = false
+    label = "Percent label 269 0"
+    precision = 12
+    scale = 3
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.LongTextArea a269_0Kilo__c {
+    apiName = "TestCustomObj269__c.a269_0Kilo__c"
+    externalId = false
+    label = "LongTextArea label 269 0"
+    length = 32700
+    trackTrending = false
+    visibleLines = 5
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Html a269_0Lima__c {
+    apiName = "TestCustomObj269__c.a269_0Lima__c"
+    description = "RichTextArea description"
+    externalId = false
+    inlineHelpText = "RichTextArea help"
+    label = "RichTextArea label 269 0"
+    length = 32600
+    trackTrending = false
+    visibleLines = 32
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.TextArea a269_0Mike__c {
+    apiName = "TestCustomObj269__c.a269_0Mike__c"
+    description = "TextArea description"
+    externalId = false
+    inlineHelpText = "TextArea help"
+    label = "TextArea label 269 0"
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.EncryptedText a269_0November__c {
+    apiName = "TestCustomObj269__c.a269_0November__c"
+    externalId = false
+    label = "EncryptedText label 269 0"
+    length = 35
+    maskChar = "asterisk"
+    maskType = "creditCard"
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Url a269_0Oscar__c {
+    apiName = "TestCustomObj269__c.a269_0Oscar__c"
+    externalId = false
+    label = "Url label 269 0"
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Number a269_0Papa__c {
+    apiName = "TestCustomObj269__c.a269_0Papa__c"
+    defaultValueFormula = "42"
+    externalId = false
+    label = "Number label 269 0"
+    precision = 15
+    scale = 3
+    trackTrending = false
+    unique = true
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Picklist a269_0Pickle__c {
+    apiName = "TestCustomObj269__c.a269_0Pickle__c"
+    description = "Picklist description"
+    externalId = false
+    label = "Picklist label 269 0"
+    trackTrending = false
+    valueSet = [
+      {
+        fullName = "NEW"
+        color = "#FF0000"
+        default = true
+        label = "NEW"
+      },
+      {
+        fullName = "OLD"
+        default = false
+        label = "OLD"
+      },
+      {
+        fullName = "OLDEST"
+        default = false
+        isActive = false
+        label = "OLDEST"
+      },
+    ]
+    sorted = false
+    restricted = true
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Text a269_0Sierra__c {
+    apiName = "TestCustomObj269__c.a269_0Sierra__c"
+    caseSensitive = true
+    externalId = true
+    label = "Text label 269 0"
+    length = 100
+    trackTrending = false
+    unique = true
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Checkbox a269_0Tango__c {
+    apiName = "TestCustomObj269__c.a269_0Tango__c"
+    defaultValue = true
+    externalId = false
+    label = "Checkbox label 269 0"
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.FormulaCheckbox a269_0Whiskey__c {
+    apiName = "TestCustomObj269__c.a269_0Whiskey__c"
+    businessStatus = "Hidden"
+    externalId = false
+    formula = "5 > 4"
+    formulaTreatBlanksAs = "BlankAsZero"
+    label = "Formula Checkbox label 269 0"
+    securityClassification = "Restricted"
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.AutoNumber a269_1Bravo__c {
+    apiName = "TestCustomObj269__c.a269_1Bravo__c"
+    description = "Autonumber description"
+    displayFormat = "ZZZ-{0000}"
+    externalId = true
+    inlineHelpText = "Autonumber help"
+    label = "Autonumber label 269 1"
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Date a269_1Charlie__c {
+    apiName = "TestCustomObj269__c.a269_1Charlie__c"
+    defaultValueFormula = "Today() + 7"
+    description = "Date description"
+    externalId = false
+    inlineHelpText = "Date help"
+    label = "Date label 269 1"
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.DateTime a269_1Echo__c {
+    apiName = "TestCustomObj269__c.a269_1Echo__c"
+    defaultValueFormula = "NOW() + 7"
+    description = "DateTime description"
+    externalId = false
+    inlineHelpText = "DateTime help"
+    label = "DateTime label 269 1"
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Email a269_1Foxtrot__c {
+    apiName = "TestCustomObj269__c.a269_1Foxtrot__c"
+    caseSensitive = "true"
+    externalId = true
+    label = "Email label 269 1"
+    trackTrending = false
+    unique = true
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Geolocation a269_1Golf__c {
+    apiName = "TestCustomObj269__c.a269_1Golf__c"
+    displayLocationInDecimal = true
+    externalId = false
+    label = "Location label 269 1"
+    scale = 2
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Percent a269_1India__c {
+    apiName = "TestCustomObj269__c.a269_1India__c"
+    description = "Percent description"
+    externalId = false
+    label = "Percent label 269 1"
+    precision = 12
+    scale = 3
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.LongTextArea a269_1Kilo__c {
+    apiName = "TestCustomObj269__c.a269_1Kilo__c"
+    externalId = false
+    label = "LongTextArea label 269 1"
+    length = 32700
+    trackTrending = false
+    visibleLines = 5
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Html a269_1Lima__c {
+    apiName = "TestCustomObj269__c.a269_1Lima__c"
+    description = "RichTextArea description"
+    externalId = false
+    inlineHelpText = "RichTextArea help"
+    label = "RichTextArea label 269 1"
+    length = 32600
+    trackTrending = false
+    visibleLines = 32
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.TextArea a269_1Mike__c {
+    apiName = "TestCustomObj269__c.a269_1Mike__c"
+    description = "TextArea description"
+    externalId = false
+    inlineHelpText = "TextArea help"
+    label = "TextArea label 269 1"
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.EncryptedText a269_1November__c {
+    apiName = "TestCustomObj269__c.a269_1November__c"
+    externalId = false
+    label = "EncryptedText label 269 1"
+    length = 35
+    maskChar = "asterisk"
+    maskType = "creditCard"
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Url a269_1Oscar__c {
+    apiName = "TestCustomObj269__c.a269_1Oscar__c"
+    externalId = false
+    label = "Url label 269 1"
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Number a269_1Papa__c {
+    apiName = "TestCustomObj269__c.a269_1Papa__c"
+    defaultValueFormula = "42"
+    externalId = false
+    label = "Number label 269 1"
+    precision = 15
+    scale = 3
+    trackTrending = false
+    unique = true
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Picklist a269_1Pickle__c {
+    apiName = "TestCustomObj269__c.a269_1Pickle__c"
+    description = "Picklist description"
+    externalId = false
+    label = "Picklist label 269 1"
+    trackTrending = false
+    valueSet = [
+      {
+        fullName = "NEW"
+        color = "#FF0000"
+        default = true
+        label = "NEW"
+      },
+      {
+        fullName = "OLD"
+        default = false
+        label = "OLD"
+      },
+      {
+        fullName = "OLDEST"
+        default = false
+        isActive = false
+        label = "OLDEST"
+      },
+    ]
+    sorted = false
+    restricted = true
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Text a269_1Sierra__c {
+    apiName = "TestCustomObj269__c.a269_1Sierra__c"
+    caseSensitive = true
+    externalId = true
+    label = "Text label 269 1"
+    length = 100
+    trackTrending = false
+    unique = true
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Checkbox a269_1Tango__c {
+    apiName = "TestCustomObj269__c.a269_1Tango__c"
+    defaultValue = true
+    externalId = false
+    label = "Checkbox label 269 1"
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.FormulaCheckbox a269_1Whiskey__c {
+    apiName = "TestCustomObj269__c.a269_1Whiskey__c"
+    businessStatus = "Hidden"
+    externalId = false
+    formula = "5 > 4"
+    formulaTreatBlanksAs = "BlankAsZero"
+    label = "Formula Checkbox label 269 1"
+    securityClassification = "Restricted"
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.AutoNumber a269_2Bravo__c {
+    apiName = "TestCustomObj269__c.a269_2Bravo__c"
+    description = "Autonumber description"
+    displayFormat = "ZZZ-{0000}"
+    externalId = true
+    inlineHelpText = "Autonumber help"
+    label = "Autonumber label 269 2"
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Date a269_2Charlie__c {
+    apiName = "TestCustomObj269__c.a269_2Charlie__c"
+    defaultValueFormula = "Today() + 7"
+    description = "Date description"
+    externalId = false
+    inlineHelpText = "Date help"
+    label = "Date label 269 2"
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.DateTime a269_2Echo__c {
+    apiName = "TestCustomObj269__c.a269_2Echo__c"
+    defaultValueFormula = "NOW() + 7"
+    description = "DateTime description"
+    externalId = false
+    inlineHelpText = "DateTime help"
+    label = "DateTime label 269 2"
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Email a269_2Foxtrot__c {
+    apiName = "TestCustomObj269__c.a269_2Foxtrot__c"
+    caseSensitive = "true"
+    externalId = true
+    label = "Email label 269 2"
+    trackTrending = false
+    unique = true
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Geolocation a269_2Golf__c {
+    apiName = "TestCustomObj269__c.a269_2Golf__c"
+    displayLocationInDecimal = true
+    externalId = false
+    label = "Location label 269 2"
+    scale = 2
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Percent a269_2India__c {
+    apiName = "TestCustomObj269__c.a269_2India__c"
+    description = "Percent description"
+    externalId = false
+    label = "Percent label 269 2"
+    precision = 12
+    scale = 3
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.LongTextArea a269_2Kilo__c {
+    apiName = "TestCustomObj269__c.a269_2Kilo__c"
+    externalId = false
+    label = "LongTextArea label 269 2"
+    length = 32700
+    trackTrending = false
+    visibleLines = 5
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Html a269_2Lima__c {
+    apiName = "TestCustomObj269__c.a269_2Lima__c"
+    description = "RichTextArea description"
+    externalId = false
+    inlineHelpText = "RichTextArea help"
+    label = "RichTextArea label 269 2"
+    length = 32600
+    trackTrending = false
+    visibleLines = 32
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.TextArea a269_2Mike__c {
+    apiName = "TestCustomObj269__c.a269_2Mike__c"
+    description = "TextArea description"
+    externalId = false
+    inlineHelpText = "TextArea help"
+    label = "TextArea label 269 2"
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.EncryptedText a269_2November__c {
+    apiName = "TestCustomObj269__c.a269_2November__c"
+    externalId = false
+    label = "EncryptedText label 269 2"
+    length = 35
+    maskChar = "asterisk"
+    maskType = "creditCard"
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Url a269_2Oscar__c {
+    apiName = "TestCustomObj269__c.a269_2Oscar__c"
+    externalId = false
+    label = "Url label 269 2"
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Number a269_2Papa__c {
+    apiName = "TestCustomObj269__c.a269_2Papa__c"
+    defaultValueFormula = "42"
+    externalId = false
+    label = "Number label 269 2"
+    precision = 15
+    scale = 3
+    trackTrending = false
+    unique = true
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Picklist a269_2Pickle__c {
+    apiName = "TestCustomObj269__c.a269_2Pickle__c"
+    description = "Picklist description"
+    externalId = false
+    label = "Picklist label 269 2"
+    trackTrending = false
+    valueSet = [
+      {
+        fullName = "NEW"
+        color = "#FF0000"
+        default = true
+        label = "NEW"
+      },
+      {
+        fullName = "OLD"
+        default = false
+        label = "OLD"
+      },
+      {
+        fullName = "OLDEST"
+        default = false
+        isActive = false
+        label = "OLDEST"
+      },
+    ]
+    sorted = false
+    restricted = true
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Text a269_2Sierra__c {
+    apiName = "TestCustomObj269__c.a269_2Sierra__c"
+    caseSensitive = true
+    externalId = true
+    label = "Text label 269 2"
+    length = 100
+    trackTrending = false
+    unique = true
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Checkbox a269_2Tango__c {
+    apiName = "TestCustomObj269__c.a269_2Tango__c"
+    defaultValue = true
+    externalId = false
+    label = "Checkbox label 269 2"
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.FormulaCheckbox a269_2Whiskey__c {
+    apiName = "TestCustomObj269__c.a269_2Whiskey__c"
+    businessStatus = "Hidden"
+    externalId = false
+    formula = "5 > 4"
+    formulaTreatBlanksAs = "BlankAsZero"
+    label = "Formula Checkbox label 269 2"
+    securityClassification = "Restricted"
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.AutoNumber a269_3Bravo__c {
+    apiName = "TestCustomObj269__c.a269_3Bravo__c"
+    description = "Autonumber description"
+    displayFormat = "ZZZ-{0000}"
+    externalId = true
+    inlineHelpText = "Autonumber help"
+    label = "Autonumber label 269 3"
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Date a269_3Charlie__c {
+    apiName = "TestCustomObj269__c.a269_3Charlie__c"
+    defaultValueFormula = "Today() + 7"
+    description = "Date description"
+    externalId = false
+    inlineHelpText = "Date help"
+    label = "Date label 269 3"
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.DateTime a269_3Echo__c {
+    apiName = "TestCustomObj269__c.a269_3Echo__c"
+    defaultValueFormula = "NOW() + 7"
+    description = "DateTime description"
+    externalId = false
+    inlineHelpText = "DateTime help"
+    label = "DateTime label 269 3"
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Email a269_3Foxtrot__c {
+    apiName = "TestCustomObj269__c.a269_3Foxtrot__c"
+    caseSensitive = "true"
+    externalId = true
+    label = "Email label 269 3"
+    trackTrending = false
+    unique = true
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Geolocation a269_3Golf__c {
+    apiName = "TestCustomObj269__c.a269_3Golf__c"
+    displayLocationInDecimal = true
+    externalId = false
+    label = "Location label 269 3"
+    scale = 2
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Percent a269_3India__c {
+    apiName = "TestCustomObj269__c.a269_3India__c"
+    description = "Percent description"
+    externalId = false
+    label = "Percent label 269 3"
+    precision = 12
+    scale = 3
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.LongTextArea a269_3Kilo__c {
+    apiName = "TestCustomObj269__c.a269_3Kilo__c"
+    externalId = false
+    label = "LongTextArea label 269 3"
+    length = 32700
+    trackTrending = false
+    visibleLines = 5
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Html a269_3Lima__c {
+    apiName = "TestCustomObj269__c.a269_3Lima__c"
+    description = "RichTextArea description"
+    externalId = false
+    inlineHelpText = "RichTextArea help"
+    label = "RichTextArea label 269 3"
+    length = 32600
+    trackTrending = false
+    visibleLines = 32
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.TextArea a269_3Mike__c {
+    apiName = "TestCustomObj269__c.a269_3Mike__c"
+    description = "TextArea description"
+    externalId = false
+    inlineHelpText = "TextArea help"
+    label = "TextArea label 269 3"
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.EncryptedText a269_3November__c {
+    apiName = "TestCustomObj269__c.a269_3November__c"
+    externalId = false
+    label = "EncryptedText label 269 3"
+    length = 35
+    maskChar = "asterisk"
+    maskType = "creditCard"
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Url a269_3Oscar__c {
+    apiName = "TestCustomObj269__c.a269_3Oscar__c"
+    externalId = false
+    label = "Url label 269 3"
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Number a269_3Papa__c {
+    apiName = "TestCustomObj269__c.a269_3Papa__c"
+    defaultValueFormula = "42"
+    externalId = false
+    label = "Number label 269 3"
+    precision = 15
+    scale = 3
+    trackTrending = false
+    unique = true
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Picklist a269_3Pickle__c {
+    apiName = "TestCustomObj269__c.a269_3Pickle__c"
+    description = "Picklist description"
+    externalId = false
+    label = "Picklist label 269 3"
+    trackTrending = false
+    valueSet = [
+      {
+        fullName = "NEW"
+        color = "#FF0000"
+        default = true
+        label = "NEW"
+      },
+      {
+        fullName = "OLD"
+        default = false
+        label = "OLD"
+      },
+      {
+        fullName = "OLDEST"
+        default = false
+        isActive = false
+        label = "OLDEST"
+      },
+    ]
+    sorted = false
+    restricted = true
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Text a269_3Sierra__c {
+    apiName = "TestCustomObj269__c.a269_3Sierra__c"
+    caseSensitive = true
+    externalId = true
+    label = "Text label 269 3"
+    length = 100
+    trackTrending = false
+    unique = true
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Checkbox a269_3Tango__c {
+    apiName = "TestCustomObj269__c.a269_3Tango__c"
+    defaultValue = true
+    externalId = false
+    label = "Checkbox label 269 3"
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.FormulaCheckbox a269_3Whiskey__c {
+    apiName = "TestCustomObj269__c.a269_3Whiskey__c"
+    businessStatus = "Hidden"
+    externalId = false
+    formula = "5 > 4"
+    formulaTreatBlanksAs = "BlankAsZero"
+    label = "Formula Checkbox label 269 3"
+    securityClassification = "Restricted"
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.AutoNumber a269_4Bravo__c {
+    apiName = "TestCustomObj269__c.a269_4Bravo__c"
+    description = "Autonumber description"
+    displayFormat = "ZZZ-{0000}"
+    externalId = true
+    inlineHelpText = "Autonumber help"
+    label = "Autonumber label 269 4"
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Date a269_4Charlie__c {
+    apiName = "TestCustomObj269__c.a269_4Charlie__c"
+    defaultValueFormula = "Today() + 7"
+    description = "Date description"
+    externalId = false
+    inlineHelpText = "Date help"
+    label = "Date label 269 4"
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.DateTime a269_4Echo__c {
+    apiName = "TestCustomObj269__c.a269_4Echo__c"
+    defaultValueFormula = "NOW() + 7"
+    description = "DateTime description"
+    externalId = false
+    inlineHelpText = "DateTime help"
+    label = "DateTime label 269 4"
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Email a269_4Foxtrot__c {
+    apiName = "TestCustomObj269__c.a269_4Foxtrot__c"
+    caseSensitive = "true"
+    externalId = true
+    label = "Email label 269 4"
+    trackTrending = false
+    unique = true
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Geolocation a269_4Golf__c {
+    apiName = "TestCustomObj269__c.a269_4Golf__c"
+    displayLocationInDecimal = true
+    externalId = false
+    label = "Location label 269 4"
+    scale = 2
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Percent a269_4India__c {
+    apiName = "TestCustomObj269__c.a269_4India__c"
+    description = "Percent description"
+    externalId = false
+    label = "Percent label 269 4"
+    precision = 12
+    scale = 3
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.LongTextArea a269_4Kilo__c {
+    apiName = "TestCustomObj269__c.a269_4Kilo__c"
+    externalId = false
+    label = "LongTextArea label 269 4"
+    length = 32700
+    trackTrending = false
+    visibleLines = 5
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Html a269_4Lima__c {
+    apiName = "TestCustomObj269__c.a269_4Lima__c"
+    description = "RichTextArea description"
+    externalId = false
+    inlineHelpText = "RichTextArea help"
+    label = "RichTextArea label 269 4"
+    length = 32600
+    trackTrending = false
+    visibleLines = 32
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.TextArea a269_4Mike__c {
+    apiName = "TestCustomObj269__c.a269_4Mike__c"
+    description = "TextArea description"
+    externalId = false
+    inlineHelpText = "TextArea help"
+    label = "TextArea label 269 4"
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.EncryptedText a269_4November__c {
+    apiName = "TestCustomObj269__c.a269_4November__c"
+    externalId = false
+    label = "EncryptedText label 269 4"
+    length = 35
+    maskChar = "asterisk"
+    maskType = "creditCard"
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Url a269_4Oscar__c {
+    apiName = "TestCustomObj269__c.a269_4Oscar__c"
+    externalId = false
+    label = "Url label 269 4"
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Number a269_4Papa__c {
+    apiName = "TestCustomObj269__c.a269_4Papa__c"
+    defaultValueFormula = "42"
+    externalId = false
+    label = "Number label 269 4"
+    precision = 15
+    scale = 3
+    trackTrending = false
+    unique = true
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Picklist a269_4Pickle__c {
+    apiName = "TestCustomObj269__c.a269_4Pickle__c"
+    description = "Picklist description"
+    externalId = false
+    label = "Picklist label 269 4"
+    trackTrending = false
+    valueSet = [
+      {
+        fullName = "NEW"
+        color = "#FF0000"
+        default = true
+        label = "NEW"
+      },
+      {
+        fullName = "OLD"
+        default = false
+        label = "OLD"
+      },
+      {
+        fullName = "OLDEST"
+        default = false
+        isActive = false
+        label = "OLDEST"
+      },
+    ]
+    sorted = false
+    restricted = true
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Text a269_4Sierra__c {
+    apiName = "TestCustomObj269__c.a269_4Sierra__c"
+    caseSensitive = true
+    externalId = true
+    label = "Text label 269 4"
+    length = 100
+    trackTrending = false
+    unique = true
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Checkbox a269_4Tango__c {
+    apiName = "TestCustomObj269__c.a269_4Tango__c"
+    defaultValue = true
+    externalId = false
+    label = "Checkbox label 269 4"
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.FormulaCheckbox a269_4Whiskey__c {
+    apiName = "TestCustomObj269__c.a269_4Whiskey__c"
+    businessStatus = "Hidden"
+    externalId = false
+    formula = "5 > 4"
+    formulaTreatBlanksAs = "BlankAsZero"
+    label = "Formula Checkbox label 269 4"
+    securityClassification = "Restricted"
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.AutoNumber a269_5Bravo__c {
+    apiName = "TestCustomObj269__c.a269_5Bravo__c"
+    description = "Autonumber description"
+    displayFormat = "ZZZ-{0000}"
+    externalId = true
+    inlineHelpText = "Autonumber help"
+    label = "Autonumber label 269 5"
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Date a269_5Charlie__c {
+    apiName = "TestCustomObj269__c.a269_5Charlie__c"
+    defaultValueFormula = "Today() + 7"
+    description = "Date description"
+    externalId = false
+    inlineHelpText = "Date help"
+    label = "Date label 269 5"
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.DateTime a269_5Echo__c {
+    apiName = "TestCustomObj269__c.a269_5Echo__c"
+    defaultValueFormula = "NOW() + 7"
+    description = "DateTime description"
+    externalId = false
+    inlineHelpText = "DateTime help"
+    label = "DateTime label 269 5"
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Email a269_5Foxtrot__c {
+    apiName = "TestCustomObj269__c.a269_5Foxtrot__c"
+    caseSensitive = "true"
+    externalId = true
+    label = "Email label 269 5"
+    trackTrending = false
+    unique = true
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Geolocation a269_5Golf__c {
+    apiName = "TestCustomObj269__c.a269_5Golf__c"
+    displayLocationInDecimal = true
+    externalId = false
+    label = "Location label 269 5"
+    scale = 2
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Percent a269_5India__c {
+    apiName = "TestCustomObj269__c.a269_5India__c"
+    description = "Percent description"
+    externalId = false
+    label = "Percent label 269 5"
+    precision = 12
+    scale = 3
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.LongTextArea a269_5Kilo__c {
+    apiName = "TestCustomObj269__c.a269_5Kilo__c"
+    externalId = false
+    label = "LongTextArea label 269 5"
+    length = 32700
+    trackTrending = false
+    visibleLines = 5
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Html a269_5Lima__c {
+    apiName = "TestCustomObj269__c.a269_5Lima__c"
+    description = "RichTextArea description"
+    externalId = false
+    inlineHelpText = "RichTextArea help"
+    label = "RichTextArea label 269 5"
+    length = 32600
+    trackTrending = false
+    visibleLines = 32
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.TextArea a269_5Mike__c {
+    apiName = "TestCustomObj269__c.a269_5Mike__c"
+    description = "TextArea description"
+    externalId = false
+    inlineHelpText = "TextArea help"
+    label = "TextArea label 269 5"
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.EncryptedText a269_5November__c {
+    apiName = "TestCustomObj269__c.a269_5November__c"
+    externalId = false
+    label = "EncryptedText label 269 5"
+    length = 35
+    maskChar = "asterisk"
+    maskType = "creditCard"
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Url a269_5Oscar__c {
+    apiName = "TestCustomObj269__c.a269_5Oscar__c"
+    externalId = false
+    label = "Url label 269 5"
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Number a269_5Papa__c {
+    apiName = "TestCustomObj269__c.a269_5Papa__c"
+    defaultValueFormula = "42"
+    externalId = false
+    label = "Number label 269 5"
+    precision = 15
+    scale = 3
+    trackTrending = false
+    unique = true
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Picklist a269_5Pickle__c {
+    apiName = "TestCustomObj269__c.a269_5Pickle__c"
+    description = "Picklist description"
+    externalId = false
+    label = "Picklist label 269 5"
+    trackTrending = false
+    valueSet = [
+      {
+        fullName = "NEW"
+        color = "#FF0000"
+        default = true
+        label = "NEW"
+      },
+      {
+        fullName = "OLD"
+        default = false
+        label = "OLD"
+      },
+      {
+        fullName = "OLDEST"
+        default = false
+        isActive = false
+        label = "OLDEST"
+      },
+    ]
+    sorted = false
+    restricted = true
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Text a269_5Sierra__c {
+    apiName = "TestCustomObj269__c.a269_5Sierra__c"
+    caseSensitive = true
+    externalId = true
+    label = "Text label 269 5"
+    length = 100
+    trackTrending = false
+    unique = true
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.Checkbox a269_5Tango__c {
+    apiName = "TestCustomObj269__c.a269_5Tango__c"
+    defaultValue = true
+    externalId = false
+    label = "Checkbox label 269 5"
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+  salesforce.FormulaCheckbox a269_5Whiskey__c {
+    apiName = "TestCustomObj269__c.a269_5Whiskey__c"
+    businessStatus = "Hidden"
+    externalId = false
+    formula = "5 > 4"
+    formulaTreatBlanksAs = "BlankAsZero"
+    label = "Formula Checkbox label 269 5"
+    securityClassification = "Restricted"
+    trackTrending = false
+    
+    
+    
+    _hidden_value = true
+  }
+}

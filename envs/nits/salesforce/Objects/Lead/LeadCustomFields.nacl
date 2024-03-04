@@ -1,0 +1,135 @@
+type salesforce.Lead {
+  salesforce.Text SICCode__c {
+    apiName = "Lead.SICCode__c"
+    label = "SIC Code"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    length = 15
+    queryable = true
+    externalId = false
+    trackFeedHistory = false
+  }
+  salesforce.Picklist ProductInterest__c {
+    apiName = "Lead.ProductInterest__c"
+    label = "Product Interest"
+    valueSet = [
+      {
+        fullName = "GC1000 series"
+        default = false
+        label = "GC1000 series"
+      },
+      {
+        fullName = "GC5000 series"
+        default = false
+        label = "GC5000 series"
+      },
+      {
+        fullName = "GC3000 series"
+        default = false
+        label = "GC3000 series"
+      },
+      {
+        fullName = "NBA finals series"
+        default = false
+        label = "NBA finals series"
+      },
+    ]
+    restricted = false
+    createable = true
+    updateable = true
+    queryable = true
+    externalId = false
+    trackFeedHistory = false
+    sorted = false
+  }
+  salesforce.Picklist Primary__c {
+    apiName = "Lead.Primary__c"
+    label = "Primary"
+    valueSet = [
+      {
+        fullName = "No"
+        default = false
+        label = "No"
+      },
+      {
+        fullName = "Yes"
+        default = false
+        label = "Yes"
+      },
+    ]
+    restricted = false
+    createable = true
+    updateable = true
+    queryable = true
+    externalId = false
+    trackFeedHistory = false
+    sorted = false
+  }
+  salesforce.Text CurrentGenerators__c {
+    apiName = "Lead.CurrentGenerators__c"
+    label = "Current Generator(s)"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    length = 100
+    queryable = true
+    externalId = false
+    trackFeedHistory = false
+  }
+  salesforce.Number NumberofLocations__c {
+    apiName = "Lead.NumberofLocations__c"
+    label = "Number of Locations"
+    precision = 3
+    scale = 0
+    createable = true
+    updateable = true
+    unique = false
+    queryable = true
+    externalId = false
+    trackFeedHistory = false
+  }
+  salesforce.Picklist Disqualified_Reason__c {
+    apiName = "Lead.Disqualified_Reason__c"
+    label = "Disqualified Reason"
+    valueSet = [
+      {
+        fullName = "Not Interested"
+        default = false
+        label = "Not Interested"
+      },
+      {
+        fullName = "No Budget"
+        default = false
+        label = "No Budget"
+      },
+      {
+        fullName = "Wrong Usecase Ahem"
+        default = false
+        label = "Wrong Usecase Ahem"
+      },
+      {
+        fullName = "Ugly Usecase"
+        default = false
+        isActive = false
+        label = "Ugly Usecase"
+      },
+      {
+        fullName = "Wrong Usecase"
+        default = false
+        isActive = false
+        label = "Wrong Usecase"
+      },
+    ]
+    restricted = true
+    createable = true
+    updateable = true
+    queryable = true
+    description = "Disqualification reason of the lead - must not be empty when lead is disqualified."
+    externalId = false
+    trackFeedHistory = false
+    sorted = false
+  }
+}
