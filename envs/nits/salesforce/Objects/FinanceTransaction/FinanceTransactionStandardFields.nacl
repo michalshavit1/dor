@@ -1,0 +1,3104 @@
+type salesforce.FinanceTransaction {
+  serviceid Id {
+    apiName = "FinanceTransaction.Id"
+    label = "Finance Transaction ID"
+    queryable = true
+    _hidden_value = true
+    updateable = false
+    createable = false
+  }
+  salesforce.Lookup OwnerId {
+    apiName = "FinanceTransaction.OwnerId"
+    label = "Owner ID"
+    referenceTo = [
+      salesforce.Group,
+      salesforce.User,
+    ]
+    createable = false
+    updateable = false
+    relationshipName = "Owner"
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Checkbox IsDeleted {
+    apiName = "FinanceTransaction.IsDeleted"
+    label = "Deleted"
+    defaultValue = false
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.AutoNumber FinanceTransactionNumber {
+    apiName = "FinanceTransaction.FinanceTransactionNumber"
+    label = "Name"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime CreatedDate {
+    apiName = "FinanceTransaction.CreatedDate"
+    label = "Created Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup CreatedById {
+    apiName = "FinanceTransaction.CreatedById"
+    label = "Created By ID"
+    referenceTo = [
+      salesforce.User,
+    ]
+    createable = false
+    updateable = false
+    relationshipName = "CreatedBy"
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime LastModifiedDate {
+    apiName = "FinanceTransaction.LastModifiedDate"
+    label = "Last Modified Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup LastModifiedById {
+    apiName = "FinanceTransaction.LastModifiedById"
+    label = "Last Modified By ID"
+    referenceTo = [
+      salesforce.User,
+    ]
+    createable = false
+    updateable = false
+    relationshipName = "LastModifiedBy"
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime SystemModstamp {
+    apiName = "FinanceTransaction.SystemModstamp"
+    label = "System Modstamp"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup ReferenceEntityId {
+    apiName = "FinanceTransaction.ReferenceEntityId"
+    label = "ReferenceEntity ID"
+    referenceTo = [
+      salesforce.CreditMemo,
+      salesforce.CreditMemoInvApplication,
+      salesforce.CreditMemoLine,
+      salesforce.Invoice,
+      salesforce.InvoiceLine,
+      salesforce.Payment,
+      salesforce.PaymentLineInvoice,
+      salesforce.Refund,
+      salesforce.RefundLinePayment,
+      salesforce.TestCustomObj100__c,
+      salesforce.TestCustomObj101__c,
+      salesforce.TestCustomObj102__c,
+      salesforce.TestCustomObj103__c,
+      salesforce.TestCustomObj104__c,
+      salesforce.TestCustomObj105__c,
+      salesforce.TestCustomObj106__c,
+      salesforce.TestCustomObj107__c,
+      salesforce.TestCustomObj108__c,
+      salesforce.TestCustomObj109__c,
+      salesforce.TestCustomObj10__c,
+      salesforce.TestCustomObj110__c,
+      salesforce.TestCustomObj111__c,
+      salesforce.TestCustomObj112__c,
+      salesforce.TestCustomObj113__c,
+      salesforce.TestCustomObj114__c,
+      salesforce.TestCustomObj115__c,
+      salesforce.TestCustomObj116__c,
+      salesforce.TestCustomObj117__c,
+      salesforce.TestCustomObj118__c,
+      salesforce.TestCustomObj119__c,
+      salesforce.TestCustomObj11__c,
+      salesforce.TestCustomObj120__c,
+      salesforce.TestCustomObj121__c,
+      salesforce.TestCustomObj122__c,
+      salesforce.TestCustomObj123__c,
+      salesforce.TestCustomObj124__c,
+      salesforce.TestCustomObj125__c,
+      salesforce.TestCustomObj126__c,
+      salesforce.TestCustomObj127__c,
+      salesforce.TestCustomObj128__c,
+      salesforce.TestCustomObj129__c,
+      salesforce.TestCustomObj12__c,
+      salesforce.TestCustomObj130__c,
+      salesforce.TestCustomObj131__c,
+      salesforce.TestCustomObj132__c,
+      salesforce.TestCustomObj133__c,
+      salesforce.TestCustomObj134__c,
+      salesforce.TestCustomObj135__c,
+      salesforce.TestCustomObj136__c,
+      salesforce.TestCustomObj137__c,
+      salesforce.TestCustomObj138__c,
+      salesforce.TestCustomObj139__c,
+      salesforce.TestCustomObj13__c,
+      salesforce.TestCustomObj140__c,
+      salesforce.TestCustomObj141__c,
+      salesforce.TestCustomObj142__c,
+      salesforce.TestCustomObj143__c,
+      salesforce.TestCustomObj144__c,
+      salesforce.TestCustomObj145__c,
+      salesforce.TestCustomObj146__c,
+      salesforce.TestCustomObj147__c,
+      salesforce.TestCustomObj148__c,
+      salesforce.TestCustomObj149__c,
+      salesforce.TestCustomObj14__c,
+      salesforce.TestCustomObj150__c,
+      salesforce.TestCustomObj151__c,
+      salesforce.TestCustomObj152__c,
+      salesforce.TestCustomObj153__c,
+      salesforce.TestCustomObj154__c,
+      salesforce.TestCustomObj155__c,
+      salesforce.TestCustomObj156__c,
+      salesforce.TestCustomObj157__c,
+      salesforce.TestCustomObj158__c,
+      salesforce.TestCustomObj159__c,
+      salesforce.TestCustomObj15__c,
+      salesforce.TestCustomObj160__c,
+      salesforce.TestCustomObj161__c,
+      salesforce.TestCustomObj162__c,
+      salesforce.TestCustomObj163__c,
+      salesforce.TestCustomObj164__c,
+      salesforce.TestCustomObj165__c,
+      salesforce.TestCustomObj166__c,
+      salesforce.TestCustomObj167__c,
+      salesforce.TestCustomObj168__c,
+      salesforce.TestCustomObj169__c,
+      salesforce.TestCustomObj16__c,
+      salesforce.TestCustomObj170__c,
+      salesforce.TestCustomObj171__c,
+      salesforce.TestCustomObj172__c,
+      salesforce.TestCustomObj173__c,
+      salesforce.TestCustomObj174__c,
+      salesforce.TestCustomObj175__c,
+      salesforce.TestCustomObj176__c,
+      salesforce.TestCustomObj177__c,
+      salesforce.TestCustomObj178__c,
+      salesforce.TestCustomObj179__c,
+      salesforce.TestCustomObj17__c,
+      salesforce.TestCustomObj180__c,
+      salesforce.TestCustomObj181__c,
+      salesforce.TestCustomObj182__c,
+      salesforce.TestCustomObj183__c,
+      salesforce.TestCustomObj184__c,
+      salesforce.TestCustomObj185__c,
+      salesforce.TestCustomObj186__c,
+      salesforce.TestCustomObj187__c,
+      salesforce.TestCustomObj188__c,
+      salesforce.TestCustomObj189__c,
+      salesforce.TestCustomObj18__c,
+      salesforce.TestCustomObj190__c,
+      salesforce.TestCustomObj191__c,
+      salesforce.TestCustomObj192__c,
+      salesforce.TestCustomObj193__c,
+      salesforce.TestCustomObj194__c,
+      salesforce.TestCustomObj195__c,
+      salesforce.TestCustomObj196__c,
+      salesforce.TestCustomObj197__c,
+      salesforce.TestCustomObj198__c,
+      salesforce.TestCustomObj199__c,
+      salesforce.TestCustomObj19__c,
+      salesforce.TestCustomObj1__c,
+      salesforce.TestCustomObj200__c,
+      salesforce.TestCustomObj201__c,
+      salesforce.TestCustomObj202__c,
+      salesforce.TestCustomObj203__c,
+      salesforce.TestCustomObj204__c,
+      salesforce.TestCustomObj205__c,
+      salesforce.TestCustomObj206__c,
+      salesforce.TestCustomObj207__c,
+      salesforce.TestCustomObj208__c,
+      salesforce.TestCustomObj209__c,
+      salesforce.TestCustomObj20__c,
+      salesforce.TestCustomObj210__c,
+      salesforce.TestCustomObj211__c,
+      salesforce.TestCustomObj212__c,
+      salesforce.TestCustomObj213__c,
+      salesforce.TestCustomObj214__c,
+      salesforce.TestCustomObj215__c,
+      salesforce.TestCustomObj216__c,
+      salesforce.TestCustomObj217__c,
+      salesforce.TestCustomObj218__c,
+      salesforce.TestCustomObj219__c,
+      salesforce.TestCustomObj21__c,
+      salesforce.TestCustomObj220__c,
+      salesforce.TestCustomObj221__c,
+      salesforce.TestCustomObj222__c,
+      salesforce.TestCustomObj223__c,
+      salesforce.TestCustomObj224__c,
+      salesforce.TestCustomObj225__c,
+      salesforce.TestCustomObj226__c,
+      salesforce.TestCustomObj227__c,
+      salesforce.TestCustomObj228__c,
+      salesforce.TestCustomObj229__c,
+      salesforce.TestCustomObj22__c,
+      salesforce.TestCustomObj230__c,
+      salesforce.TestCustomObj231__c,
+      salesforce.TestCustomObj232__c,
+      salesforce.TestCustomObj233__c,
+      salesforce.TestCustomObj234__c,
+      salesforce.TestCustomObj235__c,
+      salesforce.TestCustomObj236__c,
+      salesforce.TestCustomObj237__c,
+      salesforce.TestCustomObj238__c,
+      salesforce.TestCustomObj239__c,
+      salesforce.TestCustomObj23__c,
+      salesforce.TestCustomObj240__c,
+      salesforce.TestCustomObj241__c,
+      salesforce.TestCustomObj242__c,
+      salesforce.TestCustomObj243__c,
+      salesforce.TestCustomObj244__c,
+      salesforce.TestCustomObj245__c,
+      salesforce.TestCustomObj246__c,
+      salesforce.TestCustomObj247__c,
+      salesforce.TestCustomObj248__c,
+      salesforce.TestCustomObj249__c,
+      salesforce.TestCustomObj24__c,
+      salesforce.TestCustomObj250__c,
+      salesforce.TestCustomObj251__c,
+      salesforce.TestCustomObj252__c,
+      salesforce.TestCustomObj253__c,
+      salesforce.TestCustomObj254__c,
+      salesforce.TestCustomObj255__c,
+      salesforce.TestCustomObj256__c,
+      salesforce.TestCustomObj257__c,
+      salesforce.TestCustomObj258__c,
+      salesforce.TestCustomObj259__c,
+      salesforce.TestCustomObj25__c,
+      salesforce.TestCustomObj260__c,
+      salesforce.TestCustomObj261__c,
+      salesforce.TestCustomObj262__c,
+      salesforce.TestCustomObj263__c,
+      salesforce.TestCustomObj264__c,
+      salesforce.TestCustomObj265__c,
+      salesforce.TestCustomObj266__c,
+      salesforce.TestCustomObj267__c,
+      salesforce.TestCustomObj268__c,
+      salesforce.TestCustomObj269__c,
+      salesforce.TestCustomObj26__c,
+      salesforce.TestCustomObj270__c,
+      salesforce.TestCustomObj271__c,
+      salesforce.TestCustomObj272__c,
+      salesforce.TestCustomObj273__c,
+      salesforce.TestCustomObj274__c,
+      salesforce.TestCustomObj275__c,
+      salesforce.TestCustomObj276__c,
+      salesforce.TestCustomObj277__c,
+      salesforce.TestCustomObj278__c,
+      salesforce.TestCustomObj279__c,
+      salesforce.TestCustomObj27__c,
+      salesforce.TestCustomObj280__c,
+      salesforce.TestCustomObj281__c,
+      salesforce.TestCustomObj282__c,
+      salesforce.TestCustomObj283__c,
+      salesforce.TestCustomObj284__c,
+      salesforce.TestCustomObj285__c,
+      salesforce.TestCustomObj286__c,
+      salesforce.TestCustomObj287__c,
+      salesforce.TestCustomObj288__c,
+      salesforce.TestCustomObj289__c,
+      salesforce.TestCustomObj28__c,
+      salesforce.TestCustomObj290__c,
+      salesforce.TestCustomObj291__c,
+      salesforce.TestCustomObj292__c,
+      salesforce.TestCustomObj293__c,
+      salesforce.TestCustomObj294__c,
+      salesforce.TestCustomObj295__c,
+      salesforce.TestCustomObj296__c,
+      salesforce.TestCustomObj297__c,
+      salesforce.TestCustomObj298__c,
+      salesforce.TestCustomObj299__c,
+      salesforce.TestCustomObj29__c,
+      salesforce.TestCustomObj2__c,
+      salesforce.TestCustomObj300__c,
+      salesforce.TestCustomObj301__c,
+      salesforce.TestCustomObj302__c,
+      salesforce.TestCustomObj303__c,
+      salesforce.TestCustomObj304__c,
+      salesforce.TestCustomObj305__c,
+      salesforce.TestCustomObj306__c,
+      salesforce.TestCustomObj307__c,
+      salesforce.TestCustomObj308__c,
+      salesforce.TestCustomObj309__c,
+      salesforce.TestCustomObj30__c,
+      salesforce.TestCustomObj310__c,
+      salesforce.TestCustomObj311__c,
+      salesforce.TestCustomObj312__c,
+      salesforce.TestCustomObj313__c,
+      salesforce.TestCustomObj314__c,
+      salesforce.TestCustomObj315__c,
+      salesforce.TestCustomObj316__c,
+      salesforce.TestCustomObj317__c,
+      salesforce.TestCustomObj318__c,
+      salesforce.TestCustomObj319__c,
+      salesforce.TestCustomObj31__c,
+      salesforce.TestCustomObj320__c,
+      salesforce.TestCustomObj321__c,
+      salesforce.TestCustomObj322__c,
+      salesforce.TestCustomObj323__c,
+      salesforce.TestCustomObj324__c,
+      salesforce.TestCustomObj325__c,
+      salesforce.TestCustomObj326__c,
+      salesforce.TestCustomObj327__c,
+      salesforce.TestCustomObj328__c,
+      salesforce.TestCustomObj329__c,
+      salesforce.TestCustomObj32__c,
+      salesforce.TestCustomObj330__c,
+      salesforce.TestCustomObj331__c,
+      salesforce.TestCustomObj332__c,
+      salesforce.TestCustomObj333__c,
+      salesforce.TestCustomObj334__c,
+      salesforce.TestCustomObj335__c,
+      salesforce.TestCustomObj336__c,
+      salesforce.TestCustomObj337__c,
+      salesforce.TestCustomObj338__c,
+      salesforce.TestCustomObj339__c,
+      salesforce.TestCustomObj33__c,
+      salesforce.TestCustomObj340__c,
+      salesforce.TestCustomObj341__c,
+      salesforce.TestCustomObj342__c,
+      salesforce.TestCustomObj343__c,
+      salesforce.TestCustomObj344__c,
+      salesforce.TestCustomObj345__c,
+      salesforce.TestCustomObj346__c,
+      salesforce.TestCustomObj347__c,
+      salesforce.TestCustomObj348__c,
+      salesforce.TestCustomObj349__c,
+      salesforce.TestCustomObj34__c,
+      salesforce.TestCustomObj350__c,
+      salesforce.TestCustomObj351__c,
+      salesforce.TestCustomObj352__c,
+      salesforce.TestCustomObj353__c,
+      salesforce.TestCustomObj354__c,
+      salesforce.TestCustomObj355__c,
+      salesforce.TestCustomObj356__c,
+      salesforce.TestCustomObj357__c,
+      salesforce.TestCustomObj358__c,
+      salesforce.TestCustomObj359__c,
+      salesforce.TestCustomObj35__c,
+      salesforce.TestCustomObj360__c,
+      salesforce.TestCustomObj361__c,
+      salesforce.TestCustomObj362__c,
+      salesforce.TestCustomObj363__c,
+      salesforce.TestCustomObj364__c,
+      salesforce.TestCustomObj365__c,
+      salesforce.TestCustomObj366__c,
+      salesforce.TestCustomObj367__c,
+      salesforce.TestCustomObj368__c,
+      salesforce.TestCustomObj369__c,
+      salesforce.TestCustomObj36__c,
+      salesforce.TestCustomObj370__c,
+      salesforce.TestCustomObj371__c,
+      salesforce.TestCustomObj372__c,
+      salesforce.TestCustomObj373__c,
+      salesforce.TestCustomObj374__c,
+      salesforce.TestCustomObj375__c,
+      salesforce.TestCustomObj376__c,
+      salesforce.TestCustomObj377__c,
+      salesforce.TestCustomObj378__c,
+      salesforce.TestCustomObj379__c,
+      salesforce.TestCustomObj37__c,
+      salesforce.TestCustomObj380__c,
+      salesforce.TestCustomObj381__c,
+      salesforce.TestCustomObj382__c,
+      salesforce.TestCustomObj383__c,
+      salesforce.TestCustomObj384__c,
+      salesforce.TestCustomObj385__c,
+      salesforce.TestCustomObj386__c,
+      salesforce.TestCustomObj387__c,
+      salesforce.TestCustomObj388__c,
+      salesforce.TestCustomObj389__c,
+      salesforce.TestCustomObj38__c,
+      salesforce.TestCustomObj390__c,
+      salesforce.TestCustomObj391__c,
+      salesforce.TestCustomObj392__c,
+      salesforce.TestCustomObj393__c,
+      salesforce.TestCustomObj394__c,
+      salesforce.TestCustomObj395__c,
+      salesforce.TestCustomObj396__c,
+      salesforce.TestCustomObj397__c,
+      salesforce.TestCustomObj398__c,
+      salesforce.TestCustomObj399__c,
+      salesforce.TestCustomObj39__c,
+      salesforce.TestCustomObj3__c,
+      salesforce.TestCustomObj40__c,
+      salesforce.TestCustomObj41__c,
+      salesforce.TestCustomObj42__c,
+      salesforce.TestCustomObj43__c,
+      salesforce.TestCustomObj44__c,
+      salesforce.TestCustomObj45__c,
+      salesforce.TestCustomObj46__c,
+      salesforce.TestCustomObj47__c,
+      salesforce.TestCustomObj48__c,
+      salesforce.TestCustomObj49__c,
+      salesforce.TestCustomObj4__c,
+      salesforce.TestCustomObj50__c,
+      salesforce.TestCustomObj51__c,
+      salesforce.TestCustomObj52__c,
+      salesforce.TestCustomObj53__c,
+      salesforce.TestCustomObj54__c,
+      salesforce.TestCustomObj55__c,
+      salesforce.TestCustomObj56__c,
+      salesforce.TestCustomObj57__c,
+      salesforce.TestCustomObj58__c,
+      salesforce.TestCustomObj59__c,
+      salesforce.TestCustomObj5__c,
+      salesforce.TestCustomObj60__c,
+      salesforce.TestCustomObj61__c,
+      salesforce.TestCustomObj62__c,
+      salesforce.TestCustomObj63__c,
+      salesforce.TestCustomObj64__c,
+      salesforce.TestCustomObj65__c,
+      salesforce.TestCustomObj66__c,
+      salesforce.TestCustomObj67__c,
+      salesforce.TestCustomObj68__c,
+      salesforce.TestCustomObj69__c,
+      salesforce.TestCustomObj6__c,
+      salesforce.TestCustomObj70__c,
+      salesforce.TestCustomObj71__c,
+      salesforce.TestCustomObj72__c,
+      salesforce.TestCustomObj73__c,
+      salesforce.TestCustomObj74__c,
+      salesforce.TestCustomObj75__c,
+      salesforce.TestCustomObj76__c,
+      salesforce.TestCustomObj77__c,
+      salesforce.TestCustomObj78__c,
+      salesforce.TestCustomObj79__c,
+      salesforce.TestCustomObj7__c,
+      salesforce.TestCustomObj80__c,
+      salesforce.TestCustomObj81__c,
+      salesforce.TestCustomObj82__c,
+      salesforce.TestCustomObj83__c,
+      salesforce.TestCustomObj84__c,
+      salesforce.TestCustomObj85__c,
+      salesforce.TestCustomObj86__c,
+      salesforce.TestCustomObj87__c,
+      salesforce.TestCustomObj88__c,
+      salesforce.TestCustomObj89__c,
+      salesforce.TestCustomObj8__c,
+      salesforce.TestCustomObj90__c,
+      salesforce.TestCustomObj91__c,
+      salesforce.TestCustomObj92__c,
+      salesforce.TestCustomObj93__c,
+      salesforce.TestCustomObj94__c,
+      salesforce.TestCustomObj95__c,
+      salesforce.TestCustomObj96__c,
+      salesforce.TestCustomObj97__c,
+      salesforce.TestCustomObj98__c,
+      salesforce.TestCustomObj99__c,
+      salesforce.TestCustomObj9__c,
+    ]
+    inlineHelpText = "The financial object that was created or updated as a result of a customer action"
+    createable = true
+    updateable = false
+    relationshipName = "ReferenceEntity"
+    queryable = true
+  }
+  salesforce.Picklist ReferenceEntityType {
+    apiName = "FinanceTransaction.ReferenceEntityType"
+    label = "Reference Entity Type"
+    valueSet = [
+      {
+        fullName = "Invoice"
+        default = false
+        label = "Invoice"
+        isActive = true
+      },
+      {
+        fullName = "Invoice line"
+        default = false
+        label = "Invoice line"
+        isActive = true
+      },
+      {
+        fullName = "Invoice line tax"
+        default = false
+        label = "Invoice line tax"
+        isActive = true
+      },
+      {
+        fullName = "Sub invoice line"
+        default = false
+        label = "Sub invoice line"
+        isActive = true
+      },
+      {
+        fullName = "Sub invoice line tax"
+        default = false
+        label = "Sub invoice line tax"
+        isActive = true
+      },
+      {
+        fullName = "Credit memo"
+        default = false
+        label = "Credit memo"
+        isActive = true
+      },
+      {
+        fullName = "Credit memo line"
+        default = false
+        label = "Credit memo line"
+        isActive = true
+      },
+      {
+        fullName = "Credit memo line tax"
+        default = false
+        label = "Credit memo line tax"
+        isActive = true
+      },
+      {
+        fullName = "Credit memo line invoice application"
+        default = false
+        label = "Credit memo line invoice application"
+        isActive = true
+      },
+      {
+        fullName = "Credit memo line invoice line application"
+        default = false
+        label = "Credit memo line invoice line application"
+        isActive = true
+      },
+      {
+        fullName = "Debit memo"
+        default = false
+        label = "Debit memo"
+        isActive = true
+      },
+      {
+        fullName = "Debit memo line"
+        default = false
+        label = "Debit memo line"
+        isActive = true
+      },
+      {
+        fullName = "Debit memo line tax"
+        default = false
+        label = "Debit memo line tax"
+        isActive = true
+      },
+      {
+        fullName = "Debit memo line credit memo application"
+        default = false
+        label = "Debit memo line credit memo application"
+        isActive = true
+      },
+      {
+        fullName = "Debit memo line credit memo line application"
+        default = false
+        label = "Debit memo line credit memo line application"
+        isActive = true
+      },
+      {
+        fullName = "Debit memo line invoice application"
+        default = false
+        label = "Debit memo line invoice application"
+        isActive = true
+      },
+      {
+        fullName = "Debit memo line invoice line application"
+        default = false
+        label = "Debit memo line invoice line application"
+        isActive = true
+      },
+      {
+        fullName = "Payment"
+        default = false
+        label = "Payment"
+        isActive = true
+      },
+      {
+        fullName = "Payment debit memo application"
+        default = false
+        label = "Payment debit memo application"
+        isActive = true
+      },
+      {
+        fullName = "Payment debit memo line application"
+        default = false
+        label = "Payment debit memo line application"
+        isActive = true
+      },
+      {
+        fullName = "Payment invoice application"
+        default = false
+        label = "Payment invoice application"
+        isActive = true
+      },
+      {
+        fullName = "Payment invoice line application"
+        default = false
+        label = "Payment invoice line application"
+        isActive = true
+      },
+      {
+        fullName = "Refund"
+        default = false
+        label = "Refund"
+        isActive = true
+      },
+      {
+        fullName = "Refund credit memo application"
+        default = false
+        label = "Refund credit memo application"
+        isActive = true
+      },
+      {
+        fullName = "Refund credit memo line application"
+        default = false
+        label = "Refund credit memo line application"
+        isActive = true
+      },
+      {
+        fullName = "Refund payment application"
+        default = false
+        label = "Refund payment application"
+        isActive = true
+      },
+      {
+        fullName = "Other"
+        default = false
+        label = "Other"
+        isActive = true
+      },
+    ]
+    restricted = false
+    createable = true
+    updateable = false
+    queryable = true
+  }
+  salesforce.Picklist EventAction {
+    apiName = "FinanceTransaction.EventAction"
+    label = "Event Action"
+    valueSet = [
+      {
+        fullName = "Post an invoice"
+        default = false
+        label = "Post an invoice"
+        isActive = true
+      },
+      {
+        fullName = "Void an invoice"
+        default = false
+        label = "Void an invoice"
+        isActive = true
+      },
+      {
+        fullName = "Cancel & rebill"
+        default = false
+        label = "Cancel & rebill"
+        isActive = true
+      },
+      {
+        fullName = "Convert negative invoice lines"
+        default = false
+        label = "Convert negative invoice lines"
+        isActive = true
+      },
+      {
+        fullName = "Subtotal change on sub invoice line"
+        default = false
+        label = "Subtotal change on sub invoice line"
+        isActive = true
+      },
+      {
+        fullName = "Tax change on sub invoice line"
+        default = false
+        label = "Tax change on sub invoice line"
+        isActive = true
+      },
+      {
+        fullName = "Invoice line reference changed on sub invoice line"
+        default = false
+        label = "Invoice line reference changed on sub invoice line"
+        isActive = true
+      },
+      {
+        fullName = "Currency change on sub invoice line"
+        default = false
+        label = "Currency change on sub invoice line"
+        isActive = true
+      },
+      {
+        fullName = "Credit invoice header"
+        default = false
+        label = "Credit invoice header"
+        isActive = true
+      },
+      {
+        fullName = "Unallocate credit from invoice header"
+        default = false
+        label = "Unallocate credit from invoice header"
+        isActive = true
+      },
+      {
+        fullName = "Credit invoice line"
+        default = false
+        label = "Credit invoice line"
+        isActive = true
+      },
+      {
+        fullName = "Unallocate credit from invoice line"
+        default = false
+        label = "Unallocate credit from invoice line"
+        isActive = true
+      },
+      {
+        fullName = "Pay invoice header"
+        default = false
+        label = "Pay invoice header"
+        isActive = true
+      },
+      {
+        fullName = "Unallocate payment from invoice header"
+        default = false
+        label = "Unallocate payment from invoice header"
+        isActive = true
+      },
+      {
+        fullName = "Pay invoice line"
+        default = false
+        label = "Pay invoice line"
+        isActive = true
+      },
+      {
+        fullName = "Unallocate payment from invoice line"
+        default = false
+        label = "Unallocate payment from invoice line"
+        isActive = true
+      },
+      {
+        fullName = "Debit invoice header"
+        default = false
+        label = "Debit invoice header"
+        isActive = true
+      },
+      {
+        fullName = "Unallocate debit from invoice header"
+        default = false
+        label = "Unallocate debit from invoice header"
+        isActive = true
+      },
+      {
+        fullName = "Debit invoice line"
+        default = false
+        label = "Debit invoice line"
+        isActive = true
+      },
+      {
+        fullName = "Unallocate debit from invoice line"
+        default = false
+        label = "Unallocate debit from invoice line"
+        isActive = true
+      },
+      {
+        fullName = "Issue a standalone credit"
+        default = false
+        label = "Issue a standalone credit"
+        isActive = true
+      },
+      {
+        fullName = "Void a standalone credit"
+        default = false
+        label = "Void a standalone credit"
+        isActive = true
+      },
+      {
+        fullName = "Refund a credit memo header"
+        default = false
+        label = "Refund a credit memo header"
+        isActive = true
+      },
+      {
+        fullName = "Unallocate refund from credit memo header"
+        default = false
+        label = "Unallocate refund from credit memo header"
+        isActive = true
+      },
+      {
+        fullName = "Refund a credit memo line"
+        default = false
+        label = "Refund a credit memo line"
+        isActive = true
+      },
+      {
+        fullName = "Unallocate refund from credit memo line"
+        default = false
+        label = "Unallocate refund from credit memo line"
+        isActive = true
+      },
+      {
+        fullName = "Debit credit memo header"
+        default = false
+        label = "Debit credit memo header"
+        isActive = true
+      },
+      {
+        fullName = "Unallocate debit from credit memo header"
+        default = false
+        label = "Unallocate debit from credit memo header"
+        isActive = true
+      },
+      {
+        fullName = "Debit credit memo line"
+        default = false
+        label = "Debit credit memo line"
+        isActive = true
+      },
+      {
+        fullName = "Unallocate debit from credit memo line"
+        default = false
+        label = "Unallocate debit from credit memo line"
+        isActive = true
+      },
+      {
+        fullName = "Post a standalone payment"
+        default = false
+        label = "Post a standalone payment"
+        isActive = true
+      },
+      {
+        fullName = "Void a standalone payment"
+        default = false
+        label = "Void a standalone payment"
+        isActive = true
+      },
+      {
+        fullName = "Refund a payment"
+        default = false
+        label = "Refund a payment"
+        isActive = true
+      },
+      {
+        fullName = "Unallocate refund from payment"
+        default = false
+        label = "Unallocate refund from payment"
+        isActive = true
+      },
+      {
+        fullName = "Issue a standalone refund"
+        default = false
+        label = "Issue a standalone refund"
+        isActive = true
+      },
+      {
+        fullName = "Void a standalone refund"
+        default = false
+        label = "Void a standalone refund"
+        isActive = true
+      },
+      {
+        fullName = "Issue a standalone debit"
+        default = false
+        label = "Issue a standalone debit"
+        isActive = true
+      },
+      {
+        fullName = "Void a standalone debit"
+        default = false
+        label = "Void a standalone debit"
+        isActive = true
+      },
+      {
+        fullName = "Pay debit memo header"
+        default = false
+        label = "Pay debit memo header"
+        isActive = true
+      },
+      {
+        fullName = "Unallocate payment from debit memo header"
+        default = false
+        label = "Unallocate payment from debit memo header"
+        isActive = true
+      },
+      {
+        fullName = "Pay debit memo line"
+        default = false
+        label = "Pay debit memo line"
+        isActive = true
+      },
+      {
+        fullName = "Unallocate payment from debit line"
+        default = false
+        label = "Unallocate payment from debit line"
+        isActive = true
+      },
+      {
+        fullName = "Other"
+        default = false
+        label = "Other"
+        isActive = true
+      },
+    ]
+    restricted = false
+    inlineHelpText = "The financial action that caused the finance transaction"
+    createable = true
+    updateable = false
+    queryable = true
+  }
+  salesforce.Picklist EventType {
+    apiName = "FinanceTransaction.EventType"
+    label = "Event Type"
+    valueSet = [
+      {
+        fullName = "Allocated"
+        default = false
+        label = "Allocated"
+        isActive = true
+      },
+      {
+        fullName = "Unallocated"
+        default = false
+        label = "Unallocated"
+        isActive = true
+      },
+      {
+        fullName = "Posted"
+        default = false
+        label = "Posted"
+        isActive = true
+      },
+      {
+        fullName = "Canceled"
+        default = false
+        label = "Canceled"
+        isActive = true
+      },
+      {
+        fullName = "Changed"
+        default = false
+        label = "Changed"
+        isActive = true
+      },
+      {
+        fullName = "Void"
+        default = false
+        label = "Void"
+        isActive = true
+      },
+      {
+        fullName = "Other"
+        default = false
+        label = "Other"
+        isActive = true
+      },
+    ]
+    restricted = false
+    createable = true
+    updateable = false
+    queryable = true
+  }
+  salesforce.Currency ChargeAmount {
+    apiName = "FinanceTransaction.ChargeAmount"
+    label = "Charge Amount"
+    inlineHelpText = "The charge contributing to the transaction's subtotal"
+    createable = true
+    updateable = false
+    scale = 2
+    precision = 18
+    queryable = true
+  }
+  salesforce.Currency AdjustmentAmount {
+    apiName = "FinanceTransaction.AdjustmentAmount"
+    label = "Adjustment Amount"
+    inlineHelpText = "The adjustment contributing to the transaction's subtotal"
+    createable = true
+    updateable = false
+    scale = 2
+    precision = 18
+    queryable = true
+  }
+  salesforce.Currency Subtotal {
+    apiName = "FinanceTransaction.Subtotal"
+    label = "Subtotal"
+    inlineHelpText = "Total of the charge amount and adjustment. Doesn't include the tax amount."
+    createable = true
+    updateable = false
+    scale = 2
+    precision = 18
+    queryable = true
+  }
+  salesforce.Currency TaxAmount {
+    apiName = "FinanceTransaction.TaxAmount"
+    label = "Tax Amount"
+    inlineHelpText = "The total amount of tax for the change made to your reference entity as a result of the event action"
+    createable = true
+    updateable = false
+    scale = 2
+    precision = 18
+    queryable = true
+  }
+  salesforce.Currency TotalAmountWithTax {
+    apiName = "FinanceTransaction.TotalAmountWithTax"
+    label = "Total Amount With Tax"
+    _required = true
+    inlineHelpText = "The subtotal plus the tax amount"
+    createable = true
+    updateable = false
+    scale = 2
+    precision = 18
+    queryable = true
+  }
+  salesforce.Currency ImpactAmount {
+    apiName = "FinanceTransaction.ImpactAmount"
+    label = "Impact Amount"
+    inlineHelpText = "The finance transaction's impact on the customer's finances"
+    createable = true
+    updateable = false
+    scale = 2
+    precision = 18
+    queryable = true
+  }
+  salesforce.Currency ResultingBalance {
+    apiName = "FinanceTransaction.ResultingBalance"
+    label = "Resulting Balance"
+    inlineHelpText = "The balance of your reference entity as a result of the event action"
+    createable = true
+    updateable = false
+    scale = 2
+    precision = 18
+    queryable = true
+  }
+  salesforce.Lookup AccountId {
+    apiName = "FinanceTransaction.AccountId"
+    label = "Account ID"
+    referenceTo = [
+      salesforce.Account,
+    ]
+    inlineHelpText = "Parent account of the reference entity"
+    createable = true
+    updateable = false
+    relationshipName = "Account"
+    queryable = true
+  }
+  salesforce.Lookup SourceEntityId {
+    apiName = "FinanceTransaction.SourceEntityId"
+    label = "SourceEntity ID"
+    referenceTo = [
+      salesforce.CreditMemo,
+      salesforce.CreditMemoInvApplication,
+      salesforce.CreditMemoLine,
+      salesforce.Invoice,
+      salesforce.InvoiceLine,
+      salesforce.Payment,
+      salesforce.PaymentLineInvoice,
+      salesforce.Refund,
+      salesforce.RefundLinePayment,
+      salesforce.TestCustomObj100__c,
+      salesforce.TestCustomObj101__c,
+      salesforce.TestCustomObj102__c,
+      salesforce.TestCustomObj103__c,
+      salesforce.TestCustomObj104__c,
+      salesforce.TestCustomObj105__c,
+      salesforce.TestCustomObj106__c,
+      salesforce.TestCustomObj107__c,
+      salesforce.TestCustomObj108__c,
+      salesforce.TestCustomObj109__c,
+      salesforce.TestCustomObj10__c,
+      salesforce.TestCustomObj110__c,
+      salesforce.TestCustomObj111__c,
+      salesforce.TestCustomObj112__c,
+      salesforce.TestCustomObj113__c,
+      salesforce.TestCustomObj114__c,
+      salesforce.TestCustomObj115__c,
+      salesforce.TestCustomObj116__c,
+      salesforce.TestCustomObj117__c,
+      salesforce.TestCustomObj118__c,
+      salesforce.TestCustomObj119__c,
+      salesforce.TestCustomObj11__c,
+      salesforce.TestCustomObj120__c,
+      salesforce.TestCustomObj121__c,
+      salesforce.TestCustomObj122__c,
+      salesforce.TestCustomObj123__c,
+      salesforce.TestCustomObj124__c,
+      salesforce.TestCustomObj125__c,
+      salesforce.TestCustomObj126__c,
+      salesforce.TestCustomObj127__c,
+      salesforce.TestCustomObj128__c,
+      salesforce.TestCustomObj129__c,
+      salesforce.TestCustomObj12__c,
+      salesforce.TestCustomObj130__c,
+      salesforce.TestCustomObj131__c,
+      salesforce.TestCustomObj132__c,
+      salesforce.TestCustomObj133__c,
+      salesforce.TestCustomObj134__c,
+      salesforce.TestCustomObj135__c,
+      salesforce.TestCustomObj136__c,
+      salesforce.TestCustomObj137__c,
+      salesforce.TestCustomObj138__c,
+      salesforce.TestCustomObj139__c,
+      salesforce.TestCustomObj13__c,
+      salesforce.TestCustomObj140__c,
+      salesforce.TestCustomObj141__c,
+      salesforce.TestCustomObj142__c,
+      salesforce.TestCustomObj143__c,
+      salesforce.TestCustomObj144__c,
+      salesforce.TestCustomObj145__c,
+      salesforce.TestCustomObj146__c,
+      salesforce.TestCustomObj147__c,
+      salesforce.TestCustomObj148__c,
+      salesforce.TestCustomObj149__c,
+      salesforce.TestCustomObj14__c,
+      salesforce.TestCustomObj150__c,
+      salesforce.TestCustomObj151__c,
+      salesforce.TestCustomObj152__c,
+      salesforce.TestCustomObj153__c,
+      salesforce.TestCustomObj154__c,
+      salesforce.TestCustomObj155__c,
+      salesforce.TestCustomObj156__c,
+      salesforce.TestCustomObj157__c,
+      salesforce.TestCustomObj158__c,
+      salesforce.TestCustomObj159__c,
+      salesforce.TestCustomObj15__c,
+      salesforce.TestCustomObj160__c,
+      salesforce.TestCustomObj161__c,
+      salesforce.TestCustomObj162__c,
+      salesforce.TestCustomObj163__c,
+      salesforce.TestCustomObj164__c,
+      salesforce.TestCustomObj165__c,
+      salesforce.TestCustomObj166__c,
+      salesforce.TestCustomObj167__c,
+      salesforce.TestCustomObj168__c,
+      salesforce.TestCustomObj169__c,
+      salesforce.TestCustomObj16__c,
+      salesforce.TestCustomObj170__c,
+      salesforce.TestCustomObj171__c,
+      salesforce.TestCustomObj172__c,
+      salesforce.TestCustomObj173__c,
+      salesforce.TestCustomObj174__c,
+      salesforce.TestCustomObj175__c,
+      salesforce.TestCustomObj176__c,
+      salesforce.TestCustomObj177__c,
+      salesforce.TestCustomObj178__c,
+      salesforce.TestCustomObj179__c,
+      salesforce.TestCustomObj17__c,
+      salesforce.TestCustomObj180__c,
+      salesforce.TestCustomObj181__c,
+      salesforce.TestCustomObj182__c,
+      salesforce.TestCustomObj183__c,
+      salesforce.TestCustomObj184__c,
+      salesforce.TestCustomObj185__c,
+      salesforce.TestCustomObj186__c,
+      salesforce.TestCustomObj187__c,
+      salesforce.TestCustomObj188__c,
+      salesforce.TestCustomObj189__c,
+      salesforce.TestCustomObj18__c,
+      salesforce.TestCustomObj190__c,
+      salesforce.TestCustomObj191__c,
+      salesforce.TestCustomObj192__c,
+      salesforce.TestCustomObj193__c,
+      salesforce.TestCustomObj194__c,
+      salesforce.TestCustomObj195__c,
+      salesforce.TestCustomObj196__c,
+      salesforce.TestCustomObj197__c,
+      salesforce.TestCustomObj198__c,
+      salesforce.TestCustomObj199__c,
+      salesforce.TestCustomObj19__c,
+      salesforce.TestCustomObj1__c,
+      salesforce.TestCustomObj200__c,
+      salesforce.TestCustomObj201__c,
+      salesforce.TestCustomObj202__c,
+      salesforce.TestCustomObj203__c,
+      salesforce.TestCustomObj204__c,
+      salesforce.TestCustomObj205__c,
+      salesforce.TestCustomObj206__c,
+      salesforce.TestCustomObj207__c,
+      salesforce.TestCustomObj208__c,
+      salesforce.TestCustomObj209__c,
+      salesforce.TestCustomObj20__c,
+      salesforce.TestCustomObj210__c,
+      salesforce.TestCustomObj211__c,
+      salesforce.TestCustomObj212__c,
+      salesforce.TestCustomObj213__c,
+      salesforce.TestCustomObj214__c,
+      salesforce.TestCustomObj215__c,
+      salesforce.TestCustomObj216__c,
+      salesforce.TestCustomObj217__c,
+      salesforce.TestCustomObj218__c,
+      salesforce.TestCustomObj219__c,
+      salesforce.TestCustomObj21__c,
+      salesforce.TestCustomObj220__c,
+      salesforce.TestCustomObj221__c,
+      salesforce.TestCustomObj222__c,
+      salesforce.TestCustomObj223__c,
+      salesforce.TestCustomObj224__c,
+      salesforce.TestCustomObj225__c,
+      salesforce.TestCustomObj226__c,
+      salesforce.TestCustomObj227__c,
+      salesforce.TestCustomObj228__c,
+      salesforce.TestCustomObj229__c,
+      salesforce.TestCustomObj22__c,
+      salesforce.TestCustomObj230__c,
+      salesforce.TestCustomObj231__c,
+      salesforce.TestCustomObj232__c,
+      salesforce.TestCustomObj233__c,
+      salesforce.TestCustomObj234__c,
+      salesforce.TestCustomObj235__c,
+      salesforce.TestCustomObj236__c,
+      salesforce.TestCustomObj237__c,
+      salesforce.TestCustomObj238__c,
+      salesforce.TestCustomObj239__c,
+      salesforce.TestCustomObj23__c,
+      salesforce.TestCustomObj240__c,
+      salesforce.TestCustomObj241__c,
+      salesforce.TestCustomObj242__c,
+      salesforce.TestCustomObj243__c,
+      salesforce.TestCustomObj244__c,
+      salesforce.TestCustomObj245__c,
+      salesforce.TestCustomObj246__c,
+      salesforce.TestCustomObj247__c,
+      salesforce.TestCustomObj248__c,
+      salesforce.TestCustomObj249__c,
+      salesforce.TestCustomObj24__c,
+      salesforce.TestCustomObj250__c,
+      salesforce.TestCustomObj251__c,
+      salesforce.TestCustomObj252__c,
+      salesforce.TestCustomObj253__c,
+      salesforce.TestCustomObj254__c,
+      salesforce.TestCustomObj255__c,
+      salesforce.TestCustomObj256__c,
+      salesforce.TestCustomObj257__c,
+      salesforce.TestCustomObj258__c,
+      salesforce.TestCustomObj259__c,
+      salesforce.TestCustomObj25__c,
+      salesforce.TestCustomObj260__c,
+      salesforce.TestCustomObj261__c,
+      salesforce.TestCustomObj262__c,
+      salesforce.TestCustomObj263__c,
+      salesforce.TestCustomObj264__c,
+      salesforce.TestCustomObj265__c,
+      salesforce.TestCustomObj266__c,
+      salesforce.TestCustomObj267__c,
+      salesforce.TestCustomObj268__c,
+      salesforce.TestCustomObj269__c,
+      salesforce.TestCustomObj26__c,
+      salesforce.TestCustomObj270__c,
+      salesforce.TestCustomObj271__c,
+      salesforce.TestCustomObj272__c,
+      salesforce.TestCustomObj273__c,
+      salesforce.TestCustomObj274__c,
+      salesforce.TestCustomObj275__c,
+      salesforce.TestCustomObj276__c,
+      salesforce.TestCustomObj277__c,
+      salesforce.TestCustomObj278__c,
+      salesforce.TestCustomObj279__c,
+      salesforce.TestCustomObj27__c,
+      salesforce.TestCustomObj280__c,
+      salesforce.TestCustomObj281__c,
+      salesforce.TestCustomObj282__c,
+      salesforce.TestCustomObj283__c,
+      salesforce.TestCustomObj284__c,
+      salesforce.TestCustomObj285__c,
+      salesforce.TestCustomObj286__c,
+      salesforce.TestCustomObj287__c,
+      salesforce.TestCustomObj288__c,
+      salesforce.TestCustomObj289__c,
+      salesforce.TestCustomObj28__c,
+      salesforce.TestCustomObj290__c,
+      salesforce.TestCustomObj291__c,
+      salesforce.TestCustomObj292__c,
+      salesforce.TestCustomObj293__c,
+      salesforce.TestCustomObj294__c,
+      salesforce.TestCustomObj295__c,
+      salesforce.TestCustomObj296__c,
+      salesforce.TestCustomObj297__c,
+      salesforce.TestCustomObj298__c,
+      salesforce.TestCustomObj299__c,
+      salesforce.TestCustomObj29__c,
+      salesforce.TestCustomObj2__c,
+      salesforce.TestCustomObj300__c,
+      salesforce.TestCustomObj301__c,
+      salesforce.TestCustomObj302__c,
+      salesforce.TestCustomObj303__c,
+      salesforce.TestCustomObj304__c,
+      salesforce.TestCustomObj305__c,
+      salesforce.TestCustomObj306__c,
+      salesforce.TestCustomObj307__c,
+      salesforce.TestCustomObj308__c,
+      salesforce.TestCustomObj309__c,
+      salesforce.TestCustomObj30__c,
+      salesforce.TestCustomObj310__c,
+      salesforce.TestCustomObj311__c,
+      salesforce.TestCustomObj312__c,
+      salesforce.TestCustomObj313__c,
+      salesforce.TestCustomObj314__c,
+      salesforce.TestCustomObj315__c,
+      salesforce.TestCustomObj316__c,
+      salesforce.TestCustomObj317__c,
+      salesforce.TestCustomObj318__c,
+      salesforce.TestCustomObj319__c,
+      salesforce.TestCustomObj31__c,
+      salesforce.TestCustomObj320__c,
+      salesforce.TestCustomObj321__c,
+      salesforce.TestCustomObj322__c,
+      salesforce.TestCustomObj323__c,
+      salesforce.TestCustomObj324__c,
+      salesforce.TestCustomObj325__c,
+      salesforce.TestCustomObj326__c,
+      salesforce.TestCustomObj327__c,
+      salesforce.TestCustomObj328__c,
+      salesforce.TestCustomObj329__c,
+      salesforce.TestCustomObj32__c,
+      salesforce.TestCustomObj330__c,
+      salesforce.TestCustomObj331__c,
+      salesforce.TestCustomObj332__c,
+      salesforce.TestCustomObj333__c,
+      salesforce.TestCustomObj334__c,
+      salesforce.TestCustomObj335__c,
+      salesforce.TestCustomObj336__c,
+      salesforce.TestCustomObj337__c,
+      salesforce.TestCustomObj338__c,
+      salesforce.TestCustomObj339__c,
+      salesforce.TestCustomObj33__c,
+      salesforce.TestCustomObj340__c,
+      salesforce.TestCustomObj341__c,
+      salesforce.TestCustomObj342__c,
+      salesforce.TestCustomObj343__c,
+      salesforce.TestCustomObj344__c,
+      salesforce.TestCustomObj345__c,
+      salesforce.TestCustomObj346__c,
+      salesforce.TestCustomObj347__c,
+      salesforce.TestCustomObj348__c,
+      salesforce.TestCustomObj349__c,
+      salesforce.TestCustomObj34__c,
+      salesforce.TestCustomObj350__c,
+      salesforce.TestCustomObj351__c,
+      salesforce.TestCustomObj352__c,
+      salesforce.TestCustomObj353__c,
+      salesforce.TestCustomObj354__c,
+      salesforce.TestCustomObj355__c,
+      salesforce.TestCustomObj356__c,
+      salesforce.TestCustomObj357__c,
+      salesforce.TestCustomObj358__c,
+      salesforce.TestCustomObj359__c,
+      salesforce.TestCustomObj35__c,
+      salesforce.TestCustomObj360__c,
+      salesforce.TestCustomObj361__c,
+      salesforce.TestCustomObj362__c,
+      salesforce.TestCustomObj363__c,
+      salesforce.TestCustomObj364__c,
+      salesforce.TestCustomObj365__c,
+      salesforce.TestCustomObj366__c,
+      salesforce.TestCustomObj367__c,
+      salesforce.TestCustomObj368__c,
+      salesforce.TestCustomObj369__c,
+      salesforce.TestCustomObj36__c,
+      salesforce.TestCustomObj370__c,
+      salesforce.TestCustomObj371__c,
+      salesforce.TestCustomObj372__c,
+      salesforce.TestCustomObj373__c,
+      salesforce.TestCustomObj374__c,
+      salesforce.TestCustomObj375__c,
+      salesforce.TestCustomObj376__c,
+      salesforce.TestCustomObj377__c,
+      salesforce.TestCustomObj378__c,
+      salesforce.TestCustomObj379__c,
+      salesforce.TestCustomObj37__c,
+      salesforce.TestCustomObj380__c,
+      salesforce.TestCustomObj381__c,
+      salesforce.TestCustomObj382__c,
+      salesforce.TestCustomObj383__c,
+      salesforce.TestCustomObj384__c,
+      salesforce.TestCustomObj385__c,
+      salesforce.TestCustomObj386__c,
+      salesforce.TestCustomObj387__c,
+      salesforce.TestCustomObj388__c,
+      salesforce.TestCustomObj389__c,
+      salesforce.TestCustomObj38__c,
+      salesforce.TestCustomObj390__c,
+      salesforce.TestCustomObj391__c,
+      salesforce.TestCustomObj392__c,
+      salesforce.TestCustomObj393__c,
+      salesforce.TestCustomObj394__c,
+      salesforce.TestCustomObj395__c,
+      salesforce.TestCustomObj396__c,
+      salesforce.TestCustomObj397__c,
+      salesforce.TestCustomObj398__c,
+      salesforce.TestCustomObj399__c,
+      salesforce.TestCustomObj39__c,
+      salesforce.TestCustomObj3__c,
+      salesforce.TestCustomObj40__c,
+      salesforce.TestCustomObj41__c,
+      salesforce.TestCustomObj42__c,
+      salesforce.TestCustomObj43__c,
+      salesforce.TestCustomObj44__c,
+      salesforce.TestCustomObj45__c,
+      salesforce.TestCustomObj46__c,
+      salesforce.TestCustomObj47__c,
+      salesforce.TestCustomObj48__c,
+      salesforce.TestCustomObj49__c,
+      salesforce.TestCustomObj4__c,
+      salesforce.TestCustomObj50__c,
+      salesforce.TestCustomObj51__c,
+      salesforce.TestCustomObj52__c,
+      salesforce.TestCustomObj53__c,
+      salesforce.TestCustomObj54__c,
+      salesforce.TestCustomObj55__c,
+      salesforce.TestCustomObj56__c,
+      salesforce.TestCustomObj57__c,
+      salesforce.TestCustomObj58__c,
+      salesforce.TestCustomObj59__c,
+      salesforce.TestCustomObj5__c,
+      salesforce.TestCustomObj60__c,
+      salesforce.TestCustomObj61__c,
+      salesforce.TestCustomObj62__c,
+      salesforce.TestCustomObj63__c,
+      salesforce.TestCustomObj64__c,
+      salesforce.TestCustomObj65__c,
+      salesforce.TestCustomObj66__c,
+      salesforce.TestCustomObj67__c,
+      salesforce.TestCustomObj68__c,
+      salesforce.TestCustomObj69__c,
+      salesforce.TestCustomObj6__c,
+      salesforce.TestCustomObj70__c,
+      salesforce.TestCustomObj71__c,
+      salesforce.TestCustomObj72__c,
+      salesforce.TestCustomObj73__c,
+      salesforce.TestCustomObj74__c,
+      salesforce.TestCustomObj75__c,
+      salesforce.TestCustomObj76__c,
+      salesforce.TestCustomObj77__c,
+      salesforce.TestCustomObj78__c,
+      salesforce.TestCustomObj79__c,
+      salesforce.TestCustomObj7__c,
+      salesforce.TestCustomObj80__c,
+      salesforce.TestCustomObj81__c,
+      salesforce.TestCustomObj82__c,
+      salesforce.TestCustomObj83__c,
+      salesforce.TestCustomObj84__c,
+      salesforce.TestCustomObj85__c,
+      salesforce.TestCustomObj86__c,
+      salesforce.TestCustomObj87__c,
+      salesforce.TestCustomObj88__c,
+      salesforce.TestCustomObj89__c,
+      salesforce.TestCustomObj8__c,
+      salesforce.TestCustomObj90__c,
+      salesforce.TestCustomObj91__c,
+      salesforce.TestCustomObj92__c,
+      salesforce.TestCustomObj93__c,
+      salesforce.TestCustomObj94__c,
+      salesforce.TestCustomObj95__c,
+      salesforce.TestCustomObj96__c,
+      salesforce.TestCustomObj97__c,
+      salesforce.TestCustomObj98__c,
+      salesforce.TestCustomObj99__c,
+      salesforce.TestCustomObj9__c,
+    ]
+    inlineHelpText = "Source entity for reference entities that have made allocations"
+    createable = true
+    updateable = false
+    relationshipName = "SourceEntity"
+    queryable = true
+  }
+  salesforce.Lookup DestinationEntityId {
+    apiName = "FinanceTransaction.DestinationEntityId"
+    label = "DestinationEntity ID"
+    referenceTo = [
+      salesforce.CreditMemo,
+      salesforce.CreditMemoInvApplication,
+      salesforce.CreditMemoLine,
+      salesforce.Invoice,
+      salesforce.InvoiceLine,
+      salesforce.Payment,
+      salesforce.PaymentLineInvoice,
+      salesforce.Refund,
+      salesforce.RefundLinePayment,
+      salesforce.TestCustomObj100__c,
+      salesforce.TestCustomObj101__c,
+      salesforce.TestCustomObj102__c,
+      salesforce.TestCustomObj103__c,
+      salesforce.TestCustomObj104__c,
+      salesforce.TestCustomObj105__c,
+      salesforce.TestCustomObj106__c,
+      salesforce.TestCustomObj107__c,
+      salesforce.TestCustomObj108__c,
+      salesforce.TestCustomObj109__c,
+      salesforce.TestCustomObj10__c,
+      salesforce.TestCustomObj110__c,
+      salesforce.TestCustomObj111__c,
+      salesforce.TestCustomObj112__c,
+      salesforce.TestCustomObj113__c,
+      salesforce.TestCustomObj114__c,
+      salesforce.TestCustomObj115__c,
+      salesforce.TestCustomObj116__c,
+      salesforce.TestCustomObj117__c,
+      salesforce.TestCustomObj118__c,
+      salesforce.TestCustomObj119__c,
+      salesforce.TestCustomObj11__c,
+      salesforce.TestCustomObj120__c,
+      salesforce.TestCustomObj121__c,
+      salesforce.TestCustomObj122__c,
+      salesforce.TestCustomObj123__c,
+      salesforce.TestCustomObj124__c,
+      salesforce.TestCustomObj125__c,
+      salesforce.TestCustomObj126__c,
+      salesforce.TestCustomObj127__c,
+      salesforce.TestCustomObj128__c,
+      salesforce.TestCustomObj129__c,
+      salesforce.TestCustomObj12__c,
+      salesforce.TestCustomObj130__c,
+      salesforce.TestCustomObj131__c,
+      salesforce.TestCustomObj132__c,
+      salesforce.TestCustomObj133__c,
+      salesforce.TestCustomObj134__c,
+      salesforce.TestCustomObj135__c,
+      salesforce.TestCustomObj136__c,
+      salesforce.TestCustomObj137__c,
+      salesforce.TestCustomObj138__c,
+      salesforce.TestCustomObj139__c,
+      salesforce.TestCustomObj13__c,
+      salesforce.TestCustomObj140__c,
+      salesforce.TestCustomObj141__c,
+      salesforce.TestCustomObj142__c,
+      salesforce.TestCustomObj143__c,
+      salesforce.TestCustomObj144__c,
+      salesforce.TestCustomObj145__c,
+      salesforce.TestCustomObj146__c,
+      salesforce.TestCustomObj147__c,
+      salesforce.TestCustomObj148__c,
+      salesforce.TestCustomObj149__c,
+      salesforce.TestCustomObj14__c,
+      salesforce.TestCustomObj150__c,
+      salesforce.TestCustomObj151__c,
+      salesforce.TestCustomObj152__c,
+      salesforce.TestCustomObj153__c,
+      salesforce.TestCustomObj154__c,
+      salesforce.TestCustomObj155__c,
+      salesforce.TestCustomObj156__c,
+      salesforce.TestCustomObj157__c,
+      salesforce.TestCustomObj158__c,
+      salesforce.TestCustomObj159__c,
+      salesforce.TestCustomObj15__c,
+      salesforce.TestCustomObj160__c,
+      salesforce.TestCustomObj161__c,
+      salesforce.TestCustomObj162__c,
+      salesforce.TestCustomObj163__c,
+      salesforce.TestCustomObj164__c,
+      salesforce.TestCustomObj165__c,
+      salesforce.TestCustomObj166__c,
+      salesforce.TestCustomObj167__c,
+      salesforce.TestCustomObj168__c,
+      salesforce.TestCustomObj169__c,
+      salesforce.TestCustomObj16__c,
+      salesforce.TestCustomObj170__c,
+      salesforce.TestCustomObj171__c,
+      salesforce.TestCustomObj172__c,
+      salesforce.TestCustomObj173__c,
+      salesforce.TestCustomObj174__c,
+      salesforce.TestCustomObj175__c,
+      salesforce.TestCustomObj176__c,
+      salesforce.TestCustomObj177__c,
+      salesforce.TestCustomObj178__c,
+      salesforce.TestCustomObj179__c,
+      salesforce.TestCustomObj17__c,
+      salesforce.TestCustomObj180__c,
+      salesforce.TestCustomObj181__c,
+      salesforce.TestCustomObj182__c,
+      salesforce.TestCustomObj183__c,
+      salesforce.TestCustomObj184__c,
+      salesforce.TestCustomObj185__c,
+      salesforce.TestCustomObj186__c,
+      salesforce.TestCustomObj187__c,
+      salesforce.TestCustomObj188__c,
+      salesforce.TestCustomObj189__c,
+      salesforce.TestCustomObj18__c,
+      salesforce.TestCustomObj190__c,
+      salesforce.TestCustomObj191__c,
+      salesforce.TestCustomObj192__c,
+      salesforce.TestCustomObj193__c,
+      salesforce.TestCustomObj194__c,
+      salesforce.TestCustomObj195__c,
+      salesforce.TestCustomObj196__c,
+      salesforce.TestCustomObj197__c,
+      salesforce.TestCustomObj198__c,
+      salesforce.TestCustomObj199__c,
+      salesforce.TestCustomObj19__c,
+      salesforce.TestCustomObj1__c,
+      salesforce.TestCustomObj200__c,
+      salesforce.TestCustomObj201__c,
+      salesforce.TestCustomObj202__c,
+      salesforce.TestCustomObj203__c,
+      salesforce.TestCustomObj204__c,
+      salesforce.TestCustomObj205__c,
+      salesforce.TestCustomObj206__c,
+      salesforce.TestCustomObj207__c,
+      salesforce.TestCustomObj208__c,
+      salesforce.TestCustomObj209__c,
+      salesforce.TestCustomObj20__c,
+      salesforce.TestCustomObj210__c,
+      salesforce.TestCustomObj211__c,
+      salesforce.TestCustomObj212__c,
+      salesforce.TestCustomObj213__c,
+      salesforce.TestCustomObj214__c,
+      salesforce.TestCustomObj215__c,
+      salesforce.TestCustomObj216__c,
+      salesforce.TestCustomObj217__c,
+      salesforce.TestCustomObj218__c,
+      salesforce.TestCustomObj219__c,
+      salesforce.TestCustomObj21__c,
+      salesforce.TestCustomObj220__c,
+      salesforce.TestCustomObj221__c,
+      salesforce.TestCustomObj222__c,
+      salesforce.TestCustomObj223__c,
+      salesforce.TestCustomObj224__c,
+      salesforce.TestCustomObj225__c,
+      salesforce.TestCustomObj226__c,
+      salesforce.TestCustomObj227__c,
+      salesforce.TestCustomObj228__c,
+      salesforce.TestCustomObj229__c,
+      salesforce.TestCustomObj22__c,
+      salesforce.TestCustomObj230__c,
+      salesforce.TestCustomObj231__c,
+      salesforce.TestCustomObj232__c,
+      salesforce.TestCustomObj233__c,
+      salesforce.TestCustomObj234__c,
+      salesforce.TestCustomObj235__c,
+      salesforce.TestCustomObj236__c,
+      salesforce.TestCustomObj237__c,
+      salesforce.TestCustomObj238__c,
+      salesforce.TestCustomObj239__c,
+      salesforce.TestCustomObj23__c,
+      salesforce.TestCustomObj240__c,
+      salesforce.TestCustomObj241__c,
+      salesforce.TestCustomObj242__c,
+      salesforce.TestCustomObj243__c,
+      salesforce.TestCustomObj244__c,
+      salesforce.TestCustomObj245__c,
+      salesforce.TestCustomObj246__c,
+      salesforce.TestCustomObj247__c,
+      salesforce.TestCustomObj248__c,
+      salesforce.TestCustomObj249__c,
+      salesforce.TestCustomObj24__c,
+      salesforce.TestCustomObj250__c,
+      salesforce.TestCustomObj251__c,
+      salesforce.TestCustomObj252__c,
+      salesforce.TestCustomObj253__c,
+      salesforce.TestCustomObj254__c,
+      salesforce.TestCustomObj255__c,
+      salesforce.TestCustomObj256__c,
+      salesforce.TestCustomObj257__c,
+      salesforce.TestCustomObj258__c,
+      salesforce.TestCustomObj259__c,
+      salesforce.TestCustomObj25__c,
+      salesforce.TestCustomObj260__c,
+      salesforce.TestCustomObj261__c,
+      salesforce.TestCustomObj262__c,
+      salesforce.TestCustomObj263__c,
+      salesforce.TestCustomObj264__c,
+      salesforce.TestCustomObj265__c,
+      salesforce.TestCustomObj266__c,
+      salesforce.TestCustomObj267__c,
+      salesforce.TestCustomObj268__c,
+      salesforce.TestCustomObj269__c,
+      salesforce.TestCustomObj26__c,
+      salesforce.TestCustomObj270__c,
+      salesforce.TestCustomObj271__c,
+      salesforce.TestCustomObj272__c,
+      salesforce.TestCustomObj273__c,
+      salesforce.TestCustomObj274__c,
+      salesforce.TestCustomObj275__c,
+      salesforce.TestCustomObj276__c,
+      salesforce.TestCustomObj277__c,
+      salesforce.TestCustomObj278__c,
+      salesforce.TestCustomObj279__c,
+      salesforce.TestCustomObj27__c,
+      salesforce.TestCustomObj280__c,
+      salesforce.TestCustomObj281__c,
+      salesforce.TestCustomObj282__c,
+      salesforce.TestCustomObj283__c,
+      salesforce.TestCustomObj284__c,
+      salesforce.TestCustomObj285__c,
+      salesforce.TestCustomObj286__c,
+      salesforce.TestCustomObj287__c,
+      salesforce.TestCustomObj288__c,
+      salesforce.TestCustomObj289__c,
+      salesforce.TestCustomObj28__c,
+      salesforce.TestCustomObj290__c,
+      salesforce.TestCustomObj291__c,
+      salesforce.TestCustomObj292__c,
+      salesforce.TestCustomObj293__c,
+      salesforce.TestCustomObj294__c,
+      salesforce.TestCustomObj295__c,
+      salesforce.TestCustomObj296__c,
+      salesforce.TestCustomObj297__c,
+      salesforce.TestCustomObj298__c,
+      salesforce.TestCustomObj299__c,
+      salesforce.TestCustomObj29__c,
+      salesforce.TestCustomObj2__c,
+      salesforce.TestCustomObj300__c,
+      salesforce.TestCustomObj301__c,
+      salesforce.TestCustomObj302__c,
+      salesforce.TestCustomObj303__c,
+      salesforce.TestCustomObj304__c,
+      salesforce.TestCustomObj305__c,
+      salesforce.TestCustomObj306__c,
+      salesforce.TestCustomObj307__c,
+      salesforce.TestCustomObj308__c,
+      salesforce.TestCustomObj309__c,
+      salesforce.TestCustomObj30__c,
+      salesforce.TestCustomObj310__c,
+      salesforce.TestCustomObj311__c,
+      salesforce.TestCustomObj312__c,
+      salesforce.TestCustomObj313__c,
+      salesforce.TestCustomObj314__c,
+      salesforce.TestCustomObj315__c,
+      salesforce.TestCustomObj316__c,
+      salesforce.TestCustomObj317__c,
+      salesforce.TestCustomObj318__c,
+      salesforce.TestCustomObj319__c,
+      salesforce.TestCustomObj31__c,
+      salesforce.TestCustomObj320__c,
+      salesforce.TestCustomObj321__c,
+      salesforce.TestCustomObj322__c,
+      salesforce.TestCustomObj323__c,
+      salesforce.TestCustomObj324__c,
+      salesforce.TestCustomObj325__c,
+      salesforce.TestCustomObj326__c,
+      salesforce.TestCustomObj327__c,
+      salesforce.TestCustomObj328__c,
+      salesforce.TestCustomObj329__c,
+      salesforce.TestCustomObj32__c,
+      salesforce.TestCustomObj330__c,
+      salesforce.TestCustomObj331__c,
+      salesforce.TestCustomObj332__c,
+      salesforce.TestCustomObj333__c,
+      salesforce.TestCustomObj334__c,
+      salesforce.TestCustomObj335__c,
+      salesforce.TestCustomObj336__c,
+      salesforce.TestCustomObj337__c,
+      salesforce.TestCustomObj338__c,
+      salesforce.TestCustomObj339__c,
+      salesforce.TestCustomObj33__c,
+      salesforce.TestCustomObj340__c,
+      salesforce.TestCustomObj341__c,
+      salesforce.TestCustomObj342__c,
+      salesforce.TestCustomObj343__c,
+      salesforce.TestCustomObj344__c,
+      salesforce.TestCustomObj345__c,
+      salesforce.TestCustomObj346__c,
+      salesforce.TestCustomObj347__c,
+      salesforce.TestCustomObj348__c,
+      salesforce.TestCustomObj349__c,
+      salesforce.TestCustomObj34__c,
+      salesforce.TestCustomObj350__c,
+      salesforce.TestCustomObj351__c,
+      salesforce.TestCustomObj352__c,
+      salesforce.TestCustomObj353__c,
+      salesforce.TestCustomObj354__c,
+      salesforce.TestCustomObj355__c,
+      salesforce.TestCustomObj356__c,
+      salesforce.TestCustomObj357__c,
+      salesforce.TestCustomObj358__c,
+      salesforce.TestCustomObj359__c,
+      salesforce.TestCustomObj35__c,
+      salesforce.TestCustomObj360__c,
+      salesforce.TestCustomObj361__c,
+      salesforce.TestCustomObj362__c,
+      salesforce.TestCustomObj363__c,
+      salesforce.TestCustomObj364__c,
+      salesforce.TestCustomObj365__c,
+      salesforce.TestCustomObj366__c,
+      salesforce.TestCustomObj367__c,
+      salesforce.TestCustomObj368__c,
+      salesforce.TestCustomObj369__c,
+      salesforce.TestCustomObj36__c,
+      salesforce.TestCustomObj370__c,
+      salesforce.TestCustomObj371__c,
+      salesforce.TestCustomObj372__c,
+      salesforce.TestCustomObj373__c,
+      salesforce.TestCustomObj374__c,
+      salesforce.TestCustomObj375__c,
+      salesforce.TestCustomObj376__c,
+      salesforce.TestCustomObj377__c,
+      salesforce.TestCustomObj378__c,
+      salesforce.TestCustomObj379__c,
+      salesforce.TestCustomObj37__c,
+      salesforce.TestCustomObj380__c,
+      salesforce.TestCustomObj381__c,
+      salesforce.TestCustomObj382__c,
+      salesforce.TestCustomObj383__c,
+      salesforce.TestCustomObj384__c,
+      salesforce.TestCustomObj385__c,
+      salesforce.TestCustomObj386__c,
+      salesforce.TestCustomObj387__c,
+      salesforce.TestCustomObj388__c,
+      salesforce.TestCustomObj389__c,
+      salesforce.TestCustomObj38__c,
+      salesforce.TestCustomObj390__c,
+      salesforce.TestCustomObj391__c,
+      salesforce.TestCustomObj392__c,
+      salesforce.TestCustomObj393__c,
+      salesforce.TestCustomObj394__c,
+      salesforce.TestCustomObj395__c,
+      salesforce.TestCustomObj396__c,
+      salesforce.TestCustomObj397__c,
+      salesforce.TestCustomObj398__c,
+      salesforce.TestCustomObj399__c,
+      salesforce.TestCustomObj39__c,
+      salesforce.TestCustomObj3__c,
+      salesforce.TestCustomObj40__c,
+      salesforce.TestCustomObj41__c,
+      salesforce.TestCustomObj42__c,
+      salesforce.TestCustomObj43__c,
+      salesforce.TestCustomObj44__c,
+      salesforce.TestCustomObj45__c,
+      salesforce.TestCustomObj46__c,
+      salesforce.TestCustomObj47__c,
+      salesforce.TestCustomObj48__c,
+      salesforce.TestCustomObj49__c,
+      salesforce.TestCustomObj4__c,
+      salesforce.TestCustomObj50__c,
+      salesforce.TestCustomObj51__c,
+      salesforce.TestCustomObj52__c,
+      salesforce.TestCustomObj53__c,
+      salesforce.TestCustomObj54__c,
+      salesforce.TestCustomObj55__c,
+      salesforce.TestCustomObj56__c,
+      salesforce.TestCustomObj57__c,
+      salesforce.TestCustomObj58__c,
+      salesforce.TestCustomObj59__c,
+      salesforce.TestCustomObj5__c,
+      salesforce.TestCustomObj60__c,
+      salesforce.TestCustomObj61__c,
+      salesforce.TestCustomObj62__c,
+      salesforce.TestCustomObj63__c,
+      salesforce.TestCustomObj64__c,
+      salesforce.TestCustomObj65__c,
+      salesforce.TestCustomObj66__c,
+      salesforce.TestCustomObj67__c,
+      salesforce.TestCustomObj68__c,
+      salesforce.TestCustomObj69__c,
+      salesforce.TestCustomObj6__c,
+      salesforce.TestCustomObj70__c,
+      salesforce.TestCustomObj71__c,
+      salesforce.TestCustomObj72__c,
+      salesforce.TestCustomObj73__c,
+      salesforce.TestCustomObj74__c,
+      salesforce.TestCustomObj75__c,
+      salesforce.TestCustomObj76__c,
+      salesforce.TestCustomObj77__c,
+      salesforce.TestCustomObj78__c,
+      salesforce.TestCustomObj79__c,
+      salesforce.TestCustomObj7__c,
+      salesforce.TestCustomObj80__c,
+      salesforce.TestCustomObj81__c,
+      salesforce.TestCustomObj82__c,
+      salesforce.TestCustomObj83__c,
+      salesforce.TestCustomObj84__c,
+      salesforce.TestCustomObj85__c,
+      salesforce.TestCustomObj86__c,
+      salesforce.TestCustomObj87__c,
+      salesforce.TestCustomObj88__c,
+      salesforce.TestCustomObj89__c,
+      salesforce.TestCustomObj8__c,
+      salesforce.TestCustomObj90__c,
+      salesforce.TestCustomObj91__c,
+      salesforce.TestCustomObj92__c,
+      salesforce.TestCustomObj93__c,
+      salesforce.TestCustomObj94__c,
+      salesforce.TestCustomObj95__c,
+      salesforce.TestCustomObj96__c,
+      salesforce.TestCustomObj97__c,
+      salesforce.TestCustomObj98__c,
+      salesforce.TestCustomObj99__c,
+      salesforce.TestCustomObj9__c,
+    ]
+    inlineHelpText = "Target entity for reference entities that have made allocations"
+    createable = true
+    updateable = false
+    relationshipName = "DestinationEntity"
+    queryable = true
+  }
+  salesforce.DateTime TransactionDate {
+    apiName = "FinanceTransaction.TransactionDate"
+    label = "Transaction Date"
+    _required = true
+    inlineHelpText = "The date when the finance transaction occurred"
+    createable = true
+    updateable = false
+    queryable = true
+  }
+  salesforce.DateTime EffectiveDate {
+    apiName = "FinanceTransaction.EffectiveDate"
+    label = "Effective Date"
+    _required = true
+    inlineHelpText = "The date when the financial transaction takes effect"
+    createable = true
+    updateable = false
+    queryable = true
+  }
+  salesforce.DateTime DueDate {
+    apiName = "FinanceTransaction.DueDate"
+    label = "Due Date"
+    inlineHelpText = "Date when the invoice is due"
+    createable = true
+    updateable = false
+    queryable = true
+  }
+  salesforce.Text BaseCurrencyIsoCode {
+    apiName = "FinanceTransaction.BaseCurrencyIsoCode"
+    label = "Base Currency ISO Code"
+    inlineHelpText = "Currency of the country defined for this account. Define this value to use later when you calculate currency conversions."
+    createable = true
+    updateable = false
+    unique = false
+    caseSensitive = false
+    length = 3
+    queryable = true
+  }
+  salesforce.Number BaseCurrencyFxRate {
+    apiName = "FinanceTransaction.BaseCurrencyFxRate"
+    label = "Base Currency FX Rate"
+    precision = 18
+    scale = 2
+    inlineHelpText = "Rate of exchange according to the Base Currency FX Date. Define this value to use later when you calculate currency conversions."
+    createable = true
+    updateable = false
+    unique = false
+    queryable = true
+  }
+  salesforce.Date BaseCurrencyFxDate {
+    apiName = "FinanceTransaction.BaseCurrencyFxDate"
+    label = "Base Currency FX Date"
+    inlineHelpText = "Date used to determine the foreign exchange rate. Define this value to use later when you calculate currency conversions."
+    createable = true
+    updateable = false
+    queryable = true
+  }
+  salesforce.Currency BaseCurrencyAmount {
+    apiName = "FinanceTransaction.BaseCurrencyAmount"
+    label = "Base Currency Amount"
+    inlineHelpText = "Define this value based on any currency conversion needed for the total amount with tax."
+    createable = true
+    updateable = false
+    scale = 2
+    precision = 18
+    queryable = true
+  }
+  salesforce.Currency BaseCurrencyBalance {
+    apiName = "FinanceTransaction.BaseCurrencyBalance"
+    label = "Base Currency Balance"
+    inlineHelpText = "Define this value based on any currency conversion needed for the resulting balance."
+    createable = true
+    updateable = false
+    scale = 2
+    precision = 18
+    queryable = true
+  }
+  salesforce.Lookup LegalEntityId {
+    apiName = "FinanceTransaction.LegalEntityId"
+    label = "Legal Entity ID"
+    referenceTo = [
+      salesforce.LegalEntity,
+      salesforce.TestCustomObj100__c,
+      salesforce.TestCustomObj101__c,
+      salesforce.TestCustomObj102__c,
+      salesforce.TestCustomObj103__c,
+      salesforce.TestCustomObj104__c,
+      salesforce.TestCustomObj105__c,
+      salesforce.TestCustomObj106__c,
+      salesforce.TestCustomObj107__c,
+      salesforce.TestCustomObj108__c,
+      salesforce.TestCustomObj109__c,
+      salesforce.TestCustomObj10__c,
+      salesforce.TestCustomObj110__c,
+      salesforce.TestCustomObj111__c,
+      salesforce.TestCustomObj112__c,
+      salesforce.TestCustomObj113__c,
+      salesforce.TestCustomObj114__c,
+      salesforce.TestCustomObj115__c,
+      salesforce.TestCustomObj116__c,
+      salesforce.TestCustomObj117__c,
+      salesforce.TestCustomObj118__c,
+      salesforce.TestCustomObj119__c,
+      salesforce.TestCustomObj11__c,
+      salesforce.TestCustomObj120__c,
+      salesforce.TestCustomObj121__c,
+      salesforce.TestCustomObj122__c,
+      salesforce.TestCustomObj123__c,
+      salesforce.TestCustomObj124__c,
+      salesforce.TestCustomObj125__c,
+      salesforce.TestCustomObj126__c,
+      salesforce.TestCustomObj127__c,
+      salesforce.TestCustomObj128__c,
+      salesforce.TestCustomObj129__c,
+      salesforce.TestCustomObj12__c,
+      salesforce.TestCustomObj130__c,
+      salesforce.TestCustomObj131__c,
+      salesforce.TestCustomObj132__c,
+      salesforce.TestCustomObj133__c,
+      salesforce.TestCustomObj134__c,
+      salesforce.TestCustomObj135__c,
+      salesforce.TestCustomObj136__c,
+      salesforce.TestCustomObj137__c,
+      salesforce.TestCustomObj138__c,
+      salesforce.TestCustomObj139__c,
+      salesforce.TestCustomObj13__c,
+      salesforce.TestCustomObj140__c,
+      salesforce.TestCustomObj141__c,
+      salesforce.TestCustomObj142__c,
+      salesforce.TestCustomObj143__c,
+      salesforce.TestCustomObj144__c,
+      salesforce.TestCustomObj145__c,
+      salesforce.TestCustomObj146__c,
+      salesforce.TestCustomObj147__c,
+      salesforce.TestCustomObj148__c,
+      salesforce.TestCustomObj149__c,
+      salesforce.TestCustomObj14__c,
+      salesforce.TestCustomObj150__c,
+      salesforce.TestCustomObj151__c,
+      salesforce.TestCustomObj152__c,
+      salesforce.TestCustomObj153__c,
+      salesforce.TestCustomObj154__c,
+      salesforce.TestCustomObj155__c,
+      salesforce.TestCustomObj156__c,
+      salesforce.TestCustomObj157__c,
+      salesforce.TestCustomObj158__c,
+      salesforce.TestCustomObj159__c,
+      salesforce.TestCustomObj15__c,
+      salesforce.TestCustomObj160__c,
+      salesforce.TestCustomObj161__c,
+      salesforce.TestCustomObj162__c,
+      salesforce.TestCustomObj163__c,
+      salesforce.TestCustomObj164__c,
+      salesforce.TestCustomObj165__c,
+      salesforce.TestCustomObj166__c,
+      salesforce.TestCustomObj167__c,
+      salesforce.TestCustomObj168__c,
+      salesforce.TestCustomObj169__c,
+      salesforce.TestCustomObj16__c,
+      salesforce.TestCustomObj170__c,
+      salesforce.TestCustomObj171__c,
+      salesforce.TestCustomObj172__c,
+      salesforce.TestCustomObj173__c,
+      salesforce.TestCustomObj174__c,
+      salesforce.TestCustomObj175__c,
+      salesforce.TestCustomObj176__c,
+      salesforce.TestCustomObj177__c,
+      salesforce.TestCustomObj178__c,
+      salesforce.TestCustomObj179__c,
+      salesforce.TestCustomObj17__c,
+      salesforce.TestCustomObj180__c,
+      salesforce.TestCustomObj181__c,
+      salesforce.TestCustomObj182__c,
+      salesforce.TestCustomObj183__c,
+      salesforce.TestCustomObj184__c,
+      salesforce.TestCustomObj185__c,
+      salesforce.TestCustomObj186__c,
+      salesforce.TestCustomObj187__c,
+      salesforce.TestCustomObj188__c,
+      salesforce.TestCustomObj189__c,
+      salesforce.TestCustomObj18__c,
+      salesforce.TestCustomObj190__c,
+      salesforce.TestCustomObj191__c,
+      salesforce.TestCustomObj192__c,
+      salesforce.TestCustomObj193__c,
+      salesforce.TestCustomObj194__c,
+      salesforce.TestCustomObj195__c,
+      salesforce.TestCustomObj196__c,
+      salesforce.TestCustomObj197__c,
+      salesforce.TestCustomObj198__c,
+      salesforce.TestCustomObj199__c,
+      salesforce.TestCustomObj19__c,
+      salesforce.TestCustomObj1__c,
+      salesforce.TestCustomObj200__c,
+      salesforce.TestCustomObj201__c,
+      salesforce.TestCustomObj202__c,
+      salesforce.TestCustomObj203__c,
+      salesforce.TestCustomObj204__c,
+      salesforce.TestCustomObj205__c,
+      salesforce.TestCustomObj206__c,
+      salesforce.TestCustomObj207__c,
+      salesforce.TestCustomObj208__c,
+      salesforce.TestCustomObj209__c,
+      salesforce.TestCustomObj20__c,
+      salesforce.TestCustomObj210__c,
+      salesforce.TestCustomObj211__c,
+      salesforce.TestCustomObj212__c,
+      salesforce.TestCustomObj213__c,
+      salesforce.TestCustomObj214__c,
+      salesforce.TestCustomObj215__c,
+      salesforce.TestCustomObj216__c,
+      salesforce.TestCustomObj217__c,
+      salesforce.TestCustomObj218__c,
+      salesforce.TestCustomObj219__c,
+      salesforce.TestCustomObj21__c,
+      salesforce.TestCustomObj220__c,
+      salesforce.TestCustomObj221__c,
+      salesforce.TestCustomObj222__c,
+      salesforce.TestCustomObj223__c,
+      salesforce.TestCustomObj224__c,
+      salesforce.TestCustomObj225__c,
+      salesforce.TestCustomObj226__c,
+      salesforce.TestCustomObj227__c,
+      salesforce.TestCustomObj228__c,
+      salesforce.TestCustomObj229__c,
+      salesforce.TestCustomObj22__c,
+      salesforce.TestCustomObj230__c,
+      salesforce.TestCustomObj231__c,
+      salesforce.TestCustomObj232__c,
+      salesforce.TestCustomObj233__c,
+      salesforce.TestCustomObj234__c,
+      salesforce.TestCustomObj235__c,
+      salesforce.TestCustomObj236__c,
+      salesforce.TestCustomObj237__c,
+      salesforce.TestCustomObj238__c,
+      salesforce.TestCustomObj239__c,
+      salesforce.TestCustomObj23__c,
+      salesforce.TestCustomObj240__c,
+      salesforce.TestCustomObj241__c,
+      salesforce.TestCustomObj242__c,
+      salesforce.TestCustomObj243__c,
+      salesforce.TestCustomObj244__c,
+      salesforce.TestCustomObj245__c,
+      salesforce.TestCustomObj246__c,
+      salesforce.TestCustomObj247__c,
+      salesforce.TestCustomObj248__c,
+      salesforce.TestCustomObj249__c,
+      salesforce.TestCustomObj24__c,
+      salesforce.TestCustomObj250__c,
+      salesforce.TestCustomObj251__c,
+      salesforce.TestCustomObj252__c,
+      salesforce.TestCustomObj253__c,
+      salesforce.TestCustomObj254__c,
+      salesforce.TestCustomObj255__c,
+      salesforce.TestCustomObj256__c,
+      salesforce.TestCustomObj257__c,
+      salesforce.TestCustomObj258__c,
+      salesforce.TestCustomObj259__c,
+      salesforce.TestCustomObj25__c,
+      salesforce.TestCustomObj260__c,
+      salesforce.TestCustomObj261__c,
+      salesforce.TestCustomObj262__c,
+      salesforce.TestCustomObj263__c,
+      salesforce.TestCustomObj264__c,
+      salesforce.TestCustomObj265__c,
+      salesforce.TestCustomObj266__c,
+      salesforce.TestCustomObj267__c,
+      salesforce.TestCustomObj268__c,
+      salesforce.TestCustomObj269__c,
+      salesforce.TestCustomObj26__c,
+      salesforce.TestCustomObj270__c,
+      salesforce.TestCustomObj271__c,
+      salesforce.TestCustomObj272__c,
+      salesforce.TestCustomObj273__c,
+      salesforce.TestCustomObj274__c,
+      salesforce.TestCustomObj275__c,
+      salesforce.TestCustomObj276__c,
+      salesforce.TestCustomObj277__c,
+      salesforce.TestCustomObj278__c,
+      salesforce.TestCustomObj279__c,
+      salesforce.TestCustomObj27__c,
+      salesforce.TestCustomObj280__c,
+      salesforce.TestCustomObj281__c,
+      salesforce.TestCustomObj282__c,
+      salesforce.TestCustomObj283__c,
+      salesforce.TestCustomObj284__c,
+      salesforce.TestCustomObj285__c,
+      salesforce.TestCustomObj286__c,
+      salesforce.TestCustomObj287__c,
+      salesforce.TestCustomObj288__c,
+      salesforce.TestCustomObj289__c,
+      salesforce.TestCustomObj28__c,
+      salesforce.TestCustomObj290__c,
+      salesforce.TestCustomObj291__c,
+      salesforce.TestCustomObj292__c,
+      salesforce.TestCustomObj293__c,
+      salesforce.TestCustomObj294__c,
+      salesforce.TestCustomObj295__c,
+      salesforce.TestCustomObj296__c,
+      salesforce.TestCustomObj297__c,
+      salesforce.TestCustomObj298__c,
+      salesforce.TestCustomObj299__c,
+      salesforce.TestCustomObj29__c,
+      salesforce.TestCustomObj2__c,
+      salesforce.TestCustomObj300__c,
+      salesforce.TestCustomObj301__c,
+      salesforce.TestCustomObj302__c,
+      salesforce.TestCustomObj303__c,
+      salesforce.TestCustomObj304__c,
+      salesforce.TestCustomObj305__c,
+      salesforce.TestCustomObj306__c,
+      salesforce.TestCustomObj307__c,
+      salesforce.TestCustomObj308__c,
+      salesforce.TestCustomObj309__c,
+      salesforce.TestCustomObj30__c,
+      salesforce.TestCustomObj310__c,
+      salesforce.TestCustomObj311__c,
+      salesforce.TestCustomObj312__c,
+      salesforce.TestCustomObj313__c,
+      salesforce.TestCustomObj314__c,
+      salesforce.TestCustomObj315__c,
+      salesforce.TestCustomObj316__c,
+      salesforce.TestCustomObj317__c,
+      salesforce.TestCustomObj318__c,
+      salesforce.TestCustomObj319__c,
+      salesforce.TestCustomObj31__c,
+      salesforce.TestCustomObj320__c,
+      salesforce.TestCustomObj321__c,
+      salesforce.TestCustomObj322__c,
+      salesforce.TestCustomObj323__c,
+      salesforce.TestCustomObj324__c,
+      salesforce.TestCustomObj325__c,
+      salesforce.TestCustomObj326__c,
+      salesforce.TestCustomObj327__c,
+      salesforce.TestCustomObj328__c,
+      salesforce.TestCustomObj329__c,
+      salesforce.TestCustomObj32__c,
+      salesforce.TestCustomObj330__c,
+      salesforce.TestCustomObj331__c,
+      salesforce.TestCustomObj332__c,
+      salesforce.TestCustomObj333__c,
+      salesforce.TestCustomObj334__c,
+      salesforce.TestCustomObj335__c,
+      salesforce.TestCustomObj336__c,
+      salesforce.TestCustomObj337__c,
+      salesforce.TestCustomObj338__c,
+      salesforce.TestCustomObj339__c,
+      salesforce.TestCustomObj33__c,
+      salesforce.TestCustomObj340__c,
+      salesforce.TestCustomObj341__c,
+      salesforce.TestCustomObj342__c,
+      salesforce.TestCustomObj343__c,
+      salesforce.TestCustomObj344__c,
+      salesforce.TestCustomObj345__c,
+      salesforce.TestCustomObj346__c,
+      salesforce.TestCustomObj347__c,
+      salesforce.TestCustomObj348__c,
+      salesforce.TestCustomObj349__c,
+      salesforce.TestCustomObj34__c,
+      salesforce.TestCustomObj350__c,
+      salesforce.TestCustomObj351__c,
+      salesforce.TestCustomObj352__c,
+      salesforce.TestCustomObj353__c,
+      salesforce.TestCustomObj354__c,
+      salesforce.TestCustomObj355__c,
+      salesforce.TestCustomObj356__c,
+      salesforce.TestCustomObj357__c,
+      salesforce.TestCustomObj358__c,
+      salesforce.TestCustomObj359__c,
+      salesforce.TestCustomObj35__c,
+      salesforce.TestCustomObj360__c,
+      salesforce.TestCustomObj361__c,
+      salesforce.TestCustomObj362__c,
+      salesforce.TestCustomObj363__c,
+      salesforce.TestCustomObj364__c,
+      salesforce.TestCustomObj365__c,
+      salesforce.TestCustomObj366__c,
+      salesforce.TestCustomObj367__c,
+      salesforce.TestCustomObj368__c,
+      salesforce.TestCustomObj369__c,
+      salesforce.TestCustomObj36__c,
+      salesforce.TestCustomObj370__c,
+      salesforce.TestCustomObj371__c,
+      salesforce.TestCustomObj372__c,
+      salesforce.TestCustomObj373__c,
+      salesforce.TestCustomObj374__c,
+      salesforce.TestCustomObj375__c,
+      salesforce.TestCustomObj376__c,
+      salesforce.TestCustomObj377__c,
+      salesforce.TestCustomObj378__c,
+      salesforce.TestCustomObj379__c,
+      salesforce.TestCustomObj37__c,
+      salesforce.TestCustomObj380__c,
+      salesforce.TestCustomObj381__c,
+      salesforce.TestCustomObj382__c,
+      salesforce.TestCustomObj383__c,
+      salesforce.TestCustomObj384__c,
+      salesforce.TestCustomObj385__c,
+      salesforce.TestCustomObj386__c,
+      salesforce.TestCustomObj387__c,
+      salesforce.TestCustomObj388__c,
+      salesforce.TestCustomObj389__c,
+      salesforce.TestCustomObj38__c,
+      salesforce.TestCustomObj390__c,
+      salesforce.TestCustomObj391__c,
+      salesforce.TestCustomObj392__c,
+      salesforce.TestCustomObj393__c,
+      salesforce.TestCustomObj394__c,
+      salesforce.TestCustomObj395__c,
+      salesforce.TestCustomObj396__c,
+      salesforce.TestCustomObj397__c,
+      salesforce.TestCustomObj398__c,
+      salesforce.TestCustomObj399__c,
+      salesforce.TestCustomObj39__c,
+      salesforce.TestCustomObj3__c,
+      salesforce.TestCustomObj40__c,
+      salesforce.TestCustomObj41__c,
+      salesforce.TestCustomObj42__c,
+      salesforce.TestCustomObj43__c,
+      salesforce.TestCustomObj44__c,
+      salesforce.TestCustomObj45__c,
+      salesforce.TestCustomObj46__c,
+      salesforce.TestCustomObj47__c,
+      salesforce.TestCustomObj48__c,
+      salesforce.TestCustomObj49__c,
+      salesforce.TestCustomObj4__c,
+      salesforce.TestCustomObj50__c,
+      salesforce.TestCustomObj51__c,
+      salesforce.TestCustomObj52__c,
+      salesforce.TestCustomObj53__c,
+      salesforce.TestCustomObj54__c,
+      salesforce.TestCustomObj55__c,
+      salesforce.TestCustomObj56__c,
+      salesforce.TestCustomObj57__c,
+      salesforce.TestCustomObj58__c,
+      salesforce.TestCustomObj59__c,
+      salesforce.TestCustomObj5__c,
+      salesforce.TestCustomObj60__c,
+      salesforce.TestCustomObj61__c,
+      salesforce.TestCustomObj62__c,
+      salesforce.TestCustomObj63__c,
+      salesforce.TestCustomObj64__c,
+      salesforce.TestCustomObj65__c,
+      salesforce.TestCustomObj66__c,
+      salesforce.TestCustomObj67__c,
+      salesforce.TestCustomObj68__c,
+      salesforce.TestCustomObj69__c,
+      salesforce.TestCustomObj6__c,
+      salesforce.TestCustomObj70__c,
+      salesforce.TestCustomObj71__c,
+      salesforce.TestCustomObj72__c,
+      salesforce.TestCustomObj73__c,
+      salesforce.TestCustomObj74__c,
+      salesforce.TestCustomObj75__c,
+      salesforce.TestCustomObj76__c,
+      salesforce.TestCustomObj77__c,
+      salesforce.TestCustomObj78__c,
+      salesforce.TestCustomObj79__c,
+      salesforce.TestCustomObj7__c,
+      salesforce.TestCustomObj80__c,
+      salesforce.TestCustomObj81__c,
+      salesforce.TestCustomObj82__c,
+      salesforce.TestCustomObj83__c,
+      salesforce.TestCustomObj84__c,
+      salesforce.TestCustomObj85__c,
+      salesforce.TestCustomObj86__c,
+      salesforce.TestCustomObj87__c,
+      salesforce.TestCustomObj88__c,
+      salesforce.TestCustomObj89__c,
+      salesforce.TestCustomObj8__c,
+      salesforce.TestCustomObj90__c,
+      salesforce.TestCustomObj91__c,
+      salesforce.TestCustomObj92__c,
+      salesforce.TestCustomObj93__c,
+      salesforce.TestCustomObj94__c,
+      salesforce.TestCustomObj95__c,
+      salesforce.TestCustomObj96__c,
+      salesforce.TestCustomObj97__c,
+      salesforce.TestCustomObj98__c,
+      salesforce.TestCustomObj99__c,
+      salesforce.TestCustomObj9__c,
+    ]
+    inlineHelpText = "Legal entity associated with the finance transaction. This is an optional lookup that you can add to associate the finance transaction to GL rules for external ledger processing."
+    createable = true
+    updateable = false
+    relationshipName = "LegalEntity"
+    queryable = true
+  }
+  salesforce.Picklist CreationMode {
+    apiName = "FinanceTransaction.CreationMode"
+    label = "Creation Mode"
+    _required = true
+    valueSet = [
+      {
+        fullName = "Salesforce"
+        default = false
+        label = "Salesforce"
+        isActive = true
+      },
+      {
+        fullName = "External"
+        default = false
+        label = "External"
+        isActive = true
+      },
+    ]
+    restricted = true
+    inlineHelpText = "The process used to create the finance transactions"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup ParentReferenceEntityId {
+    apiName = "FinanceTransaction.ParentReferenceEntityId"
+    label = "ParentReferenceEntity ID"
+    referenceTo = [
+      salesforce.CreditMemo,
+      salesforce.CreditMemoInvApplication,
+      salesforce.CreditMemoLine,
+      salesforce.Invoice,
+      salesforce.InvoiceLine,
+      salesforce.Payment,
+      salesforce.PaymentLineInvoice,
+      salesforce.Refund,
+      salesforce.RefundLinePayment,
+      salesforce.TestCustomObj100__c,
+      salesforce.TestCustomObj101__c,
+      salesforce.TestCustomObj102__c,
+      salesforce.TestCustomObj103__c,
+      salesforce.TestCustomObj104__c,
+      salesforce.TestCustomObj105__c,
+      salesforce.TestCustomObj106__c,
+      salesforce.TestCustomObj107__c,
+      salesforce.TestCustomObj108__c,
+      salesforce.TestCustomObj109__c,
+      salesforce.TestCustomObj10__c,
+      salesforce.TestCustomObj110__c,
+      salesforce.TestCustomObj111__c,
+      salesforce.TestCustomObj112__c,
+      salesforce.TestCustomObj113__c,
+      salesforce.TestCustomObj114__c,
+      salesforce.TestCustomObj115__c,
+      salesforce.TestCustomObj116__c,
+      salesforce.TestCustomObj117__c,
+      salesforce.TestCustomObj118__c,
+      salesforce.TestCustomObj119__c,
+      salesforce.TestCustomObj11__c,
+      salesforce.TestCustomObj120__c,
+      salesforce.TestCustomObj121__c,
+      salesforce.TestCustomObj122__c,
+      salesforce.TestCustomObj123__c,
+      salesforce.TestCustomObj124__c,
+      salesforce.TestCustomObj125__c,
+      salesforce.TestCustomObj126__c,
+      salesforce.TestCustomObj127__c,
+      salesforce.TestCustomObj128__c,
+      salesforce.TestCustomObj129__c,
+      salesforce.TestCustomObj12__c,
+      salesforce.TestCustomObj130__c,
+      salesforce.TestCustomObj131__c,
+      salesforce.TestCustomObj132__c,
+      salesforce.TestCustomObj133__c,
+      salesforce.TestCustomObj134__c,
+      salesforce.TestCustomObj135__c,
+      salesforce.TestCustomObj136__c,
+      salesforce.TestCustomObj137__c,
+      salesforce.TestCustomObj138__c,
+      salesforce.TestCustomObj139__c,
+      salesforce.TestCustomObj13__c,
+      salesforce.TestCustomObj140__c,
+      salesforce.TestCustomObj141__c,
+      salesforce.TestCustomObj142__c,
+      salesforce.TestCustomObj143__c,
+      salesforce.TestCustomObj144__c,
+      salesforce.TestCustomObj145__c,
+      salesforce.TestCustomObj146__c,
+      salesforce.TestCustomObj147__c,
+      salesforce.TestCustomObj148__c,
+      salesforce.TestCustomObj149__c,
+      salesforce.TestCustomObj14__c,
+      salesforce.TestCustomObj150__c,
+      salesforce.TestCustomObj151__c,
+      salesforce.TestCustomObj152__c,
+      salesforce.TestCustomObj153__c,
+      salesforce.TestCustomObj154__c,
+      salesforce.TestCustomObj155__c,
+      salesforce.TestCustomObj156__c,
+      salesforce.TestCustomObj157__c,
+      salesforce.TestCustomObj158__c,
+      salesforce.TestCustomObj159__c,
+      salesforce.TestCustomObj15__c,
+      salesforce.TestCustomObj160__c,
+      salesforce.TestCustomObj161__c,
+      salesforce.TestCustomObj162__c,
+      salesforce.TestCustomObj163__c,
+      salesforce.TestCustomObj164__c,
+      salesforce.TestCustomObj165__c,
+      salesforce.TestCustomObj166__c,
+      salesforce.TestCustomObj167__c,
+      salesforce.TestCustomObj168__c,
+      salesforce.TestCustomObj169__c,
+      salesforce.TestCustomObj16__c,
+      salesforce.TestCustomObj170__c,
+      salesforce.TestCustomObj171__c,
+      salesforce.TestCustomObj172__c,
+      salesforce.TestCustomObj173__c,
+      salesforce.TestCustomObj174__c,
+      salesforce.TestCustomObj175__c,
+      salesforce.TestCustomObj176__c,
+      salesforce.TestCustomObj177__c,
+      salesforce.TestCustomObj178__c,
+      salesforce.TestCustomObj179__c,
+      salesforce.TestCustomObj17__c,
+      salesforce.TestCustomObj180__c,
+      salesforce.TestCustomObj181__c,
+      salesforce.TestCustomObj182__c,
+      salesforce.TestCustomObj183__c,
+      salesforce.TestCustomObj184__c,
+      salesforce.TestCustomObj185__c,
+      salesforce.TestCustomObj186__c,
+      salesforce.TestCustomObj187__c,
+      salesforce.TestCustomObj188__c,
+      salesforce.TestCustomObj189__c,
+      salesforce.TestCustomObj18__c,
+      salesforce.TestCustomObj190__c,
+      salesforce.TestCustomObj191__c,
+      salesforce.TestCustomObj192__c,
+      salesforce.TestCustomObj193__c,
+      salesforce.TestCustomObj194__c,
+      salesforce.TestCustomObj195__c,
+      salesforce.TestCustomObj196__c,
+      salesforce.TestCustomObj197__c,
+      salesforce.TestCustomObj198__c,
+      salesforce.TestCustomObj199__c,
+      salesforce.TestCustomObj19__c,
+      salesforce.TestCustomObj1__c,
+      salesforce.TestCustomObj200__c,
+      salesforce.TestCustomObj201__c,
+      salesforce.TestCustomObj202__c,
+      salesforce.TestCustomObj203__c,
+      salesforce.TestCustomObj204__c,
+      salesforce.TestCustomObj205__c,
+      salesforce.TestCustomObj206__c,
+      salesforce.TestCustomObj207__c,
+      salesforce.TestCustomObj208__c,
+      salesforce.TestCustomObj209__c,
+      salesforce.TestCustomObj20__c,
+      salesforce.TestCustomObj210__c,
+      salesforce.TestCustomObj211__c,
+      salesforce.TestCustomObj212__c,
+      salesforce.TestCustomObj213__c,
+      salesforce.TestCustomObj214__c,
+      salesforce.TestCustomObj215__c,
+      salesforce.TestCustomObj216__c,
+      salesforce.TestCustomObj217__c,
+      salesforce.TestCustomObj218__c,
+      salesforce.TestCustomObj219__c,
+      salesforce.TestCustomObj21__c,
+      salesforce.TestCustomObj220__c,
+      salesforce.TestCustomObj221__c,
+      salesforce.TestCustomObj222__c,
+      salesforce.TestCustomObj223__c,
+      salesforce.TestCustomObj224__c,
+      salesforce.TestCustomObj225__c,
+      salesforce.TestCustomObj226__c,
+      salesforce.TestCustomObj227__c,
+      salesforce.TestCustomObj228__c,
+      salesforce.TestCustomObj229__c,
+      salesforce.TestCustomObj22__c,
+      salesforce.TestCustomObj230__c,
+      salesforce.TestCustomObj231__c,
+      salesforce.TestCustomObj232__c,
+      salesforce.TestCustomObj233__c,
+      salesforce.TestCustomObj234__c,
+      salesforce.TestCustomObj235__c,
+      salesforce.TestCustomObj236__c,
+      salesforce.TestCustomObj237__c,
+      salesforce.TestCustomObj238__c,
+      salesforce.TestCustomObj239__c,
+      salesforce.TestCustomObj23__c,
+      salesforce.TestCustomObj240__c,
+      salesforce.TestCustomObj241__c,
+      salesforce.TestCustomObj242__c,
+      salesforce.TestCustomObj243__c,
+      salesforce.TestCustomObj244__c,
+      salesforce.TestCustomObj245__c,
+      salesforce.TestCustomObj246__c,
+      salesforce.TestCustomObj247__c,
+      salesforce.TestCustomObj248__c,
+      salesforce.TestCustomObj249__c,
+      salesforce.TestCustomObj24__c,
+      salesforce.TestCustomObj250__c,
+      salesforce.TestCustomObj251__c,
+      salesforce.TestCustomObj252__c,
+      salesforce.TestCustomObj253__c,
+      salesforce.TestCustomObj254__c,
+      salesforce.TestCustomObj255__c,
+      salesforce.TestCustomObj256__c,
+      salesforce.TestCustomObj257__c,
+      salesforce.TestCustomObj258__c,
+      salesforce.TestCustomObj259__c,
+      salesforce.TestCustomObj25__c,
+      salesforce.TestCustomObj260__c,
+      salesforce.TestCustomObj261__c,
+      salesforce.TestCustomObj262__c,
+      salesforce.TestCustomObj263__c,
+      salesforce.TestCustomObj264__c,
+      salesforce.TestCustomObj265__c,
+      salesforce.TestCustomObj266__c,
+      salesforce.TestCustomObj267__c,
+      salesforce.TestCustomObj268__c,
+      salesforce.TestCustomObj269__c,
+      salesforce.TestCustomObj26__c,
+      salesforce.TestCustomObj270__c,
+      salesforce.TestCustomObj271__c,
+      salesforce.TestCustomObj272__c,
+      salesforce.TestCustomObj273__c,
+      salesforce.TestCustomObj274__c,
+      salesforce.TestCustomObj275__c,
+      salesforce.TestCustomObj276__c,
+      salesforce.TestCustomObj277__c,
+      salesforce.TestCustomObj278__c,
+      salesforce.TestCustomObj279__c,
+      salesforce.TestCustomObj27__c,
+      salesforce.TestCustomObj280__c,
+      salesforce.TestCustomObj281__c,
+      salesforce.TestCustomObj282__c,
+      salesforce.TestCustomObj283__c,
+      salesforce.TestCustomObj284__c,
+      salesforce.TestCustomObj285__c,
+      salesforce.TestCustomObj286__c,
+      salesforce.TestCustomObj287__c,
+      salesforce.TestCustomObj288__c,
+      salesforce.TestCustomObj289__c,
+      salesforce.TestCustomObj28__c,
+      salesforce.TestCustomObj290__c,
+      salesforce.TestCustomObj291__c,
+      salesforce.TestCustomObj292__c,
+      salesforce.TestCustomObj293__c,
+      salesforce.TestCustomObj294__c,
+      salesforce.TestCustomObj295__c,
+      salesforce.TestCustomObj296__c,
+      salesforce.TestCustomObj297__c,
+      salesforce.TestCustomObj298__c,
+      salesforce.TestCustomObj299__c,
+      salesforce.TestCustomObj29__c,
+      salesforce.TestCustomObj2__c,
+      salesforce.TestCustomObj300__c,
+      salesforce.TestCustomObj301__c,
+      salesforce.TestCustomObj302__c,
+      salesforce.TestCustomObj303__c,
+      salesforce.TestCustomObj304__c,
+      salesforce.TestCustomObj305__c,
+      salesforce.TestCustomObj306__c,
+      salesforce.TestCustomObj307__c,
+      salesforce.TestCustomObj308__c,
+      salesforce.TestCustomObj309__c,
+      salesforce.TestCustomObj30__c,
+      salesforce.TestCustomObj310__c,
+      salesforce.TestCustomObj311__c,
+      salesforce.TestCustomObj312__c,
+      salesforce.TestCustomObj313__c,
+      salesforce.TestCustomObj314__c,
+      salesforce.TestCustomObj315__c,
+      salesforce.TestCustomObj316__c,
+      salesforce.TestCustomObj317__c,
+      salesforce.TestCustomObj318__c,
+      salesforce.TestCustomObj319__c,
+      salesforce.TestCustomObj31__c,
+      salesforce.TestCustomObj320__c,
+      salesforce.TestCustomObj321__c,
+      salesforce.TestCustomObj322__c,
+      salesforce.TestCustomObj323__c,
+      salesforce.TestCustomObj324__c,
+      salesforce.TestCustomObj325__c,
+      salesforce.TestCustomObj326__c,
+      salesforce.TestCustomObj327__c,
+      salesforce.TestCustomObj328__c,
+      salesforce.TestCustomObj329__c,
+      salesforce.TestCustomObj32__c,
+      salesforce.TestCustomObj330__c,
+      salesforce.TestCustomObj331__c,
+      salesforce.TestCustomObj332__c,
+      salesforce.TestCustomObj333__c,
+      salesforce.TestCustomObj334__c,
+      salesforce.TestCustomObj335__c,
+      salesforce.TestCustomObj336__c,
+      salesforce.TestCustomObj337__c,
+      salesforce.TestCustomObj338__c,
+      salesforce.TestCustomObj339__c,
+      salesforce.TestCustomObj33__c,
+      salesforce.TestCustomObj340__c,
+      salesforce.TestCustomObj341__c,
+      salesforce.TestCustomObj342__c,
+      salesforce.TestCustomObj343__c,
+      salesforce.TestCustomObj344__c,
+      salesforce.TestCustomObj345__c,
+      salesforce.TestCustomObj346__c,
+      salesforce.TestCustomObj347__c,
+      salesforce.TestCustomObj348__c,
+      salesforce.TestCustomObj349__c,
+      salesforce.TestCustomObj34__c,
+      salesforce.TestCustomObj350__c,
+      salesforce.TestCustomObj351__c,
+      salesforce.TestCustomObj352__c,
+      salesforce.TestCustomObj353__c,
+      salesforce.TestCustomObj354__c,
+      salesforce.TestCustomObj355__c,
+      salesforce.TestCustomObj356__c,
+      salesforce.TestCustomObj357__c,
+      salesforce.TestCustomObj358__c,
+      salesforce.TestCustomObj359__c,
+      salesforce.TestCustomObj35__c,
+      salesforce.TestCustomObj360__c,
+      salesforce.TestCustomObj361__c,
+      salesforce.TestCustomObj362__c,
+      salesforce.TestCustomObj363__c,
+      salesforce.TestCustomObj364__c,
+      salesforce.TestCustomObj365__c,
+      salesforce.TestCustomObj366__c,
+      salesforce.TestCustomObj367__c,
+      salesforce.TestCustomObj368__c,
+      salesforce.TestCustomObj369__c,
+      salesforce.TestCustomObj36__c,
+      salesforce.TestCustomObj370__c,
+      salesforce.TestCustomObj371__c,
+      salesforce.TestCustomObj372__c,
+      salesforce.TestCustomObj373__c,
+      salesforce.TestCustomObj374__c,
+      salesforce.TestCustomObj375__c,
+      salesforce.TestCustomObj376__c,
+      salesforce.TestCustomObj377__c,
+      salesforce.TestCustomObj378__c,
+      salesforce.TestCustomObj379__c,
+      salesforce.TestCustomObj37__c,
+      salesforce.TestCustomObj380__c,
+      salesforce.TestCustomObj381__c,
+      salesforce.TestCustomObj382__c,
+      salesforce.TestCustomObj383__c,
+      salesforce.TestCustomObj384__c,
+      salesforce.TestCustomObj385__c,
+      salesforce.TestCustomObj386__c,
+      salesforce.TestCustomObj387__c,
+      salesforce.TestCustomObj388__c,
+      salesforce.TestCustomObj389__c,
+      salesforce.TestCustomObj38__c,
+      salesforce.TestCustomObj390__c,
+      salesforce.TestCustomObj391__c,
+      salesforce.TestCustomObj392__c,
+      salesforce.TestCustomObj393__c,
+      salesforce.TestCustomObj394__c,
+      salesforce.TestCustomObj395__c,
+      salesforce.TestCustomObj396__c,
+      salesforce.TestCustomObj397__c,
+      salesforce.TestCustomObj398__c,
+      salesforce.TestCustomObj399__c,
+      salesforce.TestCustomObj39__c,
+      salesforce.TestCustomObj3__c,
+      salesforce.TestCustomObj40__c,
+      salesforce.TestCustomObj41__c,
+      salesforce.TestCustomObj42__c,
+      salesforce.TestCustomObj43__c,
+      salesforce.TestCustomObj44__c,
+      salesforce.TestCustomObj45__c,
+      salesforce.TestCustomObj46__c,
+      salesforce.TestCustomObj47__c,
+      salesforce.TestCustomObj48__c,
+      salesforce.TestCustomObj49__c,
+      salesforce.TestCustomObj4__c,
+      salesforce.TestCustomObj50__c,
+      salesforce.TestCustomObj51__c,
+      salesforce.TestCustomObj52__c,
+      salesforce.TestCustomObj53__c,
+      salesforce.TestCustomObj54__c,
+      salesforce.TestCustomObj55__c,
+      salesforce.TestCustomObj56__c,
+      salesforce.TestCustomObj57__c,
+      salesforce.TestCustomObj58__c,
+      salesforce.TestCustomObj59__c,
+      salesforce.TestCustomObj5__c,
+      salesforce.TestCustomObj60__c,
+      salesforce.TestCustomObj61__c,
+      salesforce.TestCustomObj62__c,
+      salesforce.TestCustomObj63__c,
+      salesforce.TestCustomObj64__c,
+      salesforce.TestCustomObj65__c,
+      salesforce.TestCustomObj66__c,
+      salesforce.TestCustomObj67__c,
+      salesforce.TestCustomObj68__c,
+      salesforce.TestCustomObj69__c,
+      salesforce.TestCustomObj6__c,
+      salesforce.TestCustomObj70__c,
+      salesforce.TestCustomObj71__c,
+      salesforce.TestCustomObj72__c,
+      salesforce.TestCustomObj73__c,
+      salesforce.TestCustomObj74__c,
+      salesforce.TestCustomObj75__c,
+      salesforce.TestCustomObj76__c,
+      salesforce.TestCustomObj77__c,
+      salesforce.TestCustomObj78__c,
+      salesforce.TestCustomObj79__c,
+      salesforce.TestCustomObj7__c,
+      salesforce.TestCustomObj80__c,
+      salesforce.TestCustomObj81__c,
+      salesforce.TestCustomObj82__c,
+      salesforce.TestCustomObj83__c,
+      salesforce.TestCustomObj84__c,
+      salesforce.TestCustomObj85__c,
+      salesforce.TestCustomObj86__c,
+      salesforce.TestCustomObj87__c,
+      salesforce.TestCustomObj88__c,
+      salesforce.TestCustomObj89__c,
+      salesforce.TestCustomObj8__c,
+      salesforce.TestCustomObj90__c,
+      salesforce.TestCustomObj91__c,
+      salesforce.TestCustomObj92__c,
+      salesforce.TestCustomObj93__c,
+      salesforce.TestCustomObj94__c,
+      salesforce.TestCustomObj95__c,
+      salesforce.TestCustomObj96__c,
+      salesforce.TestCustomObj97__c,
+      salesforce.TestCustomObj98__c,
+      salesforce.TestCustomObj99__c,
+      salesforce.TestCustomObj9__c,
+    ]
+    inlineHelpText = "The parent object of the reference entity"
+    createable = true
+    updateable = false
+    relationshipName = "ParentReferenceEntity"
+    queryable = true
+  }
+  salesforce.Text OriginalReferenceEntityType {
+    apiName = "FinanceTransaction.OriginalReferenceEntityType"
+    label = "Original Reference Entity Type"
+    inlineHelpText = "The finance transaction's reference entity type when the finance transaction was created."
+    createable = false
+    updateable = false
+    unique = false
+    caseSensitive = false
+    length = 255
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Text OriginalEventType {
+    apiName = "FinanceTransaction.OriginalEventType"
+    label = "Original Event Type"
+    inlineHelpText = "The finance transaction's event type when the finance transaction was created."
+    createable = false
+    updateable = false
+    unique = false
+    caseSensitive = false
+    length = 255
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Text OriginalEventAction {
+    apiName = "FinanceTransaction.OriginalEventAction"
+    label = "Original Event Action"
+    inlineHelpText = "The finance transaction's event action when the finance transaction was created."
+    createable = false
+    updateable = false
+    unique = false
+    caseSensitive = false
+    length = 255
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Text OriginalCreditGlAccountName {
+    apiName = "FinanceTransaction.OriginalCreditGlAccountName"
+    label = "Original Credit GL Account Name"
+    inlineHelpText = "The finance transaction's credit GL account name when the finance transaction was created."
+    createable = false
+    updateable = false
+    unique = false
+    caseSensitive = false
+    length = 255
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Text OriginalCreditGlAccountNumber {
+    apiName = "FinanceTransaction.OriginalCreditGlAccountNumber"
+    label = "Original Credit GL Account Number"
+    inlineHelpText = "The finance transaction's credit GL account number when the finance transaction was created."
+    createable = false
+    updateable = false
+    unique = false
+    caseSensitive = false
+    length = 255
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Text OriginalDebitGlAccountName {
+    apiName = "FinanceTransaction.OriginalDebitGlAccountName"
+    label = "Original Debit GL Account Name"
+    inlineHelpText = "The finance transaction's debit GL account name when the finance transaction was created."
+    createable = false
+    updateable = false
+    unique = false
+    caseSensitive = false
+    length = 255
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Text OriginalDebitGlAccountNumber {
+    apiName = "FinanceTransaction.OriginalDebitGlAccountNumber"
+    label = "Original Debit GL Account Number"
+    inlineHelpText = "The finance transaction's debit GL account number when the finance transaction was created."
+    createable = false
+    updateable = false
+    unique = false
+    caseSensitive = false
+    length = 255
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Text OriginalFinancePeriodName {
+    apiName = "FinanceTransaction.OriginalFinancePeriodName"
+    label = "Original Finance Period Name"
+    inlineHelpText = "The finance transaction's finance period name when the finance transaction was created."
+    createable = false
+    updateable = false
+    unique = false
+    caseSensitive = false
+    length = 255
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Text OriginalFinancePeriodStartDate {
+    apiName = "FinanceTransaction.OriginalFinancePeriodStartDate"
+    label = "Original Finance Period Start Date"
+    inlineHelpText = "The finance transaction's finance period start date when the finance transaction was created."
+    createable = false
+    updateable = false
+    unique = false
+    caseSensitive = false
+    length = 255
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Text OriginalFinancePeriodEndDate {
+    apiName = "FinanceTransaction.OriginalFinancePeriodEndDate"
+    label = "Original Finance Period End Date"
+    inlineHelpText = "The finance transaction's finance period end date when the finance transaction was created."
+    createable = false
+    updateable = false
+    unique = false
+    caseSensitive = false
+    length = 255
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Text OriginalFinancePeriodStatus {
+    apiName = "FinanceTransaction.OriginalFinancePeriodStatus"
+    label = "Original Finance Period Status"
+    inlineHelpText = "The finance transaction's finance period status when the finance transaction was created."
+    createable = false
+    updateable = false
+    unique = false
+    caseSensitive = false
+    length = 255
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Text OriginalGlRuleName {
+    apiName = "FinanceTransaction.OriginalGlRuleName"
+    label = "Original GL Rule Name"
+    inlineHelpText = "The finance transaction's GL rule name when the finance transaction was created."
+    createable = false
+    updateable = false
+    unique = false
+    caseSensitive = false
+    length = 255
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Text OriginalGlTreatmentName {
+    apiName = "FinanceTransaction.OriginalGlTreatmentName"
+    label = "Original GL Treatment Name"
+    inlineHelpText = "The finance transaction's GL treatment name when the finance transaction was created."
+    createable = false
+    updateable = false
+    unique = false
+    caseSensitive = false
+    length = 255
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Text OriginalFinanceBookName {
+    apiName = "FinanceTransaction.OriginalFinanceBookName"
+    label = "Original Finance Book Name"
+    inlineHelpText = "The finance transaction's finance book name when the finance transaction was created."
+    createable = false
+    updateable = false
+    unique = false
+    caseSensitive = false
+    length = 255
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Text FinanceSystemTransactionNumber {
+    apiName = "FinanceTransaction.FinanceSystemTransactionNumber"
+    label = "Finance System Transaction Number"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    length = 255
+    queryable = true
+  }
+  salesforce.Text FinanceSystemName {
+    apiName = "FinanceTransaction.FinanceSystemName"
+    label = "Finance System Name"
+    inlineHelpText = "The name of the external financial system used to recognize the finance transaction."
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    length = 255
+    queryable = true
+  }
+  salesforce.Text FinanceSystemIntegrationMode {
+    apiName = "FinanceTransaction.FinanceSystemIntegrationMode"
+    label = "Finance System Integration Mode"
+    inlineHelpText = "The type of the external financial system used to recognize the finance transaction."
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    length = 255
+    queryable = true
+  }
+  salesforce.Picklist FinanceSystemIntegrationStatus {
+    apiName = "FinanceTransaction.FinanceSystemIntegrationStatus"
+    label = "Finance System Integration Status"
+    valueSet = [
+      {
+        fullName = "Not Selected"
+        default = false
+        label = "Not Selected"
+        isActive = true
+      },
+      {
+        fullName = "Pending"
+        default = false
+        label = "Pending"
+        isActive = true
+      },
+      {
+        fullName = "In Process"
+        default = false
+        label = "In Process"
+        isActive = true
+      },
+      {
+        fullName = "Retry In Process"
+        default = false
+        label = "Retry In Process"
+        isActive = true
+      },
+      {
+        fullName = "Success"
+        default = false
+        label = "Success"
+        isActive = true
+      },
+      {
+        fullName = "Error"
+        default = false
+        label = "Error"
+        isActive = true
+      },
+      {
+        fullName = "Failed"
+        default = false
+        label = "Failed"
+        isActive = true
+      },
+    ]
+    restricted = true
+    createable = true
+    updateable = true
+    queryable = true
+  }
+}

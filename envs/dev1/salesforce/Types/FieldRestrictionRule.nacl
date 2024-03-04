@@ -1,0 +1,115 @@
+type salesforce.FieldRestrictionRule {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  serviceid fullName {
+  }
+  boolean active {
+  }
+  string classification {
+  }
+  string classificationType {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "ComplianceCategory",
+        "FieldSet",
+      ]
+    }
+  }
+  string description {
+  }
+  string enforcementType {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "D360_Restrict",
+        "FieldRestrict",
+        "Restrict",
+        "Scoping",
+      ]
+    }
+  }
+  string masterLabel {
+  }
+  string recordFilter {
+  }
+  string targetEntity {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "Account",
+        "Case",
+        "Contact",
+        "Contract",
+        "Env2TestObjdydpajmpjetk__c",
+        "Env2TestObjgakpwwgqrnna__c",
+        "Env2TestObjxhjluhvkkjzj__c",
+        "Event",
+        "Lead",
+        "NewObjectNamepossyuxdswxj__c",
+        "Opportunity",
+        "ProcessInstanceStep",
+        "ProcessInstanceWorkitem",
+        "Task",
+        "TestAddDefaultTopicsForObjects__c",
+        "TestAddElementTopicsForObjects__c",
+        "TestDiffObjdydpajmpjetk__c",
+        "TestDiffObjgakpwwgqrnna__c",
+        "TestDiffObjxhjluhvkkjzj__c",
+        "TestModifyCustomAnnotations__c",
+        "TestModifyCustom__c",
+        "TestModifyFieldAndAnnotation__c",
+        "TestObjdydpajmpjetk__c",
+        "TestObjgakpwwgqrnna__c",
+        "TestObjxhjluhvkkjzj__c",
+        "TestSyncFromAccountObjdycsfkvbzmvt__c",
+        "User",
+      ]
+    }
+  }
+  string userCriteria {
+  }
+  number version {
+  }
+  string internalId {
+    _hidden_value = true
+    localOnly = true
+  }
+  suffix = "rule"
+  dirName = "fieldRestrictionRules"
+  metadataType = "FieldRestrictionRule"
+  _important_values = [
+    {
+      value = "fullName"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "masterLabel"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "description"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "active"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}
