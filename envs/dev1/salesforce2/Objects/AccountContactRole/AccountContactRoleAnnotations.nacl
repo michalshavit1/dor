@@ -1,0 +1,64 @@
+type salesforce2.AccountContactRole {
+  annotations {
+    serviceid apiName {
+    }
+    serviceid metadataType {
+    }
+    string label {
+    }
+    hidden_string keyPrefix {
+    }
+    salesforce2.ActionOverride actionOverrides {
+    }
+    string compactLayoutAssignment {
+    }
+    string description {
+    }
+    boolean enableDataTranslation {
+    }
+    boolean enableDivisions {
+    }
+    boolean enableEnhancedLookup {
+    }
+    boolean enableFeeds {
+    }
+    boolean enableHistory {
+    }
+    boolean enableLicensing {
+    }
+    boolean enablePublishStatusTracking {
+    }
+    string externalDataSource {
+    }
+    string externalName {
+    }
+    string externalRepository {
+    }
+    salesforce2.HistoryRetentionPolicy historyRetentionPolicy {
+    }
+    salesforce2.MktDataLakeAttributes mktDataLakeAttributes {
+    }
+    salesforce2.MktDataModelAttributes mktDataModelAttributes {
+    }
+    salesforce2.ProfileSearchLayouts profileSearchLayouts {
+    }
+    boolean recordTypeTrackFeedHistory {
+    }
+    boolean recordTypeTrackHistory {
+    }
+    salesforce2.SearchLayouts searchLayouts {
+    }
+    salesforce2.SharingRecalculation sharingRecalculations {
+    }
+    string externalSharingModel {
+    }
+    hidden_string internalId {
+    }
+  }
+  apiName = "AccountContactRole"
+  metadataType = "CustomObject"
+  label = "Account Contact Role"
+  enableFeeds = false
+  externalSharingModel = "ControlledByParent"
+  _alias = "Account Contact Role"
+}
