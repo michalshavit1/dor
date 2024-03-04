@@ -1,4 +1,12 @@
 envs {
   envs = [
+    {
+      name = "TufinNetsuite"
+      accountToServiceName = {
+        dummy = "dummy"
+        netsuite = "netsuite"
+        salesforce = "salesforce"
+      }
+    },
   ]
 }
