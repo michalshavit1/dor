@@ -1,9 +1,9 @@
 envs {
   envs = [
     {
-      name = "dwef"
+      name = "dev1"
       accountToServiceName = {
-        dummy = "dummy"
+        salesforce = "salesforce"
       }
     },
   ]
