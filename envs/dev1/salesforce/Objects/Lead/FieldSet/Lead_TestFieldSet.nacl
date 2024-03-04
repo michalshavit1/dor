@@ -1,0 +1,21 @@
+salesforce.FieldSet Lead_TestFieldSet {
+  fullName = "Lead.TestFieldSet"
+  description = "E2E Fetch FieldSet"
+  displayedFields = [
+    {
+      field = "State"
+      isFieldManaged = false
+      isRequired = false
+    },
+    {
+      field = salesforce.Lead.field.Status
+      isFieldManaged = false
+      isRequired = false
+    },
+  ]
+  label = "E2E Fetch FieldSet"
+  _parent = [
+    salesforce.Lead,
+  ]
+  _alias = "E2E Fetch FieldSet"
+}

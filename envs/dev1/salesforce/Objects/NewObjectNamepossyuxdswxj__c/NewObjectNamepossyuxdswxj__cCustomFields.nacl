@@ -1,0 +1,26 @@
+type salesforce.NewObjectNamepossyuxdswxj__c {
+  salesforce.Text Alpha__c {
+    apiName = "NewObjectNamepossyuxdswxj__c.Alpha__c"
+    externalId = false
+    label = "Alpha"
+    length = 80
+    trackTrending = false
+    unique = false
+    createable = true
+    updateable = true
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Text Modified__c {
+    apiName = "NewObjectNamepossyuxdswxj__c.Modified__c"
+    externalId = false
+    label = "Beta"
+    length = 80
+    trackTrending = false
+    unique = false
+    createable = true
+    updateable = true
+    caseSensitive = false
+    queryable = true
+  }
+}

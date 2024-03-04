@@ -1,0 +1,7 @@
+salesforce.SharingRules TestObjdydpajmpjetk__c {
+  fullName = "TestObjdydpajmpjetk__c"
+  _parent = [
+    salesforce.TestObjdydpajmpjetk__c,
+  ]
+  _alias = "TestObjdydpajmpjetk__c"
+}

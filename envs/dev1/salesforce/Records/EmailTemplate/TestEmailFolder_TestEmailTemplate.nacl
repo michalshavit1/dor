@@ -1,0 +1,13 @@
+salesforce.EmailTemplate TestEmailFolder_TestEmailTemplate@d {
+  available = true
+  description = "Test Email Template Description"
+  encodingKey = "UTF-8"
+  name = "Test Email Template Name"
+  style = "none"
+  subject = "Test Email Template Subject"
+  type = "text"
+  uiType = "Aloha"
+  fullName = "TestEmailFolder/TestEmailTemplate"
+  content = file("salesforce/Records/EmailTemplate/TestEmailFolder/TestEmailTemplate/TestEmailTemplate.email")
+  _alias = "TestEmailFolder/TestEmailTemplate"
+}

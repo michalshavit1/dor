@@ -1,0 +1,70 @@
+salesforce.Layout TestDiffObjxhjluhvkkjzj__c_TestDiffObjxhjluhvkkjzj_Layout@uubs {
+  layoutSections = [
+    {
+      customLabel = false
+      detailHeading = false
+      editHeading = true
+      label = "Information"
+      layoutColumns = [
+        {
+          layoutItems = [
+            {
+              behavior = "Required"
+              field = salesforce.TestDiffObjxhjluhvkkjzj__c.field.Name
+            },
+          ]
+        },
+        {
+          layoutItems = [
+            {
+              behavior = "Edit"
+              field = salesforce.TestDiffObjxhjluhvkkjzj__c.field.OwnerId
+            },
+          ]
+        },
+      ]
+      style = "TwoColumnsTopToBottom"
+    },
+    {
+      customLabel = false
+      detailHeading = false
+      editHeading = true
+      label = "System Information"
+      layoutColumns = [
+        {
+          layoutItems = [
+            {
+              behavior = "Readonly"
+              field = salesforce.TestDiffObjxhjluhvkkjzj__c.field.CreatedById
+            },
+          ]
+        },
+        {
+          layoutItems = [
+            {
+              behavior = "Readonly"
+              field = salesforce.TestDiffObjxhjluhvkkjzj__c.field.LastModifiedById
+            },
+          ]
+        },
+      ]
+      style = "TwoColumnsTopToBottom"
+    },
+    {
+      customLabel = false
+      detailHeading = false
+      editHeading = true
+      style = "CustomLinks"
+    },
+  ]
+  showEmailCheckbox = false
+  showHighlightsPanel = false
+  showInteractionLogPanel = false
+  showRunAssignmentRulesCheckbox = false
+  showSubmitAndAttachButton = false
+  fullName = "TestDiffObjxhjluhvkkjzj__c-TestDiffObjxhjluhvkkjzj Layout"
+  _parent = [
+    salesforce.TestDiffObjxhjluhvkkjzj__c,
+  ]
+  _alias = "TestDiffObjxhjluhvkkjzj__c-TestDiffObjxhjluhvkkjzj Layout"
+}

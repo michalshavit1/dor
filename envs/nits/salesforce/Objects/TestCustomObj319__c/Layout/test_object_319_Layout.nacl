@@ -1,0 +1,162 @@
+salesforce.Layout TestCustomObj319__c_test_object_319_Layout@uubsss {
+  fullName = "TestCustomObj319__c-test object 319 Layout"
+  layoutSections = [
+    {
+      customLabel = false
+      detailHeading = false
+      editHeading = true
+      label = "Information"
+      layoutColumns = [
+        {
+          layoutItems = [
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj319__c.field.a319TestMasterDetail62224005279__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj319__c.field.a319_0Alpha__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj319__c.field.a319_0Delta__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj319__c.field.a319_0Juliett__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj319__c.field.a319_4Alpha__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj319__c.field.a319_3Delta__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj319__c.field.a319_3Juliett__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj319__c.field.a319_3Alpha__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj319__c.field.a319_2Juliett__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj319__c.field.a319_2Delta__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj319__c.field.a319_2Alpha__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj319__c.field.a319_5Alpha__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj319__c.field.a319_1Alpha__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj319__c.field.a319_1Delta__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj319__c.field.a319_1Juliett__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj319__c.field.a319_5Juliett__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj319__c.field.a319_5Delta__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj319__c.field.a319_4Delta__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj319__c.field.a319_4Juliett__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj319__c.field.Name
+            },
+          ]
+        },
+        {
+        },
+      ]
+      style = "TwoColumnsTopToBottom"
+    },
+    {
+      customLabel = false
+      detailHeading = false
+      editHeading = true
+      label = "System Information"
+      layoutColumns = [
+        {
+          layoutItems = [
+            {
+              behavior = "Readonly"
+              field = salesforce.TestCustomObj319__c.field.CreatedById
+            },
+          ]
+        },
+        {
+          layoutItems = [
+            {
+              behavior = "Readonly"
+              field = salesforce.TestCustomObj319__c.field.LastModifiedById
+            },
+          ]
+        },
+      ]
+      style = "TwoColumnsTopToBottom"
+    },
+    {
+      customLabel = false
+      detailHeading = false
+      editHeading = true
+      style = "CustomLinks"
+    },
+  ]
+  miniLayout = {
+    fields = [
+      "a319TestMasterDetail62224005279__c",
+      "a319_0Alpha__c",
+      "a319_0Delta__c",
+      "a319_0Juliett__c",
+      "a319_4Alpha__c",
+      "a319_3Delta__c",
+      "a319_3Juliett__c",
+      "a319_3Alpha__c",
+      "a319_2Juliett__c",
+      "a319_2Delta__c",
+      "a319_2Alpha__c",
+      "a319_5Alpha__c",
+      "a319_1Alpha__c",
+      "a319_1Delta__c",
+      "a319_1Juliett__c",
+      "a319_5Juliett__c",
+      "a319_5Delta__c",
+      "a319_4Delta__c",
+      "a319_4Juliett__c",
+    ]
+  }
+  showEmailCheckbox = false
+  showHighlightsPanel = false
+  showInteractionLogPanel = false
+  showRunAssignmentRulesCheckbox = false
+  showSubmitAndAttachButton = false
+  _parent = [
+    salesforce.TestCustomObj319__c,
+  ]
+}

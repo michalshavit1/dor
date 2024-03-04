@@ -1,0 +1,14 @@
+type salesforce.TestModifyFieldAndAnnotation__c {
+  salesforce.Text Address__c {
+    apiName = "TestModifyFieldAndAnnotation__c.Address__c"
+    externalId = false
+    label = "Field Updated Label"
+    length = 80
+    trackTrending = false
+    unique = false
+    createable = true
+    updateable = true
+    caseSensitive = false
+    queryable = true
+  }
+}

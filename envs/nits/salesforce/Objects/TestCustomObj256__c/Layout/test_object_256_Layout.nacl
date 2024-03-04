@@ -1,0 +1,162 @@
+salesforce.Layout TestCustomObj256__c_test_object_256_Layout@uubsss {
+  fullName = "TestCustomObj256__c-test object 256 Layout"
+  layoutSections = [
+    {
+      customLabel = false
+      detailHeading = false
+      editHeading = true
+      label = "Information"
+      layoutColumns = [
+        {
+          layoutItems = [
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj256__c.field.a256TestMasterDetail1927921699807__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj256__c.field.a256_0Juliett__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj256__c.field.a256_0Delta__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj256__c.field.a256_0Alpha__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj256__c.field.a256_4Alpha__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj256__c.field.a256_5Alpha__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj256__c.field.a256_5Delta__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj256__c.field.a256_5Juliett__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj256__c.field.a256_1Delta__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj256__c.field.a256_1Alpha__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj256__c.field.a256_1Juliett__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj256__c.field.a256_3Alpha__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj256__c.field.a256_4Delta__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj256__c.field.a256_4Juliett__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj256__c.field.a256_2Alpha__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj256__c.field.a256_2Delta__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj256__c.field.a256_2Juliett__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj256__c.field.a256_3Delta__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj256__c.field.a256_3Juliett__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj256__c.field.Name
+            },
+          ]
+        },
+        {
+        },
+      ]
+      style = "TwoColumnsTopToBottom"
+    },
+    {
+      customLabel = false
+      detailHeading = false
+      editHeading = true
+      label = "System Information"
+      layoutColumns = [
+        {
+          layoutItems = [
+            {
+              behavior = "Readonly"
+              field = salesforce.TestCustomObj256__c.field.CreatedById
+            },
+          ]
+        },
+        {
+          layoutItems = [
+            {
+              behavior = "Readonly"
+              field = salesforce.TestCustomObj256__c.field.LastModifiedById
+            },
+          ]
+        },
+      ]
+      style = "TwoColumnsTopToBottom"
+    },
+    {
+      customLabel = false
+      detailHeading = false
+      editHeading = true
+      style = "CustomLinks"
+    },
+  ]
+  miniLayout = {
+    fields = [
+      "a256TestMasterDetail1927921699807__c",
+      "a256_0Juliett__c",
+      "a256_0Delta__c",
+      "a256_0Alpha__c",
+      "a256_4Alpha__c",
+      "a256_5Alpha__c",
+      "a256_5Delta__c",
+      "a256_5Juliett__c",
+      "a256_1Delta__c",
+      "a256_1Alpha__c",
+      "a256_1Juliett__c",
+      "a256_3Alpha__c",
+      "a256_4Delta__c",
+      "a256_4Juliett__c",
+      "a256_2Alpha__c",
+      "a256_2Delta__c",
+      "a256_2Juliett__c",
+      "a256_3Delta__c",
+      "a256_3Juliett__c",
+    ]
+  }
+  showEmailCheckbox = false
+  showHighlightsPanel = false
+  showInteractionLogPanel = false
+  showRunAssignmentRulesCheckbox = false
+  showSubmitAndAttachButton = false
+  _parent = [
+    salesforce.TestCustomObj256__c,
+  ]
+}

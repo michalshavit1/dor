@@ -1,0 +1,26 @@
+type salesforce.TestSyncFromAccountObjdycsfkvbzmvt__c {
+  salesforce.Text alpha__c {
+    apiName = "TestSyncFromAccountObjdycsfkvbzmvt__c.alpha__c"
+    externalId = false
+    label = "alpha2"
+    length = 80
+    trackTrending = false
+    unique = false
+    createable = true
+    updateable = true
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Text beta__c {
+    apiName = "TestSyncFromAccountObjdycsfkvbzmvt__c.beta__c"
+    externalId = false
+    label = "beta2"
+    length = 80
+    trackTrending = false
+    unique = false
+    createable = true
+    updateable = true
+    caseSensitive = false
+    queryable = true
+  }
+}

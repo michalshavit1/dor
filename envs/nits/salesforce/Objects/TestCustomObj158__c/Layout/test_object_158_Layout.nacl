@@ -1,0 +1,162 @@
+salesforce.Layout TestCustomObj158__c_test_object_158_Layout@uubsss {
+  fullName = "TestCustomObj158__c-test object 158 Layout"
+  layoutSections = [
+    {
+      customLabel = false
+      detailHeading = false
+      editHeading = true
+      label = "Information"
+      layoutColumns = [
+        {
+          layoutItems = [
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj158__c.field.a158TestMasterDetail838361276925__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj158__c.field.a158_0Delta__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj158__c.field.a158_0Juliett__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj158__c.field.a158_0Alpha__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj158__c.field.a158_4Juliett__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj158__c.field.a158_4Delta__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj158__c.field.a158_5Alpha__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj158__c.field.a158_1Delta__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj158__c.field.a158_1Juliett__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj158__c.field.a158_1Alpha__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj158__c.field.a158_4Alpha__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj158__c.field.a158_3Juliett__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj158__c.field.a158_3Delta__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj158__c.field.a158_3Alpha__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj158__c.field.a158_2Delta__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj158__c.field.a158_2Alpha__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj158__c.field.a158_2Juliett__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj158__c.field.a158_5Delta__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj158__c.field.a158_5Juliett__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj158__c.field.Name
+            },
+          ]
+        },
+        {
+        },
+      ]
+      style = "TwoColumnsTopToBottom"
+    },
+    {
+      customLabel = false
+      detailHeading = false
+      editHeading = true
+      label = "System Information"
+      layoutColumns = [
+        {
+          layoutItems = [
+            {
+              behavior = "Readonly"
+              field = salesforce.TestCustomObj158__c.field.CreatedById
+            },
+          ]
+        },
+        {
+          layoutItems = [
+            {
+              behavior = "Readonly"
+              field = salesforce.TestCustomObj158__c.field.LastModifiedById
+            },
+          ]
+        },
+      ]
+      style = "TwoColumnsTopToBottom"
+    },
+    {
+      customLabel = false
+      detailHeading = false
+      editHeading = true
+      style = "CustomLinks"
+    },
+  ]
+  miniLayout = {
+    fields = [
+      "a158TestMasterDetail838361276925__c",
+      "a158_0Delta__c",
+      "a158_0Juliett__c",
+      "a158_0Alpha__c",
+      "a158_4Juliett__c",
+      "a158_4Delta__c",
+      "a158_5Alpha__c",
+      "a158_1Delta__c",
+      "a158_1Juliett__c",
+      "a158_1Alpha__c",
+      "a158_4Alpha__c",
+      "a158_3Juliett__c",
+      "a158_3Delta__c",
+      "a158_3Alpha__c",
+      "a158_2Delta__c",
+      "a158_2Alpha__c",
+      "a158_2Juliett__c",
+      "a158_5Delta__c",
+      "a158_5Juliett__c",
+    ]
+  }
+  showEmailCheckbox = false
+  showHighlightsPanel = false
+  showInteractionLogPanel = false
+  showRunAssignmentRulesCheckbox = false
+  showSubmitAndAttachButton = false
+  _parent = [
+    salesforce.TestCustomObj158__c,
+  ]
+}

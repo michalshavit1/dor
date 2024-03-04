@@ -1,0 +1,7 @@
+salesforce.SharingRules TestAddDefaultTopicsForObjects__c {
+  fullName = "TestAddDefaultTopicsForObjects__c"
+  _parent = [
+    salesforce.TestAddDefaultTopicsForObjects__c,
+  ]
+  _alias = "TestAddDefaultTopicsForObjects__c"
+}

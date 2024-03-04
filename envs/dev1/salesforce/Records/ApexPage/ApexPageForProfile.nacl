@@ -1,0 +1,9 @@
+salesforce.ApexPage ApexPageForProfile {
+  apiVersion = 50
+  availableInTouch = false
+  confirmationTokenRequired = false
+  label = "ApexPageForProfile"
+  fullName = "ApexPageForProfile"
+  content = file("salesforce/Records/ApexPage/ApexPageForProfile.page")
+  _alias = "ApexPageForProfile"
+}

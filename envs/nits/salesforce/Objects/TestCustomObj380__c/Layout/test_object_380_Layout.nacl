@@ -1,0 +1,162 @@
+salesforce.Layout TestCustomObj380__c_test_object_380_Layout@uubsss {
+  fullName = "TestCustomObj380__c-test object 380 Layout"
+  layoutSections = [
+    {
+      customLabel = false
+      detailHeading = false
+      editHeading = true
+      label = "Information"
+      layoutColumns = [
+        {
+          layoutItems = [
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj380__c.field.a380TestMasterDetail384493093035__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj380__c.field.a380_0Juliett__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj380__c.field.a380_0Delta__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj380__c.field.a380_0Alpha__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj380__c.field.a380_2Delta__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj380__c.field.a380_2Alpha__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj380__c.field.a380_2Juliett__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj380__c.field.a380_4Alpha__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj380__c.field.a380_5Juliett__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj380__c.field.a380_5Delta__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj380__c.field.a380_4Delta__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj380__c.field.a380_4Juliett__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj380__c.field.a380_5Alpha__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj380__c.field.a380_1Alpha__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj380__c.field.a380_1Delta__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj380__c.field.a380_1Juliett__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj380__c.field.a380_3Alpha__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj380__c.field.a380_3Delta__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj380__c.field.a380_3Juliett__c
+            },
+            {
+              behavior = "Required"
+              field = salesforce.TestCustomObj380__c.field.Name
+            },
+          ]
+        },
+        {
+        },
+      ]
+      style = "TwoColumnsTopToBottom"
+    },
+    {
+      customLabel = false
+      detailHeading = false
+      editHeading = true
+      label = "System Information"
+      layoutColumns = [
+        {
+          layoutItems = [
+            {
+              behavior = "Readonly"
+              field = salesforce.TestCustomObj380__c.field.CreatedById
+            },
+          ]
+        },
+        {
+          layoutItems = [
+            {
+              behavior = "Readonly"
+              field = salesforce.TestCustomObj380__c.field.LastModifiedById
+            },
+          ]
+        },
+      ]
+      style = "TwoColumnsTopToBottom"
+    },
+    {
+      customLabel = false
+      detailHeading = false
+      editHeading = true
+      style = "CustomLinks"
+    },
+  ]
+  miniLayout = {
+    fields = [
+      "a380TestMasterDetail384493093035__c",
+      "a380_0Juliett__c",
+      "a380_0Delta__c",
+      "a380_0Alpha__c",
+      "a380_2Delta__c",
+      "a380_2Alpha__c",
+      "a380_2Juliett__c",
+      "a380_4Alpha__c",
+      "a380_5Juliett__c",
+      "a380_5Delta__c",
+      "a380_4Delta__c",
+      "a380_4Juliett__c",
+      "a380_5Alpha__c",
+      "a380_1Alpha__c",
+      "a380_1Delta__c",
+      "a380_1Juliett__c",
+      "a380_3Alpha__c",
+      "a380_3Delta__c",
+      "a380_3Juliett__c",
+    ]
+  }
+  showEmailCheckbox = false
+  showHighlightsPanel = false
+  showInteractionLogPanel = false
+  showRunAssignmentRulesCheckbox = false
+  showSubmitAndAttachButton = false
+  _parent = [
+    salesforce.TestCustomObj380__c,
+  ]
+}
