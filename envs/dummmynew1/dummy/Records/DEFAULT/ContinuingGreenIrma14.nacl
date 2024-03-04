@@ -1,0 +1,5 @@
+dummy.DEFAULT ContinuingGreenIrma14 {
+  legit = "What do you do on a remote island? Try and find the TV island it belongs to."
+  _parent = dummy.ScrawnyYellowWilma4
+  _alias = "ContinuingGreenIrma14_alias"
+}

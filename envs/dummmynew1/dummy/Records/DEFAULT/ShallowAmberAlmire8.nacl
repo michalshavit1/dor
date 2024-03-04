@@ -1,0 +1,5 @@
+dummy.DEFAULT ShallowAmberAlmire8 {
+  legit = "What do you do on a remote island? Try and find the TV island it belongs to."
+  _parent = dummy.BoilingAmaranthAgnola
+  _alias = "ShallowAmberAlmire8_alias"
+}

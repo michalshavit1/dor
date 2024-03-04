@@ -1,0 +1,17 @@
+dummy.NavalPinkMelamie5 TiredGoldGretel8 {
+  RelievedSalmonPetronia2 = [
+    733,
+    693,
+    513,
+    557,
+    575,
+    356,
+    843,
+    989,
+    825,
+    203,
+  ]
+  WiseLavenderKatharyn2 = file("AddedPinkMelinde26.txt")
+  _parent = dummy.SelectSalmonPhil4
+  _alias = "TiredGoldGretel8_alias"
+}

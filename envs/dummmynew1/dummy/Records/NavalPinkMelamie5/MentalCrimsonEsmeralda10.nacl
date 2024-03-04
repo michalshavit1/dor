@@ -1,0 +1,9 @@
+dummy.NavalPinkMelamie5 MentalCrimsonEsmeralda10 {
+  RelievedSalmonPetronia2 = [
+    226,
+    469,
+  ]
+  WiseLavenderKatharyn2 = file("YoungAmethystAnastassia19.txt")
+  _parent = dummy.ThickEmeraldFina7
+  _alias = "MentalCrimsonEsmeralda10_alias"
+}

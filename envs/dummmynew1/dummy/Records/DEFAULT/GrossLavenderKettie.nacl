@@ -1,0 +1,5 @@
+dummy.DEFAULT GrossLavenderKettie {
+  legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _parent = dummy.MagnificentWhiteVeda
+  _alias = "GrossLavenderKettie_alias"
+}

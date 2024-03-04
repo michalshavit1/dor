@@ -1,0 +1,20 @@
+dummy.NavalPinkMelamie5 NavalPinkMelamie25 {
+  RelievedSalmonPetronia2 = [
+    362,
+    349,
+    860,
+    877,
+    611,
+    718,
+    363,
+    189,
+    51,
+    655,
+    446,
+    287,
+    791,
+  ]
+  WiseLavenderKatharyn2 = file("ZanyBlueCelia31.txt")
+  _parent = dummy.HolyIndigoJehanna
+  _alias = "NavalPinkMelamie25_alias"
+}

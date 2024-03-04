@@ -1,0 +1,21 @@
+dummy.NavalPinkMelamie5 TenderYellowYnes12 {
+  RelievedSalmonPetronia2 = [
+    535,
+    691,
+    463,
+    807,
+    304,
+    914,
+    513,
+    300,
+    220,
+    868,
+    43,
+    734,
+    505,
+    514,
+  ]
+  WiseLavenderKatharyn2 = file("SourAquaArleta25.txt")
+  _parent = dummy.ElectoralLimeKristien2
+  _alias = "TenderYellowYnes12_alias"
+}
