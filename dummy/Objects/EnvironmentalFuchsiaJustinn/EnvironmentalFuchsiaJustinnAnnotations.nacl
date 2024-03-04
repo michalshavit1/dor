@@ -1,0 +1,102 @@
+type dummy.EnvironmentalFuchsiaJustinn {
+  annotations {
+    json SingleBronzeCassandra {
+    }
+    serviceid StrictYellowDosi {
+    }
+    serviceid_number UnevenVioletAlli {
+    }
+    boolean FrontWhiteAnissa {
+    }
+    hidden_boolean FeministJadeMabel {
+    }
+    string PracticalAzureMia {
+    }
+    hidden_boolean CoastalPeachChrissie {
+    }
+    serviceid_number UsedAquamarineKara {
+    }
+    serviceid_number PremierChocolateMamie {
+    }
+    number ThickYellowClari {
+    }
+    hidden_boolean StrategicBlushTrixi {
+    }
+    serviceid UpperRoseWinne {
+    }
+    serviceid CorrectPinkLeoline {
+    }
+    string ProfoundPlumAudrie {
+    }
+    number SportingTomatoCourtenay {
+    }
+    hidden_boolean MadTomatoAnnabella {
+    }
+    serviceid_number WickedCyanKaren {
+    }
+    serviceid DampBlackElvera {
+    }
+    serviceid CommunistSilverGussi {
+    }
+  }
+  SingleBronzeCassandra = "Whoever invented the knock-knock joke should get a no bell prize."
+  StrictYellowDosi = "What did one nut say as he chased another nut?  I'm a cashew!"
+  UnevenVioletAlli = 188
+  FrontWhiteAnissa = true
+  PracticalAzureMia = "What do you call two barracuda fish?  A Pairacuda!"
+  UsedAquamarineKara = 57
+  PremierChocolateMamie = 44
+  ThickYellowClari = 500
+  UpperRoseWinne = "Why did the kid cross the playground? To get to the other slide."
+  CorrectPinkLeoline = '''
+What do you do on a remote island? Try and find the TV island it belongs to.
+Dad Im hungry  Hi hungry Im dad
+Whoever invented the knock-knock joke should get a no bell prize.
+What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...
+'''
+  ProfoundPlumAudrie = "Slept like a log last night  woke up in the fireplace."
+  SportingTomatoCourtenay = 423
+  WickedCyanKaren = 875
+  DampBlackElvera = "A steak pun is a rare medium well done."
+  CommunistSilverGussi = "What do you call two barracuda fish?  A Pairacuda!"
+  _important_values = [
+    {
+      value = "NearSalmonFanny"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "PublicTurquoiseMonique"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "BumpyMagentaLisette"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "PracticalAzureMia"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "UpperRoseWinne"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "CommunistSilverGussi"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "UnevenVioletAlli"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _alias = "EnvironmentalFuchsiaJustinn_alias"
+}

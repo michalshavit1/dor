@@ -1,0 +1,96 @@
+type dummy.PlasticOliveLaverne {
+  annotations {
+    serviceid DramaticAzurePerl {
+    }
+    number MassTanBeatriz {
+    }
+    serviceid ResultingAmberDelcine {
+    }
+    hidden_boolean EasyBronzeLexy {
+    }
+  }
+  json ProminentHarlequinDot {
+    _hidden_value = true
+  }
+  boolean NakedRedMeagan {
+    _hidden_value = true
+  }
+  boolean SocialBrownGertie {
+    _hidden_value = true
+  }
+  serviceid_number CrazyCyanConstantina {
+    _hidden_value = true
+  }
+  string OldEmeraldShauna {
+    _hidden_value = true
+  }
+  boolean RearPeachShay {
+    _hidden_value = true
+  }
+  json WrittenMagentaArlyne {
+    _hidden_value = true
+  }
+  hidden_boolean CrucialBrownBarbra {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.EventualSilverMerrilee InstitutionalIndigoPauletta {
+    _hidden_value = true
+  }
+  json AsleepPeachGeorgianne {
+    _hidden_value = true
+  }
+  hidden_boolean PowerfulAmethystAngel {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean AllegedGrayLoralie {
+    _hidden_value = true
+  }
+  number DynamicPeachSaidee {
+    _hidden_value = true
+  }
+  string RemoteHarlequinLonee {
+    _hidden_value = true
+  }
+  serviceid ComplexCoralLyndsie {
+    _hidden_value = true
+  }
+  string AmazingOliveAuria {
+    _hidden_value = true
+  }
+  number BadMoccasinCayla {
+    _hidden_value = true
+  }
+  hidden_boolean CharacteristicGreenGertrud {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number RuralCoffeeZara {
+    _hidden_value = true
+  }
+  DramaticAzurePerl = "How come the stadium got hot after the game? Because all of the fans left."
+  MassTanBeatriz = 629
+  ResultingAmberDelcine = '''
+Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor.
+What did one nut say as he chased another nut?  I'm a cashew!
+'''
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "RuralCoffeeZara"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "DramaticAzurePerl"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

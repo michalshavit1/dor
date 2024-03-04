@@ -1,0 +1,97 @@
+salesforce.LightningPage michal {
+  flexiPageRegions = [
+    {
+      itemInstances = [
+        {
+          componentInstance = {
+            componentInstanceProperties = [
+              {
+                name = "dashboardName"
+                value = "TestDashboard"
+              },
+              {
+                name = "hideOnError"
+                value = "true"
+              },
+            ]
+            componentName = "desktopDashboards:embeddedDashboard"
+            identifier = "desktopDashboards_embeddedDashboard"
+          }
+        },
+      ]
+      name = "region1"
+      type = "Region"
+    },
+    {
+      itemInstances = [
+        {
+          componentInstance = {
+            componentInstanceProperties = [
+              {
+                name = "enableInlineEdit"
+                value = "true"
+              },
+              {
+                name = "entityName"
+                value = "ApiAnomalyEventStore"
+              },
+              {
+                name = "filterName"
+                value = "All"
+              },
+              {
+                name = "hideActionBar"
+                value = "false"
+              },
+              {
+                name = "hideSearchBar"
+                value = "false"
+              },
+              {
+                name = "pageSize"
+                value = "3"
+              },
+            ]
+            componentName = "flexipage:filterListCard"
+            identifier = "flexipage_filterListCard"
+          }
+        },
+      ]
+      name = "region2"
+      type = "Region"
+    },
+    {
+      itemInstances = [
+        {
+          componentInstance = {
+            componentInstanceProperties = [
+              {
+                name = "cacheAge"
+                value = "1440"
+              },
+              {
+                name = "reportName"
+                value = "flow_screen_prebuilt_report"
+              },
+              {
+                name = "showRefreshButton"
+                value = "true"
+              },
+            ]
+            componentName = "flexipage:reportChart"
+            identifier = "flexipage_reportChart"
+          }
+        },
+      ]
+      name = "region3"
+      type = "Region"
+    },
+  ]
+  masterLabel = "michal"
+  template = {
+    name = "flexipage:appHomeTemplateHeaderTwoColumnsLeftSidebar"
+  }
+  type = "AppPage"
+  fullName = "michal"
+  _alias = "michal"
+}

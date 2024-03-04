@@ -1,0 +1,73 @@
+type dummy.AloneLavenderChastity {
+  annotations {
+    number DrivingSilverAubrey {
+    }
+    hidden_boolean YoungestAmethystLorraine {
+    }
+    number YouthfulBlackMariya {
+    }
+    boolean PresentTanKary {
+    }
+    number VoluminousMoccasinDarline {
+    }
+    serviceid DiverseIndigoSylvia {
+    }
+    serviceid_number PositiveAmaranthSukey {
+    }
+  }
+  hidden_boolean ImportantTurquoiseRomonda {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number PreparedAquamarineJoan {
+    _hidden_value = true
+  }
+  serviceid_number ConstantIndigoCorabelle {
+    _hidden_value = true
+  }
+  hidden_boolean ExperiencedPlumJuline {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.EventualSilverMerrilee InnovativePinkEugine {
+    _hidden_value = true
+  }
+  DrivingSilverAubrey = 616
+  YouthfulBlackMariya = 532
+  PresentTanKary = true
+  VoluminousMoccasinDarline = 274
+  DiverseIndigoSylvia = "Dad Im hungry  Hi hungry Im dad"
+  PositiveAmaranthSukey = 505
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ImportantTurquoiseRomonda"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "PreparedAquamarineJoan"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "PresentTanKary"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "VoluminousMoccasinDarline"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "YouthfulBlackMariya"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

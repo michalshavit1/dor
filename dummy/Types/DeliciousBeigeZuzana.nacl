@@ -1,0 +1,40 @@
+type dummy.DeliciousBeigeZuzana {
+  annotations {
+    json BriefOrangeTheda {
+    }
+    string InnovativeBlueHulda {
+    }
+    number OkayAmaranthTarah {
+    }
+    json RobustYellowJessalin {
+    }
+    number ObedientBeigeDulcinea {
+    }
+    string HorizontalBlueMarilyn {
+    }
+  }
+  hidden_boolean SleepyIvoryMerline {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  BriefOrangeTheda = "Whoever invented the knock-knock joke should get a no bell prize."
+  InnovativeBlueHulda = "Slept like a log last night  woke up in the fireplace."
+  OkayAmaranthTarah = 519
+  RobustYellowJessalin = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ObedientBeigeDulcinea = 129
+  HorizontalBlueMarilyn = "How come the stadium got hot after the game? Because all of the fans left."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "HorizontalBlueMarilyn"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "OkayAmaranthTarah"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,70 @@
+type dummy.RelaxedBeigeMoyna {
+  annotations {
+    json HorribleMoccasinDevonna {
+    }
+    json ClumsyBrownBonnie {
+    }
+    string YappiestAquaSiusan {
+    }
+    dummy.FastVioletDaniela CivilianCoffeeGretchen {
+    }
+  }
+  boolean StaleBeigeZara {
+    _hidden_value = true
+  }
+  boolean EasyChocolateDeane {
+    _hidden_value = true
+  }
+  serviceid VerbalChocolateVelvet {
+    _hidden_value = true
+  }
+  boolean AbundantWhiteMerna {
+    _hidden_value = true
+  }
+  hidden_boolean AdjacentWhiteRowena {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string InadequateAquaHertha {
+    _hidden_value = true
+  }
+  number LtdJadeBrenn {
+    _hidden_value = true
+  }
+  hidden_boolean RespectiveBronzeAlys {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.IndependentOliveClaudetta UrgentPurpleChantal {
+    WelcomeCoffeeRanique = 173
+    ActualVioletRozelle = 254
+    DearOrangeBobbe = "Dad Im hungry  Hi hungry Im dad"
+    UninterestedTanMaddi = "What do you call two barracuda fish?  A Pairacuda!"
+    EventualLavenderFern = false
+    ManagerialAquaMeagan = false
+    UnconsciousAmaranthSuzie = {
+      legit = "Slept like a log last night  woke up in the fireplace."
+    }
+    TastyMagentaAnnice = false
+    InadequateChocolateAnnmarie = 840
+    UnconsciousLavenderArdelle = "Slept like a log last night  woke up in the fireplace."
+    _hidden_value = true
+  }
+  boolean RudeAzureMindy {
+    _hidden_value = true
+  }
+  HorribleMoccasinDevonna = "Why do birds fly south for the winter? Because it's too far to walk."
+  ClumsyBrownBonnie = "My first time using an elevator was an uplifting experience. The second time let me down."
+  YappiestAquaSiusan = "Why did the kid cross the playground? To get to the other slide."
+  CivilianCoffeeGretchen = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "StaleBeigeZara"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

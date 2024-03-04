@@ -1,0 +1,49 @@
+type dummy.BeneficialRoseSacha {
+  annotations {
+    boolean SolarSilverTillie {
+    }
+    number TenderAmaranthTammara {
+    }
+    serviceid FatCopperSelinda {
+    }
+    dummy.QualifiedHarlequinJolee SuperiorOliveNeala {
+    }
+    hidden_boolean LiableWhiteFlorence {
+    }
+  }
+  string OlympicCoralCherise {
+    _hidden_value = true
+  }
+  serviceid_number SpotlessBlueDre {
+    _hidden_value = true
+  }
+  serviceid_number PunyOrangeOpalina {
+    _hidden_value = true
+  }
+  string SuspiciousIvoryFrank {
+    _hidden_value = true
+  }
+  number DisappointedYellowAdi {
+    _hidden_value = true
+  }
+  serviceid_number CuddlyBlushLilly {
+    _hidden_value = true
+  }
+  SolarSilverTillie = true
+  TenderAmaranthTammara = 177
+  FatCopperSelinda = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  SuperiorOliveNeala = 542
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "PunyOrangeOpalina"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "DisappointedYellowAdi"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

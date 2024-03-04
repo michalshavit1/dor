@@ -1,0 +1,44 @@
+type dummy.ZonalBeigeGinny {
+  annotations {
+    serviceid_number RemainingApricotFarrand {
+    }
+    string AccurateCrimsonMirella {
+    }
+    number MarvellousLimeSelene {
+    }
+    dummy.DEFAULT SportingEmeraldKarina {
+    }
+    serviceid_number EldestGoldOthilia {
+    }
+    string LeadingAmaranthJennee {
+    }
+    hidden_boolean XerothermicPinkKrissy {
+    }
+  }
+  hidden_boolean AfraidCrimsonDesiree {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  RemainingApricotFarrand = 77
+  AccurateCrimsonMirella = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  MarvellousLimeSelene = 729
+  SportingEmeraldKarina = {
+    legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+  }
+  EldestGoldOthilia = 50
+  LeadingAmaranthJennee = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "EldestGoldOthilia"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "XerothermicPinkKrissy"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

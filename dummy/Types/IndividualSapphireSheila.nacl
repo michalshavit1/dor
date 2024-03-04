@@ -1,0 +1,28 @@
+type dummy.IndividualSapphireSheila {
+  annotations {
+    boolean RigidGrayKatherina {
+    }
+    hidden_boolean EnormousScarletDaniela {
+    }
+    string UsualLavenderKaria {
+    }
+    hidden_boolean JollyBeigeWillabella {
+    }
+    serviceid RightCrimsonSheba {
+    }
+  }
+  json ColorfulGreenMillicent {
+    _hidden_value = true
+  }
+  RigidGrayKatherina = false
+  UsualLavenderKaria = "My first time using an elevator was an uplifting experience. The second time let me down."
+  RightCrimsonSheba = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "UsualLavenderKaria"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

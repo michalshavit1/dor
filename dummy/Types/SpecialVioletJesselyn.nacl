@@ -1,0 +1,76 @@
+type dummy.SpecialVioletJesselyn {
+  annotations {
+    json SubtleBlueBecca {
+    }
+    serviceid VariousPinkMatty {
+    }
+    string ConventionalCoffeeSuzette {
+    }
+  }
+  serviceid PreliminaryPeachNerte {
+    _hidden_value = true
+  }
+  serviceid ConsistentBrownMinnie {
+    _hidden_value = true
+  }
+  hidden_boolean GoldenPurpleTarrah {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number FunBlueBrandie {
+    _hidden_value = true
+  }
+  serviceid_number StrategicBlackBrier {
+    _hidden_value = true
+  }
+  number PotentialCyanMyrta {
+    _hidden_value = true
+  }
+  hidden_boolean PreferredVioletLouisette {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean ActualSilverErminia {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string ConvincedCrimsonArlie {
+    _hidden_value = true
+  }
+  hidden_boolean IdenticalCyanPetrina {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string LengthyAzureElisa {
+    _hidden_value = true
+  }
+  serviceid_number SaltyGoldLorine {
+    _hidden_value = true
+  }
+  number FrontApricotJaney {
+    _hidden_value = true
+  }
+  hidden_boolean SparklingChocolateMarcie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json RattyVioletBelvia {
+    _hidden_value = true
+  }
+  SubtleBlueBecca = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  VariousPinkMatty = "Why did the kid cross the playground? To get to the other slide."
+  ConventionalCoffeeSuzette = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "SubtleBlueBecca"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

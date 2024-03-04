@@ -1,0 +1,35 @@
+type dummy.VaryingBlueMariejeanne {
+  annotations {
+    boolean LoudLimeMaude {
+    }
+    boolean UnnecessaryPeachXaviera {
+    }
+    string FatLavenderDoreen {
+    }
+    boolean IntegratedScarletAndriana {
+    }
+    json SpottyWhiteRozina {
+    }
+  }
+  string AboveTurquoiseTobey {
+    _hidden_value = true
+  }
+  LoudLimeMaude = false
+  UnnecessaryPeachXaviera = true
+  FatLavenderDoreen = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  IntegratedScarletAndriana = true
+  SpottyWhiteRozina = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "FatLavenderDoreen"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "SpottyWhiteRozina"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,49 @@
+type dummy.ShortSilverValerye {
+  annotations {
+    string MuddyJadeGnni {
+    }
+    serviceid_number IndependentTomatoJanis {
+    }
+    dummy.ThoughtfulRedElka ElderlyMoccasinMariejeanne {
+    }
+    hidden_boolean AllegedCopperKyla {
+    }
+    boolean ClinicalYellowOdelle {
+    }
+  }
+  json ScrawnyAmaranthAdriane {
+    _hidden_value = true
+  }
+  serviceid ShrillBrownAuroora {
+    _hidden_value = true
+  }
+  number QuickestBeigeKaylyn {
+    _hidden_value = true
+  }
+  string ReluctantFuchsiaMarlo {
+    _hidden_value = true
+  }
+  boolean EqualIndigoCristina {
+    _hidden_value = true
+  }
+  dummy.DEFAULT NearbyAquamarineGiana {
+    _hidden_value = true
+  }
+  MuddyJadeGnni = "Did you know that protons have mass? I didn't even know they were catholic."
+  IndependentTomatoJanis = 713
+  ElderlyMoccasinMariejeanne = false
+  ClinicalYellowOdelle = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "NearbyAquamarineGiana"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "EqualIndigoCristina"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

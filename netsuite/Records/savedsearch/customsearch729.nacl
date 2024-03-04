@@ -1,0 +1,96 @@
+netsuite.savedsearch customsearch729 {
+  scriptid = "customsearch729"
+  definition = "8a78604e05e4635d9f1536ce72c34f81807e1dfb6bd2a2bda563546dfb6f1e2d@GZC@2022.1.17@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"
+  return_fields = [
+    {
+      FIELD_ALIAS = "ItemSupplyPlan_ITEM"
+      FIELD_INDEX = 1
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "ItemSupplyPlan_LOCATION"
+      FIELD_INDEX = 2
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "ItemSupplyPlan_UNITS"
+      FIELD_INDEX = 3
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  detail_fields = [
+    {
+      FIELD_ALIAS = "ItemSupplyPlan_ITEM"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "ItemSupplyPlan_LOCATION"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "ItemSupplyPlan_UNITS"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "ItemSupplyPlan_MEMO"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "ItemSupplyPlan_ITEM"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  audience = {
+    FLAG_AUDIENCE_ALL_CUSTOMERS = false
+    FLAG_AUDIENCE_ALL_EMPLOYEES = false
+    FLAG_AUDIENCE_ALL_PARTNERS = false
+    FLAG_AUDIENCE_ALL_ROLES = true
+    FLAG_AUDIENCE_ALL_VENDORS = false
+  }
+  KEY_SCRIPT_ID = "customsearch729"
+  FIELD_DEFAULT_NAME = "Active Supply Plans"
+  FIELD_SEARCH_TYPE = "ItemSupplyPlan"
+  FLAG_PUBLIC = true
+  FLAG_LIST = true
+  FLAG_PORTLET = true
+  FLAG_MACHINE = false
+  FLAG_REMINDER = true
+  FLAG_SHOW_LINK = false
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = false
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = true
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+  KEY_AUDIENCE = 0
+  _alias = "Active Supply Plans"
+}

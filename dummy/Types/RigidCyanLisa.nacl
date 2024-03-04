@@ -1,0 +1,61 @@
+type dummy.RigidCyanLisa {
+  annotations {
+    serviceid VoluntaryMoccasinPriscella {
+    }
+    string CulturalTanMara {
+    }
+    hidden_boolean KeenTomatoLetta {
+    }
+    boolean StickyHarlequinFloria {
+    }
+  }
+  json PrivatePurpleKimberlyn {
+    _hidden_value = true
+  }
+  json SpatialPeachChickie {
+    _hidden_value = true
+  }
+  number BriefCoralMariska {
+    _hidden_value = true
+  }
+  string RationalGrayGwenette {
+    _hidden_value = true
+  }
+  serviceid TallCoralGeneva {
+    _hidden_value = true
+  }
+  string FewAmethystKirby {
+    _hidden_value = true
+  }
+  hidden_boolean SuccessiveBrownGwen {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean BumpyBlueTed {
+    _hidden_value = true
+  }
+  VoluntaryMoccasinPriscella = "To be Frank, I'd have to change my name."
+  CulturalTanMara = "I'll tell you what often gets over looked... garden fences."
+  StickyHarlequinFloria = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "BriefCoralMariska"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "CulturalTanMara"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "StickyHarlequinFloria"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

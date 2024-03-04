@@ -1,0 +1,11 @@
+salesforce.CompactLayout Opportunity_fghj {
+  fullName = "Opportunity.fghj"
+  fields = [
+    "CloseDate",
+  ]
+  label = "fghj"
+  _parent = [
+    salesforce.Opportunity,
+  ]
+  _alias = "fghj"
+}

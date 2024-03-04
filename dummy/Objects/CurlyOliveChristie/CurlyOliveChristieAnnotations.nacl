@@ -1,0 +1,112 @@
+type dummy.CurlyOliveChristie {
+  annotations {
+    number OutrageousAmaranthPrudence {
+    }
+    number StaticTomatoMelisandra {
+    }
+    boolean CompetitiveEmeraldHoney {
+    }
+    boolean JitteryBeigeOpalina {
+    }
+    boolean QuintessentialSalmonFranni {
+    }
+    boolean FlexibleBrownAlethea {
+    }
+    dummy.CertainAzureFlorence FuzzySapphireVally {
+    }
+    dummy.MathematicalLavenderUlrica IndividualCopperFayette {
+    }
+    string AdjacentAzureErtha {
+    }
+    json IcyAquamarineAdelina {
+    }
+    json LiteraryGreenTaffy {
+    }
+    number TopRedMildred {
+    }
+    number InvolvedCoralCecilia {
+    }
+    boolean EarlyChocolateGiulietta {
+    }
+    dummy.IntenseLimeJemmie RetailAmaranthJoane {
+    }
+    dummy.AgreeableIndigoLane LowLavenderLizbeth {
+    }
+    serviceid_number ExistingMoccasinHatti {
+    }
+    boolean TestyBlackKirstin {
+    }
+    number MentalBrownHayley {
+    }
+    serviceid_number SuperbJadeLucy {
+    }
+    serviceid_number MagneticTanLorrie {
+    }
+    serviceid NoisyBlushCorri {
+    }
+  }
+  OutrageousAmaranthPrudence = 22
+  StaticTomatoMelisandra = 182
+  CompetitiveEmeraldHoney = true
+  JitteryBeigeOpalina = true
+  QuintessentialSalmonFranni = true
+  FlexibleBrownAlethea = false
+  IndividualCopperFayette = 28
+  AdjacentAzureErtha = "Why do birds fly south for the winter? Because it's too far to walk."
+  IcyAquamarineAdelina = "Why did the tomato blush? Because it saw the salad dressing."
+  LiteraryGreenTaffy = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  TopRedMildred = 310
+  InvolvedCoralCecilia = 14
+  EarlyChocolateGiulietta = true
+  ExistingMoccasinHatti = 531
+  TestyBlackKirstin = false
+  MentalBrownHayley = 360
+  SuperbJadeLucy = 156
+  MagneticTanLorrie = 800
+  NoisyBlushCorri = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _important_values = [
+    {
+      value = "AdditionalOrangeLoren"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "MagneticTanLorrie"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "TopRedMildred"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ExistingMoccasinHatti"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "IcyAquamarineAdelina"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "NoisyBlushCorri"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "AdjacentAzureErtha"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "CompetitiveEmeraldHoney"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _alias = "CurlyOliveChristie_alias"
+}

@@ -1,0 +1,27 @@
+type dummy.RapidOliveNikaniki {
+  annotations {
+    string UnderlyingMaroonCrysta {
+    }
+    serviceid_number ResidentGreenAdriena {
+    }
+    number BlankHarlequinAmi {
+    }
+    string InterestingSilverLegra {
+    }
+  }
+  serviceid MinisterialMoccasinWendye {
+    _hidden_value = true
+  }
+  UnderlyingMaroonCrysta = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ResidentGreenAdriena = 621
+  BlankHarlequinAmi = 458
+  InterestingSilverLegra = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "BlankHarlequinAmi"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

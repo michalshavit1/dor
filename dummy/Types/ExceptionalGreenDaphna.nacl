@@ -1,0 +1,55 @@
+type dummy.ExceptionalGreenDaphna {
+  annotations {
+    string ImperialBlueSile {
+    }
+    hidden_boolean RoundGoldCathrin {
+    }
+    boolean YeastyOliveRivalee {
+    }
+    serviceid_number WilyCyanCeleste {
+    }
+    string TastelessMagentaErmina {
+    }
+    number CorrectSilverDaveen {
+    }
+  }
+  string EventualCopperAlly {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" SparklingEmeraldMarybelle {
+    _hidden_value = true
+  }
+  boolean InstitutionalMaroonCayla {
+    _hidden_value = true
+  }
+  ImperialBlueSile = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  YeastyOliveRivalee = false
+  WilyCyanCeleste = 965
+  TastelessMagentaErmina = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  CorrectSilverDaveen = 680
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "InstitutionalMaroonCayla"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "CorrectSilverDaveen"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "TastelessMagentaErmina"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ImperialBlueSile"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

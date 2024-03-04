@@ -1,0 +1,9 @@
+salesforce.Role mangerf {
+  fullName = "mangerf"
+  caseAccessLevel = "Edit"
+  contactAccessLevel = "Edit"
+  mayForecastManagerShare = false
+  name = "mangerf"
+  opportunityAccessLevel = "Edit"
+  _alias = "mangerf"
+}

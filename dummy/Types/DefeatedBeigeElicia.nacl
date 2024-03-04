@@ -1,0 +1,178 @@
+type dummy.DefeatedBeigeElicia {
+  annotations {
+    boolean MaleVioletFanechka {
+    }
+    serviceid PhilosophicalRedGigi {
+    }
+    string OuterOliveJayne {
+    }
+    boolean FitAquamarinePammie {
+    }
+    number EfficientIvoryMariejeanne {
+    }
+  }
+  serviceid_number DiverseLimeEleonore {
+    _hidden_value = true
+  }
+  serviceid_number RandomCrimsonGretel {
+    _hidden_value = true
+  }
+  dummy.DEFAULT FaithfulPinkKari {
+    _hidden_value = true
+  }
+  serviceid HomelessBlackMadel {
+    _hidden_value = true
+  }
+  json RapidCopperRebbecca {
+    _hidden_value = true
+  }
+  number IdenticalSalmonTiffany {
+    _hidden_value = true
+  }
+  number CombinedLimeGermain {
+    _hidden_value = true
+  }
+  serviceid_number CruelIndigoWandie {
+    _hidden_value = true
+  }
+  json ComfortableRoseFeodora {
+    _hidden_value = true
+  }
+  serviceid ImpressiveGoldSheelah {
+    _hidden_value = true
+  }
+  boolean RipeAmethystMaegan {
+    _hidden_value = true
+  }
+  hidden_boolean PermanentCyanLeland {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean SilentBlushDonni {
+    _hidden_value = true
+  }
+  number GreasyCoffeeAlyssa {
+    _hidden_value = true
+  }
+  number FuriousBlushGeorgetta {
+    _hidden_value = true
+  }
+  dummy.OppositeBlueStacia MarvellousFuchsiaAngelia {
+    GeneralLimeAnitra = "My first time using an elevator was an uplifting experience. The second time let me down."
+    YoungestYellowHelenka = "What do you call two barracuda fish?  A Pairacuda!"
+    ZonalJadeGabriellia = {
+      legit = "Why did the kid cross the playground? To get to the other slide."
+    }
+    FunctionalApricotHelyn = "How come the stadium got hot after the game? Because all of the fans left."
+    GorgeousRedAnnecorinne = 409
+    PreliminaryGoldZsazsa = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    _hidden_value = true
+  }
+  boolean EffectiveCoralEliza {
+    _hidden_value = true
+  }
+  serviceid SocialRoseLynnet {
+    _hidden_value = true
+  }
+  serviceid AwareVioletDeerdre {
+    _hidden_value = true
+  }
+  boolean NursingBlackScarlett {
+    _hidden_value = true
+  }
+  json PatientTanKatuscha {
+    _hidden_value = true
+  }
+  hidden_boolean VicariousAmaranthJillie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number SupportingJadeTabby {
+    _hidden_value = true
+  }
+  dummy.StillMagentaWendi CulturalMagentaBrinna {
+    DevelopedFuchsiaLilllie = 945
+    DirectMagentaSharyl = "Why do birds fly south for the winter? Because it's too far to walk."
+    FascinatingOrangeTheressa = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    RulingBrownSamantha = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    QuietCoffeeBlinni = 49
+    TotalAmethystRisa = true
+    InstitutionalYellowMariska = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    SafeGoldGabriell = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    SoreScarletTed = "Im only familiar with 25 letters in the English language. I dont know why."
+    EntitledPinkLeta = "Why do birds fly south for the winter? Because it's too far to walk."
+    YappiestGreenFawne = 694
+    YammeringSapphireLiv = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    NoisyMaroonMirabel = true
+    _hidden_value = true
+  }
+  serviceid PresentAmberGusella {
+    _hidden_value = true
+  }
+  serviceid_number FundamentalCoffeeQueenie {
+    _hidden_value = true
+  }
+  string LegitimateBlushDi {
+    _hidden_value = true
+  }
+  boolean WeirdYellowHeather {
+    _hidden_value = true
+  }
+  json ControversialWhiteCherey {
+    _hidden_value = true
+  }
+  number ShakyCoffeeAdriana {
+    _hidden_value = true
+  }
+  string MassiveHarlequinTheresa {
+    _hidden_value = true
+  }
+  json VaryingPlumMaura {
+    _hidden_value = true
+  }
+  hidden_boolean UnusualIvoryCornelle {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number ShyBlackAdrianna {
+    _hidden_value = true
+  }
+  MaleVioletFanechka = false
+  PhilosophicalRedGigi = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  OuterOliveJayne = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  FitAquamarinePammie = true
+  EfficientIvoryMariejeanne = 534
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "NursingBlackScarlett"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "RandomCrimsonGretel"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ComfortableRoseFeodora"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "MaleVioletFanechka"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "EfficientIvoryMariejeanne"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,126 @@
+netsuite.savedsearch customsearch_esc_my_cases {
+  scriptid = "customsearch_esc_my_cases"
+  definition = "31606106f792d9e4112de76dc430b851e456b18a22fabfd976d111c39d1d2ad6@GZC@2023.2.15@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"
+  search_filter = [
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Case_ASSIGNED"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "@CURRENT@"
+        },
+      ]
+    },
+  ]
+  available_filters = [
+    {
+      SEQ_NUMBER = 1
+      FIELD_NAME = "Case_STATUS"
+      FLAG_FOOTER = true
+      FLAG_FOOTER_MULTI_SELECT = false
+    },
+    {
+      SEQ_NUMBER = 2
+      FIELD_NAME = "Case_ASSIGNED"
+      FLAG_FOOTER = true
+      FLAG_FOOTER_MULTI_SELECT = false
+    },
+    {
+      SEQ_NUMBER = 3
+      FIELD_NAME = "Case_AWAITINGREPLY"
+      FLAG_FOOTER = true
+      FLAG_FOOTER_MULTI_SELECT = false
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "Case_NUMBER"
+      FIELD_INDEX = 1
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Case_GRABREF"
+      FIELD_INDEX = 2
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Case_COMPANY"
+      FIELD_INDEX = 3
+      FIELD_LABEL = "Customer Name"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Case_TITLE"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Case_ASSIGNED"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "Case_CREATEDDATE"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = true
+    },
+  ]
+  audience = {
+    FLAG_AUDIENCE_ALL_CUSTOMERS = false
+    FLAG_AUDIENCE_ALL_EMPLOYEES = false
+    FLAG_AUDIENCE_ALL_PARTNERS = false
+    FLAG_AUDIENCE_ALL_ROLES = true
+    FLAG_AUDIENCE_ALL_VENDORS = false
+  }
+  KEY_SCRIPT_ID = "customsearch_esc_my_cases"
+  FIELD_DEFAULT_NAME = "My Cases"
+  FIELD_SEARCH_TYPE = "Case"
+  FLAG_PUBLIC = true
+  FLAG_LIST = true
+  FLAG_PORTLET = true
+  FLAG_MACHINE = false
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = false
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = false
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = true
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+  KEY_AUDIENCE = 0
+  _alias = "My Cases"
+  bundle = netsuite.bundle.instance.bundle_58416
+}

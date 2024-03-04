@@ -1,0 +1,74 @@
+type dummy.IntensiveTanBennie {
+  annotations {
+    dummy.DEFAULT ChillyPlumLayne {
+    }
+    hidden_boolean ConvincedMaroonReiko {
+    }
+    string ItchyJadePeggie {
+    }
+    string AcceptableAmethystAnnemarie {
+    }
+    serviceid UsefulOrangeChelsie {
+    }
+  }
+  number NorthernRedSandra {
+    _hidden_value = true
+  }
+  json CapableEmeraldSherill {
+    _hidden_value = true
+  }
+  serviceid_number StrongEmeraldMyrtice {
+    _hidden_value = true
+  }
+  serviceid_number ExcessiveLavenderDorian {
+    _hidden_value = true
+  }
+  boolean HissingTealBelia {
+    _hidden_value = true
+  }
+  hidden_boolean SpotlessSilverAdelheid {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string ExpensiveLimeLuise {
+    _hidden_value = true
+  }
+  "List<boolean>" PunyBlackHesther {
+    _hidden_value = true
+  }
+  hidden_boolean SouthernMaroonSavina {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean ZanyGrayEmera {
+    _hidden_value = true
+  }
+  ChillyPlumLayne = {
+    legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  }
+  ItchyJadePeggie = "What do you call two barracuda fish?  A Pairacuda!"
+  AcceptableAmethystAnnemarie = "A steak pun is a rare medium well done."
+  UsefulOrangeChelsie = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "HissingTealBelia"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ItchyJadePeggie"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "UsefulOrangeChelsie"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

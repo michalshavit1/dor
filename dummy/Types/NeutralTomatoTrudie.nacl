@@ -1,0 +1,53 @@
+type dummy.NeutralTomatoTrudie {
+  annotations {
+    boolean RationalLimeJoana {
+    }
+    number ResultingTurquoiseRochell {
+    }
+    serviceid RelativePurpleVivyan {
+    }
+    hidden_boolean OrganisationalPurpleGilligan {
+    }
+    hidden_boolean ThirstyApricotDinny {
+    }
+    serviceid WorldwidePinkDanell {
+    }
+  }
+  json PossibleAmberBrigitte {
+    _hidden_value = true
+  }
+  number StillBrownMichaella {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" SpotlessLimeTybi {
+    _hidden_value = true
+  }
+  dummy.JustBeigeShaylynn IntimateTanWilly {
+    FreshAquamarineRubie = 205
+    RoastedGrayCammie = false
+    FavourableIndigoBritte = "Why did the tomato blush? Because it saw the salad dressing."
+    RemoteSapphireCarree = 782
+    AloneOrangeMarijo = "Why didnt the skeleton cross the road? Because he had no guts."
+    DoubtfulGreenTamara = 611
+    SocialAmberLilah = 832
+    TropicalGoldAmelita = {
+      legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    }
+    VulnerableAquamarineAyn = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    WorldwideMaroonVinni = "Why is Peter Pan always flying? Because he Neverlands."
+    ArmedOrangeSibbie = 551
+    _hidden_value = true
+  }
+  RationalLimeJoana = true
+  ResultingTurquoiseRochell = 162
+  RelativePurpleVivyan = "Why was it called the dark ages? Because of all the knights. "
+  WorldwidePinkDanell = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "ThirstyApricotDinny"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

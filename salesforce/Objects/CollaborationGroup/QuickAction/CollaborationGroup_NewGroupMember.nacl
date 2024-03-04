@@ -1,0 +1,50 @@
+salesforce.QuickAction CollaborationGroup_NewGroupMember@v {
+  fullName = "CollaborationGroup.NewGroupMember"
+  fieldOverrides = [
+    {
+      field = "CollaborationRole"
+      formula = "\"hjk\""
+      literalValue = "Standard"
+    },
+    {
+      field = "NotificationFrequency"
+      formula = "\"grgd\""
+      literalValue = "N"
+    },
+  ]
+  optionsCreateFeedItem = true
+  quickActionLayout = {
+    layoutSectionStyle = "TwoColumnsLeftToRight"
+    quickActionLayoutColumns = [
+      {
+        quickActionLayoutItems = [
+          {
+            emptySpace = false
+            field = "CollaborationGroupId"
+            uiBehavior = "Required"
+          },
+          {
+            emptySpace = false
+            field = "MemberId"
+            uiBehavior = "Required"
+          },
+          {
+            emptySpace = false
+            field = "CollaborationRole"
+            uiBehavior = "Edit"
+          },
+        ]
+      },
+      {
+      },
+    ]
+  }
+  standardLabel = "AddMember"
+  targetObject = salesforce.CollaborationGroupMember
+  targetParentField = "CollaborationGroup"
+  type = "Create"
+  _parent = [
+    salesforce.CollaborationGroup,
+  ]
+  _alias = "CollaborationGroup.NewGroupMember"
+}

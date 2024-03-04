@@ -1,0 +1,45 @@
+type dummy.WarmCopperBlondell {
+  annotations {
+    string SharedAzureGavra {
+    }
+    serviceid_number BlankCoralCarola {
+    }
+    dummy.InformalTurquoiseFaith NetJadeKaree {
+    }
+    string OralYellowMelita {
+    }
+    string FinancialAquaNara {
+    }
+  }
+  serviceid YummyAquaNissie {
+    _hidden_value = true
+  }
+  serviceid SuitableMaroonAg {
+    _hidden_value = true
+  }
+  number GeneticVioletAgathe {
+    _hidden_value = true
+  }
+  serviceid_number ScientificScarletRicca {
+    _hidden_value = true
+  }
+  boolean ComplicatedIvoryMarysa {
+    _hidden_value = true
+  }
+  json BlindMagentaRozella {
+    _hidden_value = true
+  }
+  SharedAzureGavra = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  BlankCoralCarola = 220
+  NetJadeKaree = false
+  OralYellowMelita = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  FinancialAquaNara = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "BlindMagentaRozella"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

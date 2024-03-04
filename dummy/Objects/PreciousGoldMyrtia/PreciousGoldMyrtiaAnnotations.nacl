@@ -1,0 +1,87 @@
+type dummy.PreciousGoldMyrtia {
+  annotations {
+    serviceid ChillyBronzeMercy {
+    }
+    json MusicalCoralJackqueline {
+    }
+    serviceid WideRoseDorthea {
+    }
+    string AccessibleJadeSelinda {
+    }
+    string InterestingYellowArlina {
+    }
+    hidden_boolean UndergroundAmaranthKenna {
+    }
+    dummy.InformalTurquoiseFaith HilariousMagentaCassaundra {
+    }
+    serviceid_number ExclusiveFuchsiaBili {
+    }
+    dummy.GeneralCyanSusanetta DependentGrayDanni {
+    }
+    string HappyGoldAlla {
+    }
+    number ArbitraryGoldBlondy {
+    }
+    boolean MarginalPinkWilla {
+    }
+    dummy.DiverseTurquoiseMariya InnovativeSalmonCristi {
+    }
+    dummy.CivicAzureAnthea PreviousOliveAllys {
+    }
+    number UnchangedCrimsonNataline {
+    }
+    boolean UsedRedRora {
+    }
+    serviceid_number RecentRedFrankie {
+    }
+    hidden_boolean WholePinkDonnamarie {
+    }
+  }
+  ChillyBronzeMercy = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  MusicalCoralJackqueline = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  WideRoseDorthea = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  AccessibleJadeSelinda = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  InterestingYellowArlina = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  HilariousMagentaCassaundra = true
+  ExclusiveFuchsiaBili = 734
+  HappyGoldAlla = "Why do birds fly south for the winter? Because it's too far to walk."
+  ArbitraryGoldBlondy = 731
+  MarginalPinkWilla = true
+  InnovativeSalmonCristi = true
+  UnchangedCrimsonNataline = 903
+  UsedRedRora = true
+  RecentRedFrankie = 532
+  _self_important_values = [
+    {
+      value = "PreviousOliveAllys"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ChillyBronzeMercy"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "UndergroundAmaranthKenna"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "WholePinkDonnamarie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "HappyGoldAlla"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "HilariousMagentaCassaundra"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "PreciousGoldMyrtia_alias"
+}

@@ -1,0 +1,29 @@
+type dummy.PurringPurpleTerra {
+  annotations {
+    json JoyousPinkMei {
+    }
+    number MinimumBlushAlessandra {
+    }
+    hidden_boolean IdealLimeMellie {
+    }
+    number LargeBlueBlondie {
+    }
+    serviceid_number ZanyPeachZola {
+    }
+  }
+  json AbleSilverMarin {
+    _hidden_value = true
+  }
+  JoyousPinkMei = "Slept like a log last night  woke up in the fireplace."
+  MinimumBlushAlessandra = 785
+  LargeBlueBlondie = 996
+  ZanyPeachZola = 817
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "JoyousPinkMei"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

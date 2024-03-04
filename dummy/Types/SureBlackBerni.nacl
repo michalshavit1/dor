@@ -1,0 +1,42 @@
+type dummy.SureBlackBerni {
+  annotations {
+    dummy.SplendidAmberFlorance AlrightIndigoBliss {
+    }
+    number YuckyCyanNedda {
+    }
+    serviceid LivelyWhiteGeorgetta {
+    }
+    serviceid_number EntitledYellowJaimie {
+    }
+    hidden_boolean SquealingTanDanyette {
+    }
+    serviceid_number InformalBeigeBekki {
+    }
+  }
+  hidden_boolean DistinctiveAzureMina {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string CompatibleBronzeMaggee {
+    _hidden_value = true
+  }
+  string FavouriteTomatoOfelia {
+    _hidden_value = true
+  }
+  dummy.DEFAULT FixedMagentaSari {
+    _hidden_value = true
+  }
+  string ValidAquaDionne {
+    _hidden_value = true
+  }
+  serviceid ArtificialMoccasinRebe {
+    _hidden_value = true
+  }
+  AlrightIndigoBliss = "Whoever invented the knock-knock joke should get a no bell prize."
+  YuckyCyanNedda = 867
+  LivelyWhiteGeorgetta = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  EntitledYellowJaimie = 348
+  InformalBeigeBekki = 181
+  _hidden_value = true
+}

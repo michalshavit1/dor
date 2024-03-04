@@ -1,0 +1,191 @@
+netsuite.savedsearch customsearch718 {
+  scriptid = "customsearch718"
+  definition = "5836f99bb853e1b0b550e57bf6032b01214a344dc8583a2173b92628ab666010@GZC@2022.1.17@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"
+  search_filter = [
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Transaction_TYPE"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "WOCompl"
+        },
+        {
+          KEY_ID = 1
+          FIELD_VALUE = "WOIssue"
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Transaction_MAINLINE"
+      FIELD_ATTRIBUTE = "F"
+      FIELD_TYPE = "CHECKBOX"
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Transaction_COSTCOMPONENTCATEGORY"
+      FIELD_ATTRIBUTE = "NONEOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "@NONE@"
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Transaction_ACCOUNT"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "163"
+        },
+      ]
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "Transaction_TRANDATE"
+      FIELD_INDEX = 1
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_TYPE"
+      FIELD_INDEX = 2
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_NUMBER"
+      FIELD_INDEX = 3
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_NAME"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_POSTINGPERIOD"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_COSTCOMPONENTCATEGORY"
+      FIELD_INDEX = 6
+      FIELD_SUMMARY_TYPE = "GROUP"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_COSTCOMPONENTITEM"
+      FIELD_INDEX = 7
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_COSTCOMPONENTQUANTITY"
+      FIELD_INDEX = 8
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_COSTCOMPONENTAMOUNT"
+      FIELD_INDEX = 9
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_COSTCOMPONENTSTANDARDCOST"
+      FIELD_INDEX = 10
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_FORMULACURRENCY"
+      FIELD_INDEX = 11
+      FIELD_LABEL = "Total Amount"
+      FIELD_SUMMARY_TYPE = "SUM"
+      FIELD_FORMULA = "ROUND(({costcomponentamount}+{costcomponentstandardcost}),2)"
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "Transaction_TRANDATE"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  audience = {
+    FLAG_AUDIENCE_ALL_CUSTOMERS = false
+    FLAG_AUDIENCE_ALL_EMPLOYEES = false
+    FLAG_AUDIENCE_ALL_PARTNERS = false
+    FLAG_AUDIENCE_ALL_ROLES = true
+    FLAG_AUDIENCE_ALL_VENDORS = false
+  }
+  KEY_SCRIPT_ID = "customsearch718"
+  FIELD_DEFAULT_NAME = "WIP Detail Graph"
+  FIELD_SEARCH_TYPE = "Transaction"
+  FLAG_PUBLIC = true
+  FLAG_LIST = true
+  FLAG_PORTLET = true
+  FLAG_MACHINE = true
+  FLAG_REMINDER = true
+  FLAG_SHOW_LINK = true
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = true
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FIELD_CURRENCY_RATE_TYPE = "ACCTTYPE"
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "ANY"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = false
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = false
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+  KEY_AUDIENCE = 0
+  _alias = "WIP Detail Graph"
+}

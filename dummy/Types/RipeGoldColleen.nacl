@@ -1,0 +1,53 @@
+type dummy.RipeGoldColleen {
+  annotations {
+    string SingleBronzeCandis {
+    }
+    boolean LostBeigeCrissy {
+    }
+    serviceid_number JoyousMagentaAnnabella {
+    }
+    json DesperateRoseMarjy {
+    }
+    string KeenYellowMallissa {
+    }
+  }
+  boolean SteadyCrimsonNessa {
+    _hidden_value = true
+  }
+  string LovelyAquamarineRobinia {
+    _hidden_value = true
+  }
+  string QuickestCrimsonDarla {
+    _hidden_value = true
+  }
+  boolean ClassicPurpleCarlyn {
+    _hidden_value = true
+  }
+  json HollowJadeBrenda {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AwfulJadeTeodora {
+    _hidden_value = true
+  }
+  boolean ZygoticEmeraldLeoine {
+    _hidden_value = true
+  }
+  SingleBronzeCandis = "Dad Im hungry  Hi hungry Im dad"
+  LostBeigeCrissy = true
+  JoyousMagentaAnnabella = 526
+  DesperateRoseMarjy = "Did you know that protons have mass? I didn't even know they were catholic."
+  KeenYellowMallissa = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "DesperateRoseMarjy"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "KeenYellowMallissa"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

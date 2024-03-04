@@ -1,0 +1,54 @@
+type dummy.MonthlyVioletYovonnda {
+  annotations {
+    dummy.YawningTomatoBlaire RipeMagentaVirginia {
+    }
+    hidden_boolean WorriedMaroonLizzy {
+    }
+    string PreviousTomatoClarey {
+    }
+    serviceid_number RenewedCoralRoslyn {
+    }
+  }
+  serviceid MiserableIndigoEmmy {
+    _hidden_value = true
+  }
+  serviceid_number RationalTomatoKasey {
+    _hidden_value = true
+  }
+  json InnocentIvoryAdeline {
+    _hidden_value = true
+  }
+  dummy.ResultingCrimsonArdath ParliamentaryOrangeAllix {
+    SuddenSalmonLissa = 659
+    LiableMaroonFrank = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    QuintessentialLavenderCorenda = "I'll tell you what often gets over looked... garden fences."
+    SexualIvoryNannette = "What do you do on a remote island? Try and find the TV island it belongs to."
+    SplendidTomatoNesta = "I'll tell you what often gets over looked... garden fences."
+    SkinnyLavenderKorry = {
+      legit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    }
+    _hidden_value = true
+  }
+  serviceid LovelyMagentaVitia {
+    _hidden_value = true
+  }
+  string TotalVioletEdie {
+    _hidden_value = true
+  }
+  RipeMagentaVirginia = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  PreviousTomatoClarey = "Why do birds fly south for the winter? Because it's too far to walk."
+  RenewedCoralRoslyn = 203
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "PreviousTomatoClarey"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "RipeMagentaVirginia"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,114 @@
+type dummy.DistantBronzeBella {
+  annotations {
+    number UniformAquaBrooks {
+    }
+    serviceid_number CriticalBlackSella {
+    }
+    dummy.ColdLavenderJewel StuckRedYoshi {
+    }
+    serviceid StableGreenLexine {
+    }
+    string RollingGrayEve {
+    }
+    string AtomicScarletCloe {
+    }
+    boolean HistoricalBeigeJaclyn {
+    }
+    number XenialAmberBabette {
+    }
+    number WorriedPurpleTeddie {
+    }
+    string ActiveAquaLucienne {
+    }
+    hidden_boolean NuclearBronzeLisetta {
+    }
+    dummy.NecessaryCopperKariotta GastricCopperSheeree {
+    }
+    string SteadyWhiteBennie {
+    }
+    serviceid_number FortunateScarletLebbie {
+    }
+    serviceid PureTanAdi {
+    }
+    dummy.DecisiveMagentaGinnie KindIndigoGussie {
+    }
+    json PotentialMaroonMona {
+    }
+    hidden_boolean LeftEmeraldTori {
+    }
+    dummy.AnnualPurpleRyann MinisterialCoffeeNinetta {
+    }
+    string ViciousYellowIdelle {
+    }
+  }
+  UniformAquaBrooks = 11
+  CriticalBlackSella = 622
+  StableGreenLexine = "I'll tell you what often gets over looked... garden fences."
+  RollingGrayEve = "What do you call two barracuda fish?  A Pairacuda!"
+  AtomicScarletCloe = "Whoever invented the knock-knock joke should get a no bell prize."
+  HistoricalBeigeJaclyn = false
+  XenialAmberBabette = 731
+  WorriedPurpleTeddie = 112
+  ActiveAquaLucienne = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  SteadyWhiteBennie = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  FortunateScarletLebbie = 350
+  PureTanAdi = "How come the stadium got hot after the game? Because all of the fans left."
+  PotentialMaroonMona = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  MinisterialCoffeeNinetta = true
+  ViciousYellowIdelle = "Why do birds fly south for the winter? Because it's too far to walk."
+  _important_values = [
+    {
+      value = "ShockedTanAleen"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "AssistantVioletGisella"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "RetiredMoccasinLucine"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "AtomicScarletCloe"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "UniformAquaBrooks"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "WorriedPurpleTeddie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "StableGreenLexine"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "PotentialMaroonMona"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ViciousYellowIdelle"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "NuclearBronzeLisetta"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _alias = "DistantBronzeBella_alias"
+}

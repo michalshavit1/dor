@@ -1,0 +1,89 @@
+type dummy.FavouriteTanBobinette {
+  annotations {
+    dummy.DEFAULT DistinctSapphireSusana {
+    }
+    serviceid_number AmusedGreenKarlene {
+    }
+    dummy.MaleVioletLari PresidentialVioletDelphine {
+    }
+    serviceid WideLavenderBeilul {
+    }
+    string LargeAzureTina {
+    }
+    number CoastalJadeJazmin {
+    }
+    hidden_boolean AgriculturalSalmonHeida {
+    }
+  }
+  dummy.AnnualPurpleRyann ZoophagousRedDarice {
+    MisleadingCyanPietra = "What do you call two barracuda fish?  A Pairacuda!"
+    DecisiveBeigeTeddi = "Slept like a log last night  woke up in the fireplace."
+    EconomicYellowErtha = false
+    OnlyBrownMoyna = {
+      legit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    }
+    UpperEmeraldLaverne = {
+      legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    }
+    ZygoticBeigeBiddie = true
+    AloneMaroonRonna = false
+    ConsciousEmeraldWendy = 712
+    ReducedCyanSherrie = "What creature is smarter than a talking parrot? A spelling bee."
+    BrightScarletLucy = "Why did the tomato blush? Because it saw the salad dressing."
+    ThoroughAmberNanete = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    HardBronzeEbba = "Whoever invented the knock-knock joke should get a no bell prize."
+    _hidden_value = true
+  }
+  serviceid LightCoralCaitlin {
+    _hidden_value = true
+  }
+  json AllegedGreenKeriann {
+    _hidden_value = true
+  }
+  hidden_boolean MetropolitanOliveInna {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<boolean>" ConstantAmaranthPaulette {
+    _hidden_value = true
+  }
+  hidden_boolean OccasionalTomatoRochette {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean PainfulSapphireArdys {
+    _hidden_value = true
+  }
+  number LinguisticScarletNaomi {
+    _hidden_value = true
+  }
+  boolean QuerulousAmaranthMarcellina {
+    _hidden_value = true
+  }
+  json PracticalIndigoXenia {
+    _hidden_value = true
+  }
+  number SolidBrownJeanette {
+    _hidden_value = true
+  }
+  boolean ImpressedGrayMarcie {
+    _hidden_value = true
+  }
+  serviceid_number EthicalMaroonKizzie {
+    _hidden_value = true
+  }
+  string GrubbyCoralAlejandra {
+    _hidden_value = true
+  }
+  DistinctSapphireSusana = {
+    legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  AmusedGreenKarlene = 364
+  PresidentialVioletDelphine = true
+  WideLavenderBeilul = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  LargeAzureTina = "Why was it called the dark ages? Because of all the knights. "
+  CoastalJadeJazmin = 768
+  _hidden_value = true
+}

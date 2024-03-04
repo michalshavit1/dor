@@ -1,0 +1,407 @@
+salesforce.Flow michalmichalflow {
+  fullName = "michalmichalflow"
+  actionCalls = [
+    {
+      name = "eventContextErrorEmail"
+      label = "Context Error Email"
+      locationX = 0
+      locationY = 0
+      actionName = "emailSimple"
+      actionType = "emailSimple"
+      flowTransactionModel = "CurrentTransaction"
+      inputParameters = [
+        {
+          name = "emailSubject"
+          value = {
+            stringValue = "Salesforce michal process didn't start: No matching records found"
+          }
+        },
+        {
+          name = "emailBody"
+          value = {
+            elementReference = "noRecordsFoundTextTemplate"
+          }
+        },
+        {
+          name = "emailAddresses"
+          value = {
+            stringValue = "michal.shavit@salto.io"
+          }
+        },
+      ]
+      nameSegment = "emailSimple"
+      versionSegment = 1
+    },
+    {
+      name = "eventContextMoreEmail"
+      label = "Context Error Email"
+      locationX = 0
+      locationY = 0
+      actionName = "emailSimple"
+      actionType = "emailSimple"
+      flowTransactionModel = "CurrentTransaction"
+      inputParameters = [
+        {
+          name = "emailSubject"
+          value = {
+            stringValue = "Salesforce michal process didn't start: Multiple matching records found"
+          }
+        },
+        {
+          name = "emailBody"
+          value = {
+            elementReference = "multipleRecordsFoundTextTemplate"
+          }
+        },
+        {
+          name = "emailAddresses"
+          value = {
+            stringValue = "michal.shavit@salto.io"
+          }
+        },
+      ]
+      nameSegment = "emailSimple"
+      versionSegment = 1
+    },
+  ]
+  apiVersion = 52
+  assignments = [
+    {
+      name = "RecordCountAssignment"
+      label = "RecordCountAssignment"
+      locationX = 0
+      locationY = 0
+      assignmentItems = [
+        {
+          assignToReference = "myVariable_event_record_count"
+          operator = "Add"
+          value = {
+            numberValue = 1
+          }
+        },
+        {
+          assignToReference = "myVariable_event_context"
+          operator = "Assign"
+          value = {
+            elementReference = "myVariable_event_current_record"
+          }
+        },
+      ]
+      connector = {
+        targetReference = "eventContextCheckLoop"
+      }
+    },
+  ]
+  decisions = [
+    {
+      name = "eventContextCheckDecision"
+      label = "ContextCheckDecision"
+      locationX = 0
+      locationY = 0
+      defaultConnector = {
+        targetReference = "myDecision"
+      }
+      defaultConnectorLabel = "default"
+      rules = [
+        {
+          name = "eventContextCheckRule"
+          conditionLogic = "and"
+          conditions = [
+            {
+              leftValueReference = "myVariable_event_record_count"
+              operator = "EqualTo"
+              rightValue = {
+                numberValue = 0
+              }
+            },
+          ]
+          connector = {
+            targetReference = "eventContextErrorEmail"
+          }
+          label = "Context Check Decision - Is Zero"
+        },
+        {
+          name = "eventContextGtOneCheckRule"
+          conditionLogic = "and"
+          conditions = [
+            {
+              leftValueReference = "myVariable_event_record_count"
+              operator = "GreaterThan"
+              rightValue = {
+                numberValue = 1
+              }
+            },
+          ]
+          connector = {
+            targetReference = "eventContextMoreEmail"
+          }
+          label = "Context Check Decision - Greater than One"
+        },
+      ]
+    },
+    {
+      processMetadataValues = {
+        name = "index"
+        value = {
+          numberValue = 0
+        }
+      }
+      name = "myDecision"
+      label = "myDecision"
+      locationX = 50
+      locationY = 0
+      defaultConnector = {
+        targetReference = "myDecision2"
+      }
+      defaultConnectorLabel = "default"
+      rules = [
+        {
+          name = "myRule_1"
+          conditionLogic = "and"
+          conditions = [
+            {
+              leftValueReference = "formula_myRule_1"
+              operator = "EqualTo"
+              rightValue = {
+                booleanValue = true
+              }
+            },
+          ]
+          label = "abc"
+        },
+      ]
+    },
+    {
+      processMetadataValues = {
+        name = "index"
+        value = {
+          numberValue = 1
+        }
+      }
+      name = "myDecision2"
+      label = "myDecision2"
+      locationX = 50
+      locationY = 0
+      defaultConnectorLabel = "default"
+      rules = [
+        {
+          name = "myRule_3"
+          conditionLogic = "and"
+          conditions = [
+            {
+              leftValueReference = "formula_myRule_3"
+              operator = "EqualTo"
+              rightValue = {
+                booleanValue = true
+              }
+            },
+          ]
+          label = "dfg"
+        },
+      ]
+    },
+  ]
+  formulas = [
+    {
+      name = "formula_myRule_1"
+      dataType = "Boolean"
+      expression = "true"
+    },
+    {
+      name = "formula_myRule_3"
+      dataType = "Boolean"
+      expression = "true"
+    },
+    {
+      name = "OrganizationName"
+      dataType = "String"
+      expression = "{!$Organization.Name}"
+    },
+  ]
+  interviewLabel = "michalmichalflow-1_InterviewLabel"
+  label = "michal"
+  loops = [
+    {
+      name = "eventContextCheckLoop"
+      label = "ContextCheckLoop"
+      locationX = 0
+      locationY = 0
+      assignNextValueToReference = "myVariable_event_current_record"
+      collectionReference = "myVariable_event_context_collection"
+      iterationOrder = "Asc"
+      nextValueConnector = {
+        targetReference = "RecordCountAssignment"
+      }
+      noMoreValuesConnector = {
+        targetReference = "eventContextCheckDecision"
+      }
+    },
+  ]
+  processMetadataValues = [
+    {
+      name = "EventType"
+      value = {
+        stringValue = "FlowExecutionErrorEvent"
+      }
+    },
+    {
+      name = "ObjectType"
+      value = {
+        stringValue = "Asset"
+      }
+    },
+  ]
+  processType = "CustomEvent"
+  recordLookups = [
+    {
+      name = "myEventContextRecordLookup"
+      label = "myEventContextRecordLookup"
+      locationX = 0
+      locationY = 0
+      assignNullValuesIfNoRecordsFound = false
+      connector = {
+        targetReference = "eventContextCheckLoop"
+      }
+      filterLogic = "and"
+      filters = [
+        {
+          processMetadataValues = [
+            {
+              name = "implicit"
+              value = {
+                booleanValue = false
+              }
+            },
+            {
+              name = "inputDataType"
+              value = {
+                stringValue = "ID"
+              }
+            },
+            {
+              name = "leftHandSideLabel"
+              value = {
+                stringValue = "Account ID"
+              }
+            },
+            {
+              name = "leftHandSideReferenceTo"
+              value = {
+                stringValue = "Account"
+              }
+            },
+            {
+              name = "leftHandSideType"
+              value = {
+                stringValue = "ID"
+              }
+            },
+            {
+              name = "operatorDataType"
+              value = {
+                stringValue = "String"
+              }
+            },
+            {
+              name = "rightHandSideType"
+              value = {
+                stringValue = "ID"
+              }
+            },
+          ]
+          field = salesforce.Asset.field.AccountId
+          operator = "EqualTo"
+          value = {
+            stringValue = "123456"
+          }
+        },
+      ]
+      object = salesforce.Asset
+      outputReference = "myVariable_event_context_collection"
+    },
+  ]
+  startElementReference = "myEventContextRecordLookup"
+  status = "Draft"
+  textTemplates = [
+    {
+      description = "text template for when multiple records are records found"
+      name = "multipleRecordsFoundTextTemplate"
+      isViewedAsPlainText = false
+      text = '''
+Hello {!OrganizationName} Admin, 
+
+The michal process is configured to start when a Flow Execution Error Event platform event message occurs. A Flow Execution Error Event message occurred, but the process didn't start because multiple records in your org match the values specified in the process's Object node.
+
+
+
+To fix this issue, adjust the matching filters in the process's Object node.
+
+Thank you, 
+Salesforce Process Automation
+'''
+    },
+    {
+      description = "text template for no records found"
+      name = "noRecordsFoundTextTemplate"
+      isViewedAsPlainText = false
+      text = '''
+Hello {!OrganizationName} Admin, 
+
+The michal process is configured to start when a Flow Execution Error Event platform event message occurs. A Flow Execution Error Event message occurred, but the process didn't start because no records in your org match the values specified in the process's Object node.
+
+
+
+To fix this issue, adjust the matching filters in the process's Object node.
+
+Thank you, 
+Salesforce Process Automation
+'''
+    },
+  ]
+  variables = [
+    {
+      name = "myVariable_event_context"
+      dataType = "SObject"
+      isCollection = false
+      isInput = true
+      isOutput = true
+      objectType = salesforce.Asset
+    },
+    {
+      name = "myVariable_event_context_collection"
+      dataType = "SObject"
+      isCollection = true
+      isInput = true
+      isOutput = true
+      objectType = salesforce.Asset
+    },
+    {
+      name = "myVariable_event_current_record"
+      dataType = "SObject"
+      isCollection = false
+      isInput = true
+      isOutput = true
+      objectType = salesforce.Asset
+    },
+    {
+      name = "myVariable_event_record_count"
+      dataType = "Number"
+      isCollection = false
+      isInput = true
+      isOutput = true
+      scale = 2
+      value = {
+        numberValue = 0
+      }
+    },
+    {
+      name = "myVariable_myEvent"
+      dataType = "SObject"
+      isCollection = false
+      isInput = true
+      isOutput = false
+      objectType = "FlowExecutionErrorEvent"
+    },
+  ]
+  _alias = "michal"
+}

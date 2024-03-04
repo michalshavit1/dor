@@ -1,0 +1,8 @@
+salesforce.StaticResource TestStaticResource {
+  cacheControl = "Private"
+  contentType = "text/xml"
+  description = "Test Static Resource Description"
+  fullName = "TestStaticResource"
+  content = file("salesforce/Records/StaticResource/TestStaticResource.xml")
+  _alias = "TestStaticResource"
+}

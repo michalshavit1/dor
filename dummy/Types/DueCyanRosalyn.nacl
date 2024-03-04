@@ -1,0 +1,33 @@
+type dummy.DueCyanRosalyn {
+  annotations {
+    number PunySapphireMarnia {
+    }
+    json StraightFuchsiaKrystalle {
+    }
+    number HugeBeigeHermia {
+    }
+    serviceid WonderfulMaroonBarbie {
+    }
+    serviceid_number HumanCrimsonEleen {
+    }
+    boolean RelievedSapphireSam {
+    }
+  }
+  boolean ZygoticCoralFelicity {
+    _hidden_value = true
+  }
+  PunySapphireMarnia = 440
+  StraightFuchsiaKrystalle = "How come the stadium got hot after the game? Because all of the fans left."
+  HugeBeigeHermia = 46
+  WonderfulMaroonBarbie = "I'll tell you what often gets over looked... garden fences."
+  HumanCrimsonEleen = 915
+  RelievedSapphireSam = true
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "StraightFuchsiaKrystalle"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

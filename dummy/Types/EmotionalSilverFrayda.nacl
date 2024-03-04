@@ -1,0 +1,71 @@
+type dummy.EmotionalSilverFrayda {
+  annotations {
+    json VocalAmberMyranda {
+    }
+    serviceid_number ChiefHarlequinJessamyn {
+    }
+    json CloseTomatoMerrie {
+    }
+    serviceid OverwhelmingBeigeKipp {
+    }
+    boolean GrimSilverAddi {
+    }
+  }
+  boolean SaltyChocolateAnneliese {
+    _hidden_value = true
+  }
+  number AvailableBrownKizzie {
+    _hidden_value = true
+  }
+  serviceid_number WeirdCoralLaure {
+    _hidden_value = true
+  }
+  serviceid_number ExpectedMagentaJanina {
+    _hidden_value = true
+  }
+  boolean AloneRedGilbertine {
+    _hidden_value = true
+  }
+  serviceid_number SocialistBlushEmalee {
+    _hidden_value = true
+  }
+  boolean XenaciousCrimsonAilene {
+    _hidden_value = true
+  }
+  string CentralTomatoJehanna {
+    _hidden_value = true
+  }
+  json SpatialMoccasinGretchen {
+    _hidden_value = true
+  }
+  VocalAmberMyranda = "Dad Im hungry  Hi hungry Im dad"
+  ChiefHarlequinJessamyn = 163
+  CloseTomatoMerrie = "Did you know that protons have mass? I didn't even know they were catholic."
+  OverwhelmingBeigeKipp = "What do you call two barracuda fish?  A Pairacuda!"
+  GrimSilverAddi = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "SaltyChocolateAnneliese"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ExpectedMagentaJanina"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "WeirdCoralLaure"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "GrimSilverAddi"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

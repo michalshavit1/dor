@@ -1,0 +1,44 @@
+type dummy.StatisticalPeachLoralie {
+  annotations {
+    serviceid ActualFuchsiaAppolonia {
+    }
+    serviceid ReliableEmeraldZea {
+    }
+    boolean ExcitedCoralClotilda {
+    }
+    dummy.CombinedCyanNatasha DifferentTealSosanna {
+    }
+    serviceid_number CondemnedWhiteRebeka {
+    }
+    hidden_boolean YuckyMoccasinJo {
+    }
+  }
+  serviceid TraditionalLavenderSherrie {
+    _hidden_value = true
+  }
+  boolean InstitutionalCrimsonPolly {
+    _hidden_value = true
+  }
+  serviceid_number AdvisoryGoldMarilee {
+    _hidden_value = true
+  }
+  serviceid_number FamousCoralEvangelia {
+    _hidden_value = true
+  }
+  json TastyAquaSelina {
+    _hidden_value = true
+  }
+  ActualFuchsiaAppolonia = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ReliableEmeraldZea = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ExcitedCoralClotilda = false
+  DifferentTealSosanna = true
+  CondemnedWhiteRebeka = 419
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "AdvisoryGoldMarilee"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

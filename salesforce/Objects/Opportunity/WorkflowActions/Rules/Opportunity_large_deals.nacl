@@ -1,0 +1,27 @@
+salesforce.WorkflowRule Opportunity_large_deals@vs {
+  fullName = "Opportunity.large deals"
+  actions = [
+    {
+      name = salesforce.WorkflowAlert.instance.Opportunity_ActionEmail@v
+      type = "Alert"
+    },
+  ]
+  active = false
+  criteriaItems = [
+    {
+      field = salesforce.Opportunity.field.Amount
+      operation = "greaterThan"
+      value = "50000000"
+    },
+    {
+      field = salesforce.Opportunity.field.IsClosed
+      operation = "equals"
+      value = "False"
+    },
+  ]
+  triggerType = "onCreateOrTriggeringUpdate"
+  _parent = [
+    salesforce.Opportunity,
+  ]
+  _alias = "Opportunity.large deals"
+}

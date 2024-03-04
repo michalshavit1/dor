@@ -1,0 +1,85 @@
+type dummy.ElectoralTurquoiseJaquith {
+  annotations {
+    hidden_boolean DisturbingOliveNathalie {
+    }
+    dummy.JustBeigeShaylynn RunningApricotWilli {
+    }
+    serviceid_number MidBlackTerese {
+    }
+    number FavouriteYellowPhilly {
+    }
+    string ForthcomingCoffeeFlorida {
+    }
+    number DailyBeigeAustine {
+    }
+    boolean SpontaneousOrangeAudrie {
+    }
+    serviceid_number ZippyHarlequinRivy {
+    }
+  }
+  number TightBlushMufi {
+    _hidden_value = true
+  }
+  serviceid_number NaturalOrangeMargie {
+    _hidden_value = true
+  }
+  serviceid ImportantTanElvera {
+    _hidden_value = true
+  }
+  serviceid OlympicMagentaBarbaraanne {
+    _hidden_value = true
+  }
+  boolean CloudyAzureRanique {
+    _hidden_value = true
+  }
+  number FewMagentaCallida {
+    _hidden_value = true
+  }
+  boolean CoherentBrownClaudie {
+    _hidden_value = true
+  }
+  string HorizontalGreenEsme {
+    _hidden_value = true
+  }
+  hidden_boolean ExtremeRoseRheta {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number OutstandingFuchsiaAndromache {
+    _hidden_value = true
+  }
+  boolean IntegratedMoccasinAustine {
+    _hidden_value = true
+  }
+  serviceid_number PeculiarCopperJasmina {
+    _hidden_value = true
+  }
+  RunningApricotWilli = false
+  MidBlackTerese = 888
+  FavouriteYellowPhilly = 442
+  ForthcomingCoffeeFlorida = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  DailyBeigeAustine = 202
+  SpontaneousOrangeAudrie = false
+  ZippyHarlequinRivy = 147
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "FewMagentaCallida"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "HorizontalGreenEsme"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ForthcomingCoffeeFlorida"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

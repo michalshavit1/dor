@@ -1,0 +1,23 @@
+type dummy.OccasionalCrimsonStormi {
+  annotations {
+    json ScaredPurpleCaren {
+    }
+    hidden_boolean ClassicRoseKaye {
+    }
+    dummy.SplendidAmberFlorance SuperiorGoldHonor {
+    }
+    boolean IntermediateRedVida {
+    }
+    hidden_boolean RecentSalmonLiz {
+    }
+  }
+  hidden_boolean ShallowPinkGabbi {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  ScaredPurpleCaren = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  SuperiorGoldHonor = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  IntermediateRedVida = false
+  _hidden_value = true
+}

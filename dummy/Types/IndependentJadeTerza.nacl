@@ -1,0 +1,85 @@
+type dummy.IndependentJadeTerza {
+  annotations {
+    boolean OutrageousMagentaIseabal {
+    }
+    string SuspiciousRoseHarlene {
+    }
+    number ShaggyHarlequinNerte {
+    }
+    hidden_boolean ResponsibleOrangeDaile {
+    }
+    json CheapAzureTiff {
+    }
+    dummy.SorryCyanVinnie NovelAquamarineDaile {
+    }
+  }
+  serviceid YtterbicBlushTrescha {
+    _hidden_value = true
+  }
+  serviceid ZygomorphicBlueKikelia {
+    _hidden_value = true
+  }
+  dummy.AnnualPurpleRyann OrganisationalChocolateAinslie {
+    MisleadingCyanPietra = "How come the stadium got hot after the game? Because all of the fans left."
+    DecisiveBeigeTeddi = "I'll tell you what often gets over looked... garden fences."
+    EconomicYellowErtha = true
+    OnlyBrownMoyna = {
+      legit = "Did you know that protons have mass? I didn't even know they were catholic."
+    }
+    UpperEmeraldLaverne = {
+      legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+    }
+    ZygoticBeigeBiddie = false
+    AloneMaroonRonna = false
+    ConsciousEmeraldWendy = 601
+    ReducedCyanSherrie = "What do you call two barracuda fish?  A Pairacuda!"
+    BrightScarletLucy = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    ThoroughAmberNanete = "What do you do on a remote island? Try and find the TV island it belongs to."
+    HardBronzeEbba = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    _hidden_value = true
+  }
+  serviceid_number MechanicalGoldJaclyn {
+    _hidden_value = true
+  }
+  string SupremeVioletGui {
+    _hidden_value = true
+  }
+  serviceid AmbitiousBlushKay {
+    _hidden_value = true
+  }
+  boolean WealthySilverLucina {
+    _hidden_value = true
+  }
+  string PartialTanBrenn {
+    _hidden_value = true
+  }
+  hidden_boolean RespectableOrangeLani {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number EntireCrimsonPegeen {
+    _hidden_value = true
+  }
+  serviceid_number MuteGreenFancie {
+    _hidden_value = true
+  }
+  OutrageousMagentaIseabal = false
+  SuspiciousRoseHarlene = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ShaggyHarlequinNerte = 828
+  CheapAzureTiff = "What creature is smarter than a talking parrot? A spelling bee."
+  NovelAquamarineDaile = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "NovelAquamarineDaile"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ShaggyHarlequinNerte"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

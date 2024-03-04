@@ -1,0 +1,57 @@
+type dummy.HiddenLavenderShaylyn {
+  annotations {
+    number MixedIvoryMinda {
+    }
+    json StrangeRoseZitella {
+    }
+    json ArchitecturalPurpleEmiline {
+    }
+    boolean AwakeCopperDorothea {
+    }
+    json FantasticGoldLizzie {
+    }
+    json UniqueAmethystRonalda {
+    }
+    hidden_boolean DeliciousRedBryana {
+    }
+  }
+  hidden_boolean PositiveBronzeLexi {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean SheerYellowHildagard {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean WastefulSilverHeidi {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  MixedIvoryMinda = 658
+  StrangeRoseZitella = "Why did the kid cross the playground? To get to the other slide."
+  ArchitecturalPurpleEmiline = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  AwakeCopperDorothea = true
+  FantasticGoldLizzie = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  UniqueAmethystRonalda = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "FantasticGoldLizzie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "AwakeCopperDorothea"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "DeliciousRedBryana"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

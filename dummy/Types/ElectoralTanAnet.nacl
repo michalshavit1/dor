@@ -1,0 +1,51 @@
+type dummy.ElectoralTanAnet {
+  annotations {
+    json EnchantingGoldConsuelo {
+    }
+    number TragicRoseMarne {
+    }
+    hidden_boolean SportingTealDorisa {
+    }
+    number InstitutionalMoccasinSigrid {
+    }
+    serviceid_number LevelPurpleKerrie {
+    }
+  }
+  serviceid MusicalAmethystAmil {
+    _hidden_value = true
+  }
+  serviceid_number EnergeticBronzeHarmonie {
+    _hidden_value = true
+  }
+  serviceid MixedTurquoiseNikaniki {
+    _hidden_value = true
+  }
+  string OptimisticAquaHarlie {
+    _hidden_value = true
+  }
+  json EnthusiasticRedGeorge {
+    _hidden_value = true
+  }
+  json WeeTanDorise {
+    _hidden_value = true
+  }
+  EnchantingGoldConsuelo = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  TragicRoseMarne = 735
+  InstitutionalMoccasinSigrid = 885
+  LevelPurpleKerrie = 783
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "MusicalAmethystAmil"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "SportingTealDorisa"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

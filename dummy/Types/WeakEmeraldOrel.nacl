@@ -1,0 +1,27 @@
+type dummy.WeakEmeraldOrel {
+  annotations {
+    boolean ProudJadeMaisey {
+    }
+    dummy.DelightedVioletLiv CurrentMoccasinSuki {
+    }
+    string InnerCoffeeChristal {
+    }
+    number RepresentativeWhiteCalley {
+    }
+  }
+  json XerothermicTurquoiseKorella {
+    _hidden_value = true
+  }
+  ProudJadeMaisey = false
+  CurrentMoccasinSuki = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  InnerCoffeeChristal = "Slept like a log last night  woke up in the fireplace."
+  RepresentativeWhiteCalley = 489
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "RepresentativeWhiteCalley"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

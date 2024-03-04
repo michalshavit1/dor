@@ -1,0 +1,34 @@
+salesforce.LightningPage michallight {
+  flexiPageRegions = [
+    {
+      itemInstances = [
+        {
+          componentInstance = {
+            componentInstanceProperties = [
+              {
+                name = "title"
+              },
+            ]
+            componentName = "runtime_mobilesapp:launchPadTileList"
+            identifier = "runtime_mobilesapp_launchPadTileList"
+          }
+        },
+        {
+          componentInstance = {
+            componentName = "runtime_appointmentbooking:appointmentsBookedCard"
+            identifier = "runtime_appointmentbooking_appointmentsBookedCard"
+          }
+        },
+      ]
+      name = "main"
+      type = "Region"
+    },
+  ]
+  masterLabel = "michallight"
+  template = {
+    name = "flexipage:defaultAppHomeTemplate"
+  }
+  type = "AppPage"
+  fullName = "michallight"
+  _alias = "michallight"
+}

@@ -1,0 +1,37 @@
+type dummy.UnhappyTomatoShannon {
+  annotations {
+    number GeneticApricotClementia {
+    }
+    hidden_boolean LegalCoralKlara {
+    }
+    json ProfitableCoffeeWandie {
+    }
+    serviceid YummyPeachLeigha {
+    }
+    serviceid EvilEmeraldMary {
+    }
+    string IdealCyanHanny {
+    }
+  }
+  boolean ExcitedSapphireTilly {
+    _hidden_value = true
+  }
+  GeneticApricotClementia = 293
+  ProfitableCoffeeWandie = "Why was it called the dark ages? Because of all the knights. "
+  YummyPeachLeigha = "Why was it called the dark ages? Because of all the knights. "
+  EvilEmeraldMary = "Slept like a log last night  woke up in the fireplace."
+  IdealCyanHanny = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "ProfitableCoffeeWandie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "EvilEmeraldMary"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,26 @@
+type dummy.OperationalCyanRasia {
+  annotations {
+    boolean IllApricotGenni {
+    }
+    serviceid IntensiveSilverChristian {
+    }
+    string InitialScarletArda {
+    }
+  }
+  hidden_boolean SignificantGrayMimi {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  IllApricotGenni = true
+  IntensiveSilverChristian = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  InitialScarletArda = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "InitialScarletArda"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

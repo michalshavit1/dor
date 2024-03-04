@@ -1,0 +1,145 @@
+type dummy.TartFuchsiaDaffie {
+  annotations {
+    number VeryLimeLindie {
+    }
+    dummy.DelightedVioletLiv ShiveringAmberAnnamarie {
+    }
+    dummy.ThoughtfulRedElka XenaciousLavenderLynea {
+    }
+    string DevotedBronzeAimee {
+    }
+    json UniformRedAthena {
+    }
+  }
+  serviceid_number MarineMoccasinMaryanne {
+    _hidden_value = true
+  }
+  json AdequateMaroonZilvia {
+    _hidden_value = true
+  }
+  json ForwardLimeJulia {
+    _hidden_value = true
+  }
+  "List<number>" AloneIvoryKorella {
+    _hidden_value = true
+  }
+  serviceid_number RipeWhiteBarbaraanne {
+    _hidden_value = true
+  }
+  "List<serviceid>" CombativeAmberMagdaia {
+    _hidden_value = true
+  }
+  string LoudYellowMalynda {
+    _hidden_value = true
+  }
+  serviceid_number WorriedSapphireCharisse {
+    _hidden_value = true
+  }
+  serviceid ProgressiveLimeDominique {
+    _hidden_value = true
+  }
+  serviceid_number QuarrelsomeGrayBernie {
+    _hidden_value = true
+  }
+  number DreadfulCoffeeCristen {
+    _hidden_value = true
+  }
+  string RaspyEmeraldRomy {
+    _hidden_value = true
+  }
+  hidden_boolean GrowingSapphireAmalie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean AngryJadeErika {
+    _hidden_value = true
+  }
+  serviceid AutonomousOliveShayla {
+    _hidden_value = true
+  }
+  serviceid EligibleIndigoKrystalle {
+    _hidden_value = true
+  }
+  string PuzzledLimeElsa {
+    _hidden_value = true
+  }
+  serviceid OtherFuchsiaLind {
+    _hidden_value = true
+  }
+  serviceid_number FarOliveDianemarie {
+    _hidden_value = true
+  }
+  json RobustAzureTheresita {
+    _hidden_value = true
+  }
+  serviceid ThenEmeraldErminie {
+    _hidden_value = true
+  }
+  string VariousOliveAlvira {
+    _hidden_value = true
+  }
+  hidden_boolean GeneralFuchsiaLauralee {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number EverydayTurquoiseBernita {
+    _hidden_value = true
+  }
+  dummy.EstablishedRoseGussie MissingLavenderEmlyn {
+    ActiveScarletMartguerita = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    LogicalAmethystCristine = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    EligibleChocolateTrudey = false
+    RenewedAquaFlori = "My first time using an elevator was an uplifting experience. The second time let me down."
+    GiganticLimeShena = "What do you call two barracuda fish?  A Pairacuda!"
+    DynamicAzureLaverne = 280
+    RichTurquoiseKiah = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    RightMoccasinPavla = 321
+    ViciousLimeHannis = "What do you call two barracuda fish?  A Pairacuda!"
+    GratefulPlumLaetitia = 75
+    FrightenedBronzeCarey = 240
+    _hidden_value = true
+  }
+  serviceid_number BrilliantOliveWynne {
+    _hidden_value = true
+  }
+  VeryLimeLindie = 490
+  ShiveringAmberAnnamarie = "Dad Im hungry  Hi hungry Im dad"
+  XenaciousLavenderLynea = true
+  DevotedBronzeAimee = "What do you do on a remote island? Try and find the TV island it belongs to."
+  UniformRedAthena = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "GrowingSapphireAmalie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "VariousOliveAlvira"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "PuzzledLimeElsa"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ThenEmeraldErminie"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "LoudYellowMalynda"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "AutonomousOliveShayla"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

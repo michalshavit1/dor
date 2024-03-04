@@ -1,0 +1,28 @@
+type dummy.ResultingCrimsonArdath is string {
+  annotations {
+    serviceid_number SuddenSalmonLissa {
+    }
+    hidden_boolean HungryAquamarineMaggie {
+    }
+    hidden_boolean RemarkableTomatoDulcine {
+    }
+    string LiableMaroonFrank {
+    }
+    string QuintessentialLavenderCorenda {
+    }
+    string SexualIvoryNannette {
+    }
+    json SplendidTomatoNesta {
+    }
+    dummy.DEFAULT SkinnyLavenderKorry {
+    }
+  }
+  SuddenSalmonLissa = 159
+  LiableMaroonFrank = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  QuintessentialLavenderCorenda = "What do you do on a remote island? Try and find the TV island it belongs to."
+  SexualIvoryNannette = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  SplendidTomatoNesta = "Why didnt the skeleton cross the road? Because he had no guts."
+  SkinnyLavenderKorry = {
+    legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  }
+}

@@ -1,0 +1,143 @@
+type dummy.UglyBlackBriana {
+  annotations {
+    hidden_boolean EconomicBlushDanya {
+    }
+    hidden_boolean LegalVioletIlse {
+    }
+    boolean BrilliantPeachGeorgine {
+    }
+    number WonderfulYellowMichele {
+    }
+    hidden_boolean UnpleasantAmaranthAndreana {
+    }
+    hidden_boolean JuniorAmberAlly {
+    }
+  }
+  dummy.DEFAULT AlivePurpleLaney {
+    _hidden_value = true
+  }
+  boolean DelightedLavenderBarbe {
+    _hidden_value = true
+  }
+  dummy.SplendidAmberFlorance MeanTurquoiseTamar {
+    WhisperingTurquoiseMildred = "A steak pun is a rare medium well done."
+    RelevantSalmonGaby = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    VictoriousLimeEthel = "What do you do on a remote island? Try and find the TV island it belongs to."
+    ImaginativeGreenGale = 211
+    FamousAquaZondra = 437
+    _hidden_value = true
+  }
+  number OccupationalWhiteShelly {
+    _hidden_value = true
+  }
+  string RemainingRoseJuliet {
+    _hidden_value = true
+  }
+  serviceid PersistentBeigeCristen {
+    _hidden_value = true
+  }
+  string IntensiveOrangeLibbi {
+    _hidden_value = true
+  }
+  json DeterminedIndigoAugustina {
+    _hidden_value = true
+  }
+  "List<boolean>" EssentialSapphireChelsie {
+    _hidden_value = true
+  }
+  boolean MedievalSilverRoslyn {
+    _hidden_value = true
+  }
+  "List<json>" ConvenientAzureCarmelita {
+    _hidden_value = true
+  }
+  dummy.DEFAULT UnevenRedArdenia {
+    _hidden_value = true
+  }
+  dummy.AccessibleTurquoiseEssie FlakyHarlequinTessi {
+    BrilliantMaroonBonni = {
+      legit = "Why didnt the skeleton cross the road? Because he had no guts."
+    }
+    SupposedIndigoDusty = true
+    _hidden_value = true
+  }
+  json CivilAquamarineDeina {
+    _hidden_value = true
+  }
+  serviceid_number UniqueRoseMiran {
+    _hidden_value = true
+  }
+  number ConstitutionalWhiteTerrye {
+    _hidden_value = true
+  }
+  serviceid_number BlushingTanNicolea {
+    _hidden_value = true
+  }
+  string AppropriateBlackRegina {
+    _hidden_value = true
+  }
+  serviceid CharmingMagentaLaetitia {
+    _hidden_value = true
+  }
+  number NarrowCrimsonSteffie {
+    _hidden_value = true
+  }
+  json OpenPeachDevin {
+    _hidden_value = true
+  }
+  number EvidentFuchsiaMeridith {
+    _hidden_value = true
+  }
+  serviceid_number XericWhiteSileas {
+    _hidden_value = true
+  }
+  string ComplexPinkLaina {
+    _hidden_value = true
+  }
+  hidden_boolean TightPinkFrancine {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json CloudyLavenderMable {
+    _hidden_value = true
+  }
+  string FancyEmeraldGloriana {
+    _hidden_value = true
+  }
+  BrilliantPeachGeorgine = true
+  WonderfulYellowMichele = 153
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "BlushingTanNicolea"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "XericWhiteSileas"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "OpenPeachDevin"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "AppropriateBlackRegina"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "IntensiveOrangeLibbi"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "UnevenRedArdenia"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

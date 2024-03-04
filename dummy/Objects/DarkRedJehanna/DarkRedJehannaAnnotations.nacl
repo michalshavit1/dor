@@ -1,0 +1,122 @@
+type dummy.DarkRedJehanna {
+  annotations {
+    hidden_boolean ElectricLavenderLibbey {
+    }
+    number MistyPeachKirstyn {
+    }
+    boolean WholeCrimsonPrissie {
+    }
+    number ImperialLavenderRita {
+    }
+    json IntellectualAmethystJuanita {
+    }
+    boolean CriticalOrangeMargarethe {
+    }
+    serviceid_number PricklyFuchsiaFreda {
+    }
+    hidden_boolean MobilePurpleRoby {
+    }
+    string RareIndigoLaurella {
+    }
+    serviceid MagneticAzureBridie {
+    }
+    serviceid RevolutionaryLimeArlen {
+    }
+    serviceid MadGoldAloysia {
+    }
+    dummy.MuteGrayAlexi CostlyMagentaBrena {
+    }
+    hidden_boolean AccurateCyanClarita {
+    }
+    number GoldenGoldBernadette {
+    }
+    serviceid_number TartCoffeeGarland {
+    }
+    hidden_boolean FastBlueKonstance {
+    }
+    string AccessibleSilverCorissa {
+    }
+    serviceid_number RisingPeachCon {
+    }
+  }
+  MistyPeachKirstyn = 80
+  WholeCrimsonPrissie = true
+  ImperialLavenderRita = 486
+  IntellectualAmethystJuanita = "What do you do on a remote island? Try and find the TV island it belongs to."
+  CriticalOrangeMargarethe = true
+  PricklyFuchsiaFreda = 722
+  RareIndigoLaurella = "Im only familiar with 25 letters in the English language. I dont know why."
+  MagneticAzureBridie = "What do you do on a remote island? Try and find the TV island it belongs to."
+  RevolutionaryLimeArlen = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  MadGoldAloysia = "Why was it called the dark ages? Because of all the knights. "
+  CostlyMagentaBrena = 690
+  GoldenGoldBernadette = 443
+  TartCoffeeGarland = 423
+  AccessibleSilverCorissa = "I'll tell you what often gets over looked... garden fences."
+  RisingPeachCon = 658
+  _important_values = [
+    {
+      value = "StrangePlumMireille"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "UnexpectedTomatoShirline"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "FlyingGoldOralee"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "PureSalmonTricia"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "SorryAmethystCharin"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "WearyEmeraldMasha"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SingleOliveCoreen"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "PricklyFuchsiaFreda"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "MagneticAzureBridie"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "AccurateCyanClarita"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "FastBlueKonstance"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "MadGoldAloysia"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _alias = "DarkRedJehanna_alias"
+}

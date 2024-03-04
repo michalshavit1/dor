@@ -1,0 +1,24 @@
+type dummy.ColourfulIvoryMaryanna {
+  annotations {
+    number DoubtfulOrangeBertie {
+    }
+    dummy.DEFAULT DepressedAmberJacquenetta {
+    }
+    hidden_boolean HistoricalAquaJonell {
+    }
+    number UsedBlackCordelia {
+    }
+    boolean StrategicBrownJanice {
+    }
+  }
+  string YuckyGrayRoze {
+    _hidden_value = true
+  }
+  DoubtfulOrangeBertie = 20
+  DepressedAmberJacquenetta = {
+    legit = "How come the stadium got hot after the game? Because all of the fans left."
+  }
+  UsedBlackCordelia = 479
+  StrategicBrownJanice = false
+  _hidden_value = true
+}

@@ -1,0 +1,110 @@
+type dummy.TragicAquamarineShelly {
+  annotations {
+    json DisabledApricotBrenn {
+    }
+    hidden_boolean CuddlyIndigoBecki {
+    }
+    string StuckCoffeeJobina {
+    }
+    hidden_boolean AcuteRoseDorothea {
+    }
+    serviceid_number VulnerableChocolateOdelia {
+    }
+    serviceid_number UnfairCoralKimberley {
+    }
+    number ConfidentIndigoNissa {
+    }
+  }
+  number OkayBronzeNadine {
+    _hidden_value = true
+  }
+  dummy.AutomaticAmberEditha DelightedBlackHarriot {
+    HardFuchsiaLenette = true
+    ProfessionalRedGermaine = 367
+    SteadyPinkDebbie = 400
+    SlightVioletElinor = "A steak pun is a rare medium well done."
+    WrittenTurquoiseEsther = false
+    InstitutionalAmberNadiya = "Why did the kid cross the playground? To get to the other slide."
+    AdjacentGreenRubie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    SpontaneousBrownRosana = false
+    FarBrownKellie = true
+    StandardBronzeOthilie = 805
+    DiverseLimeEdie = 690
+    RelaxedWhiteNara = "What creature is smarter than a talking parrot? A spelling bee."
+    CreativeAquaMerle = 515
+    ArrogantTanKeriann = 479
+    _hidden_value = true
+  }
+  number UnknownTanElberta {
+    _hidden_value = true
+  }
+  boolean InappropriateOrangeAilina {
+    _hidden_value = true
+  }
+  serviceid InterestingTealIvett {
+    _hidden_value = true
+  }
+  hidden_boolean ExplicitAmberHarriott {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<json>" IncreasedPeachEliza {
+    _hidden_value = true
+  }
+  serviceid SaltyBronzeLucia {
+    _hidden_value = true
+  }
+  string SouthernCoffeeRoberta {
+    _hidden_value = true
+  }
+  string AdministrativeVioletMadelene {
+    _hidden_value = true
+  }
+  boolean ProvincialTanBrynne {
+    _hidden_value = true
+  }
+  number MatureAmaranthBetteann {
+    _hidden_value = true
+  }
+  boolean LonelyVioletHeather {
+    _hidden_value = true
+  }
+  hidden_boolean SlightGrayGeorgia {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT ExtremeCopperDenna {
+    _hidden_value = true
+  }
+  number AssistantTurquoiseEryn {
+    _hidden_value = true
+  }
+  hidden_boolean ProfessionalBrownMarillin {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT WearyAquaTheresina {
+    _hidden_value = true
+  }
+  DisabledApricotBrenn = "Why do birds fly south for the winter? Because it's too far to walk."
+  StuckCoffeeJobina = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  VulnerableChocolateOdelia = 49
+  UnfairCoralKimberley = 489
+  ConfidentIndigoNissa = 675
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "ConfidentIndigoNissa"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "StuckCoffeeJobina"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,51 @@
+type dummy.GreatBronzeZaneta {
+  annotations {
+    json VividGrayEaster {
+    }
+    hidden_boolean VerbalAmethystPollyanna {
+    }
+    serviceid_number MeanAzureGloriana {
+    }
+    number EverydayYellowGabrielle {
+    }
+    serviceid_number DefeatedPinkDiena {
+    }
+    serviceid_number AtomicYellowTabbatha {
+    }
+  }
+  serviceid_number GiganticLimeJacky {
+    _hidden_value = true
+  }
+  serviceid_number MainScarletDore {
+    _hidden_value = true
+  }
+  serviceid_number VividCoffeeRegine {
+    _hidden_value = true
+  }
+  dummy.DEFAULT JointYellowHelsa {
+    _hidden_value = true
+  }
+  hidden_boolean DelightfulGrayJennilee {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  VividGrayEaster = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  MeanAzureGloriana = 519
+  EverydayYellowGabrielle = 765
+  DefeatedPinkDiena = 950
+  AtomicYellowTabbatha = 962
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "VividGrayEaster"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "DefeatedPinkDiena"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

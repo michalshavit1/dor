@@ -1,0 +1,95 @@
+type dummy.ToughIndigoRoze {
+  annotations {
+    hidden_boolean FluffyOrangeLucy {
+    }
+    hidden_boolean SuperEmeraldLynda {
+    }
+    boolean SexualCopperElizabeth {
+    }
+    boolean JustYellowZarah {
+    }
+    number PotentialAmethystPatricia {
+    }
+    serviceid WorryingBlueRanda {
+    }
+  }
+  number BoredChocolateJenny {
+    _hidden_value = true
+  }
+  serviceid_number QuickestHarlequinKerstin {
+    _hidden_value = true
+  }
+  "List<dummy.DEFAULT>" ResponsibleScarletLynda {
+    _hidden_value = true
+  }
+  number FitMagentaHertha {
+    _hidden_value = true
+  }
+  serviceid_number ExtraTealCaro {
+    _hidden_value = true
+  }
+  json InadequateHarlequinJewelle {
+    _hidden_value = true
+  }
+  serviceid FinancialHarlequinDarya {
+    _hidden_value = true
+  }
+  boolean MagneticLavenderMarie {
+    _hidden_value = true
+  }
+  hidden_boolean HushedWhitePhaedra {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number DisgustedSilverDeedee {
+    _hidden_value = true
+  }
+  serviceid_number EntirePurpleRose {
+    _hidden_value = true
+  }
+  boolean WoodenAmberCaprice {
+    _hidden_value = true
+  }
+  number MistyAquamarineDagmar {
+    _hidden_value = true
+  }
+  json NearbyTealAndriana {
+    _hidden_value = true
+  }
+  json UnderlyingTurquoiseRoda {
+    _hidden_value = true
+  }
+  serviceid_number FemalePeachMichelle {
+    _hidden_value = true
+  }
+  serviceid_number GleamingGrayGleda {
+    _hidden_value = true
+  }
+  dummy.InformalTurquoiseFaith SuitableChocolateBettine {
+    RottenScarletGiustina = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    DefeatedBlushChere = "Why is Peter Pan always flying? Because he Neverlands."
+    VoluntaryOliveAriana = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    YearningTomatoHedvige = {
+      legit = "To be Frank, I'd have to change my name."
+    }
+    BlushingBlushViola = "My first time using an elevator was an uplifting experience. The second time let me down."
+    InjuredCoralKatusha = false
+    XenaciousPlumGusty = false
+    IdealCopperSheba = 344
+    DisabledMaroonPaulina = 552
+    _hidden_value = true
+  }
+  SexualCopperElizabeth = true
+  JustYellowZarah = false
+  PotentialAmethystPatricia = 564
+  WorryingBlueRanda = "Why didnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "PotentialAmethystPatricia"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

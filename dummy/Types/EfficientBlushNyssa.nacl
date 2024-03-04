@@ -1,0 +1,37 @@
+type dummy.EfficientBlushNyssa {
+  annotations {
+    json PreparedYellowCorrie {
+    }
+    string IdenticalBlueCacilie {
+    }
+    dummy.DEFAULT ScaryYellowFernanda {
+    }
+    number InjuredScarletSena {
+    }
+    string YuckyBlushSophi {
+    }
+  }
+  string ImmediateAquamarineValida {
+    _hidden_value = true
+  }
+  PreparedYellowCorrie = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  IdenticalBlueCacilie = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  ScaryYellowFernanda = {
+    legit = "To be Frank, I'd have to change my name."
+  }
+  InjuredScarletSena = 678
+  YuckyBlushSophi = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "IdenticalBlueCacilie"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "YuckyBlushSophi"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

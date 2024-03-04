@@ -1,0 +1,67 @@
+type dummy.InterestedPeachKarly {
+  annotations {
+    hidden_boolean FastFuchsiaKimberlyn {
+    }
+    serviceid GreatRoseKarlen {
+    }
+    string SuperbBlackErina {
+    }
+  }
+  boolean HungryScarletGwennie {
+    _hidden_value = true
+  }
+  serviceid_number DisciplinaryMagentaWenona {
+    _hidden_value = true
+  }
+  hidden_boolean YieldingJadeYolanthe {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean RottenPinkDusty {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.UpperTanDebby GratefulGreenLynnett {
+    SocialCyanBlondelle = "How come the stadium got hot after the game? Because all of the fans left."
+    CompatibleLimeKarleen = true
+    _hidden_value = true
+  }
+  json RegionalAmaranthEugenie {
+    _hidden_value = true
+  }
+  serviceid QuickGoldMarybeth {
+    _hidden_value = true
+  }
+  string CulturalGoldStafani {
+    _hidden_value = true
+  }
+  number FortunateGrayAleece {
+    _hidden_value = true
+  }
+  serviceid EvolutionaryGoldFreida {
+    _hidden_value = true
+  }
+  number MiniatureCopperAndra {
+    _hidden_value = true
+  }
+  json ProposedHarlequinRaychel {
+    _hidden_value = true
+  }
+  GreatRoseKarlen = "What do you call two barracuda fish?  A Pairacuda!"
+  SuperbBlackErina = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "FortunateGrayAleece"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "YieldingJadeYolanthe"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

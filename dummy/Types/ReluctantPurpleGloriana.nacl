@@ -1,0 +1,99 @@
+type dummy.ReluctantPurpleGloriana {
+  annotations {
+    number BroadOrangeJonell {
+    }
+    serviceid_number ProbableScarletGarnet {
+    }
+    hidden_boolean IntimateLimeCristine {
+    }
+    dummy.DEFAULT PassiveSilverTobi {
+    }
+  }
+  boolean DesirableYellowGlad {
+    _hidden_value = true
+  }
+  json PossibleMoccasinLeonanie {
+    _hidden_value = true
+  }
+  boolean EasyOliveSharlene {
+    _hidden_value = true
+  }
+  number RelevantBlushSadie {
+    _hidden_value = true
+  }
+  string CurvedTurquoiseElizabet {
+    _hidden_value = true
+  }
+  boolean XenophobicLavenderLydia {
+    _hidden_value = true
+  }
+  json PrimeBeigeWinona {
+    _hidden_value = true
+  }
+  serviceid_number UnacceptableJadeMadelaine {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ThoroughSilverNanine {
+    _hidden_value = true
+  }
+  boolean FuzzyBrownGwenni {
+    _hidden_value = true
+  }
+  dummy.DEFAULT DustyEmeraldColleen {
+    _hidden_value = true
+  }
+  serviceid_number ComplexBronzeCindee {
+    _hidden_value = true
+  }
+  string CompactAmaranthPetronille {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" StrategicGrayNeile {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean SocialWhitePenelopa {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string EvidentPinkAnastasie {
+    _hidden_value = true
+  }
+  hidden_boolean SystematicBeigeAmabelle {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  BroadOrangeJonell = 755
+  ProbableScarletGarnet = 416
+  PassiveSilverTobi = {
+    legit = "Slept like a log last night  woke up in the fireplace."
+  }
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "DustyEmeraldColleen"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "StrategicGrayNeile"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "PossibleMoccasinLeonanie"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ProbableScarletGarnet"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

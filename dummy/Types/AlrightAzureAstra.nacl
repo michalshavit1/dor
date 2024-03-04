@@ -1,0 +1,61 @@
+type dummy.AlrightAzureAstra {
+  annotations {
+    hidden_boolean ColdFuchsiaAinslee {
+    }
+    serviceid_number CorrespondingBrownRow {
+    }
+    boolean JitteryCrimsonDreddy {
+    }
+    serviceid_number AliveApricotLissa {
+    }
+    serviceid DoubtfulSapphireSonnnie {
+    }
+  }
+  number PrimaryGoldMalissa {
+    _hidden_value = true
+  }
+  json GoverningGoldImojean {
+    _hidden_value = true
+  }
+  hidden_boolean HeavyChocolateDyana {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number SlimyEmeraldEulalie {
+    _hidden_value = true
+  }
+  json SingleFuchsiaShani {
+    _hidden_value = true
+  }
+  hidden_boolean OverallLimeHattie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string HotAmethystIdell {
+    _hidden_value = true
+  }
+  hidden_boolean InitialWhiteAnny {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  CorrespondingBrownRow = 429
+  JitteryCrimsonDreddy = false
+  AliveApricotLissa = 836
+  DoubtfulSapphireSonnnie = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "HotAmethystIdell"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "GoverningGoldImojean"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

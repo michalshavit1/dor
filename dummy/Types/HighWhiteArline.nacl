@@ -1,0 +1,143 @@
+type dummy.HighWhiteArline {
+  annotations {
+    number AwfulTomatoTerry {
+    }
+    number CapitalistWhiteDarcee {
+    }
+    number ChristianScarletNita {
+    }
+    json QuaintSapphireElvina {
+    }
+  }
+  json DangerousEmeraldDarrelle {
+    _hidden_value = true
+  }
+  boolean YabberingOrangeJoell {
+    _hidden_value = true
+  }
+  serviceid_number SuperbChocolateKarlie {
+    _hidden_value = true
+  }
+  hidden_boolean MidApricotGusti {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean CrudeOliveDiana {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean VerticalJadeGermana {
+    _hidden_value = true
+  }
+  string EventualAzureKarry {
+    _hidden_value = true
+  }
+  dummy.CombinedCyanNatasha AlternativeCopperLeelah {
+    FrozenCyanClaudette = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    WideCyanRhoda = 960
+    EnergeticGoldPauli = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    SpotlessCopperKyla = "Did you know that protons have mass? I didn't even know they were catholic."
+    VitreousBrownJolee = 330
+    AdjacentSalmonLura = "Whoever invented the knock-knock joke should get a no bell prize."
+    SpotlessCoffeeJaneva = false
+    UselessSalmonDarlleen = "What creature is smarter than a talking parrot? A spelling bee."
+    PreviousTealBerri = 673
+    RegionalTomatoLorilee = 969
+    NoisyPlumGiustina = true
+    SharedPurpleAdele = "What creature is smarter than a talking parrot? A spelling bee."
+    RottenAmaranthPhillie = "Why did the tomato blush? Because it saw the salad dressing."
+    ImprovedIvoryGenna = "Slept like a log last night  woke up in the fireplace."
+    RoyalTurquoiseRonny = true
+    _hidden_value = true
+  }
+  string PalePinkEugine {
+    _hidden_value = true
+  }
+  number FineIvoryFulvia {
+    _hidden_value = true
+  }
+  hidden_boolean FiscalOliveBeryle {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number EldestWhiteBren {
+    _hidden_value = true
+  }
+  json MinimalSapphireAvis {
+    _hidden_value = true
+  }
+  hidden_boolean ProfoundPeachVivianna {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string FatalTurquoiseHulda {
+    _hidden_value = true
+  }
+  boolean CommercialLavenderCarri {
+    _hidden_value = true
+  }
+  string ElatedLavenderLaurene {
+    _hidden_value = true
+  }
+  string AgreeableAzureCherin {
+    _hidden_value = true
+  }
+  string InternationalGoldDian {
+    _hidden_value = true
+  }
+  dummy.UpperTanDebby EmotionalMoccasinFifi {
+    SocialCyanBlondelle = "Why did the kid cross the playground? To get to the other slide."
+    CompatibleLimeKarleen = false
+    _hidden_value = true
+  }
+  "List<boolean>" HistoricBlushZita {
+    _hidden_value = true
+  }
+  serviceid SevereCoralAlameda {
+    _hidden_value = true
+  }
+  string StraightCopperGelya {
+    _hidden_value = true
+  }
+  AwfulTomatoTerry = 707
+  CapitalistWhiteDarcee = 430
+  ChristianScarletNita = 300
+  QuaintSapphireElvina = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "SuperbChocolateKarlie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "VerticalJadeGermana"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "FatalTurquoiseHulda"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "PalePinkEugine"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "FineIvoryFulvia"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "MidApricotGusti"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

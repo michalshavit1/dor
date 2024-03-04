@@ -1,0 +1,56 @@
+type dummy.DampPlumDani {
+  annotations {
+    serviceid FamiliarCopperKati {
+    }
+    boolean DetailedAquamarineMargalit {
+    }
+    hidden_boolean GiganticTurquoiseAurora {
+    }
+    serviceid_number MarriedAmberLorne {
+    }
+  }
+  number NoisyAquamarineMarget {
+    _hidden_value = true
+  }
+  json InadequateApricotGabey {
+    _hidden_value = true
+  }
+  hidden_boolean LonelyAzureTim {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean StrategicEmeraldDierdre {
+    _hidden_value = true
+  }
+  number SkilledGreenEnrika {
+    _hidden_value = true
+  }
+  serviceid_number MuddyCyanHerta {
+    _hidden_value = true
+  }
+  boolean RationalLavenderKathye {
+    _hidden_value = true
+  }
+  json DefiantVioletLilly {
+    _hidden_value = true
+  }
+  FamiliarCopperKati = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  DetailedAquamarineMargalit = false
+  MarriedAmberLorne = 328
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "NoisyAquamarineMarget"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "GiganticTurquoiseAurora"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

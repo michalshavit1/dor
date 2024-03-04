@@ -1,0 +1,38 @@
+type dummy.GivenMagentaManon {
+  annotations {
+    json RegisteredSilverChelsy {
+    }
+    json StrongBlushSalome {
+    }
+    string SwiftSapphireJoby {
+    }
+    boolean AboveHarlequinKendra {
+    }
+    serviceid_number GreasyAmaranthNani {
+    }
+    string EntitledChocolateJuliann {
+    }
+  }
+  json AbstractTealDorelia {
+    _hidden_value = true
+  }
+  RegisteredSilverChelsy = "Why did the tomato blush? Because it saw the salad dressing."
+  StrongBlushSalome = "A steak pun is a rare medium well done."
+  SwiftSapphireJoby = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  AboveHarlequinKendra = true
+  GreasyAmaranthNani = 778
+  EntitledChocolateJuliann = "A steak pun is a rare medium well done."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "AboveHarlequinKendra"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "StrongBlushSalome"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

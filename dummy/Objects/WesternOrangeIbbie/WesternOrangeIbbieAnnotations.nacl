@@ -1,0 +1,64 @@
+type dummy.WesternOrangeIbbie {
+  annotations {
+    number DepressedMagentaSuzanne {
+    }
+    hidden_boolean HungryBronzeClaudelle {
+    }
+    hidden_boolean InjuredPinkArlina {
+    }
+    boolean EconomicBlushJayne {
+    }
+    string AnxiousLavenderFlorentia {
+    }
+    string ReliableAmberCrin {
+    }
+    serviceid InnocentPeachTarra {
+    }
+    hidden_boolean VerticalGreenLinda {
+    }
+    serviceid PremierAmethystRosana {
+    }
+    boolean ObedientTomatoCarlie {
+    }
+    hidden_boolean BizarreFuchsiaTilly {
+    }
+    serviceid_number MechanicalAquamarineGermana {
+    }
+    json ViciousSalmonDevonne {
+    }
+    string CreativeCrimsonGilli {
+    }
+    json FuzzyMagentaRoxana {
+    }
+    dummy.PastWhiteVin FrailJadeNan {
+    }
+    boolean DeepGraySeana {
+    }
+    number PassiveCrimsonPandora {
+    }
+    boolean LeadingPeachLanette {
+    }
+  }
+  DepressedMagentaSuzanne = 902
+  EconomicBlushJayne = true
+  AnxiousLavenderFlorentia = "Why do birds fly south for the winter? Because it's too far to walk."
+  ReliableAmberCrin = "To be Frank, I'd have to change my name."
+  InnocentPeachTarra = "Why do birds fly south for the winter? Because it's too far to walk."
+  PremierAmethystRosana = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ObedientTomatoCarlie = false
+  MechanicalAquamarineGermana = 818
+  ViciousSalmonDevonne = "Why is Peter Pan always flying? Because he Neverlands."
+  CreativeCrimsonGilli = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  FuzzyMagentaRoxana = "Slept like a log last night  woke up in the fireplace."
+  DeepGraySeana = false
+  PassiveCrimsonPandora = 870
+  LeadingPeachLanette = true
+  _important_values = [
+    {
+      value = "CompactCyanLaure"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _alias = "WesternOrangeIbbie_alias"
+}

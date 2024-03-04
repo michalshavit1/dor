@@ -1,0 +1,126 @@
+netsuite.savedsearch customsearch_jb_production_traveler {
+  scriptid = "customsearch_jb_production_traveler"
+  definition = "81b0e8749e4cb17346fec341bf3cbbaff480a7ae756debcf6023d6bce57a5cf2@GZC@2022.1.17@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"
+  return_fields = [
+    {
+      FIELD_ALIAS = "MfgOperationTask_SEQUENCE"
+      FIELD_INDEX = 1
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "MfgOperationTask_NAME"
+      FIELD_INDEX = 2
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "MfgOperationTask_MANUFACTURINGWORKCENTER"
+      FIELD_INDEX = 3
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "MfgOperationTask_STARTDATE"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "MfgOperationTask_ENDDATE"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "MfgOperationTask_COMPLETEDQUANTITY"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  detail_fields = [
+    {
+      FIELD_ALIAS = "MfgOperationTask_NAME"
+      FIELD_INDEX = 7
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "MfgOperationTask_SEQUENCE"
+      FIELD_INDEX = 7
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "MfgOperationTask_MANUFACTURINGWORKCENTER"
+      FIELD_INDEX = 7
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "MfgOperationTask_STARTDATE"
+      FIELD_INDEX = 7
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "MfgOperationTask_ENDDATE"
+      FIELD_INDEX = 7
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "MfgOperationTask_ESTIMATEDWORK"
+      FIELD_INDEX = 7
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "MfgOperationTask_STATUS"
+      FIELD_INDEX = 7
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "MfgOperationTask_SEQUENCE"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  audience = {
+    FLAG_AUDIENCE_ALL_CUSTOMERS = false
+    FLAG_AUDIENCE_ALL_EMPLOYEES = false
+    FLAG_AUDIENCE_ALL_PARTNERS = false
+    FLAG_AUDIENCE_ALL_ROLES = true
+    FLAG_AUDIENCE_ALL_VENDORS = false
+  }
+  KEY_SCRIPT_ID = "customsearch_jb_production_traveler"
+  FIELD_DEFAULT_NAME = "+Production Traveler"
+  FIELD_SEARCH_TYPE = "MfgOperationTask"
+  FLAG_PUBLIC = true
+  FLAG_LIST = false
+  FLAG_PORTLET = false
+  FLAG_MACHINE = false
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = false
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = false
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = true
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+  KEY_AUDIENCE = 0
+  _alias = "+Production Traveler"
+}

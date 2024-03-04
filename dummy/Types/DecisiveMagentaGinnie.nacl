@@ -1,0 +1,39 @@
+type dummy.DecisiveMagentaGinnie {
+  annotations {
+    dummy.GlobalLimeMatti WearyAzureMellisent {
+    }
+    string ScientificChocolateDarya {
+    }
+    serviceid GoodApricotMarjy {
+    }
+    json CoherentGoldAdelice {
+    }
+    json CleverGreenKarina {
+    }
+    boolean CulturalFuchsiaYovonnda {
+    }
+    serviceid AbsentPeachCarine {
+    }
+    string ComparativeIvoryPenny {
+    }
+  }
+  string OverseasJadeMillicent {
+    _hidden_value = true
+  }
+  WearyAzureMellisent = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ScientificChocolateDarya = "To be Frank, I'd have to change my name."
+  GoodApricotMarjy = "A steak pun is a rare medium well done."
+  CoherentGoldAdelice = "Im only familiar with 25 letters in the English language. I dont know why."
+  CleverGreenKarina = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  CulturalFuchsiaYovonnda = true
+  AbsentPeachCarine = "Why did the kid cross the playground? To get to the other slide."
+  ComparativeIvoryPenny = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "CoherentGoldAdelice"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

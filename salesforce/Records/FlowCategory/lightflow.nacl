@@ -1,0 +1,8 @@
+salesforce.FlowCategory lightflow {
+  fullName = "lightflow"
+  flowCategoryItems = {
+    flow = "TestFlow"
+  }
+  masterLabel = "lightflow"
+  _alias = "lightflow"
+}

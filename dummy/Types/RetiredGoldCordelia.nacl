@@ -1,0 +1,94 @@
+type dummy.RetiredGoldCordelia {
+  annotations {
+    dummy.ThoughtfulRedElka VeryIvoryEmili {
+    }
+    dummy.EstablishedRoseGussie NativeWhiteMonica {
+    }
+    dummy.DEFAULT CombinedEmeraldBarbey {
+    }
+    serviceid_number ExperiencedMaroonReiko {
+    }
+    boolean SensibleTomatoTamar {
+    }
+  }
+  hidden_boolean MajorBronzeAviva {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string MeanTealJobina {
+    _hidden_value = true
+  }
+  number ClassicBlackKyle {
+    _hidden_value = true
+  }
+  dummy.OutrageousApricotDelia ToughJadeCatlaina {
+    ConvenientGoldYasmin = 904
+    OccasionalGoldSabine = 483
+    ComparableCyanAddia = "Why do birds fly south for the winter? Because it's too far to walk."
+    ConceptualCoffeeAngelle = {
+      legit = "How come the stadium got hot after the game? Because all of the fans left."
+    }
+    NervousCrimsonBernice = 310
+    DeadIvoryMatilda = {
+      legit = "What do you call two barracuda fish?  A Pairacuda!"
+    }
+    ManagerialChocolateMaddi = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    MagneticCoffeeGae = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    ConcreteApricotJordain = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    SupportingCyanAdda = 840
+    AdvancedGreenGilda = 512
+    AvailableTomatoFlorentia = 804
+    SacredLimeGeorgeta = 934
+    ComplexCoffeeNatala = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    ColdAquamarineRorie = 443
+    CriticalApricotRita = false
+    UncertainApricotCorly = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    FragileFuchsiaBeitris = 641
+    _hidden_value = true
+  }
+  serviceid_number BoilingPlumStaci {
+    _hidden_value = true
+  }
+  boolean LonelyHarlequinJacquelynn {
+    _hidden_value = true
+  }
+  serviceid StormySalmonErnestine {
+    _hidden_value = true
+  }
+  serviceid_number EquivalentScarletBernadine {
+    _hidden_value = true
+  }
+  hidden_boolean YieldingAquamarineHarri {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  VeryIvoryEmili = false
+  NativeWhiteMonica = true
+  CombinedEmeraldBarbey = {
+    legit = "Why is Peter Pan always flying? Because he Neverlands."
+  }
+  ExperiencedMaroonReiko = 758
+  SensibleTomatoTamar = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "BoilingPlumStaci"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ClassicBlackKyle"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "SensibleTomatoTamar"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,52 @@
+type dummy.ConsciousIvoryDoralyn {
+  annotations {
+    json SemanticPinkAilee {
+    }
+    serviceid OrganisationalWhiteCleopatra {
+    }
+    hidden_boolean AshamedEmeraldSelia {
+    }
+    json GrimIndigoLavina {
+    }
+    json NeatAmaranthHeloise {
+    }
+    json LinguisticGreenMabelle {
+    }
+  }
+  number LeadingAmaranthLorrayne {
+    _hidden_value = true
+  }
+  hidden_boolean VisitingIndigoElyn {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean SureAquaVeda {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string AngryPlumNelli {
+    _hidden_value = true
+  }
+  serviceid AssociatedVioletAleta {
+    _hidden_value = true
+  }
+  SemanticPinkAilee = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  OrganisationalWhiteCleopatra = "What do you call two barracuda fish?  A Pairacuda!"
+  GrimIndigoLavina = '''
+Why is Peter Pan always flying? Because he Neverlands.
+I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts.
+Why did the tomato blush? Because it saw the salad dressing.
+'''
+  NeatAmaranthHeloise = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  LinguisticGreenMabelle = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "AngryPlumNelli"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

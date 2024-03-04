@@ -1,0 +1,73 @@
+salesforce.LightningPage LightningBolt_UtilityBar {
+  flexiPageRegions = [
+    {
+      itemInstances = [
+        {
+          componentInstance = {
+            componentName = "macros:macroUtilityItem"
+            identifier = "macros_macroUtilityItem"
+          }
+        },
+        {
+          componentInstance = {
+            componentInstanceProperties = [
+              {
+                name = "context"
+                value = "GLOBAL"
+              },
+              {
+                name = "eager"
+                type = "decorator"
+                value = "false"
+              },
+              {
+                name = "height"
+                type = "decorator"
+                value = "480"
+              },
+              {
+                name = "icon"
+                type = "decorator"
+                value = "fallback"
+              },
+              {
+                name = "label"
+                type = "decorator"
+                value = "Chatter Publisher"
+              },
+              {
+                name = "scrollable"
+                type = "decorator"
+                value = "true"
+              },
+              {
+                name = "width"
+                type = "decorator"
+                value = "340"
+              },
+            ]
+            componentName = "forceChatter:publisher"
+            identifier = "forceChatter_publisher"
+          }
+        },
+      ]
+      name = "utilityItems"
+      type = "Region"
+    },
+    {
+      name = "backgroundComponents"
+      type = "Background"
+    },
+  ]
+  masterLabel = "LightningBolt UtilityBar"
+  template = {
+    name = "one:utilityBarTemplateDesktop"
+    properties = {
+      name = "isLeftAligned"
+      value = "true"
+    }
+  }
+  type = "UtilityBar"
+  fullName = "LightningBolt_UtilityBar"
+  _alias = "LightningBolt_UtilityBar"
+}

@@ -1,0 +1,67 @@
+type dummy.TotalTurquoisePhedra {
+  annotations {
+    hidden_boolean InnerWhiteMarin {
+    }
+    number RivalGreenRomy {
+    }
+    serviceid_number SelfishSapphireLoralie {
+    }
+    dummy.SorryCyanVinnie PlannedMagentaAnnecorinne {
+    }
+    string FollowingAquamarineAlex {
+    }
+    hidden_boolean ImplicitOrangeAlex {
+    }
+  }
+  dummy.DEFAULT EarlyPlumDacy {
+    _hidden_value = true
+  }
+  json HandsomeIvoryElvira {
+    _hidden_value = true
+  }
+  number NearHarlequinCandie {
+    _hidden_value = true
+  }
+  serviceid_number ManyRedGloriana {
+    _hidden_value = true
+  }
+  number ZonalAmethystShanda {
+    _hidden_value = true
+  }
+  string ProspectiveAmaranthRebecca {
+    _hidden_value = true
+  }
+  json UnconsciousRoseDrusie {
+    _hidden_value = true
+  }
+  dummy.StaleSilverLillian SovietSilverAlejandra {
+    ValuableGoldAudra = 88
+    RequiredCyanPaulie = 378
+    ProbableYellowNoemi = true
+    ToxicGrayGoldia = "What creature is smarter than a talking parrot? A spelling bee."
+    _hidden_value = true
+  }
+  boolean SpecificCoralMariel {
+    _hidden_value = true
+  }
+  string ToryCyanEmmalee {
+    _hidden_value = true
+  }
+  RivalGreenRomy = 194
+  SelfishSapphireLoralie = 261
+  PlannedMagentaAnnecorinne = "My first time using an elevator was an uplifting experience. The second time let me down."
+  FollowingAquamarineAlex = "How come the stadium got hot after the game? Because all of the fans left."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "SelfishSapphireLoralie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "InnerWhiteMarin"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

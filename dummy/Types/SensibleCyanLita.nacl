@@ -1,0 +1,139 @@
+type dummy.SensibleCyanLita {
+  annotations {
+    hidden_boolean ImprovedSapphireRowe {
+    }
+    hidden_boolean EfficientRoseSherill {
+    }
+    number AmateurRedArabella {
+    }
+    number ZestfulEmeraldMerilee {
+    }
+    number ControversialOrangeCairistiona {
+    }
+    number ShortPinkHelsa {
+    }
+  }
+  boolean RudeRoseSadie {
+    _hidden_value = true
+  }
+  serviceid_number AcademicGreenAdan {
+    _hidden_value = true
+  }
+  serviceid SubjectiveAquaEmmey {
+    _hidden_value = true
+  }
+  boolean TropicalAzureKaterina {
+    _hidden_value = true
+  }
+  number CircularBlushKassandra {
+    _hidden_value = true
+  }
+  string MelodicMoccasinCarolina {
+    _hidden_value = true
+  }
+  number FaithfulPurpleArleta {
+    _hidden_value = true
+  }
+  "List<boolean>" HandsomeIndigoFilide {
+    _hidden_value = true
+  }
+  dummy.ThoughtfulRedElka CourageousJadeSteffi {
+    PrimitiveTealSissie = "Why did the tomato blush? Because it saw the salad dressing."
+    SystematicOrangeSallee = "What creature is smarter than a talking parrot? A spelling bee."
+    AutonomousGoldCaye = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    EventualSalmonAveril = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    XenophobicBronzeGayleen = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    _hidden_value = true
+  }
+  serviceid AddedBeigeAleta {
+    _hidden_value = true
+  }
+  dummy.DEFAULT WispySilverGrete {
+    _hidden_value = true
+  }
+  hidden_boolean RoughPurpleMandie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number StrikingEmeraldCissy {
+    _hidden_value = true
+  }
+  json IcyGrayMyriam {
+    _hidden_value = true
+  }
+  serviceid_number FemaleCrimsonSharon {
+    _hidden_value = true
+  }
+  string ArmedPurpleBatsheva {
+    _hidden_value = true
+  }
+  serviceid_number RightTurquoiseMarisa {
+    _hidden_value = true
+  }
+  boolean StingyAmethystAbbye {
+    _hidden_value = true
+  }
+  json VisualPeachCorrinne {
+    _hidden_value = true
+  }
+  serviceid_number MonetaryRoseGray {
+    _hidden_value = true
+  }
+  string ExperiencedAmaranthLorilee {
+    _hidden_value = true
+  }
+  serviceid_number DistinguishedIvoryEllynn {
+    _hidden_value = true
+  }
+  serviceid SophisticatedGoldMeggy {
+    _hidden_value = true
+  }
+  "List<boolean>" FragileCyanPhyllys {
+    _hidden_value = true
+  }
+  number GeneralRedLeland {
+    _hidden_value = true
+  }
+  boolean ExcessiveApricotAuroora {
+    _hidden_value = true
+  }
+  hidden_boolean RaspyBeigeMarena {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number VariedRoseNorina {
+    _hidden_value = true
+  }
+  serviceid_number HorizontalPurpleElbertina {
+    _hidden_value = true
+  }
+  hidden_boolean ManagerialCoralMolli {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  AmateurRedArabella = 260
+  ZestfulEmeraldMerilee = 722
+  ControversialOrangeCairistiona = 690
+  ShortPinkHelsa = 68
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "SophisticatedGoldMeggy"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "StingyAmethystAbbye"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "WispySilverGrete"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

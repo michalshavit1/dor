@@ -1,0 +1,10 @@
+salesforce.Role fdf {
+  fullName = "fdf"
+  caseAccessLevel = "Edit"
+  contactAccessLevel = "Edit"
+  mayForecastManagerShare = false
+  name = "fdf"
+  opportunityAccessLevel = "Edit"
+  parentRole = salesforce.Role.instance.mangerf
+  _alias = "fdf"
+}

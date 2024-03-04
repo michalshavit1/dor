@@ -1,0 +1,34 @@
+type dummy.LovelyJadeHarlene {
+  annotations {
+    hidden_boolean ModernGreenShae {
+    }
+    json GayGreenMeggi {
+    }
+    json ConcreteCoralKamillah {
+    }
+    hidden_boolean MonthlyMoccasinIdette {
+    }
+    json BareFuchsiaAstrix {
+    }
+    serviceid EnergeticTealJanifer {
+    }
+    dummy.AccessibleTurquoiseEssie BackSalmonAndromache {
+    }
+  }
+  serviceid_number DifficultTurquoiseCathi {
+    _hidden_value = true
+  }
+  GayGreenMeggi = "How come the stadium got hot after the game? Because all of the fans left."
+  ConcreteCoralKamillah = "What do you call two barracuda fish?  A Pairacuda!"
+  BareFuchsiaAstrix = "Why was it called the dark ages? Because of all the knights. "
+  EnergeticTealJanifer = "A steak pun is a rare medium well done."
+  BackSalmonAndromache = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "MonthlyMoccasinIdette"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

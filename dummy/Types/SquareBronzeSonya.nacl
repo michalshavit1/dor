@@ -1,0 +1,61 @@
+type dummy.SquareBronzeSonya {
+  annotations {
+    number RegionalBlackMadelin {
+    }
+    json HeavyPinkMariam {
+    }
+    number InquisitiveIndigoBellina {
+    }
+    hidden_boolean FlatSapphireAshia {
+    }
+    serviceid_number SelectedRoseDolley {
+    }
+  }
+  boolean UncomfortableSapphireArlen {
+    _hidden_value = true
+  }
+  hidden_boolean DualFuchsiaDemeter {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<serviceid>" TragicMagentaLetty {
+    _hidden_value = true
+  }
+  serviceid FuzzySapphireRobbin {
+    _hidden_value = true
+  }
+  hidden_boolean HighAquaTybi {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT EquivalentFuchsiaMahalia {
+    _hidden_value = true
+  }
+  dummy.DEFAULT EmpiricalBronzeShea {
+    _hidden_value = true
+  }
+  serviceid NobleJadeKaye {
+    _hidden_value = true
+  }
+  hidden_boolean VariousGreenAllsun {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT IncreasedHarlequinAmalie {
+    _hidden_value = true
+  }
+  string ProperPinkKit {
+    _hidden_value = true
+  }
+  string WrongLavenderNicolina {
+    _hidden_value = true
+  }
+  RegionalBlackMadelin = 757
+  HeavyPinkMariam = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  InquisitiveIndigoBellina = 148
+  SelectedRoseDolley = 953
+  _hidden_value = true
+}

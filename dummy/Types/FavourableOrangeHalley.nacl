@@ -1,0 +1,147 @@
+type dummy.FavourableOrangeHalley {
+  annotations {
+    json WorkingRedRoshelle {
+    }
+    string VisualBlushAlysia {
+    }
+    string CapitalistPeachTallulah {
+    }
+    hidden_boolean MarginalRoseGilberta {
+    }
+    boolean QuickTealVeda {
+    }
+  }
+  serviceid_number CourageousAzureKeslie {
+    _hidden_value = true
+  }
+  serviceid VerticalSapphireMoyna {
+    _hidden_value = true
+  }
+  number ConvenientBeigeSherye {
+    _hidden_value = true
+  }
+  serviceid_number VisualPurpleMargalo {
+    _hidden_value = true
+  }
+  serviceid EverydayMaroonSibel {
+    _hidden_value = true
+  }
+  hidden_boolean NorthernAquaAveril {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid AcceptableSilverPhilly {
+    _hidden_value = true
+  }
+  number AsleepSapphireLibby {
+    _hidden_value = true
+  }
+  boolean SilentCrimsonBobby {
+    _hidden_value = true
+  }
+  serviceid RecentApricotReiko {
+    _hidden_value = true
+  }
+  serviceid ProfitableCyanScarlet {
+    _hidden_value = true
+  }
+  number CrazyScarletAlexandra {
+    _hidden_value = true
+  }
+  dummy.DEFAULT JointSilverAurora {
+    _hidden_value = true
+  }
+  number ArmedLimeEmera {
+    _hidden_value = true
+  }
+  string PerfectTomatoGert {
+    _hidden_value = true
+  }
+  serviceid_number WitteringFuchsiaDorita {
+    _hidden_value = true
+  }
+  number CompleteAmethystWrennie {
+    _hidden_value = true
+  }
+  boolean CooingAquamarineLynnett {
+    _hidden_value = true
+  }
+  number EthicalSilverNikoletta {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" NastyGrayDolley {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean MiniatureGrayMidge {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid LuckyOliveKetti {
+    _hidden_value = true
+  }
+  number ClassicalAzureDael {
+    _hidden_value = true
+  }
+  serviceid SpiritualCopperMartita {
+    _hidden_value = true
+  }
+  boolean YabberingBlackTony {
+    _hidden_value = true
+  }
+  string BriefBeigeSal {
+    _hidden_value = true
+  }
+  boolean PlannedSilverClair {
+    _hidden_value = true
+  }
+  serviceid_number FuriousEmeraldTyne {
+    _hidden_value = true
+  }
+  dummy.LegitimateBlushGoldie MiserableCoffeeLizzy {
+    RealisticCoffeeRoberta = "Did you know that protons have mass? I didn't even know they were catholic."
+    ConvincingJadeNorma = "How come the stadium got hot after the game? Because all of the fans left."
+    _hidden_value = true
+  }
+  serviceid_number TameScarletDanielle {
+    _hidden_value = true
+  }
+  boolean TartSapphireStaci {
+    _hidden_value = true
+  }
+  WorkingRedRoshelle = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  VisualBlushAlysia = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  CapitalistPeachTallulah = "My first time using an elevator was an uplifting experience. The second time let me down."
+  QuickTealVeda = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "BriefBeigeSal"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "PerfectTomatoGert"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "MiserableCoffeeLizzy"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "CrazyScarletAlexandra"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "VisualPurpleMargalo"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

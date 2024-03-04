@@ -1,0 +1,151 @@
+netsuite.savedsearch customsearch102 {
+  scriptid = "customsearch102"
+  definition = "30ffcf8bb9a16fb74c4d150282ada527cb8d198286690e115ff5ddad9491cce2@GZC@2022.1.17@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"
+  search_filter = [
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "GiftCertificate_AMTAVAIL"
+      FIELD_ATTRIBUTE = "GT"
+      FIELD_TYPE = "CURRENCY"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "0.00"
+        },
+        {
+          KEY_ID = 1
+        },
+      ]
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "GiftCertificate_NAME"
+      FIELD_INDEX = 1
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "GiftCertificate_EXPDATE"
+      FIELD_INDEX = 2
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "GiftCertificate_AMTAVAIL"
+      FIELD_INDEX = 3
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  detail_fields = [
+    {
+      FIELD_ALIAS = "GiftCertificate_FROM"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "GiftCertificate_NAME"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "GiftCertificate_EMAIL"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "GiftCertificate_MESSAGE"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "GiftCertificate_EXPDATE"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "GiftCertificate_ORIGAMOUNT"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "GiftCertificate_INCOMEACCT"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "GiftCertificate_LIABILITYACCT"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "GiftCertificate_GCCODE"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "GiftCertificate_ITEM"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "GiftCertificate_AMTAVAIL"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "GiftCertificate_AMTAVAILBILLED"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "GiftCertificate_FROM"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  KEY_SCRIPT_ID = "customsearch102"
+  FIELD_DEFAULT_NAME = "Gift Certificates Amount Available &amp;gt;$0"
+  FIELD_SEARCH_TYPE = "GiftCertificate"
+  FLAG_PUBLIC = false
+  FLAG_LIST = true
+  FLAG_PORTLET = false
+  FLAG_MACHINE = false
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = true
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = true
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = true
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+  _alias = "Gift Certificates Amount Available &amp;gt;$0"
+}

@@ -1,0 +1,122 @@
+type dummy.StrongOrangeBibbye {
+  annotations {
+    boolean BiologicalTomatoOdessa {
+    }
+    hidden_boolean ExclusiveAmaranthTisha {
+    }
+    boolean IsolatedLimeBonny {
+    }
+    dummy.DEFAULT PatientMoccasinEdeline {
+    }
+    number IllOrangeJordana {
+    }
+  }
+  number ClassicalSapphireNadine {
+    _hidden_value = true
+  }
+  serviceid_number MadBlackNicola {
+    _hidden_value = true
+  }
+  dummy.DiverseTurquoiseMariya WearyBlushAilene {
+    AdversePlumLadonna = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    SupremeCopperMellisa = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    ForthcomingMaroonAda = "Slept like a log last night  woke up in the fireplace."
+    FunIndigoRaine = "Why did the kid cross the playground? To get to the other slide."
+    WonderfulBlushSonnnie = "Why was it called the dark ages? Because of all the knights. "
+    FreshBlackDasha = "Why was it called the dark ages? Because of all the knights. "
+    NastyCrimsonVinni = true
+    _hidden_value = true
+  }
+  number StiffIvoryMelesa {
+    _hidden_value = true
+  }
+  serviceid ManagingBronzeJunie {
+    _hidden_value = true
+  }
+  hidden_boolean ZygomorphicPeachJacinthe {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean OppositeTanTammi {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string FairTealLorrin {
+    _hidden_value = true
+  }
+  boolean ElaborateEmeraldErnestine {
+    _hidden_value = true
+  }
+  json ProtectiveBlushNolie {
+    _hidden_value = true
+  }
+  serviceid_number PreliminaryTurquoiseAnet {
+    _hidden_value = true
+  }
+  string ChemicalPinkRegine {
+    _hidden_value = true
+  }
+  json CreativeJadeLian {
+    _hidden_value = true
+  }
+  boolean DoubleRedTrudie {
+    _hidden_value = true
+  }
+  dummy.OutrageousApricotDelia SocialistYellowMarjy {
+    ConvenientGoldYasmin = 328
+    OccasionalGoldSabine = 515
+    ComparableCyanAddia = "Im only familiar with 25 letters in the English language. I dont know why."
+    ConceptualCoffeeAngelle = {
+      legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    }
+    NervousCrimsonBernice = 353
+    DeadIvoryMatilda = {
+      legit = "Why do birds fly south for the winter? Because it's too far to walk."
+    }
+    ManagerialChocolateMaddi = "Why did the kid cross the playground? To get to the other slide."
+    MagneticCoffeeGae = "I'll tell you what often gets over looked... garden fences."
+    ConcreteApricotJordain = "What do you call two barracuda fish?  A Pairacuda!"
+    SupportingCyanAdda = 603
+    AdvancedGreenGilda = 540
+    AvailableTomatoFlorentia = 256
+    SacredLimeGeorgeta = 381
+    ComplexCoffeeNatala = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    ColdAquamarineRorie = 5
+    CriticalApricotRita = false
+    UncertainApricotCorly = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    FragileFuchsiaBeitris = 480
+    _hidden_value = true
+  }
+  string NuclearOrangeWilma {
+    _hidden_value = true
+  }
+  boolean LikelyCopperDebora {
+    _hidden_value = true
+  }
+  string EqualScarletMerilee {
+    _hidden_value = true
+  }
+  BiologicalTomatoOdessa = false
+  IsolatedLimeBonny = true
+  PatientMoccasinEdeline = {
+    legit = "What do you do on a remote island? Try and find the TV island it belongs to."
+  }
+  IllOrangeJordana = 6
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "LikelyCopperDebora"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "BiologicalTomatoOdessa"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

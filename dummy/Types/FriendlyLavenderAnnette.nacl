@@ -1,0 +1,123 @@
+type dummy.FriendlyLavenderAnnette {
+  annotations {
+    serviceid CrucialTealMeggy {
+    }
+    json WiseTanAntonina {
+    }
+    dummy.DEFAULT QuerulousBlackGertrud {
+    }
+    number CuriousPurpleGui {
+    }
+    hidden_boolean FunnyJadeBritt {
+    }
+    boolean SlipperySilverCarmen {
+    }
+  }
+  serviceid EmbarrassingCoralDorette {
+    _hidden_value = true
+  }
+  hidden_boolean BreezyCrimsonBryana {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean ViciousGrayGlennie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number EnergeticChocolateCristie {
+    _hidden_value = true
+  }
+  serviceid AllegedCrimsonTorie {
+    _hidden_value = true
+  }
+  hidden_boolean UnlikelyScarletTawnya {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json LiableOlivePaulina {
+    _hidden_value = true
+  }
+  string JudicialAzureRebeka {
+    _hidden_value = true
+  }
+  json LinearCyanWilhelmina {
+    _hidden_value = true
+  }
+  hidden_boolean GlamorousSalmonDaron {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number VariedAmberDesiree {
+    _hidden_value = true
+  }
+  serviceid ExplicitBlackBrooks {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ShockedWhiteGisella {
+    _hidden_value = true
+  }
+  string EthicalAquaShelba {
+    _hidden_value = true
+  }
+  json AcuteCopperTrina {
+    _hidden_value = true
+  }
+  boolean ColorfulSapphireArdene {
+    _hidden_value = true
+  }
+  serviceid GrievingGrayMariele {
+    _hidden_value = true
+  }
+  serviceid CheapLavenderCatlee {
+    _hidden_value = true
+  }
+  string SunnyGreenSianna {
+    _hidden_value = true
+  }
+  CrucialTealMeggy = "A steak pun is a rare medium well done."
+  WiseTanAntonina = "Slept like a log last night  woke up in the fireplace."
+  QuerulousBlackGertrud = {
+    legit = "Dad Im hungry  Hi hungry Im dad"
+  }
+  CuriousPurpleGui = 593
+  SlipperySilverCarmen = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ColorfulSapphireArdene"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "VariedAmberDesiree"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "EnergeticChocolateCristie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "EmbarrassingCoralDorette"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "UnlikelyScarletTawnya"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "WiseTanAntonina"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,32 @@
+type dummy.ValidBronzeHelge {
+  annotations {
+    boolean ContinuedBeigeGracie {
+    }
+    serviceid_number ManualPurpleAnnabell {
+    }
+    hidden_boolean ResidentialScarletStephanie {
+    }
+    number ApplicableBeigeAubrey {
+    }
+    serviceid HotEmeraldCosette {
+    }
+    boolean ForthcomingBrownFrankie {
+    }
+  }
+  number FitLimeEilis {
+    _hidden_value = true
+  }
+  ContinuedBeigeGracie = true
+  ManualPurpleAnnabell = 52
+  ApplicableBeigeAubrey = 273
+  HotEmeraldCosette = "Why didnt the skeleton cross the road? Because he had no guts."
+  ForthcomingBrownFrankie = false
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "ResidentialScarletStephanie"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

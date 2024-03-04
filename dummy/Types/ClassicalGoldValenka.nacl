@@ -1,0 +1,43 @@
+type dummy.ClassicalGoldValenka {
+  annotations {
+    boolean ChristianYellowEvey {
+    }
+    number StructuralSapphireKarisa {
+    }
+    serviceid_number CulturalAmethystRaquel {
+    }
+    dummy.FastVioletDaniela GeneralTealChrissy {
+    }
+    json ExcessTomatoArdyce {
+    }
+    number WarmMaroonKalli {
+    }
+  }
+  serviceid FamousRedKathryn {
+    _hidden_value = true
+  }
+  hidden_boolean SympatheticJadeIngaberg {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  ChristianYellowEvey = true
+  StructuralSapphireKarisa = 568
+  CulturalAmethystRaquel = 335
+  GeneralTealChrissy = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ExcessTomatoArdyce = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  WarmMaroonKalli = 340
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "StructuralSapphireKarisa"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ChristianYellowEvey"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

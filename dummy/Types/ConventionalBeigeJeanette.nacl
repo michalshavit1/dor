@@ -1,0 +1,70 @@
+type dummy.ConventionalBeigeJeanette {
+  annotations {
+    boolean AcuteTanGloriana {
+    }
+    string WoodenIndigoCarole {
+    }
+    boolean EligibleScarletStella {
+    }
+    string MeltedPlumCordey {
+    }
+    json ThunderingAzureTanhya {
+    }
+    serviceid_number GastricLavenderKaycee {
+    }
+  }
+  dummy.DEFAULT EmbarrassingPurpleGlenine {
+    _hidden_value = true
+  }
+  string DualSalmonNina {
+    _hidden_value = true
+  }
+  boolean PracticalCoffeeDionis {
+    _hidden_value = true
+  }
+  dummy.DEFAULT UnevenPurpleShanda {
+    _hidden_value = true
+  }
+  dummy.DEFAULT InstantBlueBarbey {
+    _hidden_value = true
+  }
+  number LuckyAmberGabrielle {
+    _hidden_value = true
+  }
+  number AbsentSapphireJoanne {
+    _hidden_value = true
+  }
+  json WanderingCoralKassia {
+    _hidden_value = true
+  }
+  serviceid_number AdorableGrayKailey {
+    _hidden_value = true
+  }
+  hidden_boolean UnchangedPurplePaula {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean NastyAmethystArabela {
+    _hidden_value = true
+  }
+  AcuteTanGloriana = false
+  WoodenIndigoCarole = "Why was it called the dark ages? Because of all the knights. "
+  EligibleScarletStella = true
+  MeltedPlumCordey = "Why didnt the skeleton cross the road? Because he had no guts."
+  ThunderingAzureTanhya = "Why did the kid cross the playground? To get to the other slide."
+  GastricLavenderKaycee = 665
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "LuckyAmberGabrielle"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "UnevenPurpleShanda"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

@@ -1,0 +1,26 @@
+type dummy.FineAmethystKiri {
+  annotations {
+    serviceid AdvisoryRoseEnrica {
+    }
+    string AngryHarlequinCherey {
+    }
+    hidden_boolean TerribleRedLonna {
+    }
+    json MarineGoldIlyse {
+    }
+  }
+  serviceid_number CausalBrownAllys {
+    _hidden_value = true
+  }
+  AdvisoryRoseEnrica = "What do you do on a remote island? Try and find the TV island it belongs to."
+  AngryHarlequinCherey = "Why do birds fly south for the winter? Because it's too far to walk."
+  MarineGoldIlyse = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "MarineGoldIlyse"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,78 @@
+type dummy.GloriousGoldFelicle {
+  annotations {
+    serviceid_number PositiveIndigoGianna {
+    }
+    serviceid_number XenophobicBlushCyndia {
+    }
+    number EnviousRoseFernande {
+    }
+    string PreliminaryCyanGratia {
+    }
+    json BravePlumMattie {
+    }
+  }
+  string TypicalAmaranthTressa {
+    _hidden_value = true
+  }
+  "List<dummy.InformalTurquoiseFaith>" ComfortableBlackLeland {
+    RottenScarletGiustina = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    DefeatedBlushChere = "Whoever invented the knock-knock joke should get a no bell prize."
+    VoluntaryOliveAriana = "Why did the kid cross the playground? To get to the other slide."
+    YearningTomatoHedvige = {
+      legit = "What do you call two barracuda fish?  A Pairacuda!"
+    }
+    BlushingBlushViola = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    InjuredCoralKatusha = true
+    XenaciousPlumGusty = true
+    IdealCopperSheba = 957
+    DisabledMaroonPaulina = 900
+    _hidden_value = true
+  }
+  serviceid_number FlakyWhiteManda {
+    _hidden_value = true
+  }
+  number PreciseAmaranthOralia {
+    _hidden_value = true
+  }
+  json CommonMagentaGilbertina {
+    _hidden_value = true
+  }
+  json RidiculousSalmonSiana {
+    _hidden_value = true
+  }
+  serviceid NearbyOrangeBlinni {
+    _hidden_value = true
+  }
+  dummy.DEFAULT DominantIvoryLane {
+    _hidden_value = true
+  }
+  string JudicialBlushDorian {
+    _hidden_value = true
+  }
+  serviceid RequiredLavenderRivalee {
+    _hidden_value = true
+  }
+  json StillGrayCaitlin {
+    _hidden_value = true
+  }
+  PositiveIndigoGianna = 689
+  XenophobicBlushCyndia = 149
+  EnviousRoseFernande = 157
+  PreliminaryCyanGratia = "Dad Im hungry  Hi hungry Im dad"
+  BravePlumMattie = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "DominantIvoryLane"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "EnviousRoseFernande"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,68 @@
+type dummy.LongRedDanya {
+  annotations {
+    hidden_boolean SupremePurpleSibyl {
+    }
+    json PerfectGreenJonis {
+    }
+    hidden_boolean DramaticBlackDayle {
+    }
+    string ColourfulFuchsiaHortensia {
+    }
+  }
+  serviceid_number OutrageousMoccasinAurea {
+    _hidden_value = true
+  }
+  serviceid ScreechingGrayEalasaid {
+    _hidden_value = true
+  }
+  "List<string>" UnwillingMaroonLaurena {
+    _hidden_value = true
+  }
+  number VisibleScarletCristi {
+    _hidden_value = true
+  }
+  json GloriousMoccasinAugustina {
+    _hidden_value = true
+  }
+  json CreepySapphireBerna {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AcademicMagentaMarcellina {
+    _hidden_value = true
+  }
+  boolean PartialCoffeeDorene {
+    _hidden_value = true
+  }
+  number PreciseOrangeTraci {
+    _hidden_value = true
+  }
+  hidden_boolean BlushingChocolateCindi {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json QuaintMoccasinLilas {
+    _hidden_value = true
+  }
+  serviceid_number RacialRoseWilhelmina {
+    _hidden_value = true
+  }
+  number FilthyApricotSimona {
+    _hidden_value = true
+  }
+  hidden_boolean ViolentAquamarineEdythe {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  PerfectGreenJonis = "Slept like a log last night  woke up in the fireplace."
+  ColourfulFuchsiaHortensia = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "ColourfulFuchsiaHortensia"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,83 @@
+type dummy.PrincipalOrangeKathie {
+  annotations {
+    number ConsistentAquamarineTish {
+    }
+    serviceid_number MiddleBlueLynnea {
+    }
+    serviceid_number VerbalHarlequinMiguela {
+    }
+    hidden_boolean UnevenPlumAnjanette {
+    }
+    boolean ThinYellowNanci {
+    }
+    hidden_boolean OutrageousCoralShandy {
+    }
+    dummy.CombinedCyanNatasha DamagedTurquoiseBeatrice {
+    }
+    string WorthwhileRedNatty {
+    }
+  }
+  string DisabledWhiteFlori {
+    _hidden_value = true
+  }
+  string PreliminaryCoralBrier {
+    _hidden_value = true
+  }
+  boolean StuckCoffeeBarbe {
+    _hidden_value = true
+  }
+  "List<string>" RequiredLimeJaquith {
+    _hidden_value = true
+  }
+  dummy.AccessibleTurquoiseEssie WateryRoseDotti {
+    BrilliantMaroonBonni = {
+      legit = "Why didnt the skeleton cross the road? Because he had no guts."
+    }
+    SupposedIndigoDusty = true
+    _hidden_value = true
+  }
+  number ObviousCoralCleo {
+    _hidden_value = true
+  }
+  string SkilledMagentaCarlie {
+    _hidden_value = true
+  }
+  number PreferredHarlequinMadelina {
+    _hidden_value = true
+  }
+  string OverallGrayCynde {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ValuableCopperLacy {
+    _hidden_value = true
+  }
+  serviceid MultipleAzureAmalita {
+    _hidden_value = true
+  }
+  ConsistentAquamarineTish = 176
+  MiddleBlueLynnea = 811
+  VerbalHarlequinMiguela = 671
+  ThinYellowNanci = false
+  DamagedTurquoiseBeatrice = false
+  WorthwhileRedNatty = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "SkilledMagentaCarlie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ObviousCoralCleo"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ThinYellowNanci"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

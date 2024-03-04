@@ -1,0 +1,83 @@
+type dummy.AlrightTanGoldy {
+  annotations {
+    dummy.StructuralPlumGleda PlasticRoseValera {
+    }
+    hidden_boolean WeeBlushSarajane {
+    }
+    serviceid_number PriorScarletCandi {
+    }
+    boolean ShrillPurpleTalya {
+    }
+    serviceid_number AnnoyedPlumDaniella {
+    }
+    number BizarreCyanMavra {
+    }
+    serviceid SmartMaroonJustinn {
+    }
+    serviceid_number ManualBronzeElle {
+    }
+    string PhilosophicalTealLivvyy {
+    }
+    json AsleepGoldCrysta {
+    }
+    dummy.QuaintGrayFelicle DistantAquaHyacintha {
+    }
+    json VisualChocolateAnnaliese {
+    }
+    number WitteringRedFelicle {
+    }
+    boolean DizzyCopperFleurette {
+    }
+    serviceid SurePlumDina {
+    }
+    string ScaryAzureKarie {
+    }
+    json DevelopedPlumLinea {
+    }
+    serviceid RollingVioletJunie {
+    }
+  }
+  PriorScarletCandi = 950
+  ShrillPurpleTalya = true
+  AnnoyedPlumDaniella = 758
+  BizarreCyanMavra = 230
+  SmartMaroonJustinn = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  ManualBronzeElle = 852
+  PhilosophicalTealLivvyy = "Im only familiar with 25 letters in the English language. I dont know why."
+  AsleepGoldCrysta = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  VisualChocolateAnnaliese = "Why did the tomato blush? Because it saw the salad dressing."
+  WitteringRedFelicle = 347
+  DizzyCopperFleurette = false
+  SurePlumDina = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ScaryAzureKarie = "What did one nut say as he chased another nut?  I'm a cashew!"
+  DevelopedPlumLinea = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  RollingVioletJunie = "I'll tell you what often gets over looked... garden fences."
+  _self_important_values = [
+    {
+      value = "PhilosophicalTealLivvyy"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "WeeBlushSarajane"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ManualBronzeElle"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "AsleepGoldCrysta"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "AnnoyedPlumDaniella"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "AlrightTanGoldy_alias"
+}

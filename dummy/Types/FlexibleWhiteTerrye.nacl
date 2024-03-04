@@ -1,0 +1,67 @@
+type dummy.FlexibleWhiteTerrye {
+  annotations {
+    serviceid PrimaryGrayClaude {
+    }
+    number NeutralAmaranthNaoma {
+    }
+    hidden_boolean HotJadeEmma {
+    }
+    boolean RedundantLavenderAnallise {
+    }
+    json FinancialAmethystDrusi {
+    }
+  }
+  serviceid EmpiricalRedElvera {
+    _hidden_value = true
+  }
+  boolean DearLavenderAriella {
+    _hidden_value = true
+  }
+  serviceid_number InlandAzureMari {
+    _hidden_value = true
+  }
+  hidden_boolean EmbarrassingRedPatty {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean IcyCrimsonLaetitia {
+    _hidden_value = true
+  }
+  string FrequentAquaDelly {
+    _hidden_value = true
+  }
+  number OutsidePurpleLetti {
+    _hidden_value = true
+  }
+  json PrettyChocolateDiann {
+    _hidden_value = true
+  }
+  serviceid DisgustedGoldElyse {
+    _hidden_value = true
+  }
+  PrimaryGrayClaude = "Why did the tomato blush? Because it saw the salad dressing."
+  NeutralAmaranthNaoma = 82
+  RedundantLavenderAnallise = true
+  FinancialAmethystDrusi = "Im only familiar with 25 letters in the English language. I dont know why."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "PrettyChocolateDiann"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "FrequentAquaDelly"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "FinancialAmethystDrusi"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

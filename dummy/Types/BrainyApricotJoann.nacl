@@ -1,0 +1,55 @@
+type dummy.BrainyApricotJoann {
+  annotations {
+    number MarginalAmethystLyda {
+    }
+    serviceid CooperativeLimeOtha {
+    }
+    serviceid_number BetterAmethystBrandice {
+    }
+    number FatIvoryBethena {
+    }
+  }
+  number KindGoldLindsy {
+    _hidden_value = true
+  }
+  string RelativeTealRosalyn {
+    _hidden_value = true
+  }
+  serviceid_number FemaleYellowIsabelle {
+    _hidden_value = true
+  }
+  serviceid_number HostileLavenderMargit {
+    _hidden_value = true
+  }
+  number HealthyWhiteJuli {
+    _hidden_value = true
+  }
+  number AloneSalmonGeneva {
+    _hidden_value = true
+  }
+  number SecretOliveIormina {
+    _hidden_value = true
+  }
+  hidden_boolean ThoughtfulAquaBirgitta {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  MarginalAmethystLyda = 781
+  CooperativeLimeOtha = "Did you know that protons have mass? I didn't even know they were catholic."
+  BetterAmethystBrandice = 686
+  FatIvoryBethena = 916
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ThoughtfulAquaBirgitta"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "HealthyWhiteJuli"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

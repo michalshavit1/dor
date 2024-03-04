@@ -1,0 +1,62 @@
+type dummy.SymbolicBrownHerminia {
+  annotations {
+    serviceid CrookedAmethystMolly {
+    }
+    number HardEmeraldChelsae {
+    }
+    string DeliciousCyanJessamyn {
+    }
+  }
+  number ExistingAzureLoree {
+    _hidden_value = true
+  }
+  hidden_boolean SupposedMoccasinGabrila {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean WittyBlueRobinett {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string DiplomaticWhiteGinni {
+    _hidden_value = true
+  }
+  json ParticularPinkVivie {
+    _hidden_value = true
+  }
+  json QuerulousLimeCathryn {
+    _hidden_value = true
+  }
+  serviceid ChronicTealGabriellia {
+    _hidden_value = true
+  }
+  number EnviousMagentaAgatha {
+    _hidden_value = true
+  }
+  json IncreasedJadeNeala {
+    _hidden_value = true
+  }
+  serviceid_number YieldingBlackSallyann {
+    _hidden_value = true
+  }
+  CrookedAmethystMolly = "Why do birds fly south for the winter? Because it's too far to walk."
+  HardEmeraldChelsae = 451
+  DeliciousCyanJessamyn = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "YieldingBlackSallyann"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "DeliciousCyanJessamyn"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

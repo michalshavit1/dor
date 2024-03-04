@@ -1,0 +1,109 @@
+type dummy.ExuberantTealAfton {
+  annotations {
+    serviceid_number DistinguishedLimeTheresina {
+    }
+    serviceid_number AbstractEmeraldLouisa {
+    }
+    string UniqueSapphirePaula {
+    }
+    json SmoggyGoldTamara {
+    }
+    number DrabBlushAnastasia {
+    }
+    dummy.DEFAULT NormalBeigeEba {
+    }
+  }
+  serviceid MassCoralCissy {
+    _hidden_value = true
+  }
+  serviceid DevelopedCoffeeLynnet {
+    _hidden_value = true
+  }
+  serviceid ImmediateTurquoiseAundrea {
+    _hidden_value = true
+  }
+  hidden_boolean PrimeMagentaGoldarina {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid TenseFuchsiaTheresina {
+    _hidden_value = true
+  }
+  string DefiantVioletAliza {
+    _hidden_value = true
+  }
+  number SupposedLimeYasmin {
+    _hidden_value = true
+  }
+  string InlandBeigePansie {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" DreadfulGoldKimmie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DisastrousMaroonTerrye UnwillingBlueVerile {
+    ElectricPlumCele = "What creature is smarter than a talking parrot? A spelling bee."
+    MiniatureYellowFlossi = "What creature is smarter than a talking parrot? A spelling bee."
+    IsolatedOrangeSusanne = true
+    WellLavenderBernete = "A steak pun is a rare medium well done."
+    ExtraordinaryGrayJuditha = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    NetSilverMei = true
+    GoldenTurquoiseAdelaida = true
+    PoliticalRoseJeniece = "Dad Im hungry  Hi hungry Im dad"
+    OutrageousSapphireLyda = false
+    NumerousOrangeBrietta = false
+    RemarkableTealBetty = 348
+    PreviousBrownHelsa = true
+    SimpleAquamarineRee = 527
+    LengthyLavenderRosabel = 570
+    BrainySalmonVale = false
+    AccessibleCrimsonJessica = "What creature is smarter than a talking parrot? A spelling bee."
+    _hidden_value = true
+  }
+  boolean SuccessfulSilverLib {
+    _hidden_value = true
+  }
+  string NaturalPinkKath {
+    _hidden_value = true
+  }
+  string WidespreadAmethystFaina {
+    _hidden_value = true
+  }
+  string ColonialFuchsiaSari {
+    _hidden_value = true
+  }
+  string StingyAmberAshil {
+    _hidden_value = true
+  }
+  DistinguishedLimeTheresina = 713
+  AbstractEmeraldLouisa = 194
+  UniqueSapphirePaula = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  SmoggyGoldTamara = "What did one nut say as he chased another nut?  I'm a cashew!"
+  DrabBlushAnastasia = 174
+  NormalBeigeEba = {
+    legit = "I'll tell you what often gets over looked... garden fences."
+  }
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ColonialFuchsiaSari"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "NormalBeigeEba"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "UniqueSapphirePaula"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

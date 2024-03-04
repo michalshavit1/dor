@@ -1,0 +1,162 @@
+type dummy.CivicAzureAnthea {
+  annotations {
+    serviceid VitalGoldNelle {
+    }
+    serviceid OpenAquaRoselia {
+    }
+    number NavalScarletGiuditta {
+    }
+    serviceid_number UnableRedLatia {
+    }
+    hidden_boolean MagnificentAquamarineAmmamaria {
+    }
+  }
+  string DeliberateWhiteAndi {
+    _hidden_value = true
+  }
+  dummy.DEFAULT GenerousLimeAnastassia {
+    _hidden_value = true
+  }
+  number ChemicalScarletJunia {
+    _hidden_value = true
+  }
+  serviceid_number SorePinkReba {
+    _hidden_value = true
+  }
+  string AboveCopperJacquelyn {
+    _hidden_value = true
+  }
+  boolean RemainingTurquoiseDeva {
+    _hidden_value = true
+  }
+  json ResonantIvoryDesiri {
+    _hidden_value = true
+  }
+  dummy.DelightedVioletLiv BlushingGrayPamelina {
+    PartialApricotRodie = "Did you know that protons have mass? I didn't even know they were catholic."
+    ChiefRoseSadie = "Im only familiar with 25 letters in the English language. I dont know why."
+    UpsetAquaLyndsay = "Did you know that protons have mass? I didn't even know they were catholic."
+    PsychologicalMagentaFidelity = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    AdministrativeAmaranthMaighdiln = 778
+    SoundJadeUlrica = false
+    ExuberantOliveCleopatra = "Why did the kid cross the playground? To get to the other slide."
+    DemocraticAmaranthJanaya = true
+    FlyingAquamarineCristionna = "To be Frank, I'd have to change my name."
+    GrotesqueTanRonni = 151
+    DutchPinkAnnice = "My first time using an elevator was an uplifting experience. The second time let me down."
+    _hidden_value = true
+  }
+  string ScientificMoccasinNickie {
+    _hidden_value = true
+  }
+  boolean ObligedJadeCatherina {
+    _hidden_value = true
+  }
+  boolean BadIvoryFranciska {
+    _hidden_value = true
+  }
+  hidden_boolean IntenseCoralAntoinette {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean SatisfiedAmberGussie {
+    _hidden_value = true
+  }
+  string ConstantPeachJudy {
+    _hidden_value = true
+  }
+  json PassiveAquaBellanca {
+    _hidden_value = true
+  }
+  hidden_boolean ScatteredApricotFidelity {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number OptimisticMaroonMarris {
+    _hidden_value = true
+  }
+  number VisitingMaroonStephannie {
+    _hidden_value = true
+  }
+  serviceid_number ValidSalmonAnastasia {
+    _hidden_value = true
+  }
+  dummy.DEFAULT StrategicTurquoiseDaffie {
+    _hidden_value = true
+  }
+  json UnfairPeachElonore {
+    _hidden_value = true
+  }
+  number DistantLimeBrinna {
+    _hidden_value = true
+  }
+  dummy.DEFAULT NormalPeachValry {
+    _hidden_value = true
+  }
+  serviceid_number UnchangedSalmonBel {
+    _hidden_value = true
+  }
+  number CompulsoryAmethystCarolann {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" ObjectiveCoffeeAugustina {
+    _hidden_value = true
+  }
+  dummy.DEFAULT GiganticMaroonJsandye {
+    _hidden_value = true
+  }
+  boolean PoisedYellowToma {
+    _hidden_value = true
+  }
+  json UnemployedVioletKaleena {
+    _hidden_value = true
+  }
+  serviceid MeltedCyanTheda {
+    _hidden_value = true
+  }
+  json SubjectiveBlueAntonina {
+    _hidden_value = true
+  }
+  json DevotedMoccasinAlyce {
+    _hidden_value = true
+  }
+  hidden_boolean BoringRedBreanne {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean AgriculturalWhiteDaloris {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  VitalGoldNelle = "Why is Peter Pan always flying? Because he Neverlands."
+  OpenAquaRoselia = "What creature is smarter than a talking parrot? A spelling bee."
+  NavalScarletGiuditta = 35
+  UnableRedLatia = 163
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "BoringRedBreanne"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "GenerousLimeAnastassia"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "MeltedCyanTheda"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ObligedJadeCatherina"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

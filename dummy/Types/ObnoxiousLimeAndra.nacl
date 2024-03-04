@@ -1,0 +1,76 @@
+type dummy.ObnoxiousLimeAndra {
+  annotations {
+    hidden_boolean FrailCoralKeely {
+    }
+    number PrettySapphireAinslie {
+    }
+    string MedievalBeigeKippy {
+    }
+    serviceid_number InherentLimeKitty {
+    }
+    hidden_boolean CalmJadeDamara {
+    }
+  }
+  dummy.StaleSilverLillian DelicateSilverCelestine {
+    ValuableGoldAudra = 55
+    RequiredCyanPaulie = 590
+    ProbableYellowNoemi = true
+    ToxicGrayGoldia = "Whoever invented the knock-knock joke should get a no bell prize."
+    _hidden_value = true
+  }
+  number MusicalFuchsiaAura {
+    _hidden_value = true
+  }
+  dummy.DEFAULT InfluentialTealConni {
+    _hidden_value = true
+  }
+  string SorryPurpleImelda {
+    _hidden_value = true
+  }
+  serviceid_number CollectiveSilverJaneta {
+    _hidden_value = true
+  }
+  hidden_boolean ItchyChocolateIlka {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DiverseTurquoiseMariya LoyalCoralRanice {
+    AdversePlumLadonna = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    SupremeCopperMellisa = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    ForthcomingMaroonAda = "What did one nut say as he chased another nut?  I'm a cashew!"
+    FunIndigoRaine = "What do you call two barracuda fish?  A Pairacuda!"
+    WonderfulBlushSonnnie = "Slept like a log last night  woke up in the fireplace."
+    FreshBlackDasha = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    NastyCrimsonVinni = false
+    _hidden_value = true
+  }
+  serviceid SensibleBronzeMary {
+    _hidden_value = true
+  }
+  boolean HeavyOliveSuzann {
+    _hidden_value = true
+  }
+  boolean CommunistBrownAlbina {
+    _hidden_value = true
+  }
+  serviceid YabberingTurquoiseAstrix {
+    _hidden_value = true
+  }
+  hidden_boolean UsualChocolateJanith {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  PrettySapphireAinslie = 512
+  MedievalBeigeKippy = "Whoever invented the knock-knock joke should get a no bell prize."
+  InherentLimeKitty = 904
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "CollectiveSilverJaneta"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

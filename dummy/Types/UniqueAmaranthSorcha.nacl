@@ -1,0 +1,27 @@
+type dummy.UniqueAmaranthSorcha {
+  annotations {
+    serviceid_number EvolutionaryEmeraldAuroora {
+    }
+    hidden_boolean VividBlueRivy {
+    }
+    boolean EfficientGoldZulema {
+    }
+    number ProfessionalSapphireKerrill {
+    }
+    boolean CharacteristicTanAdey {
+    }
+    dummy.DEFAULT StrangeRedHyacinthia {
+    }
+  }
+  serviceid_number WeirdAzureBlinny {
+    _hidden_value = true
+  }
+  EvolutionaryEmeraldAuroora = 124
+  EfficientGoldZulema = true
+  ProfessionalSapphireKerrill = 410
+  CharacteristicTanAdey = false
+  StrangeRedHyacinthia = {
+    legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  }
+  _hidden_value = true
+}

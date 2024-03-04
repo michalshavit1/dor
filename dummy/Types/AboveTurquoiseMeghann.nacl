@@ -1,0 +1,54 @@
+type dummy.AboveTurquoiseMeghann {
+  annotations {
+    serviceid_number UnnecessarySapphirePetronilla {
+    }
+    boolean UnlikelyApricotAnthia {
+    }
+    json DetailedLavenderGermain {
+    }
+    serviceid ExclusiveEmeraldBilly {
+    }
+    json CapableSalmonEnid {
+    }
+  }
+  number FarMaroonTricia {
+    _hidden_value = true
+  }
+  serviceid_number CooperativeIvoryPhaidra {
+    _hidden_value = true
+  }
+  number AwkwardScarletRomonda {
+    _hidden_value = true
+  }
+  "List<dummy.NervousCyanBlisse>" DoubleIvoryDevon {
+    _hidden_value = true
+  }
+  string JustIndigoMari {
+    _hidden_value = true
+  }
+  UnnecessarySapphirePetronilla = 797
+  UnlikelyApricotAnthia = true
+  DetailedLavenderGermain = "My first time using an elevator was an uplifting experience. The second time let me down."
+  ExclusiveEmeraldBilly = "My first time using an elevator was an uplifting experience. The second time let me down."
+  CapableSalmonEnid = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "JustIndigoMari"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "DetailedLavenderGermain"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "UnlikelyApricotAnthia"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,105 @@
+type dummy.UpperGoldCrissy {
+  annotations {
+    boolean BlankYellowHetti {
+    }
+    dummy.FastVioletDaniela PrettyEmeraldGerta {
+    }
+    serviceid PersonalBronzeCatlin {
+    }
+    string MonthlyPeachDianna {
+    }
+    number ZippyAquaShirleen {
+    }
+  }
+  serviceid_number CivicTomatoKalie {
+    _hidden_value = true
+  }
+  boolean NotableCyanGisele {
+    _hidden_value = true
+  }
+  number ArbitraryAquamarineTorrie {
+    _hidden_value = true
+  }
+  serviceid SelectedAquamarinePaulita {
+    _hidden_value = true
+  }
+  string LivelyTealKonstanze {
+    _hidden_value = true
+  }
+  boolean PrincipalCopperGiulietta {
+    _hidden_value = true
+  }
+  serviceid MultiplePeachPhillis {
+    _hidden_value = true
+  }
+  number WideBlackKippy {
+    _hidden_value = true
+  }
+  string PainfulMoccasinMersey {
+    _hidden_value = true
+  }
+  serviceid SatisfiedAmberAnnabelle {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ImpressedOliveFlo {
+    _hidden_value = true
+  }
+  json MusicalTurquoiseGlynda {
+    _hidden_value = true
+  }
+  number IrrelevantPlumChery {
+    _hidden_value = true
+  }
+  string RulingTomatoCammy {
+    _hidden_value = true
+  }
+  "List<json>" DomesticBlushAmity {
+    _hidden_value = true
+  }
+  json DualRedDulcine {
+    _hidden_value = true
+  }
+  hidden_boolean InterestedSilverGay {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean RelatedApricotRodie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  BlankYellowHetti = false
+  PrettyEmeraldGerta = "Did you know that protons have mass? I didn't even know they were catholic."
+  PersonalBronzeCatlin = "Whoever invented the knock-knock joke should get a no bell prize."
+  MonthlyPeachDianna = "To be Frank, I'd have to change my name."
+  ZippyAquaShirleen = 53
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "RelatedApricotRodie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "MultiplePeachPhillis"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SatisfiedAmberAnnabelle"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "IrrelevantPlumChery"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "LivelyTealKonstanze"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

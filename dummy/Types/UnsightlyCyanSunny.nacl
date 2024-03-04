@@ -1,0 +1,82 @@
+type dummy.UnsightlyCyanSunny {
+  annotations {
+    number AlliedCoffeeAuguste {
+    }
+    number ColourfulBlackAngelia {
+    }
+    json HarshJadeCalida {
+    }
+    hidden_boolean WeeJadeCornie {
+    }
+    hidden_boolean FormidableIvorySonny {
+    }
+    json MildGoldLaurie {
+    }
+  }
+  json ChubbyAmberMuffin {
+    _hidden_value = true
+  }
+  serviceid SuperMagentaCandis {
+    _hidden_value = true
+  }
+  json EndlessCyanCarlene {
+    _hidden_value = true
+  }
+  number LiableTanOlivia {
+    _hidden_value = true
+  }
+  hidden_boolean OccupationalMaroonFlorri {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string HissingApricotOla {
+    _hidden_value = true
+  }
+  string WeeklyBlushHelaine {
+    _hidden_value = true
+  }
+  hidden_boolean AcuteAmberJenda {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean ObligedGreenStefa {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid GentleBronzeJudye {
+    _hidden_value = true
+  }
+  hidden_boolean SquealingChocolateMasha {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid ResidentPinkFlo {
+    _hidden_value = true
+  }
+  string BrilliantJadeCassy {
+    _hidden_value = true
+  }
+  AlliedCoffeeAuguste = 435
+  ColourfulBlackAngelia = 936
+  HarshJadeCalida = "Why did the tomato blush? Because it saw the salad dressing."
+  MildGoldLaurie = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "SuperMagentaCandis"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "FormidableIvorySonny"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

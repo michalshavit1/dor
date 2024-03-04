@@ -1,0 +1,85 @@
+type dummy.UnnecessaryJadeMatilda {
+  annotations {
+    boolean InteriorLavenderZarla {
+    }
+    serviceid AloneGrayLavena {
+    }
+    hidden_boolean SilkyYellowOlive {
+    }
+    hidden_boolean SmilingTanLeshia {
+    }
+    number ScornfulSalmonDinnie {
+    }
+    dummy.LivelyWhiteMeggi TartIndigoFredrika {
+    }
+    number MistyIndigoTracy {
+    }
+    json RealisticBronzeLizette {
+    }
+    number RipeBlushLucie {
+    }
+    serviceid_number LoyalGoldNelli {
+    }
+    json WeakYellowMariejeanne {
+    }
+    number LittleSilverMilli {
+    }
+    json CondemnedCyanElsa {
+    }
+    string FranticSalmonOra {
+    }
+    serviceid_number CollectiveCoffeeLory {
+    }
+    hidden_boolean UnderlyingEmeraldCristine {
+    }
+    boolean BigAmaranthEmelda {
+    }
+    serviceid DynamicWhiteAnthea {
+    }
+    boolean FundamentalIndigoLivvy {
+    }
+  }
+  InteriorLavenderZarla = true
+  AloneGrayLavena = "To be Frank, I'd have to change my name."
+  ScornfulSalmonDinnie = 749
+  MistyIndigoTracy = 791
+  RealisticBronzeLizette = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  RipeBlushLucie = 3
+  LoyalGoldNelli = 129
+  WeakYellowMariejeanne = "I'll tell you what often gets over looked... garden fences."
+  LittleSilverMilli = 973
+  CondemnedCyanElsa = "I'll tell you what often gets over looked... garden fences."
+  FranticSalmonOra = "A steak pun is a rare medium well done."
+  CollectiveCoffeeLory = 826
+  BigAmaranthEmelda = false
+  DynamicWhiteAnthea = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  FundamentalIndigoLivvy = false
+  _self_important_values = [
+    {
+      value = "CollectiveCoffeeLory"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "FundamentalIndigoLivvy"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "DynamicWhiteAnthea"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SmilingTanLeshia"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "RealisticBronzeLizette"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "UnnecessaryJadeMatilda_alias"
+}

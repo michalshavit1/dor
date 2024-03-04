@@ -1,0 +1,94 @@
+type dummy.MuddyGoldCarina {
+  annotations {
+    boolean SupposedSalmonDorelia {
+    }
+    serviceid_number MentalTanMil {
+    }
+    boolean CivilEmeraldEdith {
+    }
+    string AverageYellowLotta {
+    }
+    dummy.DEFAULT YearlingFuchsiaSharla {
+    }
+    hidden_boolean ScatteredEmeraldBunni {
+    }
+  }
+  boolean IntelligentJadeJaclin {
+    _hidden_value = true
+  }
+  string DeafBlackMaggy {
+    _hidden_value = true
+  }
+  number ObjectiveJadeHeather {
+    _hidden_value = true
+  }
+  number WillowyPurpleBea {
+    _hidden_value = true
+  }
+  boolean LexicalApricotColetta {
+    _hidden_value = true
+  }
+  serviceid_number LivingLimeSasha {
+    _hidden_value = true
+  }
+  json RespectableCrimsonTomasina {
+    _hidden_value = true
+  }
+  number LimitedOliveReggi {
+    _hidden_value = true
+  }
+  serviceid ConstitutionalPinkKyla {
+    _hidden_value = true
+  }
+  number BlushingAquamarineCortney {
+    _hidden_value = true
+  }
+  string DivineGoldAnnamarie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ReligiousAmethystVevay {
+    _hidden_value = true
+  }
+  hidden_boolean SilkyVioletMelania {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid AgriculturalOliveMariel {
+    _hidden_value = true
+  }
+  number AggregateLavenderCornie {
+    _hidden_value = true
+  }
+  number AnonymousVioletDevonne {
+    _hidden_value = true
+  }
+  boolean BlankJadeChrissy {
+    _hidden_value = true
+  }
+  SupposedSalmonDorelia = false
+  MentalTanMil = 69
+  CivilEmeraldEdith = true
+  AverageYellowLotta = "Why didnt the skeleton cross the road? Because he had no guts."
+  YearlingFuchsiaSharla = {
+    legit = "What do you call two barracuda fish?  A Pairacuda!"
+  }
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "LimitedOliveReggi"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "SilkyVioletMelania"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "LexicalApricotColetta"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

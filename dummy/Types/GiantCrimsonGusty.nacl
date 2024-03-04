@@ -1,0 +1,184 @@
+type dummy.GiantCrimsonGusty {
+  annotations {
+    json YieldingGoldYnes {
+    }
+    hidden_boolean ProspectiveTanKassie {
+    }
+    dummy.DEFAULT BiologicalHarlequinLaure {
+    }
+    dummy.DEFAULT LiableAmberHedvig {
+    }
+  }
+  serviceid ContinuousEmeraldGarnet {
+    _hidden_value = true
+  }
+  json BurningAzureMisha {
+    _hidden_value = true
+  }
+  boolean SmoothCoffeeEmelina {
+    _hidden_value = true
+  }
+  string LegalEmeraldJolyn {
+    _hidden_value = true
+  }
+  boolean SpecifiedApricotNorean {
+    _hidden_value = true
+  }
+  hidden_boolean UndergroundAmaranthAnnalise {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string GrandGoldDonica {
+    _hidden_value = true
+  }
+  json BareCyanJoletta {
+    _hidden_value = true
+  }
+  number BroadHarlequinTwila {
+    _hidden_value = true
+  }
+  serviceid_number NobleJadeKlara {
+    _hidden_value = true
+  }
+  string FaithfulAquamarineAubrette {
+    _hidden_value = true
+  }
+  hidden_boolean PassingCoralNance {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json ComparableTanElianore {
+    _hidden_value = true
+  }
+  boolean GrievingIvoryKaycee {
+    _hidden_value = true
+  }
+  boolean FullTomatoThomasin {
+    _hidden_value = true
+  }
+  hidden_boolean WorthwhileYellowFlorette {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.NeighbouringGrayGusty GastricBlueSandra {
+    SportingTurquoiseFrancene = "Why did the tomato blush? Because it saw the salad dressing."
+    PlainGoldBirgitta = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    MeltedIvoryStephenie = "Whoever invented the knock-knock joke should get a no bell prize."
+    HurtMoccasinLudovika = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    FinalEmeraldShaylyn = 976
+    LinguisticBlushMerry = 350
+    ExcitedCyanLorrie = 973
+    ComplexTanGodiva = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    VariousOrangeMariele = 265
+    EvilJadeQueenie = 878
+    ProudOrangePenny = "What creature is smarter than a talking parrot? A spelling bee."
+    SouthernLimeCookie = 515
+    VictoriousEmeraldBerget = true
+    CorrespondingAquamarineSilvie = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    IntermediateBlushClaudina = "Dad Im hungry  Hi hungry Im dad"
+    HorizontalSapphireBernette = false
+    OverallScarletNicki = {
+      legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+    }
+    SpareLimeShelba = "Why didnt the skeleton cross the road? Because he had no guts."
+    RelevantRoseHannis = "What did one nut say as he chased another nut?  I'm a cashew!"
+    InterimMaroonRebe = 391
+    MechanicalAmberLib = false
+    CompactSapphireLetti = {
+      legit = "What creature is smarter than a talking parrot? A spelling bee."
+    }
+    WiseBlushIlysa = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    CalmGoldAnnmarie = false
+    TraditionalTealAddie = false
+    _hidden_value = true
+  }
+  serviceid_number MisleadingOrangeBelia {
+    _hidden_value = true
+  }
+  dummy.DEFAULT TechnicalAmberCalli {
+    _hidden_value = true
+  }
+  hidden_boolean OpenPinkTrix {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json TartEmeraldJeannine {
+    _hidden_value = true
+  }
+  serviceid_number ArrogantAquamarineKelci {
+    _hidden_value = true
+  }
+  hidden_boolean RubberFuchsiaCayla {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json TotalVioletAustin {
+    _hidden_value = true
+  }
+  dummy.UpperTanDebby BurningAquamarineCarolina {
+    SocialCyanBlondelle = "Slept like a log last night  woke up in the fireplace."
+    CompatibleLimeKarleen = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT HistoricalBlueFloria {
+    _hidden_value = true
+  }
+  serviceid PleasantGreenTarah {
+    _hidden_value = true
+  }
+  dummy.DEFAULT LoosePeachToma {
+    _hidden_value = true
+  }
+  YieldingGoldYnes = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  BiologicalHarlequinLaure = {
+    legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  }
+  LiableAmberHedvig = {
+    legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  }
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "BroadHarlequinTwila"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ArrogantAquamarineKelci"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "FullTomatoThomasin"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "BurningAquamarineCarolina"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "FaithfulAquamarineAubrette"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "MisleadingOrangeBelia"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "YieldingGoldYnes"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

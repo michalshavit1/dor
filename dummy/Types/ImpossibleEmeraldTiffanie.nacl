@@ -1,0 +1,114 @@
+type dummy.ImpossibleEmeraldTiffanie {
+  annotations {
+    serviceid_number RegularBrownAmeline {
+    }
+    hidden_boolean SuperiorYellowSibylle {
+    }
+    serviceid_number ResultingFuchsiaRamonda {
+    }
+    hidden_boolean ThoughtfulCopperJaine {
+    }
+    number RichAmberDeina {
+    }
+    hidden_boolean ChangingSilverBrandais {
+    }
+    hidden_boolean MinimalBrownColette {
+    }
+  }
+  dummy.DEFAULT DeepBrownEydie {
+    _hidden_value = true
+  }
+  boolean PsychiatricEmeraldJodie {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" FullPlumTamiko {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" ParentalFuchsiaDulcia {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number MiserableBlushKesley {
+    _hidden_value = true
+  }
+  serviceid RenewedIndigoMariel {
+    _hidden_value = true
+  }
+  hidden_boolean FitGreenPamella {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.FastVioletDaniela DeliberateOrangeRosabelle {
+    YieldingGreenRosamond = 861
+    CleverPeachEngracia = {
+      legit = "Why did the tomato blush? Because it saw the salad dressing."
+    }
+    YtterbicTealGaylene = 905
+    YammeringPinkMarcelline = 123
+    OverwhelmingYellowKariotta = "Why is Peter Pan always flying? Because he Neverlands."
+    JuicyApricotMercie = 415
+    IntimateIvoryAnnissa = "Dad Im hungry  Hi hungry Im dad"
+    SpectacularMagentaMellicent = "I'll tell you what often gets over looked... garden fences."
+    ShiveringScarletMilka = 670
+    FrontChocolateLucinda = true
+    SexualGoldAlicia = 335
+    MonetaryIvoryDawna = 815
+    PoisedLavenderAndeee = "A steak pun is a rare medium well done."
+    _hidden_value = true
+  }
+  number MinimumTealBilli {
+    _hidden_value = true
+  }
+  dummy.DEFAULT DailyPeachBeatrice {
+    _hidden_value = true
+  }
+  number ChronicRedCyndie {
+    _hidden_value = true
+  }
+  number SolidTealLeah {
+    _hidden_value = true
+  }
+  json LexicalTanMeggi {
+    _hidden_value = true
+  }
+  hidden_boolean BalancedTanAbby {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  RegularBrownAmeline = 300
+  ResultingFuchsiaRamonda = 101
+  RichAmberDeina = 798
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "DailyPeachBeatrice"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ChronicRedCyndie"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "PsychiatricEmeraldJodie"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ResultingFuchsiaRamonda"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "RichAmberDeina"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

@@ -1,0 +1,7 @@
+salesforce.SharingRules TestAddElementTopicsForObjects__c {
+  fullName = "TestAddElementTopicsForObjects__c"
+  _parent = [
+    salesforce.TestAddElementTopicsForObjects__c,
+  ]
+  _alias = "TestAddElementTopicsForObjects__c"
+}

@@ -1,0 +1,78 @@
+type dummy.FranticCoffeeGiustina {
+  annotations {
+    string ColossalPurpleOpal {
+    }
+    number ArmedBlushJeanna {
+    }
+    serviceid MusicalHarlequinNelia {
+    }
+    boolean LostCoralRegina {
+    }
+    serviceid RelevantPlumLeeanne {
+    }
+    hidden_boolean SystematicPurpleMarji {
+    }
+    number ImportantPeachLurlene {
+    }
+    serviceid BetterGoldAgata {
+    }
+    string SweetLavenderHollyanne {
+    }
+    dummy.ContentRedOriana BareGrayHinda {
+    }
+    dummy.RespectableSapphireSheri CarefulGreenDeanna {
+    }
+    serviceid SteadyPlumDell {
+    }
+    boolean EmptyWhiteMarji {
+    }
+    dummy.EconomicCoffeeBria LeadingRoseKaela {
+    }
+    dummy.SecondaryAquaRori HistoricBlushSherri {
+    }
+    json ThirstyGrayKarita {
+    }
+    number GentlePinkCorenda {
+    }
+  }
+  ColossalPurpleOpal = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ArmedBlushJeanna = 200
+  MusicalHarlequinNelia = "To be Frank, I'd have to change my name."
+  LostCoralRegina = true
+  RelevantPlumLeeanne = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ImportantPeachLurlene = 477
+  BetterGoldAgata = "Dad Im hungry  Hi hungry Im dad"
+  SweetLavenderHollyanne = "Why didnt the skeleton cross the road? Because he had no guts."
+  SteadyPlumDell = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  EmptyWhiteMarji = true
+  ThirstyGrayKarita = "Whoever invented the knock-knock joke should get a no bell prize."
+  GentlePinkCorenda = 276
+  _self_important_values = [
+    {
+      value = "SystematicPurpleMarji"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SweetLavenderHollyanne"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "GentlePinkCorenda"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ImportantPeachLurlene"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "EmptyWhiteMarji"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _alias = "FranticCoffeeGiustina_alias"
+}

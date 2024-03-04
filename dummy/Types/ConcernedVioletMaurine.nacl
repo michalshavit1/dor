@@ -1,0 +1,64 @@
+type dummy.ConcernedVioletMaurine {
+  annotations {
+    hidden_boolean PhysicalMoccasinElisha {
+    }
+    dummy.DEFAULT PersistentLavenderMelody {
+    }
+    boolean SpecificAmberTrista {
+    }
+    string BoilingPurpleTerza {
+    }
+    json ColossalGoldSindee {
+    }
+    serviceid DefeatedYellowSelina {
+    }
+    json MoaningBlackDyanne {
+    }
+  }
+  boolean EmbarrassingTealHildagard {
+    _hidden_value = true
+  }
+  serviceid MelodicTealMasha {
+    _hidden_value = true
+  }
+  boolean ProfoundAzureGwenette {
+    _hidden_value = true
+  }
+  boolean AttractiveIvoryFifi {
+    _hidden_value = true
+  }
+  string ShyGrayMadelina {
+    _hidden_value = true
+  }
+  serviceid BottomMoccasinEsma {
+    _hidden_value = true
+  }
+  dummy.DEFAULT MuddyMagentaLulu {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ExcessGreenJaimie {
+    _hidden_value = true
+  }
+  string NoblePinkTrix {
+    _hidden_value = true
+  }
+  serviceid InjuredRedAngelita {
+    _hidden_value = true
+  }
+  PersistentLavenderMelody = {
+    legit = "Why is Peter Pan always flying? Because he Neverlands."
+  }
+  SpecificAmberTrista = false
+  BoilingPurpleTerza = "A steak pun is a rare medium well done."
+  ColossalGoldSindee = "Why was it called the dark ages? Because of all the knights. "
+  DefeatedYellowSelina = "What did one nut say as he chased another nut?  I'm a cashew!"
+  MoaningBlackDyanne = "Why didnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "AttractiveIvoryFifi"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

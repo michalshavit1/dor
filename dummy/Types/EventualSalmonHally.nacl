@@ -1,0 +1,120 @@
+type dummy.EventualSalmonHally {
+  annotations {
+    serviceid RegionalMoccasinPhyllis {
+    }
+    hidden_boolean MutualMoccasinEvania {
+    }
+    boolean WanderingFuchsiaFilippa {
+    }
+    dummy.WitteringTomatoMufinella ColouredCyanJinny {
+    }
+    boolean ManualEmeraldDevi {
+    }
+  }
+  serviceid_number OkAmaranthDoretta {
+    _hidden_value = true
+  }
+  hidden_boolean GrotesqueSapphireBinnie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean CombinedOrangeEleanor {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string AwkwardOrangeSydney {
+    _hidden_value = true
+  }
+  json CorporateTomatoRina {
+    _hidden_value = true
+  }
+  hidden_boolean SpecifiedRoseMariana {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number CuddlyJadeThomasine {
+    _hidden_value = true
+  }
+  serviceid_number DisciplinaryBronzeToma {
+    _hidden_value = true
+  }
+  serviceid_number IntermediatePinkGerrilee {
+    _hidden_value = true
+  }
+  number FunnyAquaAntonina {
+    _hidden_value = true
+  }
+  string OldBlueShannon {
+    _hidden_value = true
+  }
+  serviceid_number AbundantBlackNelli {
+    _hidden_value = true
+  }
+  "Map<dummy.DEFAULT>" UnhappyRoseGayla {
+    _hidden_value = true
+  }
+  number ProtectiveBronzeStace {
+    _hidden_value = true
+  }
+  json FairLimeDonia {
+    _hidden_value = true
+  }
+  dummy.QualifiedHarlequinJolee RobustTomatoLanna {
+    ConvenientSalmonKristin = {
+      legit = "Why was it called the dark ages? Because of all the knights. "
+    }
+    ArmedYellowAmeline = {
+      legit = "What creature is smarter than a talking parrot? A spelling bee."
+    }
+    ShiveringCoffeePammy = false
+    CasualEmeraldEmilee = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    _hidden_value = true
+  }
+  boolean PainfulMoccasinAgatha {
+    _hidden_value = true
+  }
+  serviceid_number YtterbicOliveMerline {
+    _hidden_value = true
+  }
+  json ShallowPurpleLeontine {
+    _hidden_value = true
+  }
+  boolean InternalIndigoMargie {
+    _hidden_value = true
+  }
+  RegionalMoccasinPhyllis = "Why do birds fly south for the winter? Because it's too far to walk."
+  WanderingFuchsiaFilippa = false
+  ColouredCyanJinny = true
+  ManualEmeraldDevi = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "PainfulMoccasinAgatha"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "CombinedOrangeEleanor"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ProtectiveBronzeStace"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "FunnyAquaAntonina"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "OldBlueShannon"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

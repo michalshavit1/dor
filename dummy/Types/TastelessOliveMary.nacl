@@ -1,0 +1,32 @@
+type dummy.TastelessOliveMary {
+  annotations {
+    dummy.DEFAULT RemainingGreenCharmine {
+    }
+    hidden_boolean OrganisationalBronzeAshlan {
+    }
+    number SmoggyRedFarra {
+    }
+    hidden_boolean AdorableLavenderAmelina {
+    }
+    json TechnicalTomatoAlikee {
+    }
+  }
+  string StormyRedWendie {
+    _hidden_value = true
+  }
+  boolean IncreasingFuchsiaBellina {
+    _hidden_value = true
+  }
+  serviceid BareWhiteZenia {
+    _hidden_value = true
+  }
+  "List<number>" DutchCrimsonMillie {
+    _hidden_value = true
+  }
+  RemainingGreenCharmine = {
+    legit = "I'll tell you what often gets over looked... garden fences."
+  }
+  SmoggyRedFarra = 128
+  TechnicalTomatoAlikee = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+}

@@ -1,0 +1,85 @@
+type dummy.FormidableTealBelinda {
+  annotations {
+    dummy.PlasticIvoryDodi BlankHarlequinMelva {
+    }
+    serviceid_number WorkingPurpleGui {
+    }
+    json UsefulMagentaJordana {
+    }
+    serviceid ModerateTomatoChiarra {
+    }
+    hidden_boolean SteadyPurpleDian {
+    }
+    dummy.StatisticalRedDevora AcceptedCoralKathy {
+    }
+    json RadicalBeigeOdetta {
+    }
+    serviceid WanderingPinkFanny {
+    }
+    serviceid_number CrazyRoseVikki {
+    }
+    serviceid ConcernedCoffeeMinette {
+    }
+    hidden_boolean AcuteRoseBlinny {
+    }
+    serviceid BlushingTanDulci {
+    }
+    boolean YawningMoccasinOlive {
+    }
+    hidden_boolean RightApricotJosy {
+    }
+    boolean GleamingCrimsonFrank {
+    }
+    serviceid_number FilthyBronzeTania {
+    }
+    hidden_boolean VerbalBluePenni {
+    }
+    json ChristianTealAlameda {
+    }
+    dummy.EqualVioletBert SurvivingCoffeeModestine {
+    }
+    hidden_boolean CompulsorySilverLisha {
+    }
+    string CommunistFuchsiaJaquenetta {
+    }
+    serviceid_number YuckyBeigeFeliza {
+    }
+    json SelectAzureLiva {
+    }
+    dummy.AppallingOliveFreddy DisappointedAquamarineMalia {
+    }
+  }
+  WorkingPurpleGui = 140
+  UsefulMagentaJordana = "My first time using an elevator was an uplifting experience. The second time let me down."
+  ModerateTomatoChiarra = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  RadicalBeigeOdetta = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  WanderingPinkFanny = "What creature is smarter than a talking parrot? A spelling bee."
+  CrazyRoseVikki = 628
+  ConcernedCoffeeMinette = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  BlushingTanDulci = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  YawningMoccasinOlive = true
+  GleamingCrimsonFrank = true
+  FilthyBronzeTania = 249
+  ChristianTealAlameda = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  CommunistFuchsiaJaquenetta = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  YuckyBeigeFeliza = 842
+  SelectAzureLiva = "Why was it called the dark ages? Because of all the knights. "
+  _self_important_values = [
+    {
+      value = "BlankHarlequinMelva"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "SelectAzureLiva"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ChristianTealAlameda"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _alias = "FormidableTealBelinda_alias"
+}

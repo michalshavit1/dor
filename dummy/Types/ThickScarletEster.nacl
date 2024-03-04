@@ -1,0 +1,77 @@
+type dummy.ThickScarletEster {
+  annotations {
+    boolean ResidentMagentaWendie {
+    }
+    json VividBeigeMichaelina {
+    }
+    number BewilderedPurpleMireille {
+    }
+    json CheerfulWhiteLaverna {
+    }
+    serviceid_number EvilAquamarineWillow {
+    }
+    dummy.DEFAULT SoleEmeraldTallia {
+    }
+    dummy.GeographicalOrangeShaina AccusedOrangeTasha {
+    }
+  }
+  number AdvancedWhiteNari {
+    _hidden_value = true
+  }
+  boolean AccessibleJadeRorie {
+    _hidden_value = true
+  }
+  hidden_boolean DelightfulCrimsonOneida {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid ModestAquamarineCatarina {
+    _hidden_value = true
+  }
+  boolean RelatedAquaMariette {
+    _hidden_value = true
+  }
+  number SoundGrayRegan {
+    _hidden_value = true
+  }
+  number PrincipalCoralLacie {
+    _hidden_value = true
+  }
+  number TechnicalApricotJessa {
+    _hidden_value = true
+  }
+  boolean CrowdedRedJessa {
+    _hidden_value = true
+  }
+  json BadSalmonRomola {
+    _hidden_value = true
+  }
+  json GayBlackMaude {
+    _hidden_value = true
+  }
+  ResidentMagentaWendie = true
+  VividBeigeMichaelina = "My first time using an elevator was an uplifting experience. The second time let me down."
+  BewilderedPurpleMireille = 461
+  CheerfulWhiteLaverna = "Why was it called the dark ages? Because of all the knights. "
+  EvilAquamarineWillow = 392
+  SoleEmeraldTallia = {
+    legit = "Whoever invented the knock-knock joke should get a no bell prize."
+  }
+  AccusedOrangeTasha = "How come the stadium got hot after the game? Because all of the fans left."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "AdvancedWhiteNari"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "SoleEmeraldTallia"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

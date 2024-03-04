@@ -1,0 +1,86 @@
+type dummy.ContemporaryLimeHedda {
+  annotations {
+    dummy.DEFAULT RevolutionaryTomatoLeilah {
+    }
+    serviceid ConsistentChocolateTanhya {
+    }
+    serviceid_number StaleOliveDelores {
+    }
+    string BurningRoseColette {
+    }
+    boolean AdjacentRedChristean {
+    }
+  }
+  dummy.DEFAULT VariableGreenRobyn {
+    _hidden_value = true
+  }
+  string CulturalGoldVenus {
+    _hidden_value = true
+  }
+  hidden_boolean AggregateIvoryDanice {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean CheapMaroonVevay {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json DeliberateYellowAdora {
+    _hidden_value = true
+  }
+  serviceid_number DemocraticBeigeChristel {
+    _hidden_value = true
+  }
+  string DetailedSapphireClarie {
+    _hidden_value = true
+  }
+  number SuccessiveRoseAlisha {
+    _hidden_value = true
+  }
+  json ReasonableAzureLetty {
+    _hidden_value = true
+  }
+  json BreakableVioletDeonne {
+    _hidden_value = true
+  }
+  json RandomApricotBobette {
+    _hidden_value = true
+  }
+  serviceid MinimalGrayLibbie {
+    _hidden_value = true
+  }
+  dummy.LegitimateBlushGoldie GivenPurpleHarriet {
+    RealisticCoffeeRoberta = "Whoever invented the knock-knock joke should get a no bell prize."
+    ConvincingJadeNorma = "Why didnt the skeleton cross the road? Because he had no guts."
+    _hidden_value = true
+  }
+  RevolutionaryTomatoLeilah = {
+    legit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  }
+  ConsistentChocolateTanhya = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  StaleOliveDelores = 252
+  BurningRoseColette = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  AdjacentRedChristean = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "RandomApricotBobette"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "GivenPurpleHarriet"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "StaleOliveDelores"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

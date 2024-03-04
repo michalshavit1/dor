@@ -1,0 +1,169 @@
+type dummy.FemaleTanCele {
+  annotations {
+    json PriorTanGarland {
+    }
+    json FiscalApricotOliy {
+    }
+    boolean AppropriateSapphireHildagard {
+    }
+    hidden_boolean NavalRedDarelle {
+    }
+    number TenseCopperCherida {
+    }
+    boolean MinorAquaBritte {
+    }
+    serviceid_number CorrectGrayGilli {
+    }
+  }
+  boolean HissingMoccasinJoyce {
+    _hidden_value = true
+  }
+  serviceid UnexpectedApricotTiffie {
+    _hidden_value = true
+  }
+  number ParallelPurpleCorliss {
+    _hidden_value = true
+  }
+  "Map<json>" LostIvoryCordelia {
+    _hidden_value = true
+  }
+  dummy.LatinHarlequinDarbie LabourCopperBevvy {
+    UnnecessarySalmonScarlett = false
+    ElatedBlackVeronike = 197
+    SlipperySalmonDaisy = 732
+    SwiftBlushMeryl = "Why is Peter Pan always flying? Because he Neverlands."
+    WholeSapphireShirlee = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    AdditionalCrimsonPaulita = false
+    CrucialHarlequinDorri = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    UnevenTurquoiseJodie = {
+      legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    }
+    PsychologicalMaroonLetisha = "Whoever invented the knock-knock joke should get a no bell prize."
+    FrozenPurpleTrula = "Why do birds fly south for the winter? Because it's too far to walk."
+    CourageousPlumJane = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    HiddenMagentaRonica = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    WorthyAmethystGiorgia = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    RichApricotEvita = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    NervousSalmonSashenka = "Why did the kid cross the playground? To get to the other slide."
+    TenderFuchsiaElly = {
+      legit = "Why did the kid cross the playground? To get to the other slide."
+    }
+    RespectableYellowJanet = "What do you call two barracuda fish?  A Pairacuda!"
+    ChangingCoralVanni = false
+    AmusedLavenderJenine = 956
+    ExcessiveTurquoiseDorothee = 740
+    PrimitiveApricotVilma = true
+    WorthwhileIvoryShanda = 963
+    ComprehensivePurpleKerstin = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    CorrespondingTurquoiseAdi = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    _hidden_value = true
+  }
+  serviceid_number AmbitiousMaroonDrusi {
+    _hidden_value = true
+  }
+  hidden_boolean RacialPeachJorry {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" ExcitingBlueKizzie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json CrookedPinkOtha {
+    _hidden_value = true
+  }
+  dummy.QualifiedHarlequinJolee AbsoluteMaroonTomasine {
+    ConvenientSalmonKristin = {
+      legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+    }
+    ArmedYellowAmeline = {
+      legit = "A steak pun is a rare medium well done."
+    }
+    ShiveringCoffeePammy = false
+    CasualEmeraldEmilee = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    _hidden_value = true
+  }
+  number ElegantAquaCelie {
+    _hidden_value = true
+  }
+  "Map<boolean>" ComplexGreenPhilly {
+    _hidden_value = true
+  }
+  json ElectricCoffeeJayme {
+    _hidden_value = true
+  }
+  number SatisfactoryJadeMinerva {
+    _hidden_value = true
+  }
+  json OtherOrangeLisabeth {
+    _hidden_value = true
+  }
+  serviceid_number IndividualPurpleKira {
+    _hidden_value = true
+  }
+  hidden_boolean FirmBronzeHenrietta {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number MechanicalSilverKiersten {
+    _hidden_value = true
+  }
+  serviceid_number DetailedAmethystValene {
+    _hidden_value = true
+  }
+  number AmbitiousIvoryGenevra {
+    _hidden_value = true
+  }
+  hidden_boolean LargeMoccasinRois {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number NecessarySapphireJaynell {
+    _hidden_value = true
+  }
+  PriorTanGarland = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  FiscalApricotOliy = "How come the stadium got hot after the game? Because all of the fans left."
+  AppropriateSapphireHildagard = false
+  TenseCopperCherida = 959
+  MinorAquaBritte = true
+  CorrectGrayGilli = 221
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "NecessarySapphireJaynell"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "DetailedAmethystValene"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "HissingMoccasinJoyce"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "LostIvoryCordelia"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "MinorAquaBritte"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "CorrectGrayGilli"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,114 @@
+type dummy.StrategicCoffeeKailey {
+  annotations {
+    serviceid AgriculturalAquaIssy {
+    }
+    serviceid UnawarePlumJolee {
+    }
+    serviceid SingleBlueFelita {
+    }
+    json SevereJadeMyrilla {
+    }
+    serviceid DullBeigeNalani {
+    }
+  }
+  hidden_boolean RearRoseMaribelle {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string FreshOliveJanina {
+    _hidden_value = true
+  }
+  string MentalYellowLorita {
+    _hidden_value = true
+  }
+  number ElderlyPeachCarlee {
+    _hidden_value = true
+  }
+  json JointTomatoWendy {
+    _hidden_value = true
+  }
+  string BumpyTomatoCharmian {
+    _hidden_value = true
+  }
+  serviceid_number ExplicitIndigoPierette {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" ImpressedChocolateCody {
+    _hidden_value = true
+  }
+  hidden_boolean ContinuedAquamarineJosefa {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json ThinRedMaurise {
+    _hidden_value = true
+  }
+  hidden_boolean JollyBlackCatherina {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean StormyLimeGiovanna {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json SpectacularAquaJinny {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RealisticBlueSharity {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" ConcernedWhiteAlana {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number ExtraordinaryRedRafaelia {
+    _hidden_value = true
+  }
+  json CalmAquaFlossie {
+    _hidden_value = true
+  }
+  hidden_boolean SweetAquamarineManon {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number MassLimeCaresa {
+    _hidden_value = true
+  }
+  number ConcernedAquamarineDamaris {
+    _hidden_value = true
+  }
+  json SatisfactoryBrownTim {
+    _hidden_value = true
+  }
+  AgriculturalAquaIssy = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  UnawarePlumJolee = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  SingleBlueFelita = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  SevereJadeMyrilla = "Why did the tomato blush? Because it saw the salad dressing."
+  DullBeigeNalani = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "BumpyTomatoCharmian"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "SingleBlueFelita"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "AgriculturalAquaIssy"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

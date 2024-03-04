@@ -1,0 +1,108 @@
+type dummy.ScreechingMaroonKrystal {
+  annotations {
+    boolean InclinedPlumDevonne {
+    }
+    serviceid_number DecentLimeNatalina {
+    }
+    boolean GenuineRedViv {
+    }
+    json VerbalJadeMiquela {
+    }
+    boolean MonthlyWhitePhaidra {
+    }
+  }
+  serviceid_number LikelyAmberMoyna {
+    _hidden_value = true
+  }
+  hidden_boolean SatisfactorySalmonArdra {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid RobustRedRonni {
+    _hidden_value = true
+  }
+  dummy.DelightedVioletLiv GrievingBeigeRiki {
+    PartialApricotRodie = "What do you do on a remote island? Try and find the TV island it belongs to."
+    ChiefRoseSadie = "A steak pun is a rare medium well done."
+    UpsetAquaLyndsay = "Why did the kid cross the playground? To get to the other slide."
+    PsychologicalMagentaFidelity = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    AdministrativeAmaranthMaighdiln = 432
+    SoundJadeUlrica = true
+    ExuberantOliveCleopatra = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    DemocraticAmaranthJanaya = true
+    FlyingAquamarineCristionna = "Did you know that protons have mass? I didn't even know they were catholic."
+    GrotesqueTanRonni = 624
+    DutchPinkAnnice = "What do you do on a remote island? Try and find the TV island it belongs to."
+    _hidden_value = true
+  }
+  number ExtensiveAzureLaurianne {
+    _hidden_value = true
+  }
+  hidden_boolean RichBlueSileas {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean RegionalGoldCharla {
+    _hidden_value = true
+  }
+  serviceid_number ConservativeRedClo {
+    _hidden_value = true
+  }
+  boolean FlyingCoffeeCelle {
+    _hidden_value = true
+  }
+  hidden_boolean WoodenHarlequinEnriqueta {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean CreativePeachJoelynn {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json OralGrayDorise {
+    _hidden_value = true
+  }
+  serviceid_number EqualHarlequinNanon {
+    _hidden_value = true
+  }
+  json DueLavenderKrystalle {
+    _hidden_value = true
+  }
+  InclinedPlumDevonne = true
+  DecentLimeNatalina = 686
+  GenuineRedViv = true
+  VerbalJadeMiquela = "What do you do on a remote island? Try and find the TV island it belongs to."
+  MonthlyWhitePhaidra = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ConservativeRedClo"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "OralGrayDorise"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "RichBlueSileas"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "GrievingBeigeRiki"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "EqualHarlequinNanon"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

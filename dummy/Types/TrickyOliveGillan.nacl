@@ -1,0 +1,62 @@
+type dummy.TrickyOliveGillan {
+  annotations {
+    serviceid GrossIvoryDavine {
+    }
+    json ExoticGrayNaoma {
+    }
+    number MarriedTomatoAmandi {
+    }
+    hidden_boolean BraveJadeLiane {
+    }
+    dummy.DEFAULT SorryCoralNicki {
+    }
+    hidden_boolean SwiftJadeElyse {
+    }
+  }
+  number DeliberateChocolateCorilla {
+    _hidden_value = true
+  }
+  hidden_boolean ElectricalBlushTilly {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid GleamingCopperGabriella {
+    _hidden_value = true
+  }
+  serviceid_number ElectricAmaranthKathi {
+    _hidden_value = true
+  }
+  serviceid_number ConfidentCrimsonOrel {
+    _hidden_value = true
+  }
+  number ChosenPlumMarigold {
+    _hidden_value = true
+  }
+  GrossIvoryDavine = "Dad Im hungry  Hi hungry Im dad"
+  ExoticGrayNaoma = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  MarriedTomatoAmandi = 969
+  SorryCoralNicki = {
+    legit = "To be Frank, I'd have to change my name."
+  }
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ElectricalBlushTilly"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "GrossIvoryDavine"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ExoticGrayNaoma"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

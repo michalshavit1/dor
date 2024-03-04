@@ -1,0 +1,74 @@
+type dummy.FluffyTurquoiseLinnell {
+  annotations {
+    number UsefulBlackJewel {
+    }
+    serviceid_number BrilliantSalmonMariejeanne {
+    }
+    serviceid_number ProgressiveRedPaolina {
+    }
+    dummy.AvailableVioletOlly LesserFuchsiaAudre {
+    }
+    serviceid_number HolyBrownJennilee {
+    }
+    string ComfortableTealJerrylee {
+    }
+    serviceid_number LegislativeApricotCinda {
+    }
+    json SmartMagentaDarya {
+    }
+    dummy.MathematicalOliveTiena InteriorOrangeSalomi {
+    }
+    hidden_boolean CloudyAmberMichelle {
+    }
+    serviceid EvolutionaryWhiteCorri {
+    }
+    hidden_boolean ReligiousLavenderEartha {
+    }
+    hidden_boolean UnfortunateIndigoDorothee {
+    }
+    serviceid_number FascinatingEmeraldDarcie {
+    }
+    hidden_boolean FitBlueShandeigh {
+    }
+    serviceid_number SurvivingScarletDulcea {
+    }
+    serviceid AdjacentBronzeTerrye {
+    }
+    number AmbitiousCyanKarole {
+    }
+    serviceid_number AbsentPlumSadella {
+    }
+    boolean PureScarletGermaine {
+    }
+    hidden_boolean SelectiveIvoryJoycelin {
+    }
+    number NearChocolateEmili {
+    }
+    serviceid EverydayLavenderMeridel {
+    }
+  }
+  UsefulBlackJewel = 374
+  BrilliantSalmonMariejeanne = 655
+  ProgressiveRedPaolina = 940
+  HolyBrownJennilee = 166
+  ComfortableTealJerrylee = "Slept like a log last night  woke up in the fireplace."
+  LegislativeApricotCinda = 116
+  SmartMagentaDarya = "Why did the kid cross the playground? To get to the other slide."
+  EvolutionaryWhiteCorri = "Why do birds fly south for the winter? Because it's too far to walk."
+  FascinatingEmeraldDarcie = 424
+  SurvivingScarletDulcea = 501
+  AdjacentBronzeTerrye = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  AmbitiousCyanKarole = 754
+  AbsentPlumSadella = 481
+  PureScarletGermaine = false
+  NearChocolateEmili = 305
+  EverydayLavenderMeridel = "What do you call two barracuda fish?  A Pairacuda!"
+  _self_important_values = [
+    {
+      value = "AdjacentBronzeTerrye"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "FluffyTurquoiseLinnell_alias"
+}

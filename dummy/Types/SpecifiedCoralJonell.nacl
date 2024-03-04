@@ -1,0 +1,32 @@
+type dummy.SpecifiedCoralJonell {
+  annotations {
+    boolean HardLavenderHarriott {
+    }
+    json AshamedRedJonie {
+    }
+    dummy.GlobalLimeMatti ReasonableRedFayina {
+    }
+    hidden_boolean OutrageousApricotPam {
+    }
+    serviceid StandardAquamarineMicaela {
+    }
+    json DullGrayKassia {
+    }
+  }
+  serviceid EagerTurquoiseJamie {
+    _hidden_value = true
+  }
+  HardLavenderHarriott = false
+  AshamedRedJonie = "What did one nut say as he chased another nut?  I'm a cashew!"
+  ReasonableRedFayina = "Why is Peter Pan always flying? Because he Neverlands."
+  StandardAquamarineMicaela = "Why do birds fly south for the winter? Because it's too far to walk."
+  DullGrayKassia = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "DullGrayKassia"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

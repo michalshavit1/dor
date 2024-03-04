@@ -1,0 +1,17 @@
+salesforce.WorkflowAlert Opportunity_ActionEmail@v {
+  fullName = "Opportunity.ActionEmail"
+  description = "email alert"
+  protected = false
+  recipients = [
+    {
+      recipient = "michal.shavit@salto.io"
+      type = "user"
+    },
+  ]
+  senderType = "CurrentUser"
+  template = salesforce.EmailTemplate.instance.unfiled_public_SalesNewCustomerEmail@zcd
+  _parent = [
+    salesforce.Opportunity,
+  ]
+  _alias = "Opportunity.ActionEmail"
+}

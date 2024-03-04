@@ -1,0 +1,40 @@
+type dummy.MolecularCopperGwyneth {
+  annotations {
+    json AutonomousSilverFrances {
+    }
+    serviceid HomelessBlueTiff {
+    }
+    json RearRoseLianne {
+    }
+    json TrickyTurquoiseVivyanne {
+    }
+    boolean StripedFuchsiaNeysa {
+    }
+  }
+  string ChiefSalmonBrynne {
+    _hidden_value = true
+  }
+  hidden_boolean QuaintAmberBillye {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  AutonomousSilverFrances = "I'll tell you what often gets over looked... garden fences."
+  HomelessBlueTiff = "My first time using an elevator was an uplifting experience. The second time let me down."
+  RearRoseLianne = "Did you know that protons have mass? I didn't even know they were catholic."
+  TrickyTurquoiseVivyanne = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  StripedFuchsiaNeysa = false
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "HomelessBlueTiff"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "TrickyTurquoiseVivyanne"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

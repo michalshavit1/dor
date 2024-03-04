@@ -1,0 +1,106 @@
+type dummy.StormyGoldGussy {
+  annotations {
+    dummy.FormalBlushHenka SlimyMoccasinDeloris {
+    }
+    number SympatheticBeigeKassie {
+    }
+    boolean ComprehensiveMagentaKetty {
+    }
+    serviceid_number DamagedGrayLeshia {
+    }
+    boolean EnormousAmberAlexa {
+    }
+    boolean MixedOrangeElenore {
+    }
+    json GiantWhiteSibylla {
+    }
+    hidden_boolean PureMaroonPatrica {
+    }
+    boolean JustSilverShalna {
+    }
+    serviceid SolarAzureBunnie {
+    }
+    serviceid HeadPlumRanice {
+    }
+    serviceid_number GrandAquaEleanora {
+    }
+    string WoodenBlueAubrette {
+    }
+    serviceid DearSalmonTedi {
+    }
+    hidden_boolean HomelessJadeAdey {
+    }
+    number SquareYellowNoemi {
+    }
+    serviceid_number WhisperingOliveEmelyne {
+    }
+    boolean EvidentAzureOphelie {
+    }
+    serviceid_number PartialCrimsonArlette {
+    }
+    serviceid_number YawningScarletCarolin {
+    }
+  }
+  SympatheticBeigeKassie = 81
+  ComprehensiveMagentaKetty = true
+  DamagedGrayLeshia = 928
+  EnormousAmberAlexa = false
+  MixedOrangeElenore = true
+  GiantWhiteSibylla = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  JustSilverShalna = true
+  SolarAzureBunnie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  HeadPlumRanice = "To be Frank, I'd have to change my name."
+  GrandAquaEleanora = 608
+  WoodenBlueAubrette = "To be Frank, I'd have to change my name."
+  DearSalmonTedi = "Why was it called the dark ages? Because of all the knights. "
+  SquareYellowNoemi = 819
+  WhisperingOliveEmelyne = 5
+  EvidentAzureOphelie = true
+  PartialCrimsonArlette = 201
+  YawningScarletCarolin = 519
+  _important_values = [
+    {
+      value = "CharmingRoseShelly"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "InjuredBeigeDiena"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "DamagedGrayLeshia"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "EvidentAzureOphelie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "HeadPlumRanice"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "EnormousAmberAlexa"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "GrandAquaEleanora"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "SlimyMoccasinDeloris"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _alias = "StormyGoldGussy_alias"
+}

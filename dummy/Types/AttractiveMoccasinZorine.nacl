@@ -1,0 +1,51 @@
+type dummy.AttractiveMoccasinZorine {
+  annotations {
+    number MisleadingEmeraldSusann {
+    }
+    serviceid_number WarmIvoryDaniella {
+    }
+    boolean AestheticIvoryNichole {
+    }
+    hidden_boolean MistyIvoryHestia {
+    }
+    hidden_boolean DizzyGraySophia {
+    }
+    dummy.NeighbouringGrayGusty UnawareLavenderBibi {
+    }
+    json MagicScarletBev {
+    }
+  }
+  hidden_boolean VisualSilverJemimah {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid QuixoticTealCollen {
+    _hidden_value = true
+  }
+  string InitialIvoryLita {
+    _hidden_value = true
+  }
+  string WrittenBlushBianka {
+    _hidden_value = true
+  }
+  number SilkyTealMureil {
+    _hidden_value = true
+  }
+  serviceid_number DreadfulAmethystDorthy {
+    _hidden_value = true
+  }
+  MisleadingEmeraldSusann = 717
+  WarmIvoryDaniella = 4
+  AestheticIvoryNichole = true
+  UnawareLavenderBibi = 640
+  MagicScarletBev = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "InitialIvoryLita"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

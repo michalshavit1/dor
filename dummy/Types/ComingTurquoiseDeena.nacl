@@ -1,0 +1,82 @@
+type dummy.ComingTurquoiseDeena {
+  annotations {
+    serviceid SoftGoldMeghan {
+    }
+    dummy.DiverseTurquoiseMariya HelpfulMoccasinBibby {
+    }
+    hidden_boolean ThoughtlessOliveHannah {
+    }
+    json MutualMagentaAlexandrina {
+    }
+    string JudicialGreenAngie {
+    }
+  }
+  serviceid SickMaroonMeris {
+    _hidden_value = true
+  }
+  boolean BadCopperFranky {
+    _hidden_value = true
+  }
+  dummy.DEFAULT PunyHarlequinFulvia {
+    _hidden_value = true
+  }
+  string SportingPinkCamille {
+    _hidden_value = true
+  }
+  number ContinuingBrownDawn {
+    _hidden_value = true
+  }
+  json NewMagentaLoralee {
+    _hidden_value = true
+  }
+  hidden_boolean HurtCyanOdelle {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string YabberingCoralHillary {
+    _hidden_value = true
+  }
+  dummy.DEFAULT IntellectualGoldErmentrude {
+    _hidden_value = true
+  }
+  number CapitalistBlushJanaya {
+    _hidden_value = true
+  }
+  "List<serviceid>" BrilliantTanDyanne {
+    _hidden_value = true
+  }
+  string PresidentialAmethystDagmar {
+    _hidden_value = true
+  }
+  string NakedPeachNada {
+    _hidden_value = true
+  }
+  number HistoricGoldBlythe {
+    _hidden_value = true
+  }
+  SoftGoldMeghan = "Why was it called the dark ages? Because of all the knights. "
+  HelpfulMoccasinBibby = true
+  MutualMagentaAlexandrina = "Why did the tomato blush? Because it saw the salad dressing."
+  JudicialGreenAngie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "YabberingCoralHillary"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "IntellectualGoldErmentrude"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ThoughtlessOliveHannah"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

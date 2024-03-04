@@ -1,0 +1,58 @@
+type dummy.DoubtfulOrangeRani {
+  annotations {
+    json SecureMagentaSybyl {
+    }
+    serviceid_number LongSapphireAngelina {
+    }
+    json ModernEmeraldKatrine {
+    }
+    serviceid RedundantBrownZara {
+    }
+  }
+  number ManagerialBlushStephine {
+    _hidden_value = true
+  }
+  boolean OfficialMaroonAuguste {
+    _hidden_value = true
+  }
+  boolean RubberOrangeQueenie {
+    _hidden_value = true
+  }
+  serviceid ValuableCoffeeSydel {
+    _hidden_value = true
+  }
+  serviceid HonestCopperMarcelle {
+    _hidden_value = true
+  }
+  number ArtificialBlueMinnaminnie {
+    _hidden_value = true
+  }
+  hidden_boolean BloodyHarlequinNikaniki {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string ImaginativeIvoryWynn {
+    _hidden_value = true
+  }
+  "List<number>" LinguisticJadeJosee {
+    _hidden_value = true
+  }
+  SecureMagentaSybyl = "My first time using an elevator was an uplifting experience. The second time let me down."
+  LongSapphireAngelina = 588
+  ModernEmeraldKatrine = "Slept like a log last night  woke up in the fireplace."
+  RedundantBrownZara = "Why didnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "RedundantBrownZara"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ModernEmeraldKatrine"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

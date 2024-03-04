@@ -1,0 +1,35 @@
+type dummy.GeographicalCrimsonJaquith {
+  annotations {
+    number ScrawnyMagentaDelly {
+    }
+    serviceid InsufficientCrimsonSalome {
+    }
+    dummy.AcceptableAmaranthGertrudis GeneralPurpleFrancyne {
+    }
+    serviceid_number PremierTanGlory {
+    }
+  }
+  hidden_boolean ComparativeCyanAlexine {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid DramaticSilverArdelle {
+    _hidden_value = true
+  }
+  boolean HardVioletNell {
+    _hidden_value = true
+  }
+  ScrawnyMagentaDelly = 183
+  InsufficientCrimsonSalome = "Did you know that protons have mass? I didn't even know they were catholic."
+  GeneralPurpleFrancyne = 479
+  PremierTanGlory = 301
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "GeneralPurpleFrancyne"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

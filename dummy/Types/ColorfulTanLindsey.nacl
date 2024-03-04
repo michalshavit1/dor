@@ -1,0 +1,88 @@
+type dummy.ColorfulTanLindsey {
+  annotations {
+    hidden_boolean HighCrimsonCherilyn {
+    }
+    number UrbanYellowSherline {
+    }
+    dummy.ResultingCrimsonArdath ComfortableYellowMarti {
+    }
+    number XerothermicBlackKaia {
+    }
+    hidden_boolean LateCoffeeMyrilla {
+    }
+    string OnlyCoralDaisey {
+    }
+  }
+  boolean MeanBeigeJosselyn {
+    _hidden_value = true
+  }
+  boolean CertainYellowBilly {
+    _hidden_value = true
+  }
+  serviceid BrilliantAmethystMeaghan {
+    _hidden_value = true
+  }
+  dummy.DEFAULT TraditionalLimeFleur {
+    _hidden_value = true
+  }
+  serviceid MotionlessPeachRikki {
+    _hidden_value = true
+  }
+  json SmartBeigeTildi {
+    _hidden_value = true
+  }
+  hidden_boolean SpicyFuchsiaCherry {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean CoherentBlackKristel {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string ExtraordinaryGrayDarci {
+    _hidden_value = true
+  }
+  number ExcessAmaranthMiguelita {
+    _hidden_value = true
+  }
+  string SlowPurpleHonoria {
+    _hidden_value = true
+  }
+  serviceid ReluctantAquamarineAudry {
+    _hidden_value = true
+  }
+  serviceid LivelyRoseEddie {
+    _hidden_value = true
+  }
+  UrbanYellowSherline = 597
+  ComfortableYellowMarti = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  XerothermicBlackKaia = 903
+  OnlyCoralDaisey = "How come the stadium got hot after the game? Because all of the fans left."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ExcessAmaranthMiguelita"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SpicyFuchsiaCherry"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "MotionlessPeachRikki"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ComfortableYellowMarti"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

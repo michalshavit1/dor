@@ -1,0 +1,40 @@
+type dummy.ImpressedAzureAlyssa {
+  annotations {
+    serviceid_number YawningPlumJosephine {
+    }
+    serviceid AdministrativeRoseRosabella {
+    }
+    boolean SmoothAquamarineWilly {
+    }
+    serviceid_number MildMaroonNorina {
+    }
+    number AbsentMagentaKatuscha {
+    }
+    dummy.DEFAULT ParliamentaryTanTrula {
+    }
+  }
+  hidden_boolean PaleCoralMaryl {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean DistinguishedJadeRobin {
+    _hidden_value = true
+  }
+  YawningPlumJosephine = 476
+  AdministrativeRoseRosabella = "Why do birds fly south for the winter? Because it's too far to walk."
+  SmoothAquamarineWilly = true
+  MildMaroonNorina = 472
+  AbsentMagentaKatuscha = 146
+  ParliamentaryTanTrula = {
+    legit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  }
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "DistinguishedJadeRobin"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,50 @@
+type dummy.ZoophagousLimeMaxie {
+  annotations {
+    number InappropriateBrownPenelope {
+    }
+    boolean SlimyTanEirena {
+    }
+    serviceid CrucialLimeCristal {
+    }
+    boolean UniversalGreenPetronia {
+    }
+    hidden_boolean AwkwardAzureIolanthe {
+    }
+  }
+  serviceid PrimeTomatoJodi {
+    _hidden_value = true
+  }
+  number PrincipalRedCarmine {
+    _hidden_value = true
+  }
+  hidden_boolean ChosenPurpleFanechka {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number ImaginativeChocolateRina {
+    _hidden_value = true
+  }
+  hidden_boolean HonestOrangeCarolee {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  InappropriateBrownPenelope = 716
+  SlimyTanEirena = true
+  CrucialLimeCristal = "My first time using an elevator was an uplifting experience. The second time let me down."
+  UniversalGreenPetronia = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ChosenPurpleFanechka"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "HonestOrangeCarolee"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

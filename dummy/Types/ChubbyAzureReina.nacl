@@ -1,0 +1,53 @@
+type dummy.ChubbyAzureReina {
+  annotations {
+    json DecentBlushRivkah {
+    }
+    string TenderAquaPhaedra {
+    }
+    string TastelessAmethystAdeline {
+    }
+    number MedicalFuchsiaBeverie {
+    }
+    serviceid ContinuousBrownJunina {
+    }
+    number DistantBlushKaryl {
+    }
+  }
+  string RadicalTanMarty {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AccusedScarletJuieta {
+    _hidden_value = true
+  }
+  json ChubbyIndigoCynthea {
+    _hidden_value = true
+  }
+  hidden_boolean GrubbyBlueBriana {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean ProbableOrangeUlla {
+    _hidden_value = true
+  }
+  number GlamorousGreenJosy {
+    _hidden_value = true
+  }
+  number TerribleIndigoLulita {
+    _hidden_value = true
+  }
+  DecentBlushRivkah = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  TenderAquaPhaedra = "What creature is smarter than a talking parrot? A spelling bee."
+  TastelessAmethystAdeline = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  MedicalFuchsiaBeverie = 397
+  ContinuousBrownJunina = "What do you do on a remote island? Try and find the TV island it belongs to."
+  DistantBlushKaryl = 45
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "ContinuousBrownJunina"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

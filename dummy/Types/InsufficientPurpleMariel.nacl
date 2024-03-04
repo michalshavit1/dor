@@ -1,0 +1,62 @@
+type dummy.InsufficientPurpleMariel {
+  annotations {
+    json InterestedTanBernete {
+    }
+    json InclinedMaroonTamera {
+    }
+    string LovelyLimeMelania {
+    }
+    hidden_boolean ThirstyAmberMable {
+    }
+    json SparklingOliveDorene {
+    }
+  }
+  boolean InsufficientSalmonDavita {
+    _hidden_value = true
+  }
+  dummy.DelightedTealLynna CriminalOliveTonia {
+    _hidden_value = true
+  }
+  number ZonalSilverMarcelia {
+    _hidden_value = true
+  }
+  boolean CruelSilverMommy {
+    _hidden_value = true
+  }
+  dummy.DEFAULT LtdWhiteLorianna {
+    _hidden_value = true
+  }
+  json NormalSalmonCelie {
+    _hidden_value = true
+  }
+  serviceid VividBronzeFianna {
+    _hidden_value = true
+  }
+  hidden_boolean RacialMaroonVirgie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT PresentAmberMelly {
+    _hidden_value = true
+  }
+  InterestedTanBernete = "Whoever invented the knock-knock joke should get a no bell prize."
+  InclinedMaroonTamera = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  LovelyLimeMelania = "What do you do on a remote island? Try and find the TV island it belongs to."
+  SparklingOliveDorene = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "CriminalOliveTonia"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "InterestedTanBernete"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

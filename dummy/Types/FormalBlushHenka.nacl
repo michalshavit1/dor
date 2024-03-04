@@ -1,0 +1,41 @@
+type dummy.FormalBlushHenka {
+  annotations {
+    dummy.DEFAULT FunnyFuchsiaAgretha {
+    }
+    number ElatedVioletAnabal {
+    }
+    string FamousCrimsonDory {
+    }
+    string GeographicalWhiteVeriee {
+    }
+    serviceid_number FollowingGrayBritni {
+    }
+  }
+  number HorizontalPlumArlee {
+    _hidden_value = true
+  }
+  serviceid NotableRoseWilona {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" ValuableBlueRoxine {
+    _hidden_value = true
+  }
+  number TightAquaTwyla {
+    _hidden_value = true
+  }
+  FunnyFuchsiaAgretha = {
+    legit = "Why did the tomato blush? Because it saw the salad dressing."
+  }
+  ElatedVioletAnabal = 895
+  FamousCrimsonDory = "Why did the kid cross the playground? To get to the other slide."
+  GeographicalWhiteVeriee = "A steak pun is a rare medium well done."
+  FollowingGrayBritni = 356
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "GeographicalWhiteVeriee"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

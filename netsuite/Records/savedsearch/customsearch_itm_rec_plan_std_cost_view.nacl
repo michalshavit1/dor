@@ -1,0 +1,120 @@
+netsuite.savedsearch customsearch_itm_rec_plan_std_cost_view {
+  scriptid = "customsearch_itm_rec_plan_std_cost_view"
+  definition = "bb9c9c275f2291d2918ae7e680a3c0d1aa69cb34304698a3b16a79cd22c11a00@GZC@2022.1.17@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"
+  available_filters = [
+    {
+      SEQ_NUMBER = 1
+      FIELD_NAME = "IT_Item_INTERNALID"
+      FLAG_FOOTER = false
+      FLAG_FOOTER_MULTI_SELECT = false
+    },
+    {
+      SEQ_NUMBER = 2
+      FIELD_NAME = "PlannedStandardCost_STANDARDCOSTVERSION"
+      FLAG_FOOTER = true
+      FLAG_FOOTER_MULTI_SELECT = false
+    },
+    {
+      SEQ_NUMBER = 3
+      FIELD_NAME = "PlannedStandardCost_LOCATION"
+      FLAG_FOOTER = true
+      FLAG_FOOTER_MULTI_SELECT = false
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "PlannedStandardCost_STANDARDCOSTVERSION"
+      FIELD_INDEX = 1
+      FIELD_SUMMARY_TYPE = "GROUP"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "PlannedStandardCost_LOCATION"
+      FIELD_INDEX = 2
+      FIELD_SUMMARY_TYPE = "GROUP"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "PlannedStandardCost_ITEM"
+      FIELD_INDEX = 3
+      FIELD_SUMMARY_TYPE = "GROUP"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "PlannedStandardCost_COST"
+      FIELD_INDEX = 4
+      FIELD_SUMMARY_TYPE = "SUM"
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  detail_fields = [
+    {
+      FIELD_ALIAS = "PlannedStandardCost_STANDARDCOSTVERSION"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "PlannedStandardCost_LOCATION"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "PlannedStandardCost_ITEM"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "PlannedStandardCost_STANDARDCOSTVERSION"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  audience = {
+    FLAG_AUDIENCE_ALL_CUSTOMERS = false
+    FLAG_AUDIENCE_ALL_EMPLOYEES = false
+    FLAG_AUDIENCE_ALL_PARTNERS = false
+    FLAG_AUDIENCE_ALL_ROLES = true
+    FLAG_AUDIENCE_ALL_VENDORS = false
+  }
+  KEY_SCRIPT_ID = "customsearch_itm_rec_plan_std_cost_view"
+  FIELD_DEFAULT_NAME = "Item Record: Planned Standard Cost View"
+  FIELD_SEARCH_TYPE = "PlannedStandardCost"
+  FLAG_PUBLIC = true
+  FLAG_LIST = false
+  FLAG_PORTLET = false
+  FLAG_MACHINE = false
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = false
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = false
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = true
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+  KEY_AUDIENCE = 0
+  _alias = "Item Record: Planned Standard Cost View"
+}

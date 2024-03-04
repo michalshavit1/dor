@@ -1,0 +1,131 @@
+netsuite.savedsearch customsearch10 {
+  scriptid = "customsearch10"
+  definition = "eccc3f9de2ceecb919b14d789e02f72c05a7c7bc0930dc334842944ab0ad8914@GZC@2022.1.17@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"
+  search_filter = [
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Entity_STATE"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "CA"
+        },
+      ]
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "Entity_ENTITYID"
+      FIELD_INDEX = 1
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Customer_CONTACT"
+      FIELD_INDEX = 2
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Entity_PHONE"
+      FIELD_INDEX = 3
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Entity_EMAIL"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Entity_FAX"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  detail_fields = [
+    {
+      FIELD_ALIAS = "Entity_ENTITYID"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Customer_CONTACT"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Entity_PHONE"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Entity_EMAIL"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Entity_FAX"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "Entity_ENTITYID"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  audience = {
+    FLAG_AUDIENCE_ALL_CUSTOMERS = false
+    FLAG_AUDIENCE_ALL_EMPLOYEES = false
+    FLAG_AUDIENCE_ALL_PARTNERS = false
+    FLAG_AUDIENCE_ALL_ROLES = true
+    FLAG_AUDIENCE_ALL_VENDORS = false
+  }
+  KEY_SCRIPT_ID = "customsearch10"
+  FIELD_DEFAULT_NAME = "Customers in California"
+  FIELD_SEARCH_TYPE = "Customer"
+  FLAG_PUBLIC = true
+  FLAG_LIST = false
+  FLAG_PORTLET = false
+  FLAG_MACHINE = false
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = false
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = true
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = true
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+  KEY_AUDIENCE = 0
+  _alias = "Customers in California"
+}

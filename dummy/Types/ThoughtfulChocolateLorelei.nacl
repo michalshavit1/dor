@@ -1,0 +1,35 @@
+type dummy.ThoughtfulChocolateLorelei {
+  annotations {
+    serviceid GrowingApricotMeriel {
+    }
+    dummy.DEFAULT SleepyYellowKathi {
+    }
+    json LongPeachPrisca {
+    }
+    boolean FlyingMagentaSabine {
+    }
+    number VagueCopperMufi {
+    }
+    boolean BrainyMagentaSonni {
+    }
+  }
+  serviceid IntactCrimsonGabriella {
+    _hidden_value = true
+  }
+  GrowingApricotMeriel = "To be Frank, I'd have to change my name."
+  SleepyYellowKathi = {
+    legit = "Why did the tomato blush? Because it saw the salad dressing."
+  }
+  LongPeachPrisca = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  FlyingMagentaSabine = false
+  VagueCopperMufi = 257
+  BrainyMagentaSonni = false
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "LongPeachPrisca"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

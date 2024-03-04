@@ -1,0 +1,18 @@
+salesforce.WorkflowOutboundMessage Opportunity_sad@v {
+  fullName = "Opportunity.sad"
+  apiVersion = 52
+  endpointUrl = "https://foo0"
+  fields = [
+    salesforce.Opportunity.field.Amount,
+    salesforce.Opportunity.field.Id,
+  ]
+  includeSessionId = false
+  integrationUser = "michal.shavit@salto.io"
+  name = "sad"
+  protected = false
+  useDeadLetterQueue = false
+  _parent = [
+    salesforce.Opportunity,
+  ]
+  _alias = "Opportunity.sad"
+}

@@ -1,0 +1,91 @@
+type dummy.FilthyCoralJannelle {
+  annotations {
+    number ProvincialCrimsonLolita {
+    }
+    boolean YoungChocolateVittoria {
+    }
+    dummy.DEFAULT ManagerialTealBerrie {
+    }
+    serviceid VivaciousSapphireJeannine {
+    }
+  }
+  boolean FierceCyanMichelle {
+    _hidden_value = true
+  }
+  number SharpSapphireDollie {
+    _hidden_value = true
+  }
+  number SuspiciousAmberGilberta {
+    _hidden_value = true
+  }
+  string RepresentativePlumCelka {
+    _hidden_value = true
+  }
+  hidden_boolean InquisitiveSapphireNichol {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string IsolatedLimeAline {
+    _hidden_value = true
+  }
+  string DistinctiveLimeConni {
+    _hidden_value = true
+  }
+  serviceid StableApricotQuintana {
+    _hidden_value = true
+  }
+  number UncomfortableAmaranthLynnea {
+    _hidden_value = true
+  }
+  serviceid_number ProspectiveTurquoiseJaclin {
+    _hidden_value = true
+  }
+  number FoolishEmeraldTammie {
+    _hidden_value = true
+  }
+  number SillyCyanShaina {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AlrightAquamarineAngela {
+    _hidden_value = true
+  }
+  hidden_boolean VictoriousMoccasinLucie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json OutrageousIvoryFeodora {
+    _hidden_value = true
+  }
+  boolean ResultingMaroonKip {
+    _hidden_value = true
+  }
+  string DoubtfulLimeAntonietta {
+    _hidden_value = true
+  }
+  ProvincialCrimsonLolita = 420
+  YoungChocolateVittoria = false
+  ManagerialTealBerrie = {
+    legit = "Slept like a log last night  woke up in the fireplace."
+  }
+  VivaciousSapphireJeannine = "What do you do on a remote island? Try and find the TV island it belongs to."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "StableApricotQuintana"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "RepresentativePlumCelka"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "SillyCyanShaina"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

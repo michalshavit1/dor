@@ -1,0 +1,93 @@
+type dummy.ConfidentCoralBettine {
+  annotations {
+    serviceid_number GuiltyBlushStarlin {
+    }
+    serviceid_number DisciplinaryIndigoEsta {
+    }
+    boolean LiteraryAmethystSherrie {
+    }
+    hidden_boolean CivilLimeLeona {
+    }
+    string MassRedCaitlin {
+    }
+    serviceid_number RemainingScarletAudry {
+    }
+    serviceid_number FavouriteAmaranthRosetta {
+    }
+    serviceid GloriousTealCharlotte {
+    }
+    dummy.SpatialYellowTawnya SignificantBlushMarylin {
+    }
+    hidden_boolean EmptyBrownTania {
+    }
+    boolean RightSapphireMorgen {
+    }
+    json ElectricalGrayGertie {
+    }
+    dummy.RetiredGoldCordelia EthicalMagentaAnnabella {
+    }
+    string SignificantAquamarineVelvet {
+    }
+    hidden_boolean SpareRedCatlaina {
+    }
+    boolean PanickyYellowStesha {
+    }
+    serviceid_number RainyVioletRaquela {
+    }
+    string PunyBlueSibby {
+    }
+    number ChillyCoralDarya {
+    }
+    json RottenGoldGlynda {
+    }
+    number SouthernMaroonMarci {
+    }
+    serviceid SelfishAmethystFlora {
+    }
+  }
+  GuiltyBlushStarlin = 29
+  DisciplinaryIndigoEsta = 186
+  LiteraryAmethystSherrie = false
+  MassRedCaitlin = "What creature is smarter than a talking parrot? A spelling bee."
+  RemainingScarletAudry = 464
+  FavouriteAmaranthRosetta = 493
+  GloriousTealCharlotte = "Why didnt the skeleton cross the road? Because he had no guts."
+  RightSapphireMorgen = false
+  ElectricalGrayGertie = "Slept like a log last night  woke up in the fireplace."
+  SignificantAquamarineVelvet = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  PanickyYellowStesha = true
+  RainyVioletRaquela = 854
+  PunyBlueSibby = "Did you know that protons have mass? I didn't even know they were catholic."
+  ChillyCoralDarya = 226
+  RottenGoldGlynda = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  SouthernMaroonMarci = 232
+  SelfishAmethystFlora = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _self_important_values = [
+    {
+      value = "RightSapphireMorgen"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "CivilLimeLeona"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "GuiltyBlushStarlin"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SpareRedCatlaina"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SouthernMaroonMarci"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "ConfidentCoralBettine_alias"
+}

@@ -1,0 +1,48 @@
+type dummy.GreasyPinkMarian {
+  annotations {
+    dummy.DEFAULT StingyBlushKatharyn {
+    }
+    serviceid ProgressiveHarlequinSianna {
+    }
+    hidden_boolean RelativeAquaAddy {
+    }
+    serviceid_number DramaticHarlequinMerrie {
+    }
+    json OutdoorTurquoiseDottie {
+    }
+    serviceid CommercialIndigoCasi {
+    }
+  }
+  dummy.AcceptableAmaranthGertrudis HonGoldWendie {
+    SportingGreenRachel = {
+      legit = "To be Frank, I'd have to change my name."
+    }
+    ColorfulAmberRhetta = "A steak pun is a rare medium well done."
+    UsedLimeMia = 885
+    SharpAzureChandra = "Why did the kid cross the playground? To get to the other slide."
+    AnnualAquamarineAmii = true
+    UninterestedSalmonClaretta = false
+    IllTomatoKimberley = 246
+    TemporaryFuchsiaGuillema = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    MentalSalmonKori = "How come the stadium got hot after the game? Because all of the fans left."
+    CarefulBlushSaraann = 674
+    TropicalWhiteLauralee = "Why do birds fly south for the winter? Because it's too far to walk."
+    PsychologicalFuchsiaAnnabal = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    _hidden_value = true
+  }
+  StingyBlushKatharyn = {
+    legit = "What do you do on a remote island? Try and find the TV island it belongs to."
+  }
+  ProgressiveHarlequinSianna = "What do you call two barracuda fish?  A Pairacuda!"
+  DramaticHarlequinMerrie = 685
+  OutdoorTurquoiseDottie = "Why is Peter Pan always flying? Because he Neverlands."
+  CommercialIndigoCasi = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "CommercialIndigoCasi"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

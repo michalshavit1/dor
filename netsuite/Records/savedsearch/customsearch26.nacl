@@ -1,0 +1,103 @@
+netsuite.savedsearch customsearch26 {
+  scriptid = "customsearch26"
+  definition = "7d442b7b53677ae0f1d586dbe30daf2d7ef093498d5684c5d2807e5ff2c49a97@GZC@2022.1.17@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"
+  return_fields = [
+    {
+      FIELD_ALIAS = "DeletedRecord_DELETEDDATE"
+      FIELD_INDEX = 1
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "DeletedRecord_DELETEDBY"
+      FIELD_INDEX = 2
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "DeletedRecord_CONTEXT"
+      FIELD_INDEX = 3
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "DeletedRecord_RECORDTYPE"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "DeletedRecord_NAME"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  detail_fields = [
+    {
+      FIELD_ALIAS = "DeletedRecord_DELETEDDATE"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "DeletedRecord_DELETEDBY"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "DeletedRecord_CONTEXT"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "DeletedRecord_RECORDTYPE"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "DeletedRecord_NAME"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "DeletedRecord_DELETEDDATE"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  KEY_SCRIPT_ID = "customsearch26"
+  FIELD_DEFAULT_NAME = "Custom Deleted Record Search"
+  FIELD_SEARCH_TYPE = "DeletedRecord"
+  FLAG_PUBLIC = false
+  FLAG_LIST = false
+  FLAG_PORTLET = false
+  FLAG_MACHINE = false
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = false
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = false
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = true
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+  _alias = "Custom Deleted Record Search"
+}

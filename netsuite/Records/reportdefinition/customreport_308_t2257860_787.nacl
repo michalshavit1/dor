@@ -1,0 +1,219 @@
+netsuite.reportdefinition customreport_308_t2257860_787 {
+  scriptid = "customreport_308_t2257860_787"
+  definition = "bb16f40506b0e43d134e15cf8535cb9bb690a950f776c5eee39693034c53d2e7@GZC@2023.2.15@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"
+  name = "ShalomTest Forecast Summary"
+  audience = {
+    audslctrole = "ACCOUNTANT"
+  }
+  components = [
+    {
+      KEY_COMPONENT = 54
+      FLAG_SECONDARY_DIM = false
+      FIELD_CLASS = "com.netledger.app.reporting.measure.NLSalesForecastMeasure"
+    },
+    {
+      KEY_COMPONENT = 5
+      FLAG_SECONDARY_DIM = false
+      FIELD_CLASS = "com.netledger.app.reporting.dimension.NLSalesrepDimension"
+    },
+  ]
+  parameters = {
+    accounting_book_current_id = "1"
+    accounting_book_id = "1"
+  }
+  sorts = [
+    {
+      KEY_COMPONENT = "54"
+      FIELD_ALIAS = "prefweightedamt"
+      SEQ_NUMBER = 0
+      FLAG_DESCENDING = true
+      FLAG_SUBTOTAL = false
+    },
+  ]
+  fields = [
+    {
+      KEY_COMPONENT = 5
+      FIELD_TABLE = "REPKEYS"
+      FIELD_ALIAS = "SVALIDNAME"
+      FLAG_DIMENSION = false
+      FIELD_UNIT_TYPE = -1
+      FLAG_ROLLUP = true
+      FIELD_DATE_FILTER_INDEX = 0
+      FLAG_APPLY_FORWARDING = true
+      FLAG_MEASURE = false
+      SEQ_NUMBER = 1
+      FIELD_LABEL = "Sales Rep"
+      FIELD_URL = "/app/common/entity/entity.nl?id={srep,entity,nkey,x,x}"
+      FIELD_URL_TYPE = "DERIVED"
+      FLAG_DUAL_COLUMN = false
+      FLAG_PERCENT_TOTAL = false
+      FLAG_PERCENT_INCOME = false
+      FLAG_PERCENT_EXPENSE = false
+      FLAG_RUNNING_BAL = false
+      FLAG_SHOW_OPENING_BAL = false
+      FLAG_SHOW_ABS_DIFF = false
+      FLAG_SHOW_PCT_DIFF = false
+      FLAG_SUB_TOTAL = false
+      FLAG_DISPLAY = true
+      FLAG_DROP_DECIMAL = false
+      FLAG_DIV_BY_THOUSAND = false
+      FLAG_NEG_IN_RED = false
+      FIELD_NEG_VAL_FORMAT = "norm"
+      FIELD_FORMAT = "text"
+      FLAG_TOTAL_FORMULA = true
+    },
+    {
+      KEY_COMPONENT = 54
+      FIELD_ALIAS = "FORMULAFIELD2"
+      FLAG_DIMENSION = false
+      FIELD_UNIT_TYPE = -1
+      FLAG_ROLLUP = false
+      FIELD_DATE_FILTER_INDEX = 0
+      FIELD_COMPARISON_TYPE = "SUM"
+      FLAG_APPLY_FORWARDING = true
+      FLAG_MEASURE = true
+      SEQ_NUMBER = 2
+      FIELD_LABEL = "Formula"
+      FIELD_URL = "cr=-3"
+      FIELD_URL_TYPE = "DERIVED"
+      FLAG_DUAL_COLUMN = false
+      FLAG_PERCENT_TOTAL = false
+      FLAG_PERCENT_INCOME = false
+      FLAG_PERCENT_EXPENSE = false
+      FLAG_RUNNING_BAL = false
+      FLAG_SHOW_OPENING_BAL = false
+      FLAG_SHOW_ABS_DIFF = false
+      FLAG_SHOW_PCT_DIFF = false
+      FLAG_SUB_TOTAL = false
+      FLAG_DISPLAY = true
+      FLAG_DROP_DECIMAL = false
+      FLAG_DIV_BY_THOUSAND = false
+      FLAG_NEG_IN_RED = false
+      FIELD_NEG_VAL_FORMAT = "norm"
+      FIELD_FORMAT = "currency"
+      FIELD_FORMULA = "{salesforecast,x,prefweightedamt,x,x}+{salesforecast,x,prefweightedamt,x,x}"
+      FIELD_FORMULA_BY_SEQ = "{3}+{3}"
+      FLAG_TOTAL_FORMULA = true
+    },
+    {
+      KEY_COMPONENT = 54
+      FIELD_ALIAS = "PREFWEIGHTEDAMT"
+      FLAG_DIMENSION = false
+      FIELD_UNIT_TYPE = -1
+      FLAG_ROLLUP = false
+      FIELD_DATE_FILTER_INDEX = 0
+      FLAG_APPLY_FORWARDING = true
+      FLAG_MEASURE = true
+      SEQ_NUMBER = 3
+      FIELD_LABEL = "Forecast Amount (Weighted)"
+      FIELD_URL = "cr=-3"
+      FIELD_URL_TYPE = "DERIVED"
+      FLAG_DUAL_COLUMN = false
+      FLAG_PERCENT_TOTAL = false
+      FLAG_PERCENT_INCOME = false
+      FLAG_PERCENT_EXPENSE = false
+      FLAG_RUNNING_BAL = false
+      FLAG_SHOW_OPENING_BAL = false
+      FLAG_SHOW_ABS_DIFF = false
+      FLAG_SHOW_PCT_DIFF = false
+      FLAG_SUB_TOTAL = true
+      FLAG_DISPLAY = true
+      FIELD_SUMMARY = " SUM"
+      FLAG_DROP_DECIMAL = false
+      FLAG_DIV_BY_THOUSAND = false
+      FLAG_NEG_IN_RED = false
+      FIELD_NEG_VAL_FORMAT = "paren"
+      FIELD_FORMAT = "currency"
+      FLAG_TOTAL_FORMULA = true
+    },
+  ]
+  uiPreferences = {
+    PARAMETER_CASH_BASIS = false
+    PARAMETER_TAXCASH_BASIS = "F"
+    PARAMETER_SHOW_ZEROS = true
+    PARAMETER_SHOW_SINGLEROWLINES = true
+    PARAMETER_DISPLAY_TYPE = "data"
+    PARAMETER_INC_VS_EXP = false
+    PARAMETER_GRAPH_TOP = 100001
+    PARAMETER_WEB_STORE = false
+    PARAMETER_ACTIVITY_ONLY = false
+    PARAMETER_ALLOW_WEBQUERY = false
+    PARAMETER_GRAPH_3D = false
+    PARAMETER_SHOW_CURRENCY_SYMBOL = true
+    PARAMETER_EXPAND_LEVEL = 100
+  }
+  criteria = [
+    {
+      descriptor = {
+        FIELD_ALIAS = "DDATE"
+        FIELD_OP_CLASS = "BETWEEN"
+        FILED_TYPE = "DATE"
+        SEQ_NUMBER = 0
+        FIELD_UNIT_TYPE = -1
+        FLAG_IN_FOOTER = true
+        FLAG_CUSTOM_FOOTER = false
+        FLAG_VIRTUAL_FIELD = true
+        FIELD_DESCRIPTOR = "salesforecast,x,dreportdate,x,x"
+        FLAG_IS_HIDDEN = false
+      }
+      values = [
+        {
+          FIELD_DATE_FILTER_INDEX = 0
+          SEQ_NUMBER = 0
+          FIELD_VALUE = "TM"
+        },
+      ]
+    },
+    {
+      descriptor = {
+        FIELD_ALIAS = "KSUBSIDIARY"
+        FIELD_OP_CLASS = "SUBSIDCHILDRENOF"
+        FILED_TYPE = "SELECT"
+        SEQ_NUMBER = 1
+        FIELD_UNIT_TYPE = -1
+        FLAG_IN_FOOTER = true
+        FLAG_CUSTOM_FOOTER = false
+        FLAG_VIRTUAL_FIELD = true
+        FIELD_DESCRIPTOR = "salesforecast,tranline,ksubsidiary,x,x"
+        FLAG_IS_HIDDEN = false
+      }
+      values = [
+        {
+          FIELD_DATE_FILTER_INDEX = 0
+          SEQ_NUMBER = 0
+          FIELD_VALUE = 1
+        },
+      ]
+    },
+  ]
+  flags = {
+    KEY_REPORT_ID = 308
+    KEY_SCRIPT_ID = "CUSTOMREPORT_308_T2257860_787"
+    FIELD_KEY = 308
+    FIELD_CODE = "QUICK_REPORT"
+    FIELD_DESCRIPTION = "testing out this report"
+    FIELD_NAME = "ShalomTest Forecast Summary"
+    FIELD_ORIGINAL_TITLE = "ShalomTest Forecast Summary"
+    FIELD_PERM_TYPE = "REPO_SFA"
+    KEY_FEATURE = "SFA"
+    FLAG_PERIODS_ALLOWED = true
+    FLAG_DISPLAY_TYPE = "SUMMARY"
+    FLAG_ONE_DATE = false
+    FLAG_PRIMARY_OUTER_JOIN = false
+    FLAG_CUSTOM_MODE = true
+    FLAG_CASH_BASIS = false
+    FLAG_SHOW_ZEROS = true
+    FLAG_INACTIVE = false
+    FIELD_VERSION = 8
+    FLAG_PERIODS_ON = false
+    FLAG_USE_FISCAL_YEAR_RANGE = false
+    FLAG_USE_TAX_PERIODS = false
+    KEY_ENTITY = "7"
+    FLAG_SHOW_LINK = false
+    FLAG_SUPPORTS_CONSOL_SUBSIDIARY = true
+    FIELD_TOGGLE_TYPE = "NOTHING"
+    FLAG_AFFECTED_BY_COGS = false
+    FLAG_ACTIVITY_ONLY = false
+  }
+  _alias = "ShalomTest Forecast Summary"
+}

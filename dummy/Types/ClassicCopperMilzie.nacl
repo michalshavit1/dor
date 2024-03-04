@@ -1,0 +1,122 @@
+type dummy.ClassicCopperMilzie {
+  annotations {
+    serviceid CombinedCyanClem {
+    }
+    serviceid_number DisgustedBlackDynah {
+    }
+    serviceid_number SurprisedTurquoiseStafani {
+    }
+    dummy.QualifiedHarlequinJolee MagnificentWhiteHetty {
+    }
+    serviceid RevolutionaryCyanBarbabra {
+    }
+    number WitteringRedGerianne {
+    }
+  }
+  dummy.DEFAULT JitteryBlueAaren {
+    _hidden_value = true
+  }
+  json SquareGoldJeannie {
+    _hidden_value = true
+  }
+  json FlexibleBeigeSibel {
+    _hidden_value = true
+  }
+  json TartOrangePaulie {
+    _hidden_value = true
+  }
+  boolean NotableAmberDarby {
+    _hidden_value = true
+  }
+  number WorthyCrimsonHedy {
+    _hidden_value = true
+  }
+  hidden_boolean LabourMoccasinKip {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.AcceptableAmaranthGertrudis FixedTomatoTrixi {
+    SportingGreenRachel = {
+      legit = "A steak pun is a rare medium well done."
+    }
+    ColorfulAmberRhetta = "Slept like a log last night  woke up in the fireplace."
+    UsedLimeMia = 528
+    SharpAzureChandra = "To be Frank, I'd have to change my name."
+    AnnualAquamarineAmii = false
+    UninterestedSalmonClaretta = true
+    IllTomatoKimberley = 837
+    TemporaryFuchsiaGuillema = "Whoever invented the knock-knock joke should get a no bell prize."
+    MentalSalmonKori = "What do you do on a remote island? Try and find the TV island it belongs to."
+    CarefulBlushSaraann = 978
+    TropicalWhiteLauralee = "Im only familiar with 25 letters in the English language. I dont know why."
+    PsychologicalFuchsiaAnnabal = "I'll tell you what often gets over looked... garden fences."
+    _hidden_value = true
+  }
+  dummy.DEFAULT SmoothLimeBeverlie {
+    _hidden_value = true
+  }
+  string DelightfulAmaranthCherye {
+    _hidden_value = true
+  }
+  number SeniorTomatoMalynda {
+    _hidden_value = true
+  }
+  serviceid_number SelectedAquaLida {
+    _hidden_value = true
+  }
+  boolean LiteraryEmeraldDulcia {
+    _hidden_value = true
+  }
+  boolean ConsiderableCopperTandi {
+    _hidden_value = true
+  }
+  serviceid_number EasternLavenderNanete {
+    _hidden_value = true
+  }
+  serviceid SelfishCopperBee {
+    _hidden_value = true
+  }
+  number BizarreLavenderJill {
+    _hidden_value = true
+  }
+  serviceid_number SouthernTurquoiseDarda {
+    _hidden_value = true
+  }
+  hidden_boolean GreasyWhiteDoralyn {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  CombinedCyanClem = "What do you do on a remote island? Try and find the TV island it belongs to."
+  DisgustedBlackDynah = 741
+  SurprisedTurquoiseStafani = 41
+  MagnificentWhiteHetty = 97
+  RevolutionaryCyanBarbabra = "Why didnt the skeleton cross the road? Because he had no guts."
+  WitteringRedGerianne = 390
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "WorthyCrimsonHedy"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SelfishCopperBee"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "DelightfulAmaranthCherye"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "DisgustedBlackDynah"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

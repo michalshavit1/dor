@@ -1,0 +1,33 @@
+type dummy.SharedApricotClo {
+  annotations {
+    string RuralMoccasinFaunie {
+    }
+    dummy.QualifiedHarlequinJolee RarePlumMeagan {
+    }
+    serviceid PartialBlackCorabel {
+    }
+    boolean DelightfulAmethystDevan {
+    }
+  }
+  "List<json>" FavouriteSalmonDannye {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CurvedBlackCherey {
+    _hidden_value = true
+  }
+  serviceid ObedientIvoryJean {
+    _hidden_value = true
+  }
+  RuralMoccasinFaunie = "Did you know that protons have mass? I didn't even know they were catholic."
+  RarePlumMeagan = 723
+  PartialBlackCorabel = "Why was it called the dark ages? Because of all the knights. "
+  DelightfulAmethystDevan = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "FavouriteSalmonDannye"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

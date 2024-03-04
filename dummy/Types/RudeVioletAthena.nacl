@@ -1,0 +1,49 @@
+type dummy.RudeVioletAthena {
+  annotations {
+    boolean CurrentMaroonPeggy {
+    }
+    serviceid DoubleAquaDebee {
+    }
+    serviceid_number SpatialWhiteDorelia {
+    }
+    json FierceBlueJuline {
+    }
+    boolean StripedBrownRenata {
+    }
+    serviceid_number EnormousHarlequinLulita {
+    }
+    string OriginalBrownShelly {
+    }
+    boolean BrokenVioletLaney {
+    }
+  }
+  dummy.DEFAULT SquealingTanBrande {
+    _hidden_value = true
+  }
+  CurrentMaroonPeggy = false
+  DoubleAquaDebee = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  SpatialWhiteDorelia = 356
+  FierceBlueJuline = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  StripedBrownRenata = false
+  EnormousHarlequinLulita = 608
+  OriginalBrownShelly = "What creature is smarter than a talking parrot? A spelling bee."
+  BrokenVioletLaney = false
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "OriginalBrownShelly"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "FierceBlueJuline"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "BrokenVioletLaney"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

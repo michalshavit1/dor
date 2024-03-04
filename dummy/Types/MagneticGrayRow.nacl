@@ -1,0 +1,154 @@
+type dummy.MagneticGrayRow {
+  annotations {
+    string HandsomeMoccasinJosy {
+    }
+    serviceid InterestedBlackHoratia {
+    }
+    json MilitaryOliveCarolynn {
+    }
+    serviceid HandicappedWhiteTalia {
+    }
+    serviceid_number OkayLavenderWinona {
+    }
+    number DistantFuchsiaSari {
+    }
+    string OpenIvoryJacquenetta {
+    }
+  }
+  boolean FemaleTealChloe {
+    _hidden_value = true
+  }
+  string UndergroundTurquoiseCharline {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RottenOliveBeryl {
+    _hidden_value = true
+  }
+  hidden_boolean IndependentYellowYevette {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string CombinedIvoryMilissent {
+    _hidden_value = true
+  }
+  hidden_boolean SharpBlueDaveen {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json IrrelevantLavenderKorella {
+    _hidden_value = true
+  }
+  string YtterbicCopperCharmine {
+    _hidden_value = true
+  }
+  string RespectableIvoryBrittaney {
+    _hidden_value = true
+  }
+  string PleasedGreenCherilynn {
+    _hidden_value = true
+  }
+  string AfraidOrangeMame {
+    _hidden_value = true
+  }
+  boolean ReasonableLimeYetty {
+    _hidden_value = true
+  }
+  number CorporateAzureRamona {
+    _hidden_value = true
+  }
+  string GrimCyanTanhya {
+    _hidden_value = true
+  }
+  serviceid CentralGrayTiffani {
+    _hidden_value = true
+  }
+  number RegisteredSalmonCahra {
+    _hidden_value = true
+  }
+  dummy.ConsciousAquaMahalia OutdoorMaroonEmmy {
+    ComingCyanMaddi = "My first time using an elevator was an uplifting experience. The second time let me down."
+    EfficientRoseAdrienne = "My first time using an elevator was an uplifting experience. The second time let me down."
+    ConsistentBeigeTonya = 721
+    LiterarySapphireAila = true
+    SystematicAquaMead = "My first time using an elevator was an uplifting experience. The second time let me down."
+    RoyalIvorySal = 703
+    PreviousLavenderMignonne = true
+    AbsentAquamarineIra = true
+    AdditionalRoseAlthea = 331
+    GlamorousJadeGates = 35
+    _hidden_value = true
+  }
+  serviceid_number ElectoralBrownRikki {
+    _hidden_value = true
+  }
+  string MoralHarlequinMagdalene {
+    _hidden_value = true
+  }
+  string XerothermicIvoryCassandra {
+    _hidden_value = true
+  }
+  boolean YearningMagentaHelenelizabeth {
+    _hidden_value = true
+  }
+  serviceid_number ConceptualTealAlidia {
+    _hidden_value = true
+  }
+  json SoreApricotTammara {
+    _hidden_value = true
+  }
+  boolean LinearAquamarineLyn {
+    _hidden_value = true
+  }
+  string ChiefYellowJacquetta {
+    _hidden_value = true
+  }
+  HandsomeMoccasinJosy = "I'll tell you what often gets over looked... garden fences."
+  InterestedBlackHoratia = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  MilitaryOliveCarolynn = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  HandicappedWhiteTalia = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  OkayLavenderWinona = 514
+  DistantFuchsiaSari = 371
+  OpenIvoryJacquenetta = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "RegisteredSalmonCahra"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "UndergroundTurquoiseCharline"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "AfraidOrangeMame"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "YearningMagentaHelenelizabeth"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "RottenOliveBeryl"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "CentralGrayTiffani"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "DistantFuchsiaSari"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

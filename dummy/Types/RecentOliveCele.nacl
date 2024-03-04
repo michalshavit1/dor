@@ -1,0 +1,50 @@
+type dummy.RecentOliveCele {
+  annotations {
+    number TheoreticalAmethystAshlie {
+    }
+    string OpenCoralLeola {
+    }
+    hidden_boolean CollectiveSapphireCortney {
+    }
+    dummy.CombinedCyanNatasha ShinyLimePrue {
+    }
+    json WelcomeApricotMargaretha {
+    }
+    string LazyIvoryCeciley {
+    }
+  }
+  serviceid WoodenPeachZelda {
+    _hidden_value = true
+  }
+  serviceid_number SleepyBlueBinny {
+    _hidden_value = true
+  }
+  string ItchyPinkMady {
+    _hidden_value = true
+  }
+  TheoreticalAmethystAshlie = 619
+  OpenCoralLeola = "What do you call two barracuda fish?  A Pairacuda!"
+  ShinyLimePrue = false
+  WelcomeApricotMargaretha = "Why did the kid cross the playground? To get to the other slide."
+  LazyIvoryCeciley = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ItchyPinkMady"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "WelcomeApricotMargaretha"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "OpenCoralLeola"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

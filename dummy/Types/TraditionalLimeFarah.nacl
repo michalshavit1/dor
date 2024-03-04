@@ -1,0 +1,27 @@
+type dummy.TraditionalLimeFarah {
+  annotations {
+    number AfraidBronzeNerita {
+    }
+    boolean CommercialVioletFanchette {
+    }
+    number DesirableFuchsiaRaf {
+    }
+    json FunctionalMoccasinHetty {
+    }
+  }
+  boolean PreparedSalmonRosella {
+    _hidden_value = true
+  }
+  AfraidBronzeNerita = 693
+  CommercialVioletFanchette = true
+  DesirableFuchsiaRaf = 558
+  FunctionalMoccasinHetty = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "FunctionalMoccasinHetty"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

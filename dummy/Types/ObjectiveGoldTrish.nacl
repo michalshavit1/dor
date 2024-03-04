@@ -1,0 +1,78 @@
+type dummy.ObjectiveGoldTrish {
+  annotations {
+    string CriminalBlackConsuelo {
+    }
+    serviceid_number TightAzureLira {
+    }
+    hidden_boolean AlrightBlushZahara {
+    }
+    number GladEmeraldTerza {
+    }
+    serviceid_number SlimGrayRuthi {
+    }
+  }
+  string BindingIndigoMignon {
+    _hidden_value = true
+  }
+  hidden_boolean MinimumOrangeCaroline {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean RawPurpleKarlotte {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean OverwhelmingMoccasinMiguelita {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string OverwhelmingOliveDina {
+    _hidden_value = true
+  }
+  serviceid_number CrudeYellowRosabelle {
+    _hidden_value = true
+  }
+  serviceid_number VocationalBlueLoria {
+    _hidden_value = true
+  }
+  json WonderfulWhiteNariko {
+    _hidden_value = true
+  }
+  boolean MetropolitanLimeFlory {
+    _hidden_value = true
+  }
+  number SymbolicSilverDorene {
+    _hidden_value = true
+  }
+  number ChillyBlushSilvana {
+    _hidden_value = true
+  }
+  boolean CrookedAmberKerri {
+    _hidden_value = true
+  }
+  hidden_boolean OrganisationalMoccasinMary {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  CriminalBlackConsuelo = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  TightAzureLira = 984
+  GladEmeraldTerza = 112
+  SlimGrayRuthi = 964
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "OverwhelmingMoccasinMiguelita"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "CrookedAmberKerri"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

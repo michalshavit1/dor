@@ -1,0 +1,66 @@
+type dummy.GenerousGrayAnabella {
+  annotations {
+    serviceid_number ScaredRoseCherlyn {
+    }
+    string ConstantBrownMarena {
+    }
+    hidden_boolean BrightAzureAlexandra {
+    }
+    serviceid_number BigMaroonDanika {
+    }
+    number BoldRedAngelle {
+    }
+    dummy.LegitimateBlushGoldie SympatheticAmberChristyna {
+    }
+    hidden_boolean VaryingTomatoDenna {
+    }
+  }
+  json FeministCrimsonLynde {
+    _hidden_value = true
+  }
+  dummy.PreparedChocolateVanny PreciseTurquoisePenelopa {
+    DampCrimsonDacia = 89
+    FlyingFuchsiaAlfreda = {
+      legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    }
+    ConceptualOrangeJana = "To be Frank, I'd have to change my name."
+    VividCyanShina = 79
+    _hidden_value = true
+  }
+  serviceid_number BrightBlueMindy {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SuitableTomatoEve {
+    _hidden_value = true
+  }
+  ScaredRoseCherlyn = 986
+  ConstantBrownMarena = "Slept like a log last night  woke up in the fireplace."
+  BigMaroonDanika = 581
+  BoldRedAngelle = 687
+  SympatheticAmberChristyna = "Why is Peter Pan always flying? Because he Neverlands."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "PreciseTurquoisePenelopa"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "SympatheticAmberChristyna"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "BigMaroonDanika"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "BrightAzureAlexandra"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

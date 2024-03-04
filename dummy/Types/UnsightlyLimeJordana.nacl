@@ -1,0 +1,55 @@
+type dummy.UnsightlyLimeJordana {
+  annotations {
+    serviceid SimilarSilverBrynn {
+    }
+    json WanderingSapphireLarisa {
+    }
+    json MysteriousGoldCathleen {
+    }
+    boolean CleanCrimsonPauli {
+    }
+    serviceid DefiniteYellowSabine {
+    }
+  }
+  json MultipleHarlequinKimberly {
+    _hidden_value = true
+  }
+  serviceid_number FlatMoccasinRonny {
+    _hidden_value = true
+  }
+  hidden_boolean AppallingIvoryTommie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean WorkingBeigeRubetta {
+    _hidden_value = true
+  }
+  string MarriedTomatoMaighdiln {
+    _hidden_value = true
+  }
+  serviceid RottenMoccasinEmily {
+    _hidden_value = true
+  }
+  json PrimitiveCopperLanna {
+    _hidden_value = true
+  }
+  SimilarSilverBrynn = "What do you call two barracuda fish?  A Pairacuda!"
+  WanderingSapphireLarisa = "Whoever invented the knock-knock joke should get a no bell prize."
+  MysteriousGoldCathleen = "How come the stadium got hot after the game? Because all of the fans left."
+  CleanCrimsonPauli = false
+  DefiniteYellowSabine = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "PrimitiveCopperLanna"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "RottenMoccasinEmily"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

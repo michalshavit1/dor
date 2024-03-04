@@ -1,0 +1,92 @@
+type dummy.SubstantialGoldTomasine {
+  annotations {
+    serviceid_number OccasionalBeigeAurelia {
+    }
+    dummy.PreparedChocolateVanny LevelPinkHelyn {
+    }
+    json MusicalSilverChristean {
+    }
+    json ManualBrownJosepha {
+    }
+    serviceid GrotesqueEmeraldJamima {
+    }
+    serviceid ProfoundIvoryElli {
+    }
+  }
+  hidden_boolean ClassicalApricotChlo {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid AttractiveSapphireHilary {
+    _hidden_value = true
+  }
+  number FunnyAzureBarbabra {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CapableVioletDody {
+    _hidden_value = true
+  }
+  boolean OralScarletDevina {
+    _hidden_value = true
+  }
+  string AncientMagentaSal {
+    _hidden_value = true
+  }
+  serviceid_number UrgentMaroonMirelle {
+    _hidden_value = true
+  }
+  serviceid ReadyBlueMarielle {
+    _hidden_value = true
+  }
+  serviceid LegislativeBrownBernelle {
+    _hidden_value = true
+  }
+  json GlobalSilverKimmie {
+    _hidden_value = true
+  }
+  serviceid PresidentialBeigeLorena {
+    _hidden_value = true
+  }
+  dummy.DEFAULT VerbalLavenderIsabelle {
+    _hidden_value = true
+  }
+  "List<dummy.DEFAULT>" UnableMaroonBridgette {
+    _hidden_value = true
+  }
+  boolean QuaintAmberRani {
+    _hidden_value = true
+  }
+  number BoldCrimsonJessy {
+    _hidden_value = true
+  }
+  hidden_boolean MarxistVioletTed {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  OccasionalBeigeAurelia = 681
+  LevelPinkHelyn = true
+  MusicalSilverChristean = "What do you do on a remote island? Try and find the TV island it belongs to."
+  ManualBrownJosepha = "A steak pun is a rare medium well done."
+  GrotesqueEmeraldJamima = "Whoever invented the knock-knock joke should get a no bell prize."
+  ProfoundIvoryElli = "Why is Peter Pan always flying? Because he Neverlands."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "MusicalSilverChristean"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "GrotesqueEmeraldJamima"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ProfoundIvoryElli"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

@@ -1,0 +1,20 @@
+type dummy.QualifiedHarlequinJolee is number {
+  annotations {
+    dummy.DEFAULT ConvenientSalmonKristin {
+    }
+    dummy.DEFAULT ArmedYellowAmeline {
+    }
+    boolean ShiveringCoffeePammy {
+    }
+    json CasualEmeraldEmilee {
+    }
+  }
+  ConvenientSalmonKristin = {
+    legit = "What do you call two barracuda fish?  A Pairacuda!"
+  }
+  ArmedYellowAmeline = {
+    legit = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  }
+  ShiveringCoffeePammy = false
+  CasualEmeraldEmilee = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+}

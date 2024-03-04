@@ -1,0 +1,25 @@
+type dummy.AppallingOliveFreddy {
+  annotations {
+    number TastyJadeMaddalena {
+    }
+    number YouthfulTurquoiseGigi {
+    }
+    number ApplicableBlushRonny {
+    }
+    hidden_boolean SubstantialFuchsiaNichole {
+    }
+    json InvisibleSalmonAbagael {
+    }
+    json CrazySalmonLeigh {
+    }
+  }
+  string UptightScarletKala {
+    _hidden_value = true
+  }
+  TastyJadeMaddalena = 202
+  YouthfulTurquoiseGigi = 433
+  ApplicableBlushRonny = 840
+  InvisibleSalmonAbagael = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  CrazySalmonLeigh = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+}

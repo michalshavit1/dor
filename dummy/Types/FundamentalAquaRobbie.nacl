@@ -1,0 +1,147 @@
+type dummy.FundamentalAquaRobbie {
+  annotations {
+    hidden_boolean ToryAquamarineLynde {
+    }
+    serviceid_number ProvincialMoccasinZsazsa {
+    }
+    serviceid_number FondLavenderAnnamarie {
+    }
+    hidden_boolean TotalSalmonMalina {
+    }
+    string IdenticalHarlequinFlorencia {
+    }
+    json SwiftBlackBarbi {
+    }
+  }
+  string RenewedBeigeJacquetta {
+    _hidden_value = true
+  }
+  string AddedPlumLou {
+    _hidden_value = true
+  }
+  string RapidFuchsiaNert {
+    _hidden_value = true
+  }
+  number NeutralWhiteBonny {
+    _hidden_value = true
+  }
+  serviceid PanickyPeachJana {
+    _hidden_value = true
+  }
+  hidden_boolean PastFuchsiaElianora {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid EntitledCoffeeHeddie {
+    _hidden_value = true
+  }
+  boolean ExtraordinaryTomatoVivia {
+    _hidden_value = true
+  }
+  hidden_boolean FastIvoryLynea {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json NegativeMaroonBrina {
+    _hidden_value = true
+  }
+  string LovelyAquaDarell {
+    _hidden_value = true
+  }
+  serviceid_number ConcernedBrownIlyse {
+    _hidden_value = true
+  }
+  number StiffYellowArdys {
+    _hidden_value = true
+  }
+  hidden_boolean ObligedOrangeMireielle {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean HistoricAzureLola {
+    _hidden_value = true
+  }
+  serviceid FascinatingBlueLeisha {
+    _hidden_value = true
+  }
+  dummy.DelightedVioletLiv DelicateCoffeeLeah {
+    PartialApricotRodie = "Slept like a log last night  woke up in the fireplace."
+    ChiefRoseSadie = "Slept like a log last night  woke up in the fireplace."
+    UpsetAquaLyndsay = "A steak pun is a rare medium well done."
+    PsychologicalMagentaFidelity = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    AdministrativeAmaranthMaighdiln = 930
+    SoundJadeUlrica = false
+    ExuberantOliveCleopatra = "What do you call two barracuda fish?  A Pairacuda!"
+    DemocraticAmaranthJanaya = false
+    FlyingAquamarineCristionna = "What do you do on a remote island? Try and find the TV island it belongs to."
+    GrotesqueTanRonni = 174
+    DutchPinkAnnice = "Im only familiar with 25 letters in the English language. I dont know why."
+    _hidden_value = true
+  }
+  hidden_boolean RelativeAmaranthSena {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean RepresentativeChocolateAnjanette {
+    _hidden_value = true
+  }
+  dummy.LatinHarlequinDarbie NetSalmonKalli {
+    UnnecessarySalmonScarlett = false
+    ElatedBlackVeronike = 90
+    SlipperySalmonDaisy = 665
+    SwiftBlushMeryl = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    WholeSapphireShirlee = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    AdditionalCrimsonPaulita = true
+    CrucialHarlequinDorri = "Slept like a log last night  woke up in the fireplace."
+    UnevenTurquoiseJodie = {
+      legit = "Why is Peter Pan always flying? Because he Neverlands."
+    }
+    PsychologicalMaroonLetisha = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    FrozenPurpleTrula = "I'll tell you what often gets over looked... garden fences."
+    CourageousPlumJane = "Why did the kid cross the playground? To get to the other slide."
+    HiddenMagentaRonica = "Why is Peter Pan always flying? Because he Neverlands."
+    WorthyAmethystGiorgia = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    RichApricotEvita = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    NervousSalmonSashenka = "Why do birds fly south for the winter? Because it's too far to walk."
+    TenderFuchsiaElly = {
+      legit = "Why do birds fly south for the winter? Because it's too far to walk."
+    }
+    RespectableYellowJanet = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    ChangingCoralVanni = false
+    AmusedLavenderJenine = 154
+    ExcessiveTurquoiseDorothee = 529
+    PrimitiveApricotVilma = true
+    WorthwhileIvoryShanda = 666
+    ComprehensivePurpleKerstin = "Why didnt the skeleton cross the road? Because he had no guts."
+    CorrespondingTurquoiseAdi = "Why do birds fly south for the winter? Because it's too far to walk."
+    _hidden_value = true
+  }
+  ProvincialMoccasinZsazsa = 951
+  FondLavenderAnnamarie = 928
+  IdenticalHarlequinFlorencia = "To be Frank, I'd have to change my name."
+  SwiftBlackBarbi = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "NegativeMaroonBrina"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "AddedPlumLou"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ToryAquamarineLynde"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

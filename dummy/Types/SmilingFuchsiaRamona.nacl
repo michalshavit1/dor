@@ -1,0 +1,36 @@
+type dummy.SmilingFuchsiaRamona {
+  annotations {
+    hidden_boolean StraightAmberMarga {
+    }
+    hidden_boolean BloodyBronzeShay {
+    }
+    boolean EstimatedAmethystTim {
+    }
+    serviceid HugeAzureBrooke {
+    }
+    serviceid RationalAzureElene {
+    }
+    boolean PlasticFuchsiaSandye {
+    }
+  }
+  dummy.DEFAULT ReliableIndigoAllis {
+    _hidden_value = true
+  }
+  EstimatedAmethystTim = true
+  HugeAzureBrooke = "Slept like a log last night  woke up in the fireplace."
+  RationalAzureElene = "Why did the tomato blush? Because it saw the salad dressing."
+  PlasticFuchsiaSandye = true
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "StraightAmberMarga"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "HugeAzureBrooke"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

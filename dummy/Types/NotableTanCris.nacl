@@ -1,0 +1,119 @@
+type dummy.NotableTanCris {
+  annotations {
+    dummy.DEFAULT GoverningCrimsonSaidee {
+    }
+    string CapablePeachHenryetta {
+    }
+    dummy.LatinHarlequinDarbie ProposedAmethystLaurianne {
+    }
+    number FashionableSalmonChickie {
+    }
+    string UniqueWhiteHadria {
+    }
+  }
+  number ModernTomatoBetsy {
+    _hidden_value = true
+  }
+  string SubstantialCopperCornelle {
+    _hidden_value = true
+  }
+  dummy.MaleVioletLari PlasticBlackClaribel {
+    ComprehensiveAmaranthGenna = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    CompetitiveTomatoLezlie = 473
+    WelcomeBlackDora = "Im only familiar with 25 letters in the English language. I dont know why."
+    SeriousSilverCaroljean = "Whoever invented the knock-knock joke should get a no bell prize."
+    EvilWhiteAustin = 641
+    StrategicOrangeHarriott = "What do you call two barracuda fish?  A Pairacuda!"
+    FrightenedPinkCatlee = 353
+    _hidden_value = true
+  }
+  boolean MixedTomatoPhaedra {
+    _hidden_value = true
+  }
+  "List<json>" GoodPinkRomy {
+    _hidden_value = true
+  }
+  hidden_boolean HeavyLimeAbagael {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid AgreedPinkLenee {
+    _hidden_value = true
+  }
+  serviceid EarlyOliveMarysa {
+    _hidden_value = true
+  }
+  serviceid_number WastefulAmethystKizzee {
+    _hidden_value = true
+  }
+  dummy.DelightedVioletLiv SpicyRedJonie {
+    PartialApricotRodie = "A steak pun is a rare medium well done."
+    ChiefRoseSadie = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    UpsetAquaLyndsay = "My first time using an elevator was an uplifting experience. The second time let me down."
+    PsychologicalMagentaFidelity = "Why is Peter Pan always flying? Because he Neverlands."
+    AdministrativeAmaranthMaighdiln = 376
+    SoundJadeUlrica = true
+    ExuberantOliveCleopatra = "Whoever invented the knock-knock joke should get a no bell prize."
+    DemocraticAmaranthJanaya = true
+    FlyingAquamarineCristionna = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    GrotesqueTanRonni = 921
+    DutchPinkAnnice = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    _hidden_value = true
+  }
+  json StandardCyanMoria {
+    _hidden_value = true
+  }
+  serviceid_number SymbolicBlushLillian {
+    _hidden_value = true
+  }
+  json SparklingGoldRici {
+    _hidden_value = true
+  }
+  boolean NastyTurquoiseNoni {
+    _hidden_value = true
+  }
+  json SolarAzureDevonne {
+    _hidden_value = true
+  }
+  json WellGoldKatti {
+    _hidden_value = true
+  }
+  GoverningCrimsonSaidee = {
+    legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  CapablePeachHenryetta = "A steak pun is a rare medium well done."
+  ProposedAmethystLaurianne = 347
+  FashionableSalmonChickie = 260
+  UniqueWhiteHadria = "Why is Peter Pan always flying? Because he Neverlands."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "WellGoldKatti"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "PlasticBlackClaribel"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "StandardCyanMoria"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ProposedAmethystLaurianne"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "GoverningCrimsonSaidee"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,71 @@
+type dummy.UnsightlyApricotElectra {
+  annotations {
+    json FellowAzureSibella {
+    }
+    serviceid_number ClearGoldFernandina {
+    }
+    number OverallIndigoBilly {
+    }
+    serviceid ImaginativeVioletMichaelina {
+    }
+    hidden_boolean TropicalLavenderAlix {
+    }
+    serviceid_number MobileAquaEilis {
+    }
+  }
+  serviceid ImaginativeSapphireDevina {
+    _hidden_value = true
+  }
+  serviceid SlimTealCatie {
+    _hidden_value = true
+  }
+  "Map<hidden_boolean>" SuddenFuchsiaBiddy {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json WorriedGoldMommy {
+    _hidden_value = true
+  }
+  serviceid ResonantCrimsonRosamund {
+    _hidden_value = true
+  }
+  string ConservationAquamarineCornie {
+    _hidden_value = true
+  }
+  boolean ColourfulBlueEtty {
+    _hidden_value = true
+  }
+  serviceid FatGrayYasmin {
+    _hidden_value = true
+  }
+  serviceid_number MainCopperSherye {
+    _hidden_value = true
+  }
+  serviceid YieldingOliveNatividad {
+    _hidden_value = true
+  }
+  FellowAzureSibella = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ClearGoldFernandina = 975
+  OverallIndigoBilly = 35
+  ImaginativeVioletMichaelina = "A steak pun is a rare medium well done."
+  MobileAquaEilis = 276
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "ClearGoldFernandina"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "MobileAquaEilis"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "OverallIndigoBilly"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

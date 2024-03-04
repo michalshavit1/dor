@@ -1,0 +1,73 @@
+type dummy.PastScarletAnnabelle {
+  annotations {
+    number ScatteredTurquoiseMadeline {
+    }
+    json AbstractAmethystDarcy {
+    }
+    serviceid_number FrailTomatoOlympie {
+    }
+  }
+  number XenaciousCoralGlenine {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ImpressedAzureAmii {
+    _hidden_value = true
+  }
+  json SimilarCrimsonMarcelia {
+    _hidden_value = true
+  }
+  serviceid GreasyBeigeRobbin {
+    _hidden_value = true
+  }
+  dummy.DEFAULT GlobalIvoryBrigitta {
+    _hidden_value = true
+  }
+  number FrequentAmaranthBamby {
+    _hidden_value = true
+  }
+  boolean ZygoticGrayTamarah {
+    _hidden_value = true
+  }
+  dummy.DEFAULT MarriedEmeraldEdi {
+    _hidden_value = true
+  }
+  string HotTomatoStacey {
+    _hidden_value = true
+  }
+  string UniformGrayBrittan {
+    _hidden_value = true
+  }
+  hidden_boolean BackTomatoKatya {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean PoliticalOrangeBarbey {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  ScatteredTurquoiseMadeline = 359
+  AbstractAmethystDarcy = "Why is Peter Pan always flying? Because he Neverlands."
+  FrailTomatoOlympie = 30
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "BackTomatoKatya"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "GreasyBeigeRobbin"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "FrailTomatoOlympie"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

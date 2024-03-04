@@ -1,0 +1,112 @@
+type dummy.HiddenGoldDamita {
+  annotations {
+    boolean InsufficientRoseFawne {
+    }
+    json LexicalIvoryPippa {
+    }
+    string FoolishAmaranthRhona {
+    }
+    serviceid ArrogantSalmonBerny {
+    }
+  }
+  serviceid SevereGreenHinda {
+    _hidden_value = true
+  }
+  hidden_boolean FullFuchsiaAviva {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<json>" RationalGoldSibilla {
+    _hidden_value = true
+  }
+  number LabourLavenderBenni {
+    _hidden_value = true
+  }
+  json GrossCrimsonCharmaine {
+    _hidden_value = true
+  }
+  serviceid NastyBronzeKathye {
+    _hidden_value = true
+  }
+  json DependentHarlequinGwennie {
+    _hidden_value = true
+  }
+  serviceid IntactEmeraldAlexina {
+    _hidden_value = true
+  }
+  boolean MathematicalTurquoiseDahlia {
+    _hidden_value = true
+  }
+  "List<json>" IndependentPurpleTabbatha {
+    _hidden_value = true
+  }
+  dummy.NervousCyanBlisse MistyCrimsonCarolan {
+    _hidden_value = true
+  }
+  serviceid_number FlatRedSamaria {
+    _hidden_value = true
+  }
+  serviceid ToughApricotMarieann {
+    _hidden_value = true
+  }
+  number SolidApricotAlika {
+    _hidden_value = true
+  }
+  string FashionableChocolateAdela {
+    _hidden_value = true
+  }
+  number DeliciousVioletAmargo {
+    _hidden_value = true
+  }
+  serviceid RobustAzureConstantina {
+    _hidden_value = true
+  }
+  serviceid_number ModerateLavenderAshlee {
+    _hidden_value = true
+  }
+  InsufficientRoseFawne = true
+  LexicalIvoryPippa = "What do you call two barracuda fish?  A Pairacuda!"
+  FoolishAmaranthRhona = "Why is Peter Pan always flying? Because he Neverlands."
+  ArrogantSalmonBerny = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "RobustAzureConstantina"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "FashionableChocolateAdela"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "MistyCrimsonCarolan"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "SevereGreenHinda"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "MathematicalTurquoiseDahlia"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "RationalGoldSibilla"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "FoolishAmaranthRhona"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

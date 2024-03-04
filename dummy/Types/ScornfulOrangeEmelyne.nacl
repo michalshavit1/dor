@@ -1,0 +1,50 @@
+type dummy.ScornfulOrangeEmelyne {
+  annotations {
+    json StaticTealBrook {
+    }
+    string SimilarAmberLeone {
+    }
+    boolean CompulsoryBronzeSammy {
+    }
+    json TopScarletIolanthe {
+    }
+  }
+  serviceid TestyVioletDiann {
+    _hidden_value = true
+  }
+  boolean ZerothAmaranthAbbie {
+    _hidden_value = true
+  }
+  number AlliedGreenSelma {
+    _hidden_value = true
+  }
+  string YoungestLimeRebecca {
+    _hidden_value = true
+  }
+  serviceid_number VaryingTealMalia {
+    _hidden_value = true
+  }
+  hidden_boolean BrokenCrimsonVerine {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT PoliteBlackBettye {
+    _hidden_value = true
+  }
+  hidden_boolean UrbanPeachIona {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean ClassicalPurpleOrelle {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  StaticTealBrook = "Dad Im hungry  Hi hungry Im dad"
+  SimilarAmberLeone = "Why didnt the skeleton cross the road? Because he had no guts."
+  CompulsoryBronzeSammy = false
+  TopScarletIolanthe = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+}

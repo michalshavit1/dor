@@ -1,0 +1,27 @@
+type dummy.YuckyCoffeeRoby {
+  annotations {
+    string SeniorCoralTorie {
+    }
+    string UncertainCrimsonLelia {
+    }
+    number ElderlyLimeDelcina {
+    }
+    hidden_boolean DryPurpleKellina {
+    }
+    hidden_boolean ChubbyLimeKristy {
+    }
+    serviceid HorizontalAquaEran {
+    }
+    serviceid_number MilitaryAquaCarmine {
+    }
+  }
+  serviceid_number NeighbouringAzureDonella {
+    _hidden_value = true
+  }
+  SeniorCoralTorie = "My first time using an elevator was an uplifting experience. The second time let me down."
+  UncertainCrimsonLelia = "Why do birds fly south for the winter? Because it's too far to walk."
+  ElderlyLimeDelcina = 384
+  HorizontalAquaEran = "What creature is smarter than a talking parrot? A spelling bee."
+  MilitaryAquaCarmine = 880
+  _hidden_value = true
+}

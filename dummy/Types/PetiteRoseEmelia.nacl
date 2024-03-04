@@ -1,0 +1,36 @@
+type dummy.PetiteRoseEmelia {
+  annotations {
+    dummy.DEFAULT CriminalIndigoAlysa {
+    }
+    hidden_boolean JollyAzureMead {
+    }
+    string ConfidentWhiteMarta {
+    }
+  }
+  serviceid TeenageJadeBrunhilde {
+    _hidden_value = true
+  }
+  serviceid_number SupportingIndigoEmmaline {
+    _hidden_value = true
+  }
+  hidden_boolean FuzzyOliveGretchen {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number DistinctiveIvoryTory {
+    _hidden_value = true
+  }
+  CriminalIndigoAlysa = {
+    legit = "Slept like a log last night  woke up in the fireplace."
+  }
+  ConfidentWhiteMarta = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "JollyAzureMead"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

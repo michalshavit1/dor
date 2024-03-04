@@ -1,0 +1,25 @@
+type dummy.NutritiousCoffeeLiesa {
+  annotations {
+    number AbundantGreenDenny {
+    }
+    number VoluntaryRedMiguelita {
+    }
+    serviceid_number MereTurquoiseOdelle {
+    }
+  }
+  number HurtCopperBev {
+    _hidden_value = true
+  }
+  number SmartBrownBlinny {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" RomanticAzureAudre {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  AbundantGreenDenny = 669
+  VoluntaryRedMiguelita = 581
+  MereTurquoiseOdelle = 303
+  _hidden_value = true
+}

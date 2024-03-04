@@ -1,0 +1,94 @@
+type dummy.ViciousLimeNady {
+  annotations {
+    hidden_boolean CausalTanJaquith {
+    }
+    serviceid IntimateBronzeCindy {
+    }
+    json FemaleChocolateGwenore {
+    }
+    hidden_boolean WateryCyanLaurel {
+    }
+    json CautiousCoralCatharine {
+    }
+    hidden_boolean FlatTealAnnie {
+    }
+    number IntelligentBlackCecilia {
+    }
+  }
+  json GrimMoccasinAnitra {
+    _hidden_value = true
+  }
+  serviceid_number RepresentativeTurquoiseKrista {
+    _hidden_value = true
+  }
+  string StructuralJadeJunia {
+    _hidden_value = true
+  }
+  string TallAquamarineRose {
+    _hidden_value = true
+  }
+  serviceid TopLimeMerl {
+    _hidden_value = true
+  }
+  "List<dummy.DEFAULT>" LegalVioletAmity {
+    _hidden_value = true
+  }
+  serviceid_number RepresentativeGoldChantalle {
+    _hidden_value = true
+  }
+  boolean RareBeigeDevora {
+    _hidden_value = true
+  }
+  dummy.IndependentOliveClaudetta RearJadeMandy {
+    WelcomeCoffeeRanique = 837
+    ActualVioletRozelle = 728
+    DearOrangeBobbe = "I'll tell you what often gets over looked... garden fences."
+    UninterestedTanMaddi = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    EventualLavenderFern = true
+    ManagerialAquaMeagan = true
+    UnconsciousAmaranthSuzie = {
+      legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+    }
+    TastyMagentaAnnice = true
+    InadequateChocolateAnnmarie = 733
+    UnconsciousLavenderArdelle = "Why was it called the dark ages? Because of all the knights. "
+    _hidden_value = true
+  }
+  string ShrillMagentaSascha {
+    _hidden_value = true
+  }
+  dummy.DEFAULT XenialBlueZola {
+    _hidden_value = true
+  }
+  serviceid AutomaticTurquoiseThelma {
+    _hidden_value = true
+  }
+  serviceid AgreedPlumBriana {
+    _hidden_value = true
+  }
+  boolean NakedVioletElysee {
+    _hidden_value = true
+  }
+  serviceid ManagerialBlueRobinia {
+    _hidden_value = true
+  }
+  number ColourfulAmaranthTaffy {
+    _hidden_value = true
+  }
+  IntimateBronzeCindy = "Why did the kid cross the playground? To get to the other slide."
+  FemaleChocolateGwenore = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  CautiousCoralCatharine = '''
+Why is Peter Pan always flying? Because he Neverlands.
+Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor.
+Why do birds fly south for the winter? Because it's too far to walk.
+'''
+  IntelligentBlackCecilia = 41
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "XenialBlueZola"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,74 @@
+type dummy.IncreasedOliveSuzanna {
+  annotations {
+    hidden_boolean ConvenientMagentaRosella {
+    }
+    boolean RespectableCrimsonFelicity {
+    }
+    string WeakGrayGuillema {
+    }
+    boolean LateVioletKirby {
+    }
+    string WickedRedAlyss {
+    }
+  }
+  boolean AgreedBlushWilie {
+    _hidden_value = true
+  }
+  number EmotionalGoldTammy {
+    _hidden_value = true
+  }
+  string RepresentativeApricotValerye {
+    _hidden_value = true
+  }
+  hidden_boolean FrontOrangeDenys {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number PaleCrimsonFlossie {
+    _hidden_value = true
+  }
+  hidden_boolean RudeHarlequinDennie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.ThoughtfulRedElka CloseBeigeAlayne {
+    PrimitiveTealSissie = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    SystematicOrangeSallee = "How come the stadium got hot after the game? Because all of the fans left."
+    AutonomousGoldCaye = "Im only familiar with 25 letters in the English language. I dont know why."
+    EventualSalmonAveril = "A steak pun is a rare medium well done."
+    XenophobicBronzeGayleen = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    _hidden_value = true
+  }
+  number AccusedCopperFlor {
+    _hidden_value = true
+  }
+  serviceid_number RelatedCrimsonLaurie {
+    _hidden_value = true
+  }
+  serviceid_number MeaningfulChocolateInna {
+    _hidden_value = true
+  }
+  string EvidentBrownWillette {
+    _hidden_value = true
+  }
+  string UniversalAmaranthDael {
+    _hidden_value = true
+  }
+  string CertainIndigoSheilah {
+    _hidden_value = true
+  }
+  RespectableCrimsonFelicity = true
+  WeakGrayGuillema = "Im only familiar with 25 letters in the English language. I dont know why."
+  LateVioletKirby = false
+  WickedRedAlyss = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "FrontOrangeDenys"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

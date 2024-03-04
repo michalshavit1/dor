@@ -1,0 +1,139 @@
+type dummy.GeneralCyanSusanetta {
+  annotations {
+    json EmbarrassedApricotDonnie {
+    }
+    serviceid ZonalWhiteInesita {
+    }
+    json SafeLavenderDaloris {
+    }
+    dummy.DEFAULT CollectiveBeigeLorilyn {
+    }
+  }
+  number AttractiveCrimsonValli {
+    _hidden_value = true
+  }
+  serviceid_number GrowingPinkRobbie {
+    _hidden_value = true
+  }
+  hidden_boolean EligibleBlushRosanna {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean ExtremeVioletBilly {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean PoliticalScarletHortense {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean ConstantApricotDanyelle {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean NativeTurquoiseJennette {
+    _hidden_value = true
+  }
+  number InstantTurquoiseChrystal {
+    _hidden_value = true
+  }
+  dummy.GentleScarletAlbina UnwillingBrownLaney {
+    CorrespondingAmberAmelita = "Why didnt the skeleton cross the road? Because he had no guts."
+    ProvincialTanCandi = "Why is Peter Pan always flying? Because he Neverlands."
+    FlakyCopperAlexandrina = "To be Frank, I'd have to change my name."
+    ObviousOliveAnthe = 872
+    DeliciousLimeAinsley = "Dad Im hungry  Hi hungry Im dad"
+    AlliedTurquoiseKori = {
+      legit = "Why was it called the dark ages? Because of all the knights. "
+    }
+    NastyPlumAsia = "Slept like a log last night  woke up in the fireplace."
+    EnergeticSapphireLoutitia = 366
+    LogicalCyanDayle = false
+    DefiantSilverGerrilee = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    InterimFuchsiaGaynor = 801
+    SupposedPinkDaryl = "Im only familiar with 25 letters in the English language. I dont know why."
+    GoverningAquaDiana = {
+      legit = "Why was it called the dark ages? Because of all the knights. "
+    }
+    SymbolicAmethystIlise = "My first time using an elevator was an uplifting experience. The second time let me down."
+    PartialChocolateAngelique = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    PureLimeGiuditta = 820
+    SmoothJadeJania = "A steak pun is a rare medium well done."
+    FirmGreenHortense = "Did you know that protons have mass? I didn't even know they were catholic."
+    _hidden_value = true
+  }
+  serviceid RudeOliveLivia {
+    _hidden_value = true
+  }
+  boolean WilfulBlackCharmane {
+    _hidden_value = true
+  }
+  serviceid HomelessHarlequinKiri {
+    _hidden_value = true
+  }
+  boolean SoreGoldCatlin {
+    _hidden_value = true
+  }
+  number StraightAquaJeannette {
+    _hidden_value = true
+  }
+  number IndirectAquamarineLucine {
+    _hidden_value = true
+  }
+  dummy.DEFAULT GrossCrimsonAdelice {
+    _hidden_value = true
+  }
+  serviceid AttractiveSilverHermina {
+    _hidden_value = true
+  }
+  "List<json>" ImprovedApricotAryn {
+    _hidden_value = true
+  }
+  serviceid ConceptualLimeMilka {
+    _hidden_value = true
+  }
+  string SquareJadeDoro {
+    _hidden_value = true
+  }
+  json ControversialApricotGeorgeta {
+    _hidden_value = true
+  }
+  serviceid PunyFuchsiaJacquenette {
+    _hidden_value = true
+  }
+  EmbarrassedApricotDonnie = "Why was it called the dark ages? Because of all the knights. "
+  ZonalWhiteInesita = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  SafeLavenderDaloris = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  CollectiveBeigeLorilyn = {
+    legit = "What do you call two barracuda fish?  A Pairacuda!"
+  }
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ControversialApricotGeorgeta"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ImprovedApricotAryn"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "PoliticalScarletHortense"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "CollectiveBeigeLorilyn"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

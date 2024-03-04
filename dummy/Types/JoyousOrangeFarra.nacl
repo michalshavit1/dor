@@ -1,0 +1,47 @@
+type dummy.JoyousOrangeFarra {
+  annotations {
+    boolean RainyPeachGladi {
+    }
+    serviceid_number ExplicitLimeFredra {
+    }
+    number ThirstyBlueEdin {
+    }
+    serviceid_number SkinnyMaroonPaloma {
+    }
+    serviceid_number EnvironmentalCrimsonOdelinda {
+    }
+    boolean DepressedLimeKatalin {
+    }
+  }
+  number ImpressedCopperTheressa {
+    _hidden_value = true
+  }
+  string HorizontalFuchsiaAnn {
+    _hidden_value = true
+  }
+  number ArchitecturalBeigeCelestine {
+    _hidden_value = true
+  }
+  serviceid_number IndirectTurquoiseYolane {
+    _hidden_value = true
+  }
+  RainyPeachGladi = false
+  ExplicitLimeFredra = 617
+  ThirstyBlueEdin = 967
+  SkinnyMaroonPaloma = 116
+  EnvironmentalCrimsonOdelinda = 453
+  DepressedLimeKatalin = true
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "RainyPeachGladi"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ThirstyBlueEdin"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

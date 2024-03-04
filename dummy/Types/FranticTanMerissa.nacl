@@ -1,0 +1,125 @@
+type dummy.FranticTanMerissa {
+  annotations {
+    boolean YelpingWhiteLenna {
+    }
+    number HelplessCopperKynthia {
+    }
+    serviceid_number DetailedBeigeCelia {
+    }
+    serviceid_number SkinnyEmeraldJolene {
+    }
+  }
+  "List<dummy.DEFAULT>" ColonialCyanCaterina {
+    _hidden_value = true
+  }
+  boolean SmallAquamarineCalida {
+    _hidden_value = true
+  }
+  number PassiveChocolateMab {
+    _hidden_value = true
+  }
+  "List<dummy.DEFAULT>" ZanyWhiteDorise {
+    _hidden_value = true
+  }
+  serviceid_number ReluctantPinkGiuditta {
+    _hidden_value = true
+  }
+  serviceid_number YabberingMoccasinDavita {
+    _hidden_value = true
+  }
+  json EvolutionaryLimeKristen {
+    _hidden_value = true
+  }
+  number ResonantAmberConchita {
+    _hidden_value = true
+  }
+  serviceid_number EmbarrassingTurquoiseCortney {
+    _hidden_value = true
+  }
+  hidden_boolean ClassicApricotMirelle {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT GeneralSilverDorothee {
+    _hidden_value = true
+  }
+  boolean ContinuedRoseBerthe {
+    _hidden_value = true
+  }
+  serviceid_number MonetaryBrownNicoline {
+    _hidden_value = true
+  }
+  serviceid ProgressiveTurquoiseTani {
+    _hidden_value = true
+  }
+  hidden_boolean CheerfulYellowNatividad {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json AccurateRedSibylla {
+    _hidden_value = true
+  }
+  serviceid_number SolidCopperPatsy {
+    _hidden_value = true
+  }
+  hidden_boolean AdjacentChocolateOlivette {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number SoreFuchsiaMyrtle {
+    _hidden_value = true
+  }
+  json ArtificialMoccasinStarla {
+    _hidden_value = true
+  }
+  number VeryTanScarlett {
+    _hidden_value = true
+  }
+  dummy.NeighbouringGrayGusty NakedYellowBarbara {
+    SportingTurquoiseFrancene = "Why did the tomato blush? Because it saw the salad dressing."
+    PlainGoldBirgitta = "What did one nut say as he chased another nut?  I'm a cashew!"
+    MeltedIvoryStephenie = "I'll tell you what often gets over looked... garden fences."
+    HurtMoccasinLudovika = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    FinalEmeraldShaylyn = 190
+    LinguisticBlushMerry = 787
+    ExcitedCyanLorrie = 965
+    ComplexTanGodiva = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    VariousOrangeMariele = 254
+    EvilJadeQueenie = 532
+    ProudOrangePenny = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    SouthernLimeCookie = 200
+    VictoriousEmeraldBerget = false
+    CorrespondingAquamarineSilvie = "What did one nut say as he chased another nut?  I'm a cashew!"
+    IntermediateBlushClaudina = "A steak pun is a rare medium well done."
+    HorizontalSapphireBernette = true
+    OverallScarletNicki = {
+      legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    }
+    SpareLimeShelba = "What did one nut say as he chased another nut?  I'm a cashew!"
+    RelevantRoseHannis = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    InterimMaroonRebe = 958
+    MechanicalAmberLib = false
+    CompactSapphireLetti = {
+      legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+    }
+    WiseBlushIlysa = "I'll tell you what often gets over looked... garden fences."
+    CalmGoldAnnmarie = true
+    TraditionalTealAddie = false
+    _hidden_value = true
+  }
+  YelpingWhiteLenna = false
+  HelplessCopperKynthia = 845
+  DetailedBeigeCelia = 828
+  SkinnyEmeraldJolene = 224
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ArtificialMoccasinStarla"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

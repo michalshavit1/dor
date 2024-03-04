@@ -1,0 +1,170 @@
+type dummy.ClassicRedKamillah {
+  annotations {
+    number GeographicalRedAurel {
+    }
+    serviceid_number GlamorousPeachGabey {
+    }
+    serviceid VaryingOrangeSonny {
+    }
+    string ProudMoccasinDelores {
+    }
+    serviceid IncreasingTanLauryn {
+    }
+  }
+  dummy.NeighbouringGrayGusty BrilliantPeachOndrea {
+    SportingTurquoiseFrancene = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    PlainGoldBirgitta = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    MeltedIvoryStephenie = "Why is Peter Pan always flying? Because he Neverlands."
+    HurtMoccasinLudovika = "Why was it called the dark ages? Because of all the knights. "
+    FinalEmeraldShaylyn = 577
+    LinguisticBlushMerry = 220
+    ExcitedCyanLorrie = 840
+    ComplexTanGodiva = "How come the stadium got hot after the game? Because all of the fans left."
+    VariousOrangeMariele = 342
+    EvilJadeQueenie = 811
+    ProudOrangePenny = "A steak pun is a rare medium well done."
+    SouthernLimeCookie = 276
+    VictoriousEmeraldBerget = false
+    CorrespondingAquamarineSilvie = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    IntermediateBlushClaudina = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    HorizontalSapphireBernette = false
+    OverallScarletNicki = {
+      legit = "Whoever invented the knock-knock joke should get a no bell prize."
+    }
+    SpareLimeShelba = "Why did the kid cross the playground? To get to the other slide."
+    RelevantRoseHannis = "Slept like a log last night  woke up in the fireplace."
+    InterimMaroonRebe = 901
+    MechanicalAmberLib = true
+    CompactSapphireLetti = {
+      legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    }
+    WiseBlushIlysa = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    CalmGoldAnnmarie = false
+    TraditionalTealAddie = true
+    _hidden_value = true
+  }
+  json RedundantSapphireEtti {
+    _hidden_value = true
+  }
+  boolean ParticularScarletEleonore {
+    _hidden_value = true
+  }
+  string HistoricalPinkBelinda {
+    _hidden_value = true
+  }
+  serviceid FuzzyVioletPetronia {
+    _hidden_value = true
+  }
+  json SharpRedSarah {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" ForthcomingCrimsonNikaniki {
+    _hidden_value = true
+  }
+  hidden_boolean HonIndigoBerna {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json FlexibleIndigoAlikee {
+    _hidden_value = true
+  }
+  number DizzyAmethystJacklyn {
+    _hidden_value = true
+  }
+  json DisciplinaryPinkMarti {
+    _hidden_value = true
+  }
+  hidden_boolean DeepHarlequinKaylil {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean LonelyCyanKiley {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number MiddleMaroonOpal {
+    _hidden_value = true
+  }
+  number OppositeBronzeSalli {
+    _hidden_value = true
+  }
+  serviceid_number XenialApricotDell {
+    _hidden_value = true
+  }
+  serviceid_number EvidentWhiteGuglielma {
+    _hidden_value = true
+  }
+  "List<boolean>" ImplicitChocolateMalinda {
+    _hidden_value = true
+  }
+  string YearlingCoffeeEllie {
+    _hidden_value = true
+  }
+  number CurlyBlushStephie {
+    _hidden_value = true
+  }
+  serviceid_number FrontAmaranthHildegarde {
+    _hidden_value = true
+  }
+  hidden_boolean ComingPinkNariko {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string JollyMoccasinSeka {
+    _hidden_value = true
+  }
+  serviceid DualLavenderZarla {
+    _hidden_value = true
+  }
+  serviceid_number ConstitutionalBlueMair {
+    _hidden_value = true
+  }
+  serviceid_number CommunistChocolateCelinda {
+    _hidden_value = true
+  }
+  serviceid DigitalCoffeeShirleen {
+    _hidden_value = true
+  }
+  GeographicalRedAurel = 809
+  GlamorousPeachGabey = 533
+  VaryingOrangeSonny = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ProudMoccasinDelores = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  IncreasingTanLauryn = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "LonelyCyanKiley"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "FlexibleIndigoAlikee"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "CurlyBlushStephie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "EvidentWhiteGuglielma"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "FrontAmaranthHildegarde"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ForthcomingCrimsonNikaniki"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

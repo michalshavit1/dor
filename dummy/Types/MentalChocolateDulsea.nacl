@@ -1,0 +1,127 @@
+type dummy.MentalChocolateDulsea {
+  annotations {
+    json HomelessSalmonDell {
+    }
+    dummy.DEFAULT ObnoxiousPlumClarissa {
+    }
+    hidden_boolean ThoroughTurquoiseKalila {
+    }
+    boolean FragilePurpleWynne {
+    }
+    boolean IncreasingAzureSelena {
+    }
+    boolean GiantAmaranthGabriell {
+    }
+  }
+  "List<hidden_boolean>" SharedYellowRosanne {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string UncomfortableTanMadelin {
+    _hidden_value = true
+  }
+  boolean InstitutionalPurpleVanni {
+    _hidden_value = true
+  }
+  serviceid_number ItchyBronzeLaverne {
+    _hidden_value = true
+  }
+  "List<number>" CheerfulWhiteNanny {
+    _hidden_value = true
+  }
+  dummy.AutomaticAmberEditha SpecificRoseNoelle {
+    HardFuchsiaLenette = true
+    ProfessionalRedGermaine = 882
+    SteadyPinkDebbie = 141
+    SlightVioletElinor = "To be Frank, I'd have to change my name."
+    WrittenTurquoiseEsther = true
+    InstitutionalAmberNadiya = "How come the stadium got hot after the game? Because all of the fans left."
+    AdjacentGreenRubie = "Why did the tomato blush? Because it saw the salad dressing."
+    SpontaneousBrownRosana = false
+    FarBrownKellie = true
+    StandardBronzeOthilie = 504
+    DiverseLimeEdie = 120
+    RelaxedWhiteNara = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    CreativeAquaMerle = 11
+    ArrogantTanKeriann = 690
+    _hidden_value = true
+  }
+  json CentralBrownGabriela {
+    _hidden_value = true
+  }
+  boolean ExplicitGrayKylynn {
+    _hidden_value = true
+  }
+  serviceid_number SplendidAquamarineFania {
+    _hidden_value = true
+  }
+  serviceid_number FoolishLimeAnastasie {
+    _hidden_value = true
+  }
+  json FierceTealHeddi {
+    _hidden_value = true
+  }
+  serviceid_number StrongLavenderAmye {
+    _hidden_value = true
+  }
+  serviceid_number RubberBronzeMagdalene {
+    _hidden_value = true
+  }
+  number IncrediblePlumChristie {
+    _hidden_value = true
+  }
+  serviceid EmotionalCyanGenny {
+    _hidden_value = true
+  }
+  serviceid_number ArchitecturalEmeraldCorissa {
+    _hidden_value = true
+  }
+  HomelessSalmonDell = "I'll tell you what often gets over looked... garden fences."
+  ObnoxiousPlumClarissa = {
+    legit = "Why did the kid cross the playground? To get to the other slide."
+  }
+  FragilePurpleWynne = true
+  IncreasingAzureSelena = false
+  GiantAmaranthGabriell = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ExplicitGrayKylynn"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "SpecificRoseNoelle"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "CentralBrownGabriela"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "IncrediblePlumChristie"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "FoolishLimeAnastasie"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "UncomfortableTanMadelin"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "IncreasingAzureSelena"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

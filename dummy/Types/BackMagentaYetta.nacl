@@ -1,0 +1,19 @@
+type dummy.BackMagentaYetta {
+  annotations {
+    boolean PotentialYellowMara {
+    }
+    json SocialBeigeKakalina {
+    }
+    hidden_boolean TypicalPinkGilly {
+    }
+    serviceid_number UnusualAmaranthAurie {
+    }
+  }
+  json SpiritualYellowJobie {
+    _hidden_value = true
+  }
+  PotentialYellowMara = false
+  SocialBeigeKakalina = "A steak pun is a rare medium well done."
+  UnusualAmaranthAurie = 168
+  _hidden_value = true
+}

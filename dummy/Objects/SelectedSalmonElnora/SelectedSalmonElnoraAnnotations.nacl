@@ -1,0 +1,93 @@
+type dummy.SelectedSalmonElnora {
+  annotations {
+    serviceid_number PregnantBlackDorise {
+    }
+    serviceid ChubbyRoseBeverly {
+    }
+    number FreePurpleViviene {
+    }
+    dummy.FederalSalmonLotty IndividualIndigoCassondra {
+    }
+    boolean BreezyMoccasinJilly {
+    }
+    serviceid_number SacredAmaranthMechelle {
+    }
+    dummy.PsychiatricVioletEllissa QuarrelsomeSapphireCorly {
+    }
+    string LiberalLavenderAmmamaria {
+    }
+    number CooingEmeraldMasha {
+    }
+    hidden_boolean MentalOrangeRikki {
+    }
+    number TechnologicalLavenderNissa {
+    }
+    boolean SleepyMoccasinClio {
+    }
+    hidden_boolean ColonialAmberNataline {
+    }
+    hidden_boolean GloriousTanStephie {
+    }
+    serviceid_number AveragePlumLeena {
+    }
+    number MatureBronzeNeile {
+    }
+    json QuickestSalmonKamilah {
+    }
+    serviceid AvailableGoldJaneen {
+    }
+    boolean PurringCrimsonFlor {
+    }
+    hidden_boolean IllegalSapphireGwenette {
+    }
+  }
+  PregnantBlackDorise = 133
+  ChubbyRoseBeverly = "Why did the tomato blush? Because it saw the salad dressing."
+  FreePurpleViviene = 309
+  BreezyMoccasinJilly = true
+  SacredAmaranthMechelle = 651
+  LiberalLavenderAmmamaria = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  CooingEmeraldMasha = 932
+  TechnologicalLavenderNissa = 397
+  SleepyMoccasinClio = false
+  AveragePlumLeena = 89
+  MatureBronzeNeile = 177
+  QuickestSalmonKamilah = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  AvailableGoldJaneen = "Dad Im hungry  Hi hungry Im dad"
+  PurringCrimsonFlor = false
+  _important_values = [
+    {
+      value = "CausalIvoryOralla"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "FuzzyEmeraldAlmeda"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ChubbyRoseBeverly"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "LiberalLavenderAmmamaria"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "MentalOrangeRikki"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "AvailableGoldJaneen"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _alias = "SelectedSalmonElnora_alias"
+}

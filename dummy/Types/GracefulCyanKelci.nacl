@@ -1,0 +1,119 @@
+type dummy.GracefulCyanKelci {
+  annotations {
+    serviceid UniformMaroonTania {
+    }
+    string AnxiousVioletSibelle {
+    }
+    serviceid_number ExistingBronzeAthena {
+    }
+    hidden_boolean OccasionalVioletChristan {
+    }
+    serviceid_number ZoophagousScarletVitia {
+    }
+  }
+  string WellPlumSallyann {
+    _hidden_value = true
+  }
+  hidden_boolean AvailableTomatoGuendolen {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT ElaborateFuchsiaAmalie {
+    _hidden_value = true
+  }
+  json WorkingIvoryAlikee {
+    _hidden_value = true
+  }
+  serviceid DeliciousChocolateRoze {
+    _hidden_value = true
+  }
+  number AccessibleJadeDaveen {
+    _hidden_value = true
+  }
+  boolean XerothermicTomatoCaralie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RenewedGoldGavra {
+    _hidden_value = true
+  }
+  dummy.DiverseTurquoiseMariya AwakeTomatoNesta {
+    AdversePlumLadonna = "Whoever invented the knock-knock joke should get a no bell prize."
+    SupremeCopperMellisa = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    ForthcomingMaroonAda = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    FunIndigoRaine = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    WonderfulBlushSonnnie = "I'll tell you what often gets over looked... garden fences."
+    FreshBlackDasha = "How come the stadium got hot after the game? Because all of the fans left."
+    NastyCrimsonVinni = true
+    _hidden_value = true
+  }
+  string ObviousApricotFilide {
+    _hidden_value = true
+  }
+  serviceid GenuineJadeNaoma {
+    _hidden_value = true
+  }
+  number PrivateCyanShawnee {
+    _hidden_value = true
+  }
+  string FuriousOliveMilka {
+    _hidden_value = true
+  }
+  number RollingGrayAjay {
+    _hidden_value = true
+  }
+  number DefeatedPurpleChristen {
+    _hidden_value = true
+  }
+  serviceid_number StripedCyanDebera {
+    _hidden_value = true
+  }
+  string StickyTealBerty {
+    _hidden_value = true
+  }
+  serviceid_number YummySapphireRebbecca {
+    _hidden_value = true
+  }
+  serviceid RelativeTanFilippa {
+    _hidden_value = true
+  }
+  hidden_boolean ForeignOrangeTera {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  UniformMaroonTania = "I'll tell you what often gets over looked... garden fences."
+  AnxiousVioletSibelle = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ExistingBronzeAthena = 206
+  ZoophagousScarletVitia = 555
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "StickyTealBerty"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "RollingGrayAjay"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ForeignOrangeTera"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "AccessibleJadeDaveen"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "AnxiousVioletSibelle"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

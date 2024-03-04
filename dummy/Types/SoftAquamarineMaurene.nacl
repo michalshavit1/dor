@@ -1,0 +1,31 @@
+type dummy.SoftAquamarineMaurene {
+  annotations {
+    serviceid SuddenVioletAdelaide {
+    }
+    json CharacteristicCoffeeLinnell {
+    }
+    number BindingAzureThalia {
+    }
+    hidden_boolean GrandAquaGigi {
+    }
+    number SelectEmeraldAshlen {
+    }
+  }
+  hidden_boolean ImplicitScarletLeonora {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  SuddenVioletAdelaide = "Whoever invented the knock-knock joke should get a no bell prize."
+  CharacteristicCoffeeLinnell = "Whoever invented the knock-knock joke should get a no bell prize."
+  BindingAzureThalia = 485
+  SelectEmeraldAshlen = 679
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "SuddenVioletAdelaide"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

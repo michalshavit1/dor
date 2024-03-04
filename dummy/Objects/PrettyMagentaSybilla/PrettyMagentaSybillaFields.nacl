@@ -1,0 +1,30 @@
+type dummy.PrettyMagentaSybilla {
+  json LivingTomatoEnrica {
+  }
+  json RepulsiveCrimsonAngy {
+  }
+  number RubberSapphireAnnis {
+  }
+  string IdealLavenderNadiya {
+  }
+  boolean VoluminousPurpleCharlena {
+  }
+  string QuickGrayLorraine {
+  }
+  json SadYellowKirstin {
+  }
+  hidden_boolean ForwardAquaRasla {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+  hidden_boolean XenialTealMaxi {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean RacialCoralShirl {
+  }
+  json PrettyAmethystLesli {
+  }
+}

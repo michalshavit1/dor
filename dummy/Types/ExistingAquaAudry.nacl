@@ -1,0 +1,51 @@
+type dummy.ExistingAquaAudry {
+  annotations {
+    serviceid_number ThunderingSalmonTillie {
+    }
+    hidden_boolean PrettyVioletTrisha {
+    }
+    json PersonalBlueMarigold {
+    }
+    serviceid StableGreenCandra {
+    }
+    dummy.DEFAULT ColonialCopperVale {
+    }
+    json FondAmaranthKara {
+    }
+  }
+  serviceid VivaciousBronzeSarette {
+    _hidden_value = true
+  }
+  "List<serviceid>" ExtremeLavenderMaxine {
+    _hidden_value = true
+  }
+  json LegalGreenSile {
+    _hidden_value = true
+  }
+  hidden_boolean AdministrativeTurquoiseKonstance {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number PanickyAmaranthSilva {
+    _hidden_value = true
+  }
+  dummy.DEFAULT TerritorialRoseMarieann {
+    _hidden_value = true
+  }
+  ThunderingSalmonTillie = 875
+  PersonalBlueMarigold = "How come the stadium got hot after the game? Because all of the fans left."
+  StableGreenCandra = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ColonialCopperVale = {
+    legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  FondAmaranthKara = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "StableGreenCandra"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

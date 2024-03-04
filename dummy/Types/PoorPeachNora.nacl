@@ -1,0 +1,91 @@
+type dummy.PoorPeachNora {
+  annotations {
+    boolean FancyGreenAlejandrina {
+    }
+    json StandardPurpleLian {
+    }
+    serviceid_number OkJadeCarmita {
+    }
+    boolean OutstandingRoseIdalia {
+    }
+    hidden_boolean DeafeningWhiteLynelle {
+    }
+  }
+  dummy.AccessibleTurquoiseEssie AgreeableLavenderSelina {
+    BrilliantMaroonBonni = {
+      legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    }
+    SupposedIndigoDusty = true
+    _hidden_value = true
+  }
+  serviceid_number CorrespondingCyanLoleta {
+    _hidden_value = true
+  }
+  boolean ScornfulAquaCourtney {
+    _hidden_value = true
+  }
+  boolean FoolishVioletMarillin {
+    _hidden_value = true
+  }
+  hidden_boolean VisualSapphireDeerdre {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string DelicateAzureRachael {
+    _hidden_value = true
+  }
+  json DeafeningTealLeilah {
+    _hidden_value = true
+  }
+  hidden_boolean ExtraordinaryGoldDennie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json PreciseBlackAdria {
+    _hidden_value = true
+  }
+  serviceid_number CasualApricotYvonne {
+    _hidden_value = true
+  }
+  dummy.DEFAULT TerribleMoccasinHollie {
+    _hidden_value = true
+  }
+  serviceid_number DisgustedBeigeClarabelle {
+    _hidden_value = true
+  }
+  "List<json>" ReasonableIndigoDora {
+    _hidden_value = true
+  }
+  string FriendlyMaroonOlivia {
+    _hidden_value = true
+  }
+  number HistoricalAmberMelisa {
+    _hidden_value = true
+  }
+  number ShockedOrangeAdina {
+    _hidden_value = true
+  }
+  string SevereCopperCally {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ObligedChocolateBili {
+    _hidden_value = true
+  }
+  serviceid XericMaroonBlinnie {
+    _hidden_value = true
+  }
+  FancyGreenAlejandrina = true
+  StandardPurpleLian = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  OkJadeCarmita = 16
+  OutstandingRoseIdalia = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "HistoricalAmberMelisa"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

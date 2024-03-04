@@ -1,0 +1,55 @@
+type dummy.BlindAquamarineMichel {
+  annotations {
+    serviceid RottenFuchsiaMadelle {
+    }
+    serviceid_number WorriedIvoryAnnamaria {
+    }
+    serviceid SupremePinkVicky {
+    }
+    hidden_boolean LoyalPurpleChickie {
+    }
+    number ColouredPurpleDaphne {
+    }
+  }
+  json RoastedBlushMorganne {
+    _hidden_value = true
+  }
+  serviceid_number HappyRoseNoreen {
+    _hidden_value = true
+  }
+  string IntensiveBlackSheba {
+    _hidden_value = true
+  }
+  serviceid YoungestRedIsabelle {
+    _hidden_value = true
+  }
+  boolean UnwillingGreenTallou {
+    _hidden_value = true
+  }
+  serviceid CheapAquamarineCristy {
+    _hidden_value = true
+  }
+  hidden_boolean ForeignBrownDidi {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean GeneticOrangeSofia {
+    _hidden_value = true
+  }
+  dummy.DEFAULT DueSalmonOndrea {
+    _hidden_value = true
+  }
+  RottenFuchsiaMadelle = "Whoever invented the knock-knock joke should get a no bell prize."
+  WorriedIvoryAnnamaria = 612
+  SupremePinkVicky = "Why do birds fly south for the winter? Because it's too far to walk."
+  ColouredPurpleDaphne = 610
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "RoastedBlushMorganne"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

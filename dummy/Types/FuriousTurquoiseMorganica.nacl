@@ -1,0 +1,61 @@
+type dummy.FuriousTurquoiseMorganica {
+  annotations {
+    hidden_boolean CautiousVioletAbagail {
+    }
+    serviceid RoughIndigoAllissa {
+    }
+    hidden_boolean DependentWhiteRobena {
+    }
+    boolean PatientCoffeeGiana {
+    }
+    hidden_boolean InteriorSapphireJermaine {
+    }
+  }
+  serviceid TheoreticalBronzeArdeen {
+    _hidden_value = true
+  }
+  string YtterbicMoccasinKassandra {
+    _hidden_value = true
+  }
+  boolean SharedMoccasinKassia {
+    _hidden_value = true
+  }
+  string BasicWhiteAnetta {
+    _hidden_value = true
+  }
+  serviceid_number NarrowTealWilma {
+    _hidden_value = true
+  }
+  dummy.PreparedChocolateVanny MedievalTanNevsa {
+    DampCrimsonDacia = 182
+    FlyingFuchsiaAlfreda = {
+      legit = "Im only familiar with 25 letters in the English language. I dont know why."
+    }
+    ConceptualOrangeJana = "How come the stadium got hot after the game? Because all of the fans left."
+    VividCyanShina = 689
+    _hidden_value = true
+  }
+  serviceid CrazyBrownMathilde {
+    _hidden_value = true
+  }
+  RoughIndigoAllissa = "Im only familiar with 25 letters in the English language. I dont know why."
+  PatientCoffeeGiana = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "SharedMoccasinKassia"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "MedievalTanNevsa"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "BasicWhiteAnetta"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

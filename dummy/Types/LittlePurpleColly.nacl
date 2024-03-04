@@ -1,0 +1,50 @@
+type dummy.LittlePurpleColly {
+  annotations {
+    json MixedIndigoKai {
+    }
+    serviceid_number TechnicalCopperShannen {
+    }
+    serviceid ExcellentSilverLilith {
+    }
+    string BetterCoralRobinett {
+    }
+  }
+  "List<serviceid_number>" ComparativeCoralNoreen {
+    _hidden_value = true
+  }
+  number InherentTurquoiseFlorenza {
+    _hidden_value = true
+  }
+  hidden_boolean AliveBeigePerla {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number ControversialBrownCassy {
+    _hidden_value = true
+  }
+  MixedIndigoKai = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  TechnicalCopperShannen = 853
+  ExcellentSilverLilith = "What did one nut say as he chased another nut?  I'm a cashew!"
+  BetterCoralRobinett = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ControversialBrownCassy"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "AliveBeigePerla"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "BetterCoralRobinett"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

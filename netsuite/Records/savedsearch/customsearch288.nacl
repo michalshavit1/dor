@@ -1,0 +1,162 @@
+netsuite.savedsearch customsearch288 {
+  scriptid = "customsearch288"
+  definition = "217935a438db43565b227613ff46d42a2eb1b832021355d9f773c5e1e976420b@GZC@2022.1.17@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"
+  search_filter = [
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Transaction_TYPE"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "PurchOrd"
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Transaction_MAINLINE"
+      FIELD_ATTRIBUTE = "T"
+      FIELD_TYPE = "CHECKBOX"
+    },
+  ]
+  available_filters = [
+    {
+      SEQ_NUMBER = 1
+      FIELD_NAME = "Transaction_NAME"
+      FLAG_FOOTER = false
+      FLAG_FOOTER_MULTI_SELECT = false
+    },
+    {
+      SEQ_NUMBER = 2
+      FIELD_NAME = "Transaction_TRANDATE"
+      FLAG_FOOTER = false
+      FLAG_FOOTER_MULTI_SELECT = false
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "Transaction_TRANDATE"
+      FIELD_INDEX = 1
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_NUMBER"
+      FIELD_INDEX = 2
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_STATUS"
+      FIELD_INDEX = 3
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_AMOUNT"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_DUEDATE"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_CREATEDBY"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  detail_fields = [
+    {
+      FIELD_ALIAS = "Transaction_TRANDATE"
+      FIELD_INDEX = 7
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_POSTINGPERIOD"
+      FIELD_INDEX = 7
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_TYPE"
+      FIELD_INDEX = 7
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_NUMBER"
+      FIELD_INDEX = 7
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_AMOUNT"
+      FIELD_INDEX = 7
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "Transaction_TRANDATE"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  audience = {
+    FLAG_AUDIENCE_ALL_CUSTOMERS = false
+    FLAG_AUDIENCE_ALL_EMPLOYEES = false
+    FLAG_AUDIENCE_ALL_PARTNERS = false
+    FLAG_AUDIENCE_ALL_ROLES = true
+    FLAG_AUDIENCE_ALL_VENDORS = false
+  }
+  KEY_SCRIPT_ID = "customsearch288"
+  FIELD_DEFAULT_NAME = "Ramsey PO History w Highlighting"
+  FIELD_SEARCH_TYPE = "Transaction"
+  FLAG_PUBLIC = true
+  FLAG_LIST = false
+  FLAG_PORTLET = false
+  FLAG_MACHINE = true
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = false
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = true
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = false
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = true
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+  KEY_AUDIENCE = 0
+  _alias = "Ramsey PO History w Highlighting"
+}

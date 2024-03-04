@@ -1,0 +1,38 @@
+type dummy.SelectCoffeeGretel {
+  annotations {
+    dummy.DEFAULT ImpressiveIndigoAthene {
+    }
+    json OverallAquaTrixie {
+    }
+    hidden_boolean ArbitraryOrangeCharita {
+    }
+    hidden_boolean TotalGoldAthena {
+    }
+    number MusicalBronzeDarya {
+    }
+    serviceid ReligiousTurquoiseDorry {
+    }
+  }
+  boolean WorriedPinkElyse {
+    _hidden_value = true
+  }
+  ImpressiveIndigoAthene = {
+    legit = "What do you call two barracuda fish?  A Pairacuda!"
+  }
+  OverallAquaTrixie = "What do you call two barracuda fish?  A Pairacuda!"
+  MusicalBronzeDarya = 896
+  ReligiousTurquoiseDorry = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "ArbitraryOrangeCharita"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "MusicalBronzeDarya"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

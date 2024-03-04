@@ -1,0 +1,71 @@
+type dummy.CompactRedSusanna {
+  annotations {
+    serviceid InadequateTanAlmira {
+    }
+    json FixedPinkCecilia {
+    }
+    boolean VictoriousAmberSamaria {
+    }
+    string LengthyYellowBebe {
+    }
+    dummy.ImplicitHarlequinAnita ShallowCrimsonShelli {
+    }
+    boolean YawningLimeEmelyne {
+    }
+    string MechanicalMoccasinClarette {
+    }
+    dummy.QuaintGrayFelicle QuintessentialPeachEvanne {
+    }
+    serviceid DesirableRedKylie {
+    }
+    serviceid SoundHarlequinMair {
+    }
+    number BusyBlushCarilyn {
+    }
+    boolean YouthfulTealAnatola {
+    }
+    serviceid_number AtomicMagentaCortney {
+    }
+    serviceid_number ArtificialBlackStephine {
+    }
+    json EntitledBronzeGenna {
+    }
+    number NeutralLimeMonica {
+    }
+    hidden_boolean LoyalPeachAlla {
+    }
+    serviceid EnviousOrangePrudi {
+    }
+    serviceid_number ConfidentSalmonJuli {
+    }
+  }
+  InadequateTanAlmira = "Why didnt the skeleton cross the road? Because he had no guts."
+  FixedPinkCecilia = "Why do birds fly south for the winter? Because it's too far to walk."
+  VictoriousAmberSamaria = false
+  LengthyYellowBebe = "Did you know that protons have mass? I didn't even know they were catholic."
+  YawningLimeEmelyne = true
+  MechanicalMoccasinClarette = "Why is Peter Pan always flying? Because he Neverlands."
+  DesirableRedKylie = "Why do birds fly south for the winter? Because it's too far to walk."
+  SoundHarlequinMair = "What did one nut say as he chased another nut?  I'm a cashew!"
+  BusyBlushCarilyn = 97
+  YouthfulTealAnatola = true
+  AtomicMagentaCortney = 687
+  ArtificialBlackStephine = 525
+  EntitledBronzeGenna = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  NeutralLimeMonica = 880
+  EnviousOrangePrudi = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ConfidentSalmonJuli = 832
+  _self_important_values = [
+    {
+      value = "MechanicalMoccasinClarette"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "SoundHarlequinMair"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _alias = "CompactRedSusanna_alias"
+}

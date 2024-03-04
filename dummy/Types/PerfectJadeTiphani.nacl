@@ -1,0 +1,179 @@
+type dummy.PerfectJadeTiphani {
+  annotations {
+    boolean RepresentativeCoffeeEtty {
+    }
+    dummy.SplendidAmberFlorance PermanentPlumBonnibelle {
+    }
+    dummy.YawningTomatoBlaire DivineTurquoiseJulissa {
+    }
+    serviceid_number ResidentialCopperErin {
+    }
+  }
+  dummy.IndirectSalmonTina UniformCrimsonPris {
+    StrongCoffeeLoleta = false
+    SlimyIndigoFara = 642
+    KnownGrayCesya = "I'll tell you what often gets over looked... garden fences."
+    LikePurpleBonni = 216
+    ArtisticGreenPearl = "To be Frank, I'd have to change my name."
+    NiceAmethystCarole = {
+      legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    }
+    MutualVioletLurline = 180
+    ExoticSilverNora = "What do you call two barracuda fish?  A Pairacuda!"
+    BewilderedHarlequinIrene = 647
+    DelightfulCopperKandy = "Why did the kid cross the playground? To get to the other slide."
+    ManualPinkNonah = 860
+    PresentMagentaCharla = "Why do birds fly south for the winter? Because it's too far to walk."
+    SpotlessMagentaDamara = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    EfficientCyanGerty = 969
+    SmallCrimsonTimmi = "Why was it called the dark ages? Because of all the knights. "
+    ScrawnyVioletAvrit = 897
+    WealthyCoralNorah = {
+      legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    }
+    AlrightSalmonBrinn = 561
+    _hidden_value = true
+  }
+  json ScaryChocolateDido {
+    _hidden_value = true
+  }
+  number DirtyBlushTine {
+    _hidden_value = true
+  }
+  serviceid_number UpsetScarletAyn {
+    _hidden_value = true
+  }
+  string SweetRedLea {
+    _hidden_value = true
+  }
+  json AlertAzureKizzee {
+    _hidden_value = true
+  }
+  string AvailableAquaShina {
+    _hidden_value = true
+  }
+  json CompetentTealLucienne {
+    _hidden_value = true
+  }
+  serviceid ResidentialFuchsiaDacie {
+    _hidden_value = true
+  }
+  serviceid UnnecessaryPurplePet {
+    _hidden_value = true
+  }
+  serviceid_number ParticularAmaranthOpal {
+    _hidden_value = true
+  }
+  string DefiantApricotValene {
+    _hidden_value = true
+  }
+  serviceid BalancedChocolateGracia {
+    _hidden_value = true
+  }
+  number MiniatureOliveStephine {
+    _hidden_value = true
+  }
+  boolean DeafBlushEstell {
+    _hidden_value = true
+  }
+  string MinisterialFuchsiaLillian {
+    _hidden_value = true
+  }
+  string ForthcomingPeachWinnifred {
+    _hidden_value = true
+  }
+  hidden_boolean UndergroundSapphireMarigold {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number AfraidAzureChristian {
+    _hidden_value = true
+  }
+  dummy.AccessibleTurquoiseEssie IntermediateSapphireRegina {
+    BrilliantMaroonBonni = {
+      legit = "Why was it called the dark ages? Because of all the knights. "
+    }
+    SupposedIndigoDusty = true
+    _hidden_value = true
+  }
+  serviceid SuitableMoccasinCharmian {
+    _hidden_value = true
+  }
+  hidden_boolean ProminentLavenderMarice {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json NationalVioletJoceline {
+    _hidden_value = true
+  }
+  json EmpiricalAquamarineLaurel {
+    _hidden_value = true
+  }
+  hidden_boolean AlliedRoseMinerva {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.JustBeigeShaylynn AwkwardGreenLucilia {
+    FreshAquamarineRubie = 51
+    RoastedGrayCammie = false
+    FavourableIndigoBritte = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    RemoteSapphireCarree = 994
+    AloneOrangeMarijo = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    DoubtfulGreenTamara = 497
+    SocialAmberLilah = 339
+    TropicalGoldAmelita = {
+      legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+    }
+    VulnerableAquamarineAyn = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    WorldwideMaroonVinni = "A steak pun is a rare medium well done."
+    ArmedOrangeSibbie = 229
+    _hidden_value = true
+  }
+  RepresentativeCoffeeEtty = true
+  PermanentPlumBonnibelle = "To be Frank, I'd have to change my name."
+  DivineTurquoiseJulissa = "Im only familiar with 25 letters in the English language. I dont know why."
+  ResidentialCopperErin = 825
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "SweetRedLea"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "DirtyBlushTine"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "NationalVioletJoceline"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "AfraidAzureChristian"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ProminentLavenderMarice"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ParticularAmaranthOpal"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "RepresentativeCoffeeEtty"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

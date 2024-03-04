@@ -1,0 +1,106 @@
+type dummy.GrimCrimsonNancy {
+  annotations {
+    serviceid VagueBlueJacenta {
+    }
+    number UsefulChocolateDierdre {
+    }
+    number IntactAzureJewell {
+    }
+    json DynamicHarlequinJosie {
+    }
+    serviceid_number BusyScarletMeris {
+    }
+  }
+  serviceid_number BiologicalVioletFaunie {
+    _hidden_value = true
+  }
+  boolean AcceptedBlueClem {
+    _hidden_value = true
+  }
+  dummy.EventualSilverMerrilee MathematicalEmeraldLorne {
+    _hidden_value = true
+  }
+  hidden_boolean LowVioletFilia {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json StrategicSalmonRoxanna {
+    _hidden_value = true
+  }
+  string DistantMaroonGlen {
+    _hidden_value = true
+  }
+  json WastefulApricotRory {
+    _hidden_value = true
+  }
+  serviceid RigidIvoryKessia {
+    _hidden_value = true
+  }
+  number XenogeneicYellowAnna {
+    _hidden_value = true
+  }
+  dummy.DEFAULT GladScarletRania {
+    _hidden_value = true
+  }
+  number AnnoyedTurquoiseMargareta {
+    _hidden_value = true
+  }
+  boolean CrudeSapphireRana {
+    _hidden_value = true
+  }
+  serviceid_number VicariousPeachAnaliese {
+    _hidden_value = true
+  }
+  dummy.EventualSilverMerrilee MinimalCopperLenee {
+    _hidden_value = true
+  }
+  hidden_boolean ManagerialPinkElysee {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json CooperativeAquaModesta {
+    _hidden_value = true
+  }
+  boolean LargeMaroonNan {
+    _hidden_value = true
+  }
+  serviceid FundamentalBlueDulcea {
+    _hidden_value = true
+  }
+  serviceid MedievalSilverLyndel {
+    _hidden_value = true
+  }
+  string HelpfulBronzeZelda {
+    _hidden_value = true
+  }
+  VagueBlueJacenta = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  UsefulChocolateDierdre = 332
+  IntactAzureJewell = 44
+  DynamicHarlequinJosie = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  BusyScarletMeris = 997
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "CrudeSapphireRana"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ManagerialPinkElysee"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "FundamentalBlueDulcea"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "BiologicalVioletFaunie"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

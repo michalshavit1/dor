@@ -1,0 +1,176 @@
+netsuite.savedsearch customsearch521 {
+  scriptid = "customsearch521"
+  definition = "068016c4cc48444cde92461b43153296e30d89a593aae486eddb72a2e66a1fa5@GZC@2022.1.17@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"
+  search_filter = [
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Campaign_SUBSCRIPTION"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "2"
+        },
+        {
+          KEY_ID = 1
+          FIELD_VALUE = "1"
+        },
+        {
+          KEY_ID = 2
+          FIELD_VALUE = "4"
+        },
+        {
+          KEY_ID = 3
+          FIELD_VALUE = "5"
+        },
+        {
+          KEY_ID = 4
+          FIELD_VALUE = "3"
+        },
+      ]
+    },
+  ]
+  available_filters = [
+    {
+      SEQ_NUMBER = 1
+      FIELD_NAME = "Campaign_CHANNEL"
+      FLAG_FOOTER = false
+      FLAG_FOOTER_MULTI_SELECT = false
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "Campaign_TITLE"
+      FIELD_INDEX = 1
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Campaign_PROMOCODE"
+      FIELD_INDEX = 2
+      FIELD_LABEL = "Code"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Campaign_CHANNEL"
+      FIELD_INDEX = 3
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Campaign_STARTDATE"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Campaign_ENDDATE"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Campaign_COST"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  detail_fields = [
+    {
+      FIELD_ALIAS = "Campaign_CAMPAIGNID"
+      FIELD_INDEX = 7
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Campaign_TITLE"
+      FIELD_INDEX = 7
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Campaign_CATEGORY"
+      FIELD_INDEX = 7
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Campaign_STARTDATE"
+      FIELD_INDEX = 7
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Campaign_ENDDATE"
+      FIELD_INDEX = 7
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Campaign_COST"
+      FIELD_INDEX = 7
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Campaign_EXPECTEDREVENUE"
+      FIELD_INDEX = 7
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Campaign_MANAGER"
+      FIELD_INDEX = 7
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "Campaign_CAMPAIGNID"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  audience = {
+    FLAG_AUDIENCE_ALL_CUSTOMERS = false
+    FLAG_AUDIENCE_ALL_EMPLOYEES = false
+    FLAG_AUDIENCE_ALL_PARTNERS = false
+    FLAG_AUDIENCE_ALL_ROLES = true
+    FLAG_AUDIENCE_ALL_VENDORS = false
+  }
+  KEY_SCRIPT_ID = "customsearch521"
+  FIELD_DEFAULT_NAME = "Ecomm Marketing Campaigns Search"
+  FIELD_SEARCH_TYPE = "Campaign"
+  FLAG_PUBLIC = true
+  FLAG_LIST = false
+  FLAG_PORTLET = true
+  FLAG_MACHINE = false
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = false
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = false
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = true
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+  KEY_AUDIENCE = 0
+  _alias = "Ecomm Marketing Campaigns Search"
+}

@@ -1,0 +1,102 @@
+type dummy.StrategicAzureReina {
+  annotations {
+    serviceid_number UltimateGreenSalaidh {
+    }
+    boolean UnwillingAquamarineJacquette {
+    }
+    boolean UglyJadeShalne {
+    }
+    boolean SquareAquaMyrtie {
+    }
+    number DisgustedCopperHarrietta {
+    }
+    number SpiritualGrayGertie {
+    }
+    json FreeCrimsonEffie {
+    }
+  }
+  number OuterCoffeeNadiya {
+    _hidden_value = true
+  }
+  number LtdSapphireRubie {
+    _hidden_value = true
+  }
+  string FutureIvoryFlorinda {
+    _hidden_value = true
+  }
+  json LovelyAquaCyndia {
+    _hidden_value = true
+  }
+  hidden_boolean HushedAmethystCynthie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean HistoricalRedKirsteni {
+    _hidden_value = true
+  }
+  dummy.MathematicalLavenderUlrica ConsciousVioletCorabelle {
+    WanderingJadeAnestassia = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    ContinuousPurpleAaren = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    SeriousTomatoMaurine = 32
+    PainfulAmethystKrista = 436
+    BlushingJadeRici = 46
+    SelectiveEmeraldBathsheba = 472
+    EffectiveTanKathye = "What did one nut say as he chased another nut?  I'm a cashew!"
+    CheerfulAquaAdda = true
+    CommercialSapphireLeilah = 324
+    GrumpySilverWilly = 508
+    GrubbyPinkNanice = "To be Frank, I'd have to change my name."
+    AboveSapphireCrysta = 983
+    InevitablePeachSal = "How come the stadium got hot after the game? Because all of the fans left."
+    _hidden_value = true
+  }
+  hidden_boolean IndividualCoralVerile {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean HushedPeachMella {
+    _hidden_value = true
+  }
+  number CapableBlushSuzette {
+    _hidden_value = true
+  }
+  hidden_boolean IncredibleTanHonor {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  UltimateGreenSalaidh = 539
+  UnwillingAquamarineJacquette = false
+  UglyJadeShalne = false
+  SquareAquaMyrtie = true
+  DisgustedCopperHarrietta = 412
+  SpiritualGrayGertie = 471
+  FreeCrimsonEffie = "Im only familiar with 25 letters in the English language. I dont know why."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "HushedPeachMella"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "SpiritualGrayGertie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SquareAquaMyrtie"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "DisgustedCopperHarrietta"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

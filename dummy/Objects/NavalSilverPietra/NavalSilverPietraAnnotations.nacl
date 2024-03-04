@@ -1,0 +1,81 @@
+type dummy.NavalSilverPietra {
+  annotations {
+    json FederalGreenCorinna {
+    }
+    boolean HomelyCrimsonAngil {
+    }
+    boolean SeriousMagentaDamita {
+    }
+    hidden_boolean UselessPurpleShalne {
+    }
+    serviceid LuckyLavenderEsmaria {
+    }
+    hidden_boolean InjuredBronzeEugenia {
+    }
+    hidden_boolean InformalChocolateJeanine {
+    }
+    boolean SpecificVioletMelinda {
+    }
+    string ShockedPinkNanci {
+    }
+    number DelightedBronzeDorolice {
+    }
+    string ManyPlumJillane {
+    }
+    hidden_boolean StraightRoseMartica {
+    }
+    string ExtensiveEmeraldLeonie {
+    }
+    serviceid AbundantCoralBeverlie {
+    }
+    boolean ProspectiveYellowCrysta {
+    }
+    json ModernOrangeZola {
+    }
+    string ZerothPeachMadelina {
+    }
+    dummy.EmotionalSilverFrayda AmbitiousGreenBride {
+    }
+  }
+  FederalGreenCorinna = "Im only familiar with 25 letters in the English language. I dont know why."
+  HomelyCrimsonAngil = false
+  SeriousMagentaDamita = false
+  LuckyLavenderEsmaria = "Why was it called the dark ages? Because of all the knights. "
+  SpecificVioletMelinda = true
+  ShockedPinkNanci = "What creature is smarter than a talking parrot? A spelling bee."
+  DelightedBronzeDorolice = 240
+  ManyPlumJillane = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  ExtensiveEmeraldLeonie = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  AbundantCoralBeverlie = "Why do birds fly south for the winter? Because it's too far to walk."
+  ProspectiveYellowCrysta = true
+  ModernOrangeZola = "What creature is smarter than a talking parrot? A spelling bee."
+  ZerothPeachMadelina = "Why do birds fly south for the winter? Because it's too far to walk."
+  _self_important_values = [
+    {
+      value = "ExtensiveEmeraldLeonie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "LuckyLavenderEsmaria"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "InformalChocolateJeanine"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "FederalGreenCorinna"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SeriousMagentaDamita"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "NavalSilverPietra_alias"
+}

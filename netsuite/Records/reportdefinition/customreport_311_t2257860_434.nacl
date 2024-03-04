@@ -1,0 +1,154 @@
+netsuite.reportdefinition customreport_311_t2257860_434 {
+  scriptid = "customreport_311_t2257860_434"
+  definition = "eba03ef220b3a848228ff2dd1d181b868f9afca5dc47f23cb9ecfc12433f1a1d@GZC@2023.2.15@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"
+  name = "Custom Keywords Summary"
+  components = [
+    {
+      KEY_COMPONENT = 130
+      FLAG_SECONDARY_DIM = false
+      FIELD_CLASS = "com.netledger.app.reporting.measure.NLKeywordsMeasure"
+    },
+  ]
+  parameters = {
+    accounting_book_current_id = "1"
+    accounting_book_id = "1"
+  }
+  sorts = [
+    {
+      KEY_COMPONENT = "130"
+      FIELD_ALIAS = "uniquecustomers"
+      SEQ_NUMBER = 0
+      FLAG_DESCENDING = false
+      FLAG_SUBTOTAL = false
+    },
+  ]
+  fields = [
+    {
+      KEY_COMPONENT = 130
+      FIELD_ALIAS = "LASTVISIT"
+      FLAG_DIMENSION = false
+      FIELD_UNIT_TYPE = -1
+      FLAG_ROLLUP = true
+      FIELD_DATE_FILTER_INDEX = 0
+      FLAG_APPLY_FORWARDING = true
+      FLAG_MEASURE = false
+      SEQ_NUMBER = 1
+      FIELD_LABEL = "Date (Last Visit)"
+      FLAG_DUAL_COLUMN = false
+      FLAG_PERCENT_TOTAL = false
+      FLAG_PERCENT_INCOME = false
+      FLAG_PERCENT_EXPENSE = false
+      FLAG_RUNNING_BAL = false
+      FLAG_SHOW_OPENING_BAL = false
+      FLAG_SHOW_ABS_DIFF = false
+      FLAG_SHOW_PCT_DIFF = false
+      FLAG_SUB_TOTAL = false
+      FLAG_DISPLAY = true
+      FIELD_SUMMARY = "MAX"
+      FLAG_DROP_DECIMAL = false
+      FLAG_DIV_BY_THOUSAND = false
+      FLAG_NEG_IN_RED = false
+      FIELD_NEG_VAL_FORMAT = "norm"
+      FIELD_FORMAT = "date"
+      FLAG_TOTAL_FORMULA = true
+    },
+    {
+      KEY_COMPONENT = 130
+      FIELD_ALIAS = "UNIQUECUSTOMERS"
+      FLAG_DIMENSION = false
+      FIELD_UNIT_TYPE = -1
+      FLAG_ROLLUP = false
+      FIELD_DATE_FILTER_INDEX = 0
+      FLAG_APPLY_FORWARDING = true
+      FLAG_MEASURE = true
+      SEQ_NUMBER = 2
+      FIELD_LABEL = "Number of Unique Customers"
+      FIELD_URL = "cr=-3"
+      FIELD_URL_TYPE = "DERIVED"
+      FLAG_DUAL_COLUMN = false
+      FLAG_PERCENT_TOTAL = false
+      FLAG_PERCENT_INCOME = false
+      FLAG_PERCENT_EXPENSE = false
+      FLAG_RUNNING_BAL = false
+      FLAG_SHOW_OPENING_BAL = false
+      FLAG_SHOW_ABS_DIFF = false
+      FLAG_SHOW_PCT_DIFF = false
+      FLAG_SUB_TOTAL = true
+      FLAG_DISPLAY = true
+      FIELD_SUMMARY = "COUNT"
+      FLAG_DROP_DECIMAL = false
+      FLAG_DIV_BY_THOUSAND = false
+      FLAG_NEG_IN_RED = false
+      FIELD_NEG_VAL_FORMAT = "norm"
+      FIELD_FORMAT = "integer"
+      FLAG_TOTAL_FORMULA = true
+    },
+  ]
+  uiPreferences = {
+    PARAMETER_CASH_BASIS = false
+    PARAMETER_TAXCASH_BASIS = "F"
+    PARAMETER_SHOW_ZEROS = true
+    PARAMETER_SHOW_SINGLEROWLINES = true
+    PARAMETER_DISPLAY_TYPE = "data"
+    PARAMETER_INC_VS_EXP = false
+    PARAMETER_GRAPH_TOP = -1
+    PARAMETER_WEB_STORE = false
+    PARAMETER_ACTIVITY_ONLY = false
+    PARAMETER_ALLOW_WEBQUERY = false
+    PARAMETER_GRAPH_3D = false
+    PARAMETER_SHOW_CURRENCY_SYMBOL = true
+    PARAMETER_EXPAND_LEVEL = 100
+  }
+  criteria = [
+    {
+      descriptor = {
+        FIELD_ALIAS = "DATELOGGED"
+        FIELD_OP_CLASS = "BETWEEN"
+        FILED_TYPE = "DATE"
+        SEQ_NUMBER = 0
+        FIELD_UNIT_TYPE = -1
+        FLAG_IN_FOOTER = true
+        FLAG_CUSTOM_FOOTER = false
+        FLAG_VIRTUAL_FIELD = false
+        FIELD_DESCRIPTOR = "keywords,x,datelogged,x,x"
+        FLAG_IS_HIDDEN = false
+      }
+      values = [
+        {
+          FIELD_DATE_FILTER_INDEX = 0
+          SEQ_NUMBER = 0
+          FIELD_VALUE = "TM"
+        },
+      ]
+    },
+  ]
+  flags = {
+    KEY_REPORT_ID = 311
+    KEY_SCRIPT_ID = "CUSTOMREPORT_311_T2257860_434"
+    FIELD_KEY = 311
+    FIELD_CODE = "QUICK_REPORT"
+    FIELD_NAME = "Custom Keywords Summary"
+    FIELD_ORIGINAL_TITLE = "Custom Keywords Summary"
+    FIELD_PERM_TYPE = "REPO_WEBSITE"
+    KEY_FEATURE = "ADVWEBREPORTS"
+    FLAG_PERIODS_ALLOWED = false
+    FLAG_DISPLAY_TYPE = "SUMMARY"
+    FLAG_ONE_DATE = false
+    FLAG_PRIMARY_OUTER_JOIN = false
+    FLAG_CUSTOM_MODE = true
+    FLAG_CASH_BASIS = false
+    FLAG_SHOW_ZEROS = true
+    FLAG_INACTIVE = false
+    FIELD_VERSION = 8
+    FLAG_PERIODS_ON = false
+    FLAG_USE_FISCAL_YEAR_RANGE = false
+    FLAG_USE_TAX_PERIODS = false
+    KEY_ENTITY = "7"
+    FLAG_SHOW_LINK = false
+    FLAG_SUPPORTS_CONSOL_SUBSIDIARY = false
+    FIELD_TOGGLE_TYPE = "NOTHING"
+    FLAG_AFFECTED_BY_COGS = false
+    FLAG_ACTIVITY_ONLY = false
+  }
+  _alias = "Custom Keywords Summary"
+}

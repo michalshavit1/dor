@@ -1,0 +1,61 @@
+type dummy.AdministrativeGreenMatilde {
+  annotations {
+    boolean MarkedMaroonOlive {
+    }
+    serviceid LegislativeVioletMella {
+    }
+    dummy.MuteGrayAlexi CuteTanWinnifred {
+    }
+    dummy.QualifiedHarlequinJolee NeutralIndigoKandy {
+    }
+    string NewChocolateOthella {
+    }
+  }
+  serviceid_number RegularJadeAlis {
+    _hidden_value = true
+  }
+  serviceid_number HissingGoldRhona {
+    _hidden_value = true
+  }
+  number RenewedGrayKatheryn {
+    _hidden_value = true
+  }
+  number UsedBronzeSusanetta {
+    _hidden_value = true
+  }
+  hidden_boolean ComprehensiveWhiteAmata {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  MarkedMaroonOlive = true
+  LegislativeVioletMella = "Dad Im hungry  Hi hungry Im dad"
+  CuteTanWinnifred = 756
+  NeutralIndigoKandy = 850
+  NewChocolateOthella = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "UsedBronzeSusanetta"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "RenewedGrayKatheryn"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "CuteTanWinnifred"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "MarkedMaroonOlive"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

@@ -1,0 +1,85 @@
+type dummy.DetailedOrangeAubree {
+  annotations {
+    dummy.GentleScarletAlbina AccurateRoseKimmy {
+    }
+    string QuixoticAmaranthCourtenay {
+    }
+    dummy.SelfishAmberRemy ExperimentalGreenHendrika {
+    }
+    json ShyAmaranthKimmi {
+    }
+    serviceid_number DullEmeraldNerty {
+    }
+    json ExtremeTanMarlyn {
+    }
+    json UnawareTanGarnet {
+    }
+    dummy.StillMagentaWendi ExtendedAmethystHyacinthie {
+    }
+    hidden_boolean DelicateSilverCora {
+    }
+    dummy.AccessibleTurquoiseEssie MechanicalMagentaTamma {
+    }
+    dummy.MassYellowCorina TraditionalCoffeeSelina {
+    }
+    number ConcernedMaroonLexie {
+    }
+    json TechnologicalIvoryCharyl {
+    }
+    boolean UncertainTanDenys {
+    }
+    dummy.ContentRedOriana PaleRedManon {
+    }
+    dummy.ShyRoseBerty VariousAzureJeniffer {
+    }
+    hidden_boolean ForeignBlueMaureen {
+    }
+    dummy.AccessibleTurquoiseEssie FuriousOliveChristen {
+    }
+    hidden_boolean StrongRedBarbee {
+    }
+  }
+  AccurateRoseKimmy = file("RattyFuchsiaChristiane.txt")
+  QuixoticAmaranthCourtenay = "Im only familiar with 25 letters in the English language. I dont know why."
+  ShyAmaranthKimmi = "Im only familiar with 25 letters in the English language. I dont know why."
+  DullEmeraldNerty = 604
+  ExtremeTanMarlyn = "To be Frank, I'd have to change my name."
+  UnawareTanGarnet = "Why do birds fly south for the winter? Because it's too far to walk."
+  ExtendedAmethystHyacinthie = true
+  MechanicalMagentaTamma = file("PrimeMagentaTamma.txt")
+  TraditionalCoffeeSelina = file("FairSapphireLeisha.txt")
+  ConcernedMaroonLexie = 103
+  TechnologicalIvoryCharyl = "Why didnt the skeleton cross the road? Because he had no guts."
+  UncertainTanDenys = false
+  FuriousOliveChristen = file("WealthyBrownEalasaid.txt")
+  _important_values = [
+    {
+      value = "CapableApricotValery"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "BeneficialAquaMireille"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "FamiliarTomatoCarma"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ManyAmberMel"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "MechanicalMagentaTamma"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _alias = "DetailedOrangeAubree_alias"
+}

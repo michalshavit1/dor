@@ -1,0 +1,40 @@
+type dummy.StripedChocolateRoch {
+  annotations {
+    number UnacceptableBlueReggi {
+    }
+    serviceid ExternalOliveMargaret {
+    }
+    serviceid_number SuperGrayHyacinthie {
+    }
+    serviceid ReasonableGoldShir {
+    }
+  }
+  serviceid_number DomesticCrimsonJanella {
+    _hidden_value = true
+  }
+  serviceid_number BrainyJadeCeline {
+    _hidden_value = true
+  }
+  number RelatedBrownMerl {
+    _hidden_value = true
+  }
+  UnacceptableBlueReggi = 896
+  ExternalOliveMargaret = "To be Frank, I'd have to change my name."
+  SuperGrayHyacinthie = 558
+  ReasonableGoldShir = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "RelatedBrownMerl"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "UnacceptableBlueReggi"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

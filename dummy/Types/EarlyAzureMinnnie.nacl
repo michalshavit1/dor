@@ -1,0 +1,34 @@
+type dummy.EarlyAzureMinnnie {
+  annotations {
+    string MathematicalJadeStacia {
+    }
+    number SufficientMaroonCymbre {
+    }
+    serviceid UselessTurquoiseWenona {
+    }
+    string StrategicCopperNola {
+    }
+    number UniversalLavenderDolli {
+    }
+    hidden_boolean LazyBrownMarylou {
+    }
+    hidden_boolean RespectableHarlequinFanchette {
+    }
+  }
+  boolean UniformOliveDion {
+    _hidden_value = true
+  }
+  MathematicalJadeStacia = "Did you know that protons have mass? I didn't even know they were catholic."
+  SufficientMaroonCymbre = 679
+  UselessTurquoiseWenona = "How come the stadium got hot after the game? Because all of the fans left."
+  StrategicCopperNola = "Dad Im hungry  Hi hungry Im dad"
+  UniversalLavenderDolli = 860
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "SufficientMaroonCymbre"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

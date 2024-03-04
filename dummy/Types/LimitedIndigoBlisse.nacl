@@ -1,0 +1,35 @@
+type dummy.LimitedIndigoBlisse {
+  annotations {
+    string WrongPurpleCassandra {
+    }
+    serviceid_number OppositeBlueEba {
+    }
+    boolean CivilianBlueLinnea {
+    }
+    hidden_boolean WickedCopperClarette {
+    }
+    serviceid_number RivalWhiteNady {
+    }
+    string VoicelessTomatoAdara {
+    }
+  }
+  boolean StormyAmethystAlysa {
+    _hidden_value = true
+  }
+  string ImportantJadeCaitlin {
+    _hidden_value = true
+  }
+  WrongPurpleCassandra = "A steak pun is a rare medium well done."
+  OppositeBlueEba = 831
+  CivilianBlueLinnea = false
+  RivalWhiteNady = 239
+  VoicelessTomatoAdara = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "WrongPurpleCassandra"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

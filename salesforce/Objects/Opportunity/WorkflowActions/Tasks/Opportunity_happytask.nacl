@@ -1,0 +1,15 @@
+salesforce.WorkflowTask Opportunity_happytask@v {
+  fullName = "Opportunity.happytask"
+  assignedTo = "michal.shavit@salto.io"
+  assignedToType = "user"
+  dueDateOffset = 2
+  notifyAssignee = false
+  priority = "High"
+  protected = false
+  status = "In Progress"
+  subject = "happytask"
+  _parent = [
+    salesforce.Opportunity,
+  ]
+  _alias = "Opportunity.happytask"
+}

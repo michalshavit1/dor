@@ -1,0 +1,41 @@
+type dummy.HelplessChocolateScarlett {
+  annotations {
+    boolean BrainyIndigoBobbi {
+    }
+    serviceid ImperialAmberJaime {
+    }
+    serviceid ConfidentRedAnita {
+    }
+    json JitterySapphirePearla {
+    }
+    string ImpossibleTomatoAddie {
+    }
+    number CourageousApricotMelamie {
+    }
+    dummy.StaleSilverLillian ArbitrarySalmonChristyna {
+    }
+  }
+  serviceid VastMoccasinHarriot {
+    _hidden_value = true
+  }
+  BrainyIndigoBobbi = true
+  ImperialAmberJaime = "My first time using an elevator was an uplifting experience. The second time let me down."
+  ConfidentRedAnita = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  JitterySapphirePearla = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ImpossibleTomatoAddie = "What do you do on a remote island? Try and find the TV island it belongs to."
+  CourageousApricotMelamie = 994
+  ArbitrarySalmonChristyna = 327
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "ImperialAmberJaime"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "JitterySapphirePearla"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

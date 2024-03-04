@@ -1,0 +1,46 @@
+type dummy.MetropolitanPlumNyssa {
+  annotations {
+    serviceid IllAquamarineTessy {
+    }
+    serviceid_number MereIndigoKeriann {
+    }
+    number LinearMoccasinMelosa {
+    }
+    hidden_boolean MinimumTanCamala {
+    }
+    boolean FancyAmaranthHillary {
+    }
+    boolean EasternMagentaKary {
+    }
+  }
+  serviceid_number OkayRoseSaundra {
+    _hidden_value = true
+  }
+  boolean SevereTomatoCharlotte {
+    _hidden_value = true
+  }
+  serviceid_number MushyIndigoJulita {
+    _hidden_value = true
+  }
+  dummy.UpperTanDebby ProspectiveSilverMelamie {
+    SocialCyanBlondelle = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    CompatibleLimeKarleen = false
+    _hidden_value = true
+  }
+  serviceid_number AmateurLimeJourdan {
+    _hidden_value = true
+  }
+  IllAquamarineTessy = "I'll tell you what often gets over looked... garden fences."
+  MereIndigoKeriann = 886
+  LinearMoccasinMelosa = 155
+  FancyAmaranthHillary = false
+  EasternMagentaKary = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "SevereTomatoCharlotte"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

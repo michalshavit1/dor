@@ -1,0 +1,71 @@
+salesforce.LightningPage recpage {
+  flexiPageRegions = [
+    {
+      itemInstances = [
+        {
+          componentInstance = {
+            componentInstanceProperties = [
+              {
+                name = "context"
+                value = "RECORD"
+              },
+            ]
+            componentName = "forceChatter:publisher"
+            identifier = "forceChatter_publisher"
+          }
+        },
+        {
+          componentInstance = {
+            componentInstanceProperties = [
+              {
+                name = "flowLayout"
+                value = "oneColumn"
+              },
+              {
+                name = "flowName"
+                value = "setup_service_experience__Create_Case"
+              },
+            ]
+            componentName = "flowruntime:interview"
+            identifier = "flowruntime_interview"
+          }
+        },
+      ]
+      name = "header"
+      type = "Region"
+    },
+    {
+      itemInstances = [
+        {
+          componentInstance = {
+            componentInstanceProperties = [
+              {
+                name = "context"
+                value = "RECORD"
+              },
+            ]
+            componentName = "forceChatter:exposedFeed"
+            identifier = "forceChatter_exposedFeed"
+          }
+        },
+      ]
+      name = "main"
+      type = "Region"
+    },
+  ]
+  masterLabel = "recpage"
+  sobjectType = "Opportunity"
+  template = {
+    name = "flexipage:recordHomeSimpleViewTemplate"
+    properties = {
+      name = "enablePageActionConfig"
+      value = "false"
+    }
+  }
+  type = "RecordPage"
+  fullName = "recpage"
+  _parent = [
+    salesforce.Opportunity,
+  ]
+  _alias = "recpage"
+}

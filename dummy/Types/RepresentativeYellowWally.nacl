@@ -1,0 +1,59 @@
+type dummy.RepresentativeYellowWally {
+  annotations {
+    string UnnecessaryFuchsiaElysee {
+    }
+    string HandicappedScarletDoralyn {
+    }
+    string CreativeAquaShane {
+    }
+    serviceid ManyAquamarineTeressa {
+    }
+    json WillowyAmaranthAva {
+    }
+    number ObedientIvoryTybie {
+    }
+  }
+  boolean FirmPeachCamile {
+    _hidden_value = true
+  }
+  "List<string>" SecretAmaranthTanhya {
+    _hidden_value = true
+  }
+  hidden_boolean ConceptualAmberDeonne {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number FaithfulWhiteBryana {
+    _hidden_value = true
+  }
+  string LegitimateTealMerissa {
+    _hidden_value = true
+  }
+  serviceid LiveLavenderShaun {
+    _hidden_value = true
+  }
+  string ModernGreenMariana {
+    _hidden_value = true
+  }
+  number IdeologicalBlackGeorgine {
+    _hidden_value = true
+  }
+  string FreshTurquoiseGiorgia {
+    _hidden_value = true
+  }
+  UnnecessaryFuchsiaElysee = "Im only familiar with 25 letters in the English language. I dont know why."
+  HandicappedScarletDoralyn = "What do you do on a remote island? Try and find the TV island it belongs to."
+  CreativeAquaShane = "Dad Im hungry  Hi hungry Im dad"
+  ManyAquamarineTeressa = "A steak pun is a rare medium well done."
+  WillowyAmaranthAva = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ObedientIvoryTybie = 943
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "FaithfulWhiteBryana"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

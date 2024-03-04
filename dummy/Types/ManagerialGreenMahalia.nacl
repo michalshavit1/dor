@@ -1,0 +1,95 @@
+type dummy.ManagerialGreenMahalia {
+  annotations {
+    json HuskyBrownDorothea {
+    }
+    string EldestWhiteTisha {
+    }
+    string PossibleBronzeJacky {
+    }
+    boolean ExternalTanMaribelle {
+    }
+    boolean AbstractTealTisha {
+    }
+    hidden_boolean SickLimeElnore {
+    }
+  }
+  dummy.DEFAULT HostileAzureHelena {
+    _hidden_value = true
+  }
+  boolean MonetaryLimeLoreen {
+    _hidden_value = true
+  }
+  dummy.EventualSilverMerrilee AdvisoryGrayAnitra {
+    _hidden_value = true
+  }
+  dummy.DEFAULT StatutoryMoccasinAnnice {
+    _hidden_value = true
+  }
+  serviceid_number QualifiedMaroonElane {
+    _hidden_value = true
+  }
+  hidden_boolean LocalJadeCass {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number TightCyanFaye {
+    _hidden_value = true
+  }
+  hidden_boolean WarmRoseQuintana {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json GenuineRoseEolanda {
+    _hidden_value = true
+  }
+  hidden_boolean UnfortunateRoseEmmalynne {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number ArtisticMaroonGates {
+    _hidden_value = true
+  }
+  serviceid DivineTanBreena {
+    _hidden_value = true
+  }
+  serviceid_number DependentIvoryNicoli {
+    _hidden_value = true
+  }
+  serviceid MinimalBrownKatrina {
+    _hidden_value = true
+  }
+  string SatisfactoryCrimsonEada {
+    _hidden_value = true
+  }
+  hidden_boolean SubsequentCyanFreddy {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  HuskyBrownDorothea = "To be Frank, I'd have to change my name."
+  EldestWhiteTisha = "Dad Im hungry  Hi hungry Im dad"
+  PossibleBronzeJacky = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ExternalTanMaribelle = true
+  AbstractTealTisha = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "DivineTanBreena"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "StatutoryMoccasinAnnice"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "MonetaryLimeLoreen"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

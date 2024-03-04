@@ -1,0 +1,55 @@
+type dummy.SpatialAmethystEdiva {
+  annotations {
+    boolean LinguisticOliveAridatha {
+    }
+    hidden_boolean StraightRoseRuth {
+    }
+    serviceid JuicyGrayGilemette {
+    }
+    serviceid_number EnchantingCopperRonnie {
+    }
+    string NativeBlushMarla {
+    }
+    string FrightenedTomatoLee {
+    }
+  }
+  number FormidableHarlequinMeghan {
+    _hidden_value = true
+  }
+  string FaintCoralChloe {
+    _hidden_value = true
+  }
+  boolean RearCyanElly {
+    _hidden_value = true
+  }
+  serviceid_number MildTealAudrye {
+    _hidden_value = true
+  }
+  serviceid SeniorOrangeBrenna {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ObedientCoffeeAarika {
+    _hidden_value = true
+  }
+  hidden_boolean StillScarletRonnie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid CulturalOliveMillicent {
+    _hidden_value = true
+  }
+  LinguisticOliveAridatha = false
+  JuicyGrayGilemette = "What did one nut say as he chased another nut?  I'm a cashew!"
+  EnchantingCopperRonnie = 317
+  NativeBlushMarla = "How come the stadium got hot after the game? Because all of the fans left."
+  FrightenedTomatoLee = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ObedientCoffeeAarika"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

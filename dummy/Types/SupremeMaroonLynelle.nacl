@@ -1,0 +1,29 @@
+type dummy.SupremeMaroonLynelle {
+  annotations {
+    boolean IndirectScarletSteffi {
+    }
+    hidden_boolean UnlikelyScarletJuli {
+    }
+    number EasternIvoryMorgan {
+    }
+    boolean ObligedAquaSusan {
+    }
+    number FederalChocolateRosene {
+    }
+  }
+  serviceid_number DarkRoseNichol {
+    _hidden_value = true
+  }
+  IndirectScarletSteffi = true
+  EasternIvoryMorgan = 590
+  ObligedAquaSusan = false
+  FederalChocolateRosene = 102
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "UnlikelyScarletJuli"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

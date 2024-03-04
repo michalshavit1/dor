@@ -1,0 +1,123 @@
+netsuite.savedsearch customsearch_jc_preferred_time_search_2 {
+  scriptid = "customsearch_jc_preferred_time_search_2"
+  definition = "b8190f263a84b5e6636555a5136f87a59d3d7d16f5e22dd372086699161e1756@GZC@2022.1.17@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"
+  search_filter = [
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Time_DATECREATED"
+      FIELD_MODIFIER = "AFTER"
+      FIELD_ATTRIBUTE = "CUSTOM"
+      FIELD_TYPE = "DATETIME"
+      RECORDS = [
+        {
+          KEY_ID = 0
+        },
+        {
+          KEY_ID = 1
+          FIELD_VALUE = "2011-07-14 06:59:00.0 UTC"
+        },
+      ]
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "Time_DATE"
+      FIELD_INDEX = 1
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Time_EMPLOYEE"
+      FIELD_INDEX = 2
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Time_CUSTOMER"
+      FIELD_INDEX = 3
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Time_ITEM"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Time_NOTE"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Time_DURATION"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Time_TYPE"
+      FIELD_INDEX = 7
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Time_BILLABLE"
+      FIELD_INDEX = 8
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "Time_DATE"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  audience = {
+    FLAG_AUDIENCE_ALL_CUSTOMERS = false
+    FLAG_AUDIENCE_ALL_EMPLOYEES = false
+    FLAG_AUDIENCE_ALL_PARTNERS = false
+    FLAG_AUDIENCE_ALL_ROLES = true
+    FLAG_AUDIENCE_ALL_VENDORS = false
+  }
+  KEY_SCRIPT_ID = "customsearch_jc_preferred_time_search_2"
+  FIELD_DEFAULT_NAME = "Ramsey Preferred Time Search"
+  FIELD_SEARCH_TYPE = "Time"
+  FLAG_PUBLIC = true
+  FLAG_LIST = false
+  FLAG_PORTLET = false
+  FLAG_MACHINE = true
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = true
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = false
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = false
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+  KEY_AUDIENCE = 0
+  _alias = "Ramsey Preferred Time Search"
+}

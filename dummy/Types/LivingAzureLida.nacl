@@ -1,0 +1,22 @@
+type dummy.LivingAzureLida {
+  annotations {
+    string ProtestantPeachBirgit {
+    }
+    serviceid_number DustySalmonKrystle {
+    }
+    serviceid_number AliveIvoryVanny {
+    }
+    serviceid_number ManagingAquaRobena {
+    }
+  }
+  "List<hidden_boolean>" EvolutionaryTanTheodosia {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  ProtestantPeachBirgit = "To be Frank, I'd have to change my name."
+  DustySalmonKrystle = 992
+  AliveIvoryVanny = 164
+  ManagingAquaRobena = 72
+  _hidden_value = true
+}

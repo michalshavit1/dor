@@ -1,0 +1,86 @@
+type dummy.BlondeMoccasinNananne {
+  annotations {
+    number BitterChocolateAudrye {
+    }
+    string BrilliantPeachRegine {
+    }
+    json DelightedMagentaValene {
+    }
+    number OperationalAmberKerstin {
+    }
+    hidden_boolean AliveTurquoiseDi {
+    }
+    serviceid_number DeepScarletGinelle {
+    }
+    json ObnoxiousHarlequinJori {
+    }
+    hidden_boolean SubsequentTealBellanca {
+    }
+    string RegulatoryPlumMelitta {
+    }
+    number WetMagentaElyssa {
+    }
+    string WelcomeScarletBrittaney {
+    }
+    hidden_boolean OccupationalLimeJonell {
+    }
+    hidden_boolean ConsiderableCopperMarleah {
+    }
+    json ClosedCopperViolette {
+    }
+    serviceid ViolentApricotAbigale {
+    }
+    string WildTurquoiseNorrie {
+    }
+    json DeepBrownLisabeth {
+    }
+    hidden_boolean AncientBlushPatrica {
+    }
+  }
+  BitterChocolateAudrye = 209
+  BrilliantPeachRegine = "Dad Im hungry  Hi hungry Im dad"
+  DelightedMagentaValene = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  OperationalAmberKerstin = 19
+  DeepScarletGinelle = 831
+  ObnoxiousHarlequinJori = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  RegulatoryPlumMelitta = "I'll tell you what often gets over looked... garden fences."
+  WetMagentaElyssa = 76
+  WelcomeScarletBrittaney = "What did one nut say as he chased another nut?  I'm a cashew!"
+  ClosedCopperViolette = "What creature is smarter than a talking parrot? A spelling bee."
+  ViolentApricotAbigale = "Whoever invented the knock-knock joke should get a no bell prize."
+  WildTurquoiseNorrie = "My first time using an elevator was an uplifting experience. The second time let me down."
+  DeepBrownLisabeth = "Dad Im hungry  Hi hungry Im dad"
+  _self_important_values = [
+    {
+      value = "RegulatoryPlumMelitta"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "DelightedMagentaValene"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "WildTurquoiseNorrie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "DeepScarletGinelle"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ConsiderableCopperMarleah"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "AncientBlushPatrica"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _alias = "BlondeMoccasinNananne_alias"
+}

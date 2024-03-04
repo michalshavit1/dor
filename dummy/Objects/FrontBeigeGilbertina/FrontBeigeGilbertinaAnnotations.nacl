@@ -1,0 +1,88 @@
+type dummy.FrontBeigeGilbertina {
+  annotations {
+    serviceid VividBlushGenevra {
+    }
+    serviceid_number BrilliantChocolateInga {
+    }
+    serviceid MilitaryAzureMinerva {
+    }
+    serviceid MinisterialAmethystTraci {
+    }
+    boolean VastBeigeJaclin {
+    }
+    boolean CompulsoryPurpleRaynell {
+    }
+    string AdvancedSilverCherrita {
+    }
+    serviceid_number MeanIndigoLilli {
+    }
+    hidden_boolean UncertainLavenderLianne {
+    }
+    serviceid DynamicHarlequinCollen {
+    }
+    dummy.QualifiedHarlequinJolee ProfoundTurquoiseTim {
+    }
+    dummy.RudeVioletAthena AtomicRedNanon {
+    }
+    hidden_boolean CrowdedIvoryNolie {
+    }
+    serviceid MiddleCopperMadeleine {
+    }
+    hidden_boolean MeltedFuchsiaKatina {
+    }
+    number DelightedYellowAlecia {
+    }
+    hidden_boolean PanickyAquaBathsheba {
+    }
+    string MysteriousVioletVonnie {
+    }
+    number MathematicalCoralAddi {
+    }
+    dummy.SpontaneousCoffeeLela WorthwhileCoffeeTrescha {
+    }
+  }
+  VividBlushGenevra = "What creature is smarter than a talking parrot? A spelling bee."
+  BrilliantChocolateInga = 316
+  MilitaryAzureMinerva = "Did you know that protons have mass? I didn't even know they were catholic."
+  MinisterialAmethystTraci = "Why do birds fly south for the winter? Because it's too far to walk."
+  VastBeigeJaclin = false
+  CompulsoryPurpleRaynell = false
+  AdvancedSilverCherrita = "Why didnt the skeleton cross the road? Because he had no guts."
+  MeanIndigoLilli = 465
+  DynamicHarlequinCollen = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ProfoundTurquoiseTim = 70
+  MiddleCopperMadeleine = "Did you know that protons have mass? I didn't even know they were catholic."
+  DelightedYellowAlecia = 808
+  MysteriousVioletVonnie = "Slept like a log last night  woke up in the fireplace."
+  MathematicalCoralAddi = 687
+  _important_values = [
+    {
+      value = "EnthusiasticTurquoiseAriella"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "PreviousBronzeGlori"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "UncertainLavenderLianne"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "MinisterialAmethystTraci"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "MysteriousVioletVonnie"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _alias = "FrontBeigeGilbertina_alias"
+}

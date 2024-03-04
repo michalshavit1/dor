@@ -1,0 +1,137 @@
+type dummy.AdjacentBlackMarianna {
+  annotations {
+    string GiganticBronzeCarlee {
+    }
+    boolean SoundGoldLynn {
+    }
+    json NeighbouringMagentaNadya {
+    }
+    dummy.DEFAULT ScreechingAquamarineDoralynne {
+    }
+    serviceid GrimScarletHeddi {
+    }
+    boolean SubsequentBeigeStacie {
+    }
+  }
+  serviceid_number ReluctantVioletStacia {
+    _hidden_value = true
+  }
+  boolean ZygoticBronzeSarita {
+    _hidden_value = true
+  }
+  number FantasticGreenTiffany {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" InterimGoldMaurita {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string KeenSapphireSuzie {
+    _hidden_value = true
+  }
+  string ArtisticGreenSosanna {
+    _hidden_value = true
+  }
+  boolean CapitalistCoralKiele {
+    _hidden_value = true
+  }
+  string ParliamentaryTomatoEmlynne {
+    _hidden_value = true
+  }
+  serviceid_number ProudAmethystAmy {
+    _hidden_value = true
+  }
+  number GleamingMagentaLorie {
+    _hidden_value = true
+  }
+  serviceid BreezyPinkMerci {
+    _hidden_value = true
+  }
+  number OrthodoxIndigoIrene {
+    _hidden_value = true
+  }
+  string ManualSalmonAnstice {
+    _hidden_value = true
+  }
+  json EqualGrayAstra {
+    _hidden_value = true
+  }
+  boolean WillingAquaDee {
+    _hidden_value = true
+  }
+  number EmbarrassedPurpleLetta {
+    _hidden_value = true
+  }
+  json BizarreSapphireGwenette {
+    _hidden_value = true
+  }
+  "List<json>" PreciousTomatoSibel {
+    _hidden_value = true
+  }
+  number MagneticJadeKelsi {
+    _hidden_value = true
+  }
+  hidden_boolean LevelSalmonShaun {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number FrozenFuchsiaAdele {
+    _hidden_value = true
+  }
+  serviceid_number NavalAmberRetha {
+    _hidden_value = true
+  }
+  number UnknownAmaranthCandice {
+    _hidden_value = true
+  }
+  GiganticBronzeCarlee = "Im only familiar with 25 letters in the English language. I dont know why."
+  SoundGoldLynn = false
+  NeighbouringMagentaNadya = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ScreechingAquamarineDoralynne = {
+    legit = "Why was it called the dark ages? Because of all the knights. "
+  }
+  GrimScarletHeddi = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  SubsequentBeigeStacie = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ManualSalmonAnstice"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "EqualGrayAstra"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ReluctantVioletStacia"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ParliamentaryTomatoEmlynne"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "KeenSapphireSuzie"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "GiganticBronzeCarlee"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SoundGoldLynn"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

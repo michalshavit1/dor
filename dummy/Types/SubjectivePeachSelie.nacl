@@ -1,0 +1,32 @@
+type dummy.SubjectivePeachSelie {
+  annotations {
+    json LovelyApricotElset {
+    }
+    hidden_boolean MaximumLavenderMartica {
+    }
+    string CurvedBlushCrysta {
+    }
+    string SoftAzureClaresta {
+    }
+    json YearlingLavenderMarget {
+    }
+    number SecretHarlequinMaryellen {
+    }
+  }
+  serviceid TestyCoffeeBabbie {
+    _hidden_value = true
+  }
+  LovelyApricotElset = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  CurvedBlushCrysta = "What creature is smarter than a talking parrot? A spelling bee."
+  SoftAzureClaresta = "What do you call two barracuda fish?  A Pairacuda!"
+  YearlingLavenderMarget = "Why did the tomato blush? Because it saw the salad dressing."
+  SecretHarlequinMaryellen = 49
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "YearlingLavenderMarget"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

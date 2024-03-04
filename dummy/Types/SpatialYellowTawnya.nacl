@@ -1,0 +1,71 @@
+type dummy.SpatialYellowTawnya {
+  annotations {
+    json StrangeTurquoiseKatleen {
+    }
+    string ValuableAzureLorette {
+    }
+    serviceid_number QualifiedOliveWillabella {
+    }
+    serviceid_number LinguisticAmethystNicholle {
+    }
+    serviceid CombinedChocolateTiena {
+    }
+    serviceid RobustSalmonHyacintha {
+    }
+  }
+  boolean NotableCoffeeMyra {
+    _hidden_value = true
+  }
+  serviceid BloodyBeigeArdith {
+    _hidden_value = true
+  }
+  number SupposedCoffeeCleopatra {
+    _hidden_value = true
+  }
+  json ExtraordinaryBronzeDacy {
+    _hidden_value = true
+  }
+  boolean ComparativeYellowCarmel {
+    _hidden_value = true
+  }
+  hidden_boolean TrickyGrayKirsteni {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json SpectacularLavenderLelah {
+    _hidden_value = true
+  }
+  hidden_boolean AlertAquaWilli {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string GrandAquaMinda {
+    _hidden_value = true
+  }
+  StrangeTurquoiseKatleen = "Im only familiar with 25 letters in the English language. I dont know why."
+  ValuableAzureLorette = "Im only familiar with 25 letters in the English language. I dont know why."
+  QualifiedOliveWillabella = 495
+  LinguisticAmethystNicholle = 400
+  CombinedChocolateTiena = "Did you know that protons have mass? I didn't even know they were catholic."
+  RobustSalmonHyacintha = "A steak pun is a rare medium well done."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "SupposedCoffeeCleopatra"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "NotableCoffeeMyra"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "GrandAquaMinda"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

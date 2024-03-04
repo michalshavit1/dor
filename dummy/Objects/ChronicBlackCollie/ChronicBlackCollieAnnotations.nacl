@@ -1,0 +1,62 @@
+type dummy.ChronicBlackCollie {
+  annotations {
+    json MereYellowDiandra {
+    }
+    json ContemporaryIvoryMagdalen {
+    }
+    string InadequateGoldLoren {
+    }
+    number PleasedBronzeMaryrose {
+    }
+    string HistoricAmaranthNoelyn {
+    }
+    hidden_boolean IllegalCyanArlee {
+    }
+    boolean WilfulRoseEthelyn {
+    }
+    dummy.YabberingChocolateEmmalyn ShyCoralCherida {
+    }
+    boolean VocationalTanCatherina {
+    }
+    json BizarreWhiteClaudie {
+    }
+    dummy.SpatialAmethystEdiva ManagingVioletLindi {
+    }
+    serviceid WideOrangeLethia {
+    }
+    dummy.HeadPlumKayley FilthySilverEvangelin {
+    }
+    boolean BlindBlueNatka {
+    }
+    serviceid_number WrongLimeVenus {
+    }
+    serviceid_number StrangeCrimsonMerla {
+    }
+    serviceid StormyTurquoiseRenae {
+    }
+    number GoldenMoccasinTally {
+    }
+  }
+  MereYellowDiandra = "A steak pun is a rare medium well done."
+  ContemporaryIvoryMagdalen = "How come the stadium got hot after the game? Because all of the fans left."
+  InadequateGoldLoren = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  PleasedBronzeMaryrose = 771
+  HistoricAmaranthNoelyn = "Im only familiar with 25 letters in the English language. I dont know why."
+  WilfulRoseEthelyn = true
+  VocationalTanCatherina = false
+  BizarreWhiteClaudie = "Whoever invented the knock-knock joke should get a no bell prize."
+  WideOrangeLethia = "Why did the kid cross the playground? To get to the other slide."
+  BlindBlueNatka = false
+  WrongLimeVenus = 638
+  StrangeCrimsonMerla = 71
+  StormyTurquoiseRenae = "My first time using an elevator was an uplifting experience. The second time let me down."
+  GoldenMoccasinTally = 72
+  _self_important_values = [
+    {
+      value = "WilfulRoseEthelyn"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "ChronicBlackCollie_alias"
+}

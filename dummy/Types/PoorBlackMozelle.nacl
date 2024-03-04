@@ -1,0 +1,39 @@
+type dummy.PoorBlackMozelle {
+  annotations {
+    serviceid BroadBronzeCorrina {
+    }
+    dummy.DEFAULT OperationalCopperAnsley {
+    }
+    hidden_boolean UnevenAmethystBrett {
+    }
+    number VividSilverJeannine {
+    }
+    serviceid NewGreenCasandra {
+    }
+    string AllegedLavenderEloise {
+    }
+  }
+  serviceid UnfortunateAmberJany {
+    _hidden_value = true
+  }
+  BroadBronzeCorrina = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  OperationalCopperAnsley = {
+    legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  VividSilverJeannine = 111
+  NewGreenCasandra = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  AllegedLavenderEloise = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "NewGreenCasandra"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "UnevenAmethystBrett"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

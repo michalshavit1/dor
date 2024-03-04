@@ -1,0 +1,42 @@
+type dummy.MathematicalOliveTiena {
+  annotations {
+    number EnvironmentalCoffeePatrice {
+    }
+    dummy.DEFAULT HorizontalSalmonJudie {
+    }
+    serviceid_number ContinuedIvoryAlfi {
+    }
+    hidden_boolean JealousTomatoShawna {
+    }
+    number AppallingWhiteHilary {
+    }
+  }
+  json UnhappyLimePier {
+    _hidden_value = true
+  }
+  number FamiliarBrownMilli {
+    _hidden_value = true
+  }
+  boolean SoreEmeraldViviana {
+    _hidden_value = true
+  }
+  EnvironmentalCoffeePatrice = 11
+  HorizontalSalmonJudie = {
+    legit = "I'll tell you what often gets over looked... garden fences."
+  }
+  ContinuedIvoryAlfi = 206
+  AppallingWhiteHilary = 587
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "EnvironmentalCoffeePatrice"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ContinuedIvoryAlfi"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

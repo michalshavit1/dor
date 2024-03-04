@@ -1,0 +1,63 @@
+type dummy.StrategicAmaranthMarylin {
+  annotations {
+    serviceid SimpleApricotAmi {
+    }
+    dummy.DEFAULT LocalAmaranthVannie {
+    }
+    boolean ZippyMoccasinAmabel {
+    }
+    string LogicalMagentaKarena {
+    }
+    number WellMoccasinTrixi {
+    }
+  }
+  number FederalSilverYolanthe {
+    _hidden_value = true
+  }
+  serviceid_number RoughCoffeeGladys {
+    _hidden_value = true
+  }
+  hidden_boolean ApplicableGoldCarissa {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string NastyPlumAdria {
+    _hidden_value = true
+  }
+  json LinguisticRedAshlee {
+    _hidden_value = true
+  }
+  serviceid UpperOliveFrancesca {
+    _hidden_value = true
+  }
+  serviceid AcademicHarlequinKarel {
+    _hidden_value = true
+  }
+  string SystematicGrayRivi {
+    _hidden_value = true
+  }
+  boolean PlasticSilverMaure {
+    _hidden_value = true
+  }
+  hidden_boolean TenseCrimsonAmalee {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  SimpleApricotAmi = "Why do birds fly south for the winter? Because it's too far to walk."
+  LocalAmaranthVannie = {
+    legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  }
+  ZippyMoccasinAmabel = true
+  LogicalMagentaKarena = "How come the stadium got hot after the game? Because all of the fans left."
+  WellMoccasinTrixi = 887
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "ZippyMoccasinAmabel"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

@@ -1,0 +1,49 @@
+type dummy.IntenseLimeJemmie {
+  annotations {
+    json SurprisingBlushMeghann {
+    }
+    string ExcessiveApricotMommy {
+    }
+    json OptimisticAmethystDorry {
+    }
+    boolean ClumsyBrownAugusta {
+    }
+    string WoodenAzureJoelynn {
+    }
+    serviceid_number HolyAmethystEstel {
+    }
+  }
+  json BoldAmberMarilee {
+    _hidden_value = true
+  }
+  hidden_boolean SlimyIvoryCammie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number ObviousGoldClaudina {
+    _hidden_value = true
+  }
+  string DeliciousTomatoPerri {
+    _hidden_value = true
+  }
+  hidden_boolean CooingAzureRorie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  SurprisingBlushMeghann = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ExcessiveApricotMommy = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  OptimisticAmethystDorry = "Why did the kid cross the playground? To get to the other slide."
+  ClumsyBrownAugusta = false
+  WoodenAzureJoelynn = "What did one nut say as he chased another nut?  I'm a cashew!"
+  HolyAmethystEstel = 443
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "SlimyIvoryCammie"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

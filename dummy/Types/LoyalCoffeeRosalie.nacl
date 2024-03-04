@@ -1,0 +1,49 @@
+type dummy.LoyalCoffeeRosalie {
+  annotations {
+    serviceid_number AcceptableGrayLari {
+    }
+    boolean MixedTomatoHesther {
+    }
+    serviceid_number ElectricIndigoRosalinde {
+    }
+    serviceid MedievalLimeLaetitia {
+    }
+    json BadVioletCarina {
+    }
+    hidden_boolean StiffCoffeeBrittney {
+    }
+    string VicariousGrayTiphany {
+    }
+  }
+  string HorizontalLavenderRakel {
+    _hidden_value = true
+  }
+  serviceid_number HugeBlackLivia {
+    _hidden_value = true
+  }
+  boolean RemoteJadeMichele {
+    _hidden_value = true
+  }
+  serviceid_number RidiculousOliveAilis {
+    _hidden_value = true
+  }
+  AcceptableGrayLari = 294
+  MixedTomatoHesther = true
+  ElectricIndigoRosalinde = 822
+  MedievalLimeLaetitia = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  BadVioletCarina = "Why do birds fly south for the winter? Because it's too far to walk."
+  VicariousGrayTiphany = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "VicariousGrayTiphany"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "BadVioletCarina"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

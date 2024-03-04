@@ -1,0 +1,33 @@
+type dummy.KeyTurquoiseArdyce {
+  annotations {
+    boolean RationalChocolateBinni {
+    }
+    number WanderingBlueLissi {
+    }
+    serviceid FullPinkAmalia {
+    }
+    dummy.AcceptableAmaranthGertrudis StableSapphireCally {
+    }
+    number TameBronzeFrancine {
+    }
+    string WeakFuchsiaLayla {
+    }
+  }
+  boolean ShakyTealMerle {
+    _hidden_value = true
+  }
+  RationalChocolateBinni = false
+  WanderingBlueLissi = 742
+  FullPinkAmalia = "A steak pun is a rare medium well done."
+  StableSapphireCally = 86
+  TameBronzeFrancine = 494
+  WeakFuchsiaLayla = "How come the stadium got hot after the game? Because all of the fans left."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "FullPinkAmalia"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

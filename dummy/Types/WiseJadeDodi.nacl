@@ -1,0 +1,65 @@
+type dummy.WiseJadeDodi {
+  annotations {
+    json ProudRedLynnette {
+    }
+    boolean ElectoralCoralMireielle {
+    }
+    boolean VisualPurpleGeorgianne {
+    }
+    boolean LovelyFuchsiaHilde {
+    }
+    serviceid_number ExcitingMaroonGael {
+    }
+    serviceid WilfulHarlequinFanchon {
+    }
+    number SuperIndigoNatividad {
+    }
+  }
+  json CombinedAzureLucy {
+    _hidden_value = true
+  }
+  string SelectRoseElsy {
+    _hidden_value = true
+  }
+  serviceid BrainyAzureAngelique {
+    _hidden_value = true
+  }
+  serviceid_number CompetentTomatoAgnese {
+    _hidden_value = true
+  }
+  string SemanticPeachJillian {
+    _hidden_value = true
+  }
+  ProudRedLynnette = "How come the stadium got hot after the game? Because all of the fans left."
+  ElectoralCoralMireielle = false
+  VisualPurpleGeorgianne = true
+  LovelyFuchsiaHilde = true
+  ExcitingMaroonGael = 15
+  WilfulHarlequinFanchon = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  SuperIndigoNatividad = 977
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "CompetentTomatoAgnese"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "SuperIndigoNatividad"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ElectoralCoralMireielle"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "LovelyFuchsiaHilde"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

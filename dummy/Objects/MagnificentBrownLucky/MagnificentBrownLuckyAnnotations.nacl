@@ -1,0 +1,104 @@
+type dummy.MagnificentBrownLucky {
+  annotations {
+    string SolarSilverMelissa {
+    }
+    serviceid InsufficientSapphireEm {
+    }
+    serviceid AngryMaroonAndi {
+    }
+    hidden_boolean FunnyWhiteKatharine {
+    }
+    boolean OutstandingPurpleCathie {
+    }
+    string OrthodoxApricotAdina {
+    }
+    serviceid FederalAquamarineViole {
+    }
+    boolean AcademicWhiteKathie {
+    }
+    hidden_boolean OnlyChocolateLory {
+    }
+    serviceid_number RegulatoryScarletJoana {
+    }
+    dummy.QuintessentialYellowDebi ChubbyBeigeJaquenette {
+    }
+    json SpiritualOrangeBrinn {
+    }
+    string BlindBlackBryana {
+    }
+    number HonestTealEugenia {
+    }
+    json StatisticalSapphireEmalia {
+    }
+    dummy.UpperTanDebby ConventionalCrimsonPepi {
+    }
+    serviceid FineCrimsonOlimpia {
+    }
+    boolean SmilingPlumRochell {
+    }
+    dummy.AcuteFuchsiaLauren PossibleRedGloriane {
+    }
+    serviceid IntegratedBeigePhillie {
+    }
+    number KindChocolateEvelina {
+    }
+    string DecentPeachRebekah {
+    }
+  }
+  SolarSilverMelissa = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  InsufficientSapphireEm = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  AngryMaroonAndi = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  OutstandingPurpleCathie = true
+  OrthodoxApricotAdina = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  FederalAquamarineViole = "What do you call two barracuda fish?  A Pairacuda!"
+  AcademicWhiteKathie = false
+  RegulatoryScarletJoana = 262
+  SpiritualOrangeBrinn = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  BlindBlackBryana = "Did you know that protons have mass? I didn't even know they were catholic."
+  HonestTealEugenia = 124
+  StatisticalSapphireEmalia = "Whoever invented the knock-knock joke should get a no bell prize."
+  ConventionalCrimsonPepi = false
+  FineCrimsonOlimpia = "Why is Peter Pan always flying? Because he Neverlands."
+  SmilingPlumRochell = false
+  IntegratedBeigePhillie = "Whoever invented the knock-knock joke should get a no bell prize."
+  KindChocolateEvelina = 514
+  DecentPeachRebekah = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _self_important_values = [
+    {
+      value = "OnlyChocolateLory"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "PossibleRedGloriane"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "FineCrimsonOlimpia"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "RegulatoryScarletJoana"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "IntegratedBeigePhillie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "AcademicWhiteKathie"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "StatisticalSapphireEmalia"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _alias = "MagnificentBrownLucky_alias"
+}

@@ -1,0 +1,71 @@
+type dummy.BlindLimeCharita {
+  annotations {
+    string QuietHarlequinAnabal {
+    }
+    string SuccessfulPinkMignonne {
+    }
+    number StrictPinkCherye {
+    }
+    json PossibleBlushCharity {
+    }
+    json OppositeOrangeHephzibah {
+    }
+    boolean YodellingAmethystNinette {
+    }
+    serviceid_number SheerOliveTiffy {
+    }
+    string ExternalTealEliza {
+    }
+  }
+  dummy.DEFAULT FunnyLimeDonella {
+    _hidden_value = true
+  }
+  hidden_boolean GoldenTurquoiseCorina {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean SunnyAquaEleanor {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean CollectiveBronzeChery {
+    _hidden_value = true
+  }
+  serviceid FamiliarAmethystIleana {
+    _hidden_value = true
+  }
+  string OrdinaryYellowEssie {
+    _hidden_value = true
+  }
+  number GrossBrownSammy {
+    _hidden_value = true
+  }
+  number BoredCopperLorianna {
+    _hidden_value = true
+  }
+  hidden_boolean WhisperingCrimsonJacinda {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT MolecularEmeraldAlexia {
+    _hidden_value = true
+  }
+  serviceid SlipperySilverDi {
+    _hidden_value = true
+  }
+  serviceid BurningCopperIvory {
+    _hidden_value = true
+  }
+  QuietHarlequinAnabal = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  SuccessfulPinkMignonne = "What do you do on a remote island? Try and find the TV island it belongs to."
+  StrictPinkCherye = 307
+  PossibleBlushCharity = "How come the stadium got hot after the game? Because all of the fans left."
+  OppositeOrangeHephzibah = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  YodellingAmethystNinette = true
+  SheerOliveTiffy = 236
+  ExternalTealEliza = "Im only familiar with 25 letters in the English language. I dont know why."
+  _hidden_value = true
+}

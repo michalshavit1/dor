@@ -1,0 +1,102 @@
+type dummy.LevelSapphireWilma {
+  annotations {
+    serviceid_number CoolBlackLauri {
+    }
+    number DigitalSilverKeriann {
+    }
+    boolean SelectiveMoccasinMaurene {
+    }
+    serviceid InfluentialCoralEirena {
+    }
+    number OrganisationalCopperBinnie {
+    }
+  }
+  string DrivingYellowAngel {
+    _hidden_value = true
+  }
+  json NewCyanShirlee {
+    _hidden_value = true
+  }
+  "Map<json>" EldestFuchsiaLaverne {
+    _hidden_value = true
+  }
+  number ObligedGrayChandal {
+    _hidden_value = true
+  }
+  string MajorGrayElianore {
+    _hidden_value = true
+  }
+  json PrivateTealNesta {
+    _hidden_value = true
+  }
+  serviceid_number BurningCopperGilda {
+    _hidden_value = true
+  }
+  boolean SatisfactoryHarlequinMerrili {
+    _hidden_value = true
+  }
+  number LegalCoralCarlynne {
+    _hidden_value = true
+  }
+  string SilkyMagentaIlse {
+    _hidden_value = true
+  }
+  string PsychologicalIndigoBrooks {
+    _hidden_value = true
+  }
+  string DisturbingPinkAbigale {
+    _hidden_value = true
+  }
+  serviceid_number AdjacentAzureJacquenetta {
+    _hidden_value = true
+  }
+  string FixedEmeraldAgnola {
+    _hidden_value = true
+  }
+  string RareSalmonSimona {
+    _hidden_value = true
+  }
+  boolean AshamedMaroonSibella {
+    _hidden_value = true
+  }
+  CoolBlackLauri = 108
+  DigitalSilverKeriann = 366
+  SelectiveMoccasinMaurene = false
+  InfluentialCoralEirena = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  OrganisationalCopperBinnie = 325
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "AshamedMaroonSibella"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "LegalCoralCarlynne"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "EldestFuchsiaLaverne"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SatisfactoryHarlequinMerrili"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "MajorGrayElianore"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "DigitalSilverKeriann"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

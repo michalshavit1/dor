@@ -1,0 +1,78 @@
+type dummy.ResultingPeachElberta {
+  annotations {
+    dummy.FlyingGoldGelya RevolutionaryPeachDevina {
+    }
+    hidden_boolean CivilianAquamarineSusie {
+    }
+    serviceid DemocraticTealHattie {
+    }
+    boolean PuzzledPinkFara {
+    }
+    dummy.ConsciousAquaMahalia JealousBrownJoye {
+    }
+    string RoundVioletLeslie {
+    }
+    serviceid_number AutomaticCopperKathryn {
+    }
+    hidden_boolean MushyAmaranthIrena {
+    }
+    serviceid_number ToughPeachVanda {
+    }
+    hidden_boolean BurningBlueVeronique {
+    }
+    json DizzyGreenFerdinande {
+    }
+    boolean MagneticJadeJohanna {
+    }
+    hidden_boolean InvisibleIndigoAlessandra {
+    }
+    serviceid DemocraticPurpleReena {
+    }
+    hidden_boolean DomesticRedGwendolyn {
+    }
+  }
+  DemocraticTealHattie = "Dad Im hungry  Hi hungry Im dad"
+  PuzzledPinkFara = true
+  JealousBrownJoye = file("UsualSilverNelie.txt")
+  RoundVioletLeslie = "Slept like a log last night  woke up in the fireplace."
+  AutomaticCopperKathryn = 123
+  ToughPeachVanda = 366
+  DizzyGreenFerdinande = "What did one nut say as he chased another nut?  I'm a cashew!"
+  MagneticJadeJohanna = true
+  DemocraticPurpleReena = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _important_values = [
+    {
+      value = "HonestSapphireDanni"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "RegularFuchsiaReeta"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "JealousBrownJoye"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "InvisibleIndigoAlessandra"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "DomesticRedGwendolyn"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "AutomaticCopperKathryn"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _alias = "ResultingPeachElberta_alias"
+}

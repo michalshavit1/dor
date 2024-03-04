@@ -1,0 +1,120 @@
+type dummy.OppositeMagentaDawna {
+  annotations {
+    hidden_boolean JudicialGrayDanyelle {
+    }
+    serviceid_number NorthernMagentaVikky {
+    }
+    json AdditionalBlackVonni {
+    }
+    json EvolutionaryMagentaLauraine {
+    }
+    hidden_boolean MelodicCoffeeJoletta {
+    }
+  }
+  boolean FederalOrangeWenona {
+    _hidden_value = true
+  }
+  serviceid_number DynamicOliveBunny {
+    _hidden_value = true
+  }
+  number BoringIvoryMadelene {
+    _hidden_value = true
+  }
+  string EnvironmentalAmberHenrietta {
+    _hidden_value = true
+  }
+  dummy.LegitimateBlushGoldie LabourPinkRora {
+    RealisticCoffeeRoberta = "Why did the tomato blush? Because it saw the salad dressing."
+    ConvincingJadeNorma = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    _hidden_value = true
+  }
+  hidden_boolean ConservativeMaroonReina {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  "Map<number>" ExistingGreenLauraine {
+    _hidden_value = true
+  }
+  hidden_boolean PsychologicalGreenKelcy {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number UndergroundBronzeDel {
+    _hidden_value = true
+  }
+  dummy.CombinedCyanNatasha WorriedPinkCathy {
+    FrozenCyanClaudette = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    WideCyanRhoda = 901
+    EnergeticGoldPauli = "Why did the kid cross the playground? To get to the other slide."
+    SpotlessCopperKyla = "Why do birds fly south for the winter? Because it's too far to walk."
+    VitreousBrownJolee = 426
+    AdjacentSalmonLura = "Did you know that protons have mass? I didn't even know they were catholic."
+    SpotlessCoffeeJaneva = false
+    UselessSalmonDarlleen = "What creature is smarter than a talking parrot? A spelling bee."
+    PreviousTealBerri = 998
+    RegionalTomatoLorilee = 862
+    NoisyPlumGiustina = false
+    SharedPurpleAdele = "Why is Peter Pan always flying? Because he Neverlands."
+    RottenAmaranthPhillie = "Why didnt the skeleton cross the road? Because he had no guts."
+    ImprovedIvoryGenna = "Dad Im hungry  Hi hungry Im dad"
+    RoyalTurquoiseRonny = true
+    _hidden_value = true
+  }
+  json PrintedOrangeCecil {
+    _hidden_value = true
+  }
+  serviceid_number UniformSalmonEadith {
+    _hidden_value = true
+  }
+  string RepresentativeLavenderMadelena {
+    _hidden_value = true
+  }
+  dummy.DEFAULT PrimeAmaranthTonya {
+    _hidden_value = true
+  }
+  string EncouragingCrimsonIlka {
+    _hidden_value = true
+  }
+  hidden_boolean SuperTurquoiseEolanda {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string ChristianOliveRozamond {
+    _hidden_value = true
+  }
+  boolean SupportingAzureAthene {
+    _hidden_value = true
+  }
+  serviceid_number ManualBlushPhyllida {
+    _hidden_value = true
+  }
+  NorthernMagentaVikky = 31
+  AdditionalBlackVonni = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  EvolutionaryMagentaLauraine = "What do you do on a remote island? Try and find the TV island it belongs to."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ExistingGreenLauraine"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "DynamicOliveBunny"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "EncouragingCrimsonIlka"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "PsychologicalGreenKelcy"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

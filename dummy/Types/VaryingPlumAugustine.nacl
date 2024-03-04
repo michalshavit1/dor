@@ -1,0 +1,36 @@
+type dummy.VaryingPlumAugustine {
+  annotations {
+    hidden_boolean MushySapphireSydney {
+    }
+    serviceid LiberalGrayRomy {
+    }
+    dummy.ResultingCrimsonArdath AnnoyedRedPhillie {
+    }
+    json FrailPlumMerrily {
+    }
+    boolean AlrightBlackEstele {
+    }
+  }
+  serviceid EmpiricalCoffeeMarillin {
+    _hidden_value = true
+  }
+  string NaughtyChocolateVita {
+    _hidden_value = true
+  }
+  hidden_boolean CognitiveCoralDara {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid LtdBrownKristyn {
+    _hidden_value = true
+  }
+  serviceid_number MoaningAmaranthAlikee {
+    _hidden_value = true
+  }
+  LiberalGrayRomy = "What creature is smarter than a talking parrot? A spelling bee."
+  AnnoyedRedPhillie = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  FrailPlumMerrily = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  AlrightBlackEstele = true
+  _hidden_value = true
+}

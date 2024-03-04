@@ -1,0 +1,98 @@
+type dummy.HuskyBronzeMerrile {
+  annotations {
+    serviceid_number MiserableBlackBirgit {
+    }
+    hidden_boolean ShiveringOrangeHarmonia {
+    }
+    serviceid CautiousWhiteCarolynn {
+    }
+    serviceid_number SuitableFuchsiaErinn {
+    }
+    boolean TensePeachCristie {
+    }
+  }
+  json TheoreticalFuchsiaJenine {
+    _hidden_value = true
+  }
+  boolean ResultingBlueTrude {
+    _hidden_value = true
+  }
+  serviceid AdjacentAquaCarol {
+    _hidden_value = true
+  }
+  dummy.PreparedChocolateVanny UsualAmethystDaphene {
+    DampCrimsonDacia = 862
+    FlyingFuchsiaAlfreda = {
+      legit = "Why is Peter Pan always flying? Because he Neverlands."
+    }
+    ConceptualOrangeJana = "Whoever invented the knock-knock joke should get a no bell prize."
+    VividCyanShina = 694
+    _hidden_value = true
+  }
+  string LuckyGreenCarlene {
+    _hidden_value = true
+  }
+  string CarefulLavenderCari {
+    _hidden_value = true
+  }
+  serviceid_number StupidGrayMuire {
+    _hidden_value = true
+  }
+  "List<serviceid>" MeaningfulIndigoRobbie {
+    _hidden_value = true
+  }
+  serviceid_number SignificantGoldDelinda {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SimilarPeachMillie {
+    _hidden_value = true
+  }
+  serviceid_number ControlledOrangeSelestina {
+    _hidden_value = true
+  }
+  serviceid PsychiatricMoccasinVioletta {
+    _hidden_value = true
+  }
+  boolean VaryingJadeDari {
+    _hidden_value = true
+  }
+  dummy.DEFAULT HistoricalTanGui {
+    _hidden_value = true
+  }
+  serviceid_number VivaciousAzureTherese {
+    _hidden_value = true
+  }
+  dummy.SplendidAmberFlorance WispyBrownVerene {
+    WhisperingTurquoiseMildred = "Whoever invented the knock-knock joke should get a no bell prize."
+    RelevantSalmonGaby = "I'll tell you what often gets over looked... garden fences."
+    VictoriousLimeEthel = "What do you call two barracuda fish?  A Pairacuda!"
+    ImaginativeGreenGale = 887
+    FamousAquaZondra = 586
+    _hidden_value = true
+  }
+  serviceid IncreasedAmberCarole {
+    _hidden_value = true
+  }
+  MiserableBlackBirgit = 444
+  CautiousWhiteCarolynn = "What do you call two barracuda fish?  A Pairacuda!"
+  SuitableFuchsiaErinn = 653
+  TensePeachCristie = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "UsualAmethystDaphene"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "StupidGrayMuire"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ResultingBlueTrude"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

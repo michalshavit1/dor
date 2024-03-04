@@ -1,0 +1,48 @@
+type dummy.TremendousYellowMarguerite {
+  annotations {
+    serviceid ExtraordinaryCoralFarra {
+    }
+    string VastRoseSelina {
+    }
+    serviceid EndlessIvoryFernanda {
+    }
+    json SpecialRoseRobbyn {
+    }
+    dummy.SorryCyanVinnie TerritorialCoralCate {
+    }
+    boolean SoreCyanVanna {
+    }
+    dummy.AccessibleTurquoiseEssie SatisfiedCoffeeRahel {
+    }
+  }
+  string NursingAmberMartica {
+    _hidden_value = true
+  }
+  boolean QualifiedIndigoSheilakathryn {
+    _hidden_value = true
+  }
+  serviceid FellowPlumTallia {
+    _hidden_value = true
+  }
+  hidden_boolean StaleRedDeeanne {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean LargeAquaLynnette {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number OrganisationalAmberJocelin {
+    _hidden_value = true
+  }
+  ExtraordinaryCoralFarra = "To be Frank, I'd have to change my name."
+  VastRoseSelina = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  EndlessIvoryFernanda = "Why didnt the skeleton cross the road? Because he had no guts."
+  SpecialRoseRobbyn = "What creature is smarter than a talking parrot? A spelling bee."
+  TerritorialCoralCate = "I'll tell you what often gets over looked... garden fences."
+  SoreCyanVanna = false
+  SatisfiedCoffeeRahel = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+}

@@ -1,0 +1,119 @@
+type dummy.CivilBlueCindra {
+  annotations {
+    serviceid_number BlondeSapphireRozina {
+    }
+    boolean YtterbicMaroonCarleen {
+    }
+    json AmbitiousCoffeeCleo {
+    }
+    json PoisedPlumBritteny {
+    }
+    boolean PracticalPinkArielle {
+    }
+  }
+  boolean ProductiveMaroonDolli {
+    _hidden_value = true
+  }
+  hidden_boolean SportingCopperNorma {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT ConservativeAquamarineCherish {
+    _hidden_value = true
+  }
+  serviceid_number CuddlyTurquoiseMela {
+    _hidden_value = true
+  }
+  dummy.OutrageousApricotDelia FluffyRoseJinny {
+    ConvenientGoldYasmin = 685
+    OccasionalGoldSabine = 188
+    ComparableCyanAddia = "Slept like a log last night  woke up in the fireplace."
+    ConceptualCoffeeAngelle = {
+      legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+    }
+    NervousCrimsonBernice = 770
+    DeadIvoryMatilda = {
+      legit = "Why was it called the dark ages? Because of all the knights. "
+    }
+    ManagerialChocolateMaddi = "Why do birds fly south for the winter? Because it's too far to walk."
+    MagneticCoffeeGae = "I'll tell you what often gets over looked... garden fences."
+    ConcreteApricotJordain = "Dad Im hungry  Hi hungry Im dad"
+    SupportingCyanAdda = 178
+    AdvancedGreenGilda = 926
+    AvailableTomatoFlorentia = 650
+    SacredLimeGeorgeta = 434
+    ComplexCoffeeNatala = "Im only familiar with 25 letters in the English language. I dont know why."
+    ColdAquamarineRorie = 565
+    CriticalApricotRita = true
+    UncertainApricotCorly = "Why do birds fly south for the winter? Because it's too far to walk."
+    FragileFuchsiaBeitris = 244
+    _hidden_value = true
+  }
+  number FormidableYellowHarriott {
+    _hidden_value = true
+  }
+  number MelodicBlackArleen {
+    _hidden_value = true
+  }
+  serviceid NastyPeachMarlo {
+    _hidden_value = true
+  }
+  serviceid RegulatorySapphireAlyce {
+    _hidden_value = true
+  }
+  json SoundCopperSarina {
+    _hidden_value = true
+  }
+  json VisitingPlumCarlita {
+    _hidden_value = true
+  }
+  json MiniatureFuchsiaDasya {
+    _hidden_value = true
+  }
+  serviceid ToryPeachAubrie {
+    _hidden_value = true
+  }
+  number DirtyFuchsiaStacee {
+    _hidden_value = true
+  }
+  boolean SureIvoryEleni {
+    _hidden_value = true
+  }
+  boolean RecentBeigeAnnelise {
+    _hidden_value = true
+  }
+  string CurvedMoccasinBethanne {
+    _hidden_value = true
+  }
+  BlondeSapphireRozina = 418
+  YtterbicMaroonCarleen = false
+  AmbitiousCoffeeCleo = "Im only familiar with 25 letters in the English language. I dont know why."
+  PoisedPlumBritteny = "Did you know that protons have mass? I didn't even know they were catholic."
+  PracticalPinkArielle = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "SureIvoryEleni"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ConservativeAquamarineCherish"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ProductiveMaroonDolli"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "AmbitiousCoffeeCleo"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

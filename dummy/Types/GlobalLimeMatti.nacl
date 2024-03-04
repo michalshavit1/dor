@@ -1,0 +1,51 @@
+type dummy.GlobalLimeMatti is string {
+  annotations {
+    dummy.DEFAULT ArrogantPurpleMadelene {
+    }
+    hidden_boolean PatientCopperQuentin {
+    }
+    json InsufficientTomatoHetti {
+    }
+    boolean UltimateRosePandora {
+    }
+    number SilentCyanMelina {
+    }
+    boolean MeltedAquamarinePatsy {
+    }
+    hidden_boolean RequiredMoccasinDale {
+    }
+    number AppallingRedMegen {
+    }
+    boolean StuckVioletLynette {
+    }
+    serviceid_number PersistentChocolateNicolina {
+    }
+    boolean PanickyJadeBianka {
+    }
+    string FunIvoryCristionna {
+    }
+    dummy.DEFAULT HardCopperCahra {
+    }
+    json ProtectiveSalmonLiza {
+    }
+    string SacredCyanRakel {
+    }
+  }
+  ArrogantPurpleMadelene = {
+    legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+  }
+  InsufficientTomatoHetti = "Why didnt the skeleton cross the road? Because he had no guts."
+  UltimateRosePandora = false
+  SilentCyanMelina = 964
+  MeltedAquamarinePatsy = true
+  AppallingRedMegen = 237
+  StuckVioletLynette = true
+  PersistentChocolateNicolina = 123
+  PanickyJadeBianka = false
+  FunIvoryCristionna = "Did you know that protons have mass? I didn't even know they were catholic."
+  HardCopperCahra = {
+    legit = "Im only familiar with 25 letters in the English language. I dont know why."
+  }
+  ProtectiveSalmonLiza = "Why do birds fly south for the winter? Because it's too far to walk."
+  SacredCyanRakel = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+}

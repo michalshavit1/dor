@@ -1,0 +1,110 @@
+type dummy.CommercialSapphireMarjory {
+  annotations {
+    serviceid_number AshamedSalmonSuzanna {
+    }
+    serviceid_number ThickCyanOfilia {
+    }
+    string HotSalmonSheryl {
+    }
+    serviceid SpotlessCoffeeNeely {
+    }
+    number ComingTealCeil {
+    }
+    number TenderBlushGuglielma {
+    }
+    string AfraidTanTarrah {
+    }
+  }
+  serviceid_number SpontaneousPeachMinette {
+    _hidden_value = true
+  }
+  serviceid ConcreteWhiteValenka {
+    _hidden_value = true
+  }
+  dummy.OutrageousApricotDelia ExactTurquoiseArielle {
+    ConvenientGoldYasmin = 321
+    OccasionalGoldSabine = 2
+    ComparableCyanAddia = "Im only familiar with 25 letters in the English language. I dont know why."
+    ConceptualCoffeeAngelle = {
+      legit = "Why didnt the skeleton cross the road? Because he had no guts."
+    }
+    NervousCrimsonBernice = 477
+    DeadIvoryMatilda = {
+      legit = "A steak pun is a rare medium well done."
+    }
+    ManagerialChocolateMaddi = "Im only familiar with 25 letters in the English language. I dont know why."
+    MagneticCoffeeGae = "A steak pun is a rare medium well done."
+    ConcreteApricotJordain = "Why did the kid cross the playground? To get to the other slide."
+    SupportingCyanAdda = 579
+    AdvancedGreenGilda = 853
+    AvailableTomatoFlorentia = 133
+    SacredLimeGeorgeta = 895
+    ComplexCoffeeNatala = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    ColdAquamarineRorie = 984
+    CriticalApricotRita = true
+    UncertainApricotCorly = "What do you call two barracuda fish?  A Pairacuda!"
+    FragileFuchsiaBeitris = 816
+    _hidden_value = true
+  }
+  number ObviousChocolateJessy {
+    _hidden_value = true
+  }
+  string SeparateGrayJolynn {
+    _hidden_value = true
+  }
+  hidden_boolean CloudyLavenderMignonne {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string SurroundingYellowBobbie {
+    _hidden_value = true
+  }
+  serviceid CivilianRedVeda {
+    _hidden_value = true
+  }
+  serviceid_number MainCrimsonCristina {
+    _hidden_value = true
+  }
+  string VividWhiteAlessandra {
+    _hidden_value = true
+  }
+  boolean IntermediateBrownSibyl {
+    _hidden_value = true
+  }
+  "Map<serviceid_number>" ScaredPeachCara {
+    _hidden_value = true
+  }
+  AshamedSalmonSuzanna = 640
+  ThickCyanOfilia = 991
+  HotSalmonSheryl = "Why do birds fly south for the winter? Because it's too far to walk."
+  SpotlessCoffeeNeely = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ComingTealCeil = 972
+  TenderBlushGuglielma = 293
+  AfraidTanTarrah = "A steak pun is a rare medium well done."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "CivilianRedVeda"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "VividWhiteAlessandra"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ThickCyanOfilia"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "AfraidTanTarrah"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

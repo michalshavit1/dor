@@ -1,0 +1,49 @@
+type dummy.NecessaryCopperKariotta {
+  annotations {
+    boolean OverwhelmingWhiteAlexandra {
+    }
+    json OutstandingIvoryAlthea {
+    }
+    json ExtraordinaryChocolateGloriana {
+    }
+    hidden_boolean ParliamentaryGreenElianora {
+    }
+    serviceid WellBlueEmeline {
+    }
+    string AlrightCoffeeAgneta {
+    }
+  }
+  dummy.GlobalLimeMatti OccupationalLimeKaroly {
+    ArrogantPurpleMadelene = {
+      legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    }
+    InsufficientTomatoHetti = "My first time using an elevator was an uplifting experience. The second time let me down."
+    UltimateRosePandora = false
+    SilentCyanMelina = 928
+    MeltedAquamarinePatsy = true
+    AppallingRedMegen = 702
+    StuckVioletLynette = false
+    PersistentChocolateNicolina = 666
+    PanickyJadeBianka = true
+    FunIvoryCristionna = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    HardCopperCahra = {
+      legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    }
+    ProtectiveSalmonLiza = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    SacredCyanRakel = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    _hidden_value = true
+  }
+  OverwhelmingWhiteAlexandra = true
+  OutstandingIvoryAlthea = "Why didnt the skeleton cross the road? Because he had no guts."
+  ExtraordinaryChocolateGloriana = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  WellBlueEmeline = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  AlrightCoffeeAgneta = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "OverwhelmingWhiteAlexandra"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

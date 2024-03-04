@@ -1,0 +1,114 @@
+type dummy.DoubleSapphireSidonnie {
+  annotations {
+    boolean SimpleEmeraldDixie {
+    }
+    serviceid_number MentalCoralKeri {
+    }
+    serviceid_number RealisticGoldDevan {
+    }
+    number TotalWhiteLanni {
+    }
+    number IndirectCyanRona {
+    }
+    number CertainCoffeeEmili {
+    }
+    serviceid_number AfraidCoffeeAnnadiana {
+    }
+    serviceid_number VoluminousBrownKimberlyn {
+    }
+    string ElaborateGreenGiustina {
+    }
+    serviceid_number CommunistAmethystCorella {
+    }
+    string AbleSapphireBernice {
+    }
+    hidden_boolean DeepCopperAngelika {
+    }
+    hidden_boolean AnonymousTomatoAlfreda {
+    }
+    string BiologicalTanKylie {
+    }
+    serviceid_number EventualAmaranthDalenna {
+    }
+    number InternationalTanJany {
+    }
+    number IsolatedPeachAnnamarie {
+    }
+    boolean FormalTurquoiseJanel {
+    }
+    boolean PersistentApricotSonny {
+    }
+    hidden_boolean PrettyAzureChristen {
+    }
+    serviceid_number SouthernPeachAyn {
+    }
+  }
+  SimpleEmeraldDixie = true
+  MentalCoralKeri = 624
+  RealisticGoldDevan = 740
+  TotalWhiteLanni = 462
+  IndirectCyanRona = 348
+  CertainCoffeeEmili = 988
+  AfraidCoffeeAnnadiana = 59
+  VoluminousBrownKimberlyn = 766
+  ElaborateGreenGiustina = "To be Frank, I'd have to change my name."
+  CommunistAmethystCorella = 184
+  AbleSapphireBernice = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  BiologicalTanKylie = "To be Frank, I'd have to change my name."
+  EventualAmaranthDalenna = 7
+  InternationalTanJany = 253
+  IsolatedPeachAnnamarie = 778
+  FormalTurquoiseJanel = true
+  PersistentApricotSonny = false
+  SouthernPeachAyn = 873
+  _important_values = [
+    {
+      value = "BusyPurpleAbbey"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "MentalCoralKeri"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "BiologicalTanKylie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "VoluminousBrownKimberlyn"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "InternationalTanJany"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "AbleSapphireBernice"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "IsolatedPeachAnnamarie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ElaborateGreenGiustina"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "PersistentApricotSonny"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "DoubleSapphireSidonnie_alias"
+}

@@ -1,0 +1,109 @@
+type dummy.ElectricPeachRivkah {
+  annotations {
+    dummy.DelightedTealLynna YelpingLavenderDoretta {
+    }
+    serviceid VeryMaroonHanni {
+    }
+    hidden_boolean RightWhiteSuzi {
+    }
+    json QuaintTomatoAliza {
+    }
+  }
+  string BlushingCyanAlicea {
+    _hidden_value = true
+  }
+  hidden_boolean FreeBlueLori {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean ElaborateEmeraldOrtensia {
+    _hidden_value = true
+  }
+  hidden_boolean HealthyTurquoiseMattie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json MainMagentaCinda {
+    _hidden_value = true
+  }
+  dummy.OppositeBlueStacia PremierPeachDeane {
+    GeneralLimeAnitra = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    YoungestYellowHelenka = "Why did the kid cross the playground? To get to the other slide."
+    ZonalJadeGabriellia = {
+      legit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    }
+    FunctionalApricotHelyn = "Why do birds fly south for the winter? Because it's too far to walk."
+    GorgeousRedAnnecorinne = 265
+    PreliminaryGoldZsazsa = "Dad Im hungry  Hi hungry Im dad"
+    _hidden_value = true
+  }
+  hidden_boolean RenewedCoffeeSasha {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean UsedMagentaRosalinda {
+    _hidden_value = true
+  }
+  serviceid_number ProminentPinkYasmin {
+    _hidden_value = true
+  }
+  number AdjacentAmberConstance {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RichYellowEran {
+    _hidden_value = true
+  }
+  hidden_boolean PleasantPurpleRenie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number SupportingLimeElyse {
+    _hidden_value = true
+  }
+  json UltimateAquaKimmy {
+    _hidden_value = true
+  }
+  boolean DueIvoryEmelda {
+    _hidden_value = true
+  }
+  string SoftTurquoiseStephanie {
+    _hidden_value = true
+  }
+  YelpingLavenderDoretta = true
+  VeryMaroonHanni = "Why did the tomato blush? Because it saw the salad dressing."
+  QuaintTomatoAliza = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "RichYellowEran"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "AdjacentAmberConstance"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "HealthyTurquoiseMattie"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "VeryMaroonHanni"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "RightWhiteSuzi"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

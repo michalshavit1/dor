@@ -1,0 +1,18 @@
+type dummy.PreparedChocolateVanny is boolean {
+  annotations {
+    serviceid_number DampCrimsonDacia {
+    }
+    dummy.DEFAULT FlyingFuchsiaAlfreda {
+    }
+    serviceid ConceptualOrangeJana {
+    }
+    serviceid_number VividCyanShina {
+    }
+  }
+  DampCrimsonDacia = 17
+  FlyingFuchsiaAlfreda = {
+    legit = "Why didnt the skeleton cross the road? Because he had no guts."
+  }
+  ConceptualOrangeJana = "What did one nut say as he chased another nut?  I'm a cashew!"
+  VividCyanShina = 159
+}

@@ -1,0 +1,88 @@
+type dummy.LooseCoffeeCarla {
+  annotations {
+    string EssentialJadeShelli {
+    }
+    boolean VictoriousHarlequinCamel {
+    }
+    string RattyCoralLiliane {
+    }
+    serviceid CorporateBeigeAnastasia {
+    }
+    string FirmTurquoiseJustine {
+    }
+    boolean SportingLimeBren {
+    }
+    json SelfishSilverAdrea {
+    }
+    dummy.DetailedChocolateBethanne FreeCoralElisabetta {
+    }
+    serviceid TinyMoccasinGilberta {
+    }
+    hidden_boolean FixedCyanMildrid {
+    }
+    number CorporateAmethystRoxana {
+    }
+    number ChosenBeigeYnez {
+    }
+    json FellowBlackEricka {
+    }
+    number MedicalCopperAlys {
+    }
+    serviceid_number QuerulousSapphireCandra {
+    }
+    boolean SplendidApricotShae {
+    }
+    serviceid_number RepresentativeHarlequinEvy {
+    }
+    string EmbarrassedGoldShae {
+    }
+    serviceid ManualBlueMarylin {
+    }
+    serviceid_number NecessaryCopperEvvy {
+    }
+    serviceid_number SimilarApricotCelie {
+    }
+  }
+  EssentialJadeShelli = "Why do birds fly south for the winter? Because it's too far to walk."
+  VictoriousHarlequinCamel = true
+  RattyCoralLiliane = "Dad Im hungry  Hi hungry Im dad"
+  CorporateBeigeAnastasia = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  FirmTurquoiseJustine = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  SportingLimeBren = true
+  SelfishSilverAdrea = "Why do birds fly south for the winter? Because it's too far to walk."
+  TinyMoccasinGilberta = "A steak pun is a rare medium well done."
+  CorporateAmethystRoxana = 219
+  ChosenBeigeYnez = 214
+  FellowBlackEricka = "A steak pun is a rare medium well done."
+  MedicalCopperAlys = 439
+  QuerulousSapphireCandra = 494
+  SplendidApricotShae = true
+  RepresentativeHarlequinEvy = 38
+  EmbarrassedGoldShae = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ManualBlueMarylin = "What do you do on a remote island? Try and find the TV island it belongs to."
+  NecessaryCopperEvvy = 151
+  SimilarApricotCelie = 688
+  _self_important_values = [
+    {
+      value = "SplendidApricotShae"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ManualBlueMarylin"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "SelfishSilverAdrea"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "SimilarApricotCelie"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "LooseCoffeeCarla_alias"
+}

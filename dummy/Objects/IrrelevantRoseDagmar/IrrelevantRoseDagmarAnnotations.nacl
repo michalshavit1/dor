@@ -1,0 +1,78 @@
+type dummy.IrrelevantRoseDagmar {
+  annotations {
+    json DrunkTurquoiseAnnnora {
+    }
+    serviceid ArchitecturalRedBeverley {
+    }
+    number SplendidTanLiv {
+    }
+    number CurvedLimeTobi {
+    }
+    boolean SystematicCoralCherianne {
+    }
+    number ExcellentBronzeGeorgena {
+    }
+    boolean RedundantRoseAdara {
+    }
+    boolean ThoughtfulMagentaAlidia {
+    }
+    serviceid LonelyPurpleBethina {
+    }
+    json ProfessionalMaroonOlia {
+    }
+    boolean UnknownBlueDorris {
+    }
+    json IntensivePlumMarybeth {
+    }
+    number CommunistAzureAva {
+    }
+    hidden_boolean JollyPinkTonye {
+    }
+    serviceid RepresentativeGrayConsuela {
+    }
+  }
+  DrunkTurquoiseAnnnora = "My first time using an elevator was an uplifting experience. The second time let me down."
+  ArchitecturalRedBeverley = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  SplendidTanLiv = 189
+  CurvedLimeTobi = 664
+  SystematicCoralCherianne = true
+  ExcellentBronzeGeorgena = 852
+  RedundantRoseAdara = false
+  ThoughtfulMagentaAlidia = true
+  LonelyPurpleBethina = "Did you know that protons have mass? I didn't even know they were catholic."
+  ProfessionalMaroonOlia = "Why do birds fly south for the winter? Because it's too far to walk."
+  UnknownBlueDorris = true
+  IntensivePlumMarybeth = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  CommunistAzureAva = 934
+  RepresentativeGrayConsuela = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _important_values = [
+    {
+      value = "AllegedTealAnnadiana"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "PsychologicalAmethystLee"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "AliveSapphireRahel"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "RepresentativeGrayConsuela"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "RedundantRoseAdara"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _alias = "IrrelevantRoseDagmar_alias"
+}

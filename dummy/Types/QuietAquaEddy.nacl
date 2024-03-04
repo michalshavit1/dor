@@ -1,0 +1,84 @@
+type dummy.QuietAquaEddy {
+  annotations {
+    boolean TypicalBronzeLorelle {
+    }
+    hidden_boolean RandomAmethystLin {
+    }
+    json RoastedSapphireJacqueline {
+    }
+    json ProfoundPinkGianna {
+    }
+    serviceid_number FaithfulCrimsonMaddalena {
+    }
+    boolean OralPeachFlorinda {
+    }
+  }
+  boolean OverseasIndigoBelicia {
+    _hidden_value = true
+  }
+  serviceid MagicCrimsonJobie {
+    _hidden_value = true
+  }
+  string YodellingRoseAurelea {
+    _hidden_value = true
+  }
+  string SecondaryTealMarjie {
+    _hidden_value = true
+  }
+  string ExclusiveLimeMarie {
+    _hidden_value = true
+  }
+  number DelightfulTurquoiseSeline {
+    _hidden_value = true
+  }
+  boolean ImmediateSapphireDaffie {
+    _hidden_value = true
+  }
+  json UniformTanJosefina {
+    _hidden_value = true
+  }
+  hidden_boolean CuteSalmonLauri {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json ConceptualGreenMalinda {
+    _hidden_value = true
+  }
+  string MagicHarlequinEugine {
+    _hidden_value = true
+  }
+  hidden_boolean JealousGreenRosalia {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid AsleepMaroonFelipa {
+    _hidden_value = true
+  }
+  TypicalBronzeLorelle = false
+  RoastedSapphireJacqueline = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ProfoundPinkGianna = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  FaithfulCrimsonMaddalena = 712
+  OralPeachFlorinda = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ExclusiveLimeMarie"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "RandomAmethystLin"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "FaithfulCrimsonMaddalena"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,27 @@
+type dummy.HollowScarletPatsy {
+  annotations {
+    dummy.DEFAULT HappyHarlequinJennifer {
+    }
+    dummy.DEFAULT TechnologicalBronzeLizabeth {
+    }
+    boolean StaticBlushLura {
+    }
+    dummy.OutrageousApricotDelia ConvenientApricotLaverne {
+    }
+    number BriefBlushRay {
+    }
+  }
+  serviceid DearTanValeria {
+    _hidden_value = true
+  }
+  HappyHarlequinJennifer = {
+    legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  }
+  TechnologicalBronzeLizabeth = {
+    legit = "Why was it called the dark ages? Because of all the knights. "
+  }
+  StaticBlushLura = false
+  ConvenientApricotLaverne = 643
+  BriefBlushRay = 726
+  _hidden_value = true
+}

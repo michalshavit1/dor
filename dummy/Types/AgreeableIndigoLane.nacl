@@ -1,0 +1,50 @@
+type dummy.AgreeableIndigoLane {
+  annotations {
+    serviceid_number MeltedGoldEvangeline {
+    }
+    json ReliableCoffeeCyndi {
+    }
+    serviceid_number UnchangedBronzeBarb {
+    }
+    serviceid_number WeakLimeIlene {
+    }
+  }
+  hidden_boolean OccupationalOrangeFannie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number DirtyCopperVonni {
+    _hidden_value = true
+  }
+  serviceid FatCopperGiuditta {
+    _hidden_value = true
+  }
+  string ContinentalAquaJune {
+    _hidden_value = true
+  }
+  hidden_boolean LiquidPurpleShari {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  MeltedGoldEvangeline = 245
+  ReliableCoffeeCyndi = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  UnchangedBronzeBarb = 21
+  WeakLimeIlene = 320
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "FatCopperGiuditta"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "UnchangedBronzeBarb"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

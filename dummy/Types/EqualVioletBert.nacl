@@ -1,0 +1,97 @@
+type dummy.EqualVioletBert {
+  annotations {
+    hidden_boolean CollectiveBlackDulce {
+    }
+    string HeadBrownFaye {
+    }
+    hidden_boolean NoisyOrangeEalasaid {
+    }
+    dummy.AcceptableAmaranthGertrudis RetailMoccasinNanny {
+    }
+    serviceid_number ThenPurpleLinet {
+    }
+    hidden_boolean KnownCoffeeVivia {
+    }
+    serviceid_number FoolishMagentaAndrei {
+    }
+  }
+  dummy.MassYellowCorina VariableYellowGretal {
+    _hidden_value = true
+  }
+  serviceid_number CharmingHarlequinTildi {
+    _hidden_value = true
+  }
+  number SignificantWhiteSaraann {
+    _hidden_value = true
+  }
+  serviceid FewJadeVanni {
+    _hidden_value = true
+  }
+  number BlankAquaVanna {
+    _hidden_value = true
+  }
+  boolean UsefulIvoryRebbecca {
+    _hidden_value = true
+  }
+  json RichMoccasinJanaya {
+    _hidden_value = true
+  }
+  string ConsciousBrownKarie {
+    _hidden_value = true
+  }
+  hidden_boolean RawGreenRayna {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid ReducedPinkJorie {
+    _hidden_value = true
+  }
+  boolean DelightfulJadeLorelei {
+    _hidden_value = true
+  }
+  string RapidBlackBrena {
+    _hidden_value = true
+  }
+  string NutritiousRoseTorie {
+    _hidden_value = true
+  }
+  string ImportantIvoryEuphemia {
+    _hidden_value = true
+  }
+  string DoubleCrimsonKylie {
+    _hidden_value = true
+  }
+  boolean ParticularPinkAnastassia {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RevolutionaryGreenLetty {
+    _hidden_value = true
+  }
+  number LogicalBlushRowe {
+    _hidden_value = true
+  }
+  number HumanBlueAdele {
+    _hidden_value = true
+  }
+  hidden_boolean OrganicBeigeGiustina {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number PremierBlushGlenda {
+    _hidden_value = true
+  }
+  HeadBrownFaye = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  RetailMoccasinNanny = 526
+  ThenPurpleLinet = 12
+  FoolishMagentaAndrei = 197
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "NutritiousRoseTorie"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

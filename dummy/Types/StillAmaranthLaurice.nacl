@@ -1,0 +1,53 @@
+type dummy.StillAmaranthLaurice {
+  annotations {
+    dummy.DEFAULT ClassicGoldValry {
+    }
+    serviceid_number FemaleCopperAlix {
+    }
+    json FunctionalBrownLenna {
+    }
+    serviceid AgreeableCyanNeala {
+    }
+  }
+  hidden_boolean UglyPeachRuperta {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean BackEmeraldMillie {
+    _hidden_value = true
+  }
+  number RollingPinkMisti {
+    _hidden_value = true
+  }
+  number EstablishedBrownElicia {
+    _hidden_value = true
+  }
+  string AcceptedSapphireAllison {
+    _hidden_value = true
+  }
+  hidden_boolean SecondaryMoccasinMarna {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  ClassicGoldValry = {
+    legit = "A steak pun is a rare medium well done."
+  }
+  FemaleCopperAlix = 932
+  FunctionalBrownLenna = "Whoever invented the knock-knock joke should get a no bell prize."
+  AgreeableCyanNeala = "Im only familiar with 25 letters in the English language. I dont know why."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "RollingPinkMisti"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "EstablishedBrownElicia"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

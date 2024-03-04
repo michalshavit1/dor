@@ -1,0 +1,52 @@
+type dummy.FiercePlumLavena {
+  annotations {
+    boolean DynamicPeachAnabelle {
+    }
+    dummy.DEFAULT SplendidBronzeMartguerita {
+    }
+    hidden_boolean InnocentBrownKarisa {
+    }
+    serviceid HealthyBronzeOlva {
+    }
+    boolean CommunistAzureColetta {
+    }
+    boolean DeepPeachEadie {
+    }
+    json MassiveWhiteAindrea {
+    }
+  }
+  hidden_boolean FinancialLimeLynde {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number RollingSilverClarey {
+    _hidden_value = true
+  }
+  serviceid RottenVioletSidonia {
+    _hidden_value = true
+  }
+  serviceid SurprisingHarlequinNancy {
+    _hidden_value = true
+  }
+  hidden_boolean SlowFuchsiaNolana {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json RespectablePurpleOlimpia {
+    _hidden_value = true
+  }
+  json NecessarySilverMarieann {
+    _hidden_value = true
+  }
+  DynamicPeachAnabelle = false
+  SplendidBronzeMartguerita = {
+    legit = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  }
+  HealthyBronzeOlva = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  CommunistAzureColetta = false
+  DeepPeachEadie = true
+  MassiveWhiteAindrea = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  _hidden_value = true
+}

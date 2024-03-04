@@ -1,0 +1,102 @@
+salesforce.Flow mic {
+  fullName = "mic"
+  actionCalls = [
+    {
+      name = "ghjk"
+      label = "ghjvfdvk"
+      locationX = 168
+      locationY = 495
+      actionName = salesforce.QuickAction.instance.NewTask
+      actionType = "quickAction"
+      flowTransactionModel = "CurrentTransaction"
+      inputParameters = [
+        {
+          name = "OwnerId"
+          value = {
+            elementReference = "ab"
+          }
+        },
+      ]
+      nameSegment = "NewTask"
+      versionSegment = 1
+    },
+  ]
+  apiVersion = 52
+  interviewLabel = "mic {!$Flow.CurrentDateTime}"
+  label = "mic"
+  processMetadataValues = [
+    {
+      name = "BuilderType"
+      value = {
+        stringValue = "LightningFlowBuilder"
+      }
+    },
+    {
+      name = "CanvasMode"
+      value = {
+        stringValue = "FREE_FORM_CANVAS"
+      }
+    },
+    {
+      name = "OriginBuilderType"
+      value = {
+        stringValue = "LightningFlowBuilder"
+      }
+    },
+  ]
+  processType = "AutoLaunchedFlow"
+  start = {
+    locationX = 49
+    locationY = 50
+    connector = {
+      targetReference = "abc"
+    }
+    filterLogic = "and"
+    filters = {
+      field = salesforce.Account.field.AccountSource
+      operator = "EqualTo"
+      value = {
+        stringValue = "Other"
+      }
+    }
+    object = salesforce.Account
+    schedule = {
+      frequency = "Once"
+      startDate = "2021-09-04"
+      startTime = "00:30:00.000Z"
+    }
+    triggerType = "Scheduled"
+  }
+  status = "Draft"
+  waits = {
+    name = "abc"
+    label = "abc"
+    locationX = 349
+    locationY = 425
+    defaultConnectorLabel = "Default Path"
+    waitEvents = {
+      name = "ab"
+      conditionLogic = "and"
+      connector = {
+        targetReference = "ghjk"
+      }
+      eventType = "AlarmEvent"
+      inputParameters = [
+        {
+          name = "AlarmTime"
+          value = {
+            elementReference = "$Flow.CurrentDate"
+          }
+        },
+        {
+          name = "TimeOffset"
+        },
+        {
+          name = "TimeOffsetUnit"
+        },
+      ]
+      label = "ab"
+    }
+  }
+  _alias = "mic"
+}

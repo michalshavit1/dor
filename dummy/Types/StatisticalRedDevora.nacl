@@ -1,0 +1,39 @@
+type dummy.StatisticalRedDevora {
+  annotations {
+    hidden_boolean ElectoralBeigeIssi {
+    }
+    string CircularTurquoiseAnnadiana {
+    }
+    json ImmediateYellowJaquelin {
+    }
+    dummy.DEFAULT SquareAquaMuire {
+    }
+    boolean DominantCrimsonCarola {
+    }
+    json EnvironmentalLimeArdyth {
+    }
+  }
+  number ProtestantPinkMechelle {
+    _hidden_value = true
+  }
+  CircularTurquoiseAnnadiana = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  ImmediateYellowJaquelin = "Slept like a log last night  woke up in the fireplace."
+  SquareAquaMuire = {
+    legit = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  }
+  DominantCrimsonCarola = false
+  EnvironmentalLimeArdyth = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "ElectoralBeigeIssi"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SquareAquaMuire"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

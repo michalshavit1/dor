@@ -1,0 +1,55 @@
+netsuite.companyInformation {
+  country = {
+    value = "US"
+    text = "United States"
+  }
+  suitetalkurl = "https://tstdrv2257860.suitetalk.api.netsuite.com"
+  
+  fiscalcalendar = {
+    value = "1"
+    text = "Standard Fiscal Calendar"
+  }
+  basecurrency = {
+    value = "1"
+    text = "USA"
+  }
+  
+  
+  
+  
+  formsurl = "https://tstdrv2257860.extforms.netsuite.com"
+  
+  isinactive = false
+  customersurl = "https://tstdrv2257860.app.netsuite.com/app/login/secure/privatelogin.nl?c=TSTDRV2257860"
+  timezone = {
+    value = "America/Los_Angeles"
+    text = "(GMT-08:00) Pacific Time (US & Canada)"
+  }
+  appurl = "https://tstdrv2257860.app.netsuite.com"
+  fiscalmonth = {
+    value = "JAN"
+    text = "January"
+  }
+  showsubsidiaryname = false
+  email = "omri.litvak@salto.io"
+  
+  taxfiscalcalendar = {
+    value = "1"
+    text = "Standard Fiscal Calendar"
+  }
+  lastmodifieddate = "2023-7-30 5:49 am"
+  restleturl = "https://tstdrv2257860.restlets.api.netsuite.com"
+  iselimination = false
+  displaylogointernally = false
+  
+  purgeaccount = false
+  dropdownstate = {
+    value = "CA"
+    text = "California"
+  }
+  _alias = "Company Information"
+  mainaddress_text = '''
+CA 
+United States
+'''
+}

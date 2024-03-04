@@ -1,0 +1,123 @@
+type dummy.VaguePinkPatrice {
+  annotations {
+    hidden_boolean EmpiricalFuchsiaIngaberg {
+    }
+    json ContemporaryTomatoDominica {
+    }
+    serviceid_number NationalLimeCorilla {
+    }
+    hidden_boolean SmallEmeraldLynnet {
+    }
+    serviceid_number EquivalentMoccasinGoldy {
+    }
+  }
+  boolean JustAquaTrisha {
+    _hidden_value = true
+  }
+  string CruelRedAlice {
+    _hidden_value = true
+  }
+  dummy.DEFAULT VocationalAquamarineLori {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CoastalRoseMarris {
+    _hidden_value = true
+  }
+  boolean ConservationPurpleCordey {
+    _hidden_value = true
+  }
+  boolean MoralCoffeeTandy {
+    _hidden_value = true
+  }
+  dummy.UnhappyMagentaNorah MeaningfulPinkAurora {
+    EerieAmberDiandra = 648
+    ViciousIvoryNesta = 540
+    ContinuingMaroonMarika = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    MusicalAmaranthStaci = 29
+    OverseasCyanLanette = 998
+    ArmedPeachDela = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    LimitedFuchsiaIsahella = 867
+    GrandPlumSusann = 752
+    _hidden_value = true
+  }
+  serviceid_number ModestSalmonShanon {
+    _hidden_value = true
+  }
+  json PassingBlackCordi {
+    _hidden_value = true
+  }
+  "List<json>" SillyGoldShayne {
+    _hidden_value = true
+  }
+  serviceid DisastrousSalmonCinda {
+    _hidden_value = true
+  }
+  string CertainRoseCharis {
+    _hidden_value = true
+  }
+  dummy.FastVioletDaniela AngryOliveJoelie {
+    YieldingGreenRosamond = 554
+    CleverPeachEngracia = {
+      legit = "Why is Peter Pan always flying? Because he Neverlands."
+    }
+    YtterbicTealGaylene = 555
+    YammeringPinkMarcelline = 68
+    OverwhelmingYellowKariotta = "Why didnt the skeleton cross the road? Because he had no guts."
+    JuicyApricotMercie = 364
+    IntimateIvoryAnnissa = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    SpectacularMagentaMellicent = "What do you do on a remote island? Try and find the TV island it belongs to."
+    ShiveringScarletMilka = 441
+    FrontChocolateLucinda = true
+    SexualGoldAlicia = 549
+    MonetaryIvoryDawna = 418
+    PoisedLavenderAndeee = "Why do birds fly south for the winter? Because it's too far to walk."
+    _hidden_value = true
+  }
+  number EarlyYellowLeonanie {
+    _hidden_value = true
+  }
+  string InstitutionalCoffeeElka {
+    _hidden_value = true
+  }
+  boolean LegislativeVioletEmyle {
+    _hidden_value = true
+  }
+  ContemporaryTomatoDominica = "Why was it called the dark ages? Because of all the knights. "
+  NationalLimeCorilla = 456
+  EquivalentMoccasinGoldy = 841
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "EarlyYellowLeonanie"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "MoralCoffeeTandy"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "CoastalRoseMarris"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ModestSalmonShanon"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "DisastrousSalmonCinda"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ContemporaryTomatoDominica"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,29 @@
+type dummy.DivineAzureTomasina {
+  annotations {
+    serviceid NativeIvoryAdeline {
+    }
+    serviceid_number GreasyBlackEvonne {
+    }
+    hidden_boolean HeadCoffeeNolana {
+    }
+    string LikeSapphireRoda {
+    }
+    json ApplicableAmberCharlotte {
+    }
+  }
+  serviceid_number VeryChocolateValerie {
+    _hidden_value = true
+  }
+  NativeIvoryAdeline = "Why was it called the dark ages? Because of all the knights. "
+  GreasyBlackEvonne = 887
+  LikeSapphireRoda = "Whoever invented the knock-knock joke should get a no bell prize."
+  ApplicableAmberCharlotte = "How come the stadium got hot after the game? Because all of the fans left."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "LikeSapphireRoda"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

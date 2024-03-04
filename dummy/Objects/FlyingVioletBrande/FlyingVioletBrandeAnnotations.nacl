@@ -1,0 +1,93 @@
+type dummy.FlyingVioletBrande {
+  annotations {
+    dummy.GiantCrimsonGusty MusicalAquaIngeborg {
+    }
+    serviceid PositiveWhiteDayna {
+    }
+    serviceid_number DeadTomatoGabey {
+    }
+    number PromisingCrimsonEimile {
+    }
+    boolean LightSalmonGleda {
+    }
+    serviceid_number HissingEmeraldCynde {
+    }
+    hidden_boolean FrailEmeraldClio {
+    }
+    boolean RecentBlueMarji {
+    }
+    json ProvincialGrayBarbara {
+    }
+    json MistyRoseAlexis {
+    }
+    serviceid IdenticalOliveSharline {
+    }
+    json BreezyGrayLilllie {
+    }
+    boolean VictoriousChocolateDorelle {
+    }
+    string UnitedAquaFlss {
+    }
+    json EnormousTomatoVeriee {
+    }
+    string DryCyanNelly {
+    }
+    dummy.WitteringTomatoMufinella DrySalmonGrata {
+    }
+    number ShortWhiteKellyann {
+    }
+    number CoastalPeachDiahann {
+    }
+    hidden_boolean StableIndigoCrysta {
+    }
+    json TremendousOlivePandora {
+    }
+    dummy.AcceptableAmaranthGertrudis CircularCoffeePiper {
+    }
+    string AcceptableTomatoLayney {
+    }
+  }
+  PositiveWhiteDayna = "A steak pun is a rare medium well done."
+  DeadTomatoGabey = 432
+  PromisingCrimsonEimile = 981
+  LightSalmonGleda = false
+  HissingEmeraldCynde = 330
+  RecentBlueMarji = false
+  ProvincialGrayBarbara = "What do you do on a remote island? Try and find the TV island it belongs to."
+  MistyRoseAlexis = "Dad Im hungry  Hi hungry Im dad"
+  IdenticalOliveSharline = "What do you call two barracuda fish?  A Pairacuda!"
+  BreezyGrayLilllie = "Why do birds fly south for the winter? Because it's too far to walk."
+  VictoriousChocolateDorelle = true
+  UnitedAquaFlss = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  EnormousTomatoVeriee = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  DryCyanNelly = "Why do birds fly south for the winter? Because it's too far to walk."
+  DrySalmonGrata = false
+  ShortWhiteKellyann = 707
+  CoastalPeachDiahann = 994
+  TremendousOlivePandora = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  CircularCoffeePiper = 885
+  AcceptableTomatoLayney = "Whoever invented the knock-knock joke should get a no bell prize."
+  _self_important_values = [
+    {
+      value = "PositiveWhiteDayna"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "DryCyanNelly"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "LightSalmonGleda"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "StableIndigoCrysta"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "FlyingVioletBrande_alias"
+}

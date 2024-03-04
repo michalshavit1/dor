@@ -1,0 +1,49 @@
+type dummy.AcuteFuchsiaLauren {
+  annotations {
+    dummy.DEFAULT FrozenIndigoRaeann {
+    }
+    json DelightedSilverJanice {
+    }
+    number AdorableAquaBabita {
+    }
+    json PoisedMaroonToma {
+    }
+    json AdverseRoseAilsun {
+    }
+    hidden_boolean AtomicCopperPamella {
+    }
+  }
+  serviceid_number RenewedBrownMadelina {
+    _hidden_value = true
+  }
+  serviceid UnchangedPurpleMuire {
+    _hidden_value = true
+  }
+  number MagicVioletLeora {
+    _hidden_value = true
+  }
+  string BumpyBronzeAudrie {
+    _hidden_value = true
+  }
+  serviceid_number HollowAquamarineLynea {
+    _hidden_value = true
+  }
+  number SpiritualGoldBirgit {
+    _hidden_value = true
+  }
+  FrozenIndigoRaeann = {
+    legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  }
+  DelightedSilverJanice = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  AdorableAquaBabita = 558
+  PoisedMaroonToma = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  AdverseRoseAilsun = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "UnchangedPurpleMuire"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

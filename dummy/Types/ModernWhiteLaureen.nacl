@@ -1,0 +1,75 @@
+type dummy.ModernWhiteLaureen {
+  annotations {
+    string SmilingSapphireStephenie {
+    }
+    json ForwardGrayDarline {
+    }
+    string ZestyOrangeVilhelmina {
+    }
+    dummy.DEFAULT ProtestantPeachArleen {
+    }
+    serviceid_number SteepPurpleAddie {
+    }
+    hidden_boolean MarginalSilverSharleen {
+    }
+  }
+  serviceid_number SlimBrownNoni {
+    _hidden_value = true
+  }
+  serviceid_number CrucialApricotWenona {
+    _hidden_value = true
+  }
+  boolean HeadTanAnne {
+    _hidden_value = true
+  }
+  number PowerfulIndigoRycca {
+    _hidden_value = true
+  }
+  serviceid RoundMagentaNara {
+    _hidden_value = true
+  }
+  dummy.DEFAULT BlindBlueMariejeanne {
+    _hidden_value = true
+  }
+  hidden_boolean TropicalMoccasinKelley {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number FrightenedApricotGiorgia {
+    _hidden_value = true
+  }
+  serviceid_number YellingPeachRena {
+    _hidden_value = true
+  }
+  number PremierSalmonAudi {
+    _hidden_value = true
+  }
+  SmilingSapphireStephenie = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ForwardGrayDarline = "What creature is smarter than a talking parrot? A spelling bee."
+  ZestyOrangeVilhelmina = "Why didnt the skeleton cross the road? Because he had no guts."
+  ProtestantPeachArleen = {
+    legit = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  }
+  SteepPurpleAddie = 686
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "PowerfulIndigoRycca"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SlimBrownNoni"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ProtestantPeachArleen"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

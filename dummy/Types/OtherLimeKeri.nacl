@@ -1,0 +1,148 @@
+type dummy.OtherLimeKeri {
+  annotations {
+    number VeryAquamarineTildy {
+    }
+    hidden_boolean PositiveGoldAlyce {
+    }
+    boolean StaticFuchsiaRemy {
+    }
+    number NaturalRedJodie {
+    }
+    json MarxistGreenRandene {
+    }
+    serviceid_number ShaggyAquaJunia {
+    }
+    number ToryCyanBilli {
+    }
+    serviceid_number ExtraSilverTove {
+    }
+  }
+  dummy.StaleSilverLillian FortunateSalmonCharissa {
+    ValuableGoldAudra = 642
+    RequiredCyanPaulie = 277
+    ProbableYellowNoemi = true
+    ToxicGrayGoldia = "Whoever invented the knock-knock joke should get a no bell prize."
+    _hidden_value = true
+  }
+  number OutstandingAmaranthEstelle {
+    _hidden_value = true
+  }
+  serviceid_number RetailSapphireLurlene {
+    _hidden_value = true
+  }
+  hidden_boolean SeniorBronzeOla {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid TemporaryPurpleMisha {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" VoluntaryRedKanya {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json ConceptualSalmonSophia {
+    _hidden_value = true
+  }
+  number MammothIndigoLarina {
+    _hidden_value = true
+  }
+  hidden_boolean AgreeableCoffeeWenonah {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json NegativeCrimsonMarillin {
+    _hidden_value = true
+  }
+  boolean AcuteSalmonEmalee {
+    _hidden_value = true
+  }
+  dummy.IndirectSalmonTina ExtraordinaryPlumMaddi {
+    StrongCoffeeLoleta = false
+    SlimyIndigoFara = 327
+    KnownGrayCesya = "Slept like a log last night  woke up in the fireplace."
+    LikePurpleBonni = 105
+    ArtisticGreenPearl = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    NiceAmethystCarole = {
+      legit = "Im only familiar with 25 letters in the English language. I dont know why."
+    }
+    MutualVioletLurline = 640
+    ExoticSilverNora = "What did one nut say as he chased another nut?  I'm a cashew!"
+    BewilderedHarlequinIrene = 388
+    DelightfulCopperKandy = "Dad Im hungry  Hi hungry Im dad"
+    ManualPinkNonah = 578
+    PresentMagentaCharla = "What do you call two barracuda fish?  A Pairacuda!"
+    SpotlessMagentaDamara = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    EfficientCyanGerty = 799
+    SmallCrimsonTimmi = "What did one nut say as he chased another nut?  I'm a cashew!"
+    ScrawnyVioletAvrit = 568
+    WealthyCoralNorah = {
+      legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    }
+    AlrightSalmonBrinn = 951
+    _hidden_value = true
+  }
+  boolean ViciousAquaConstantia {
+    _hidden_value = true
+  }
+  string SeparateCoffeeMaurine {
+    _hidden_value = true
+  }
+  serviceid EmbarrassingSapphireHarriet {
+    _hidden_value = true
+  }
+  boolean SuperbBlackErmentrude {
+    _hidden_value = true
+  }
+  serviceid_number ZanyOrangeMicaela {
+    _hidden_value = true
+  }
+  serviceid_number OutdoorEmeraldCherye {
+    _hidden_value = true
+  }
+  VeryAquamarineTildy = 924
+  StaticFuchsiaRemy = true
+  NaturalRedJodie = 982
+  MarxistGreenRandene = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  ShaggyAquaJunia = 987
+  ToryCyanBilli = 761
+  ExtraSilverTove = 764
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "TemporaryPurpleMisha"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ExtraordinaryPlumMaddi"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "RetailSapphireLurlene"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "VoluntaryRedKanya"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "MarxistGreenRandene"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "PositiveGoldAlyce"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

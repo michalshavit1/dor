@@ -1,0 +1,92 @@
+type dummy.AdverseApricotKay {
+  annotations {
+    hidden_boolean ArchitecturalAquamarineDrusy {
+    }
+    json CorporateSalmonLyn {
+    }
+    dummy.LatinHarlequinDarbie LiteraryCopperJess {
+    }
+    serviceid_number SacredCopperJacquelyn {
+    }
+    boolean GoverningTomatoSherye {
+    }
+    json UnknownTanKatalin {
+    }
+  }
+  json WateryMagentaOfella {
+    _hidden_value = true
+  }
+  number OperationalAzureJanaye {
+    _hidden_value = true
+  }
+  serviceid_number CharacteristicScarletJemimah {
+    _hidden_value = true
+  }
+  number DifficultApricotRuperta {
+    _hidden_value = true
+  }
+  hidden_boolean OkayRoseKonstance {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number CulturalSilverFrankie {
+    _hidden_value = true
+  }
+  string PunyOrangeAmelina {
+    _hidden_value = true
+  }
+  number BumpyBronzeLurette {
+    _hidden_value = true
+  }
+  dummy.GentleScarletAlbina ShakyAquamarineBrigida {
+    CorrespondingAmberAmelita = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    ProvincialTanCandi = "Did you know that protons have mass? I didn't even know they were catholic."
+    FlakyCopperAlexandrina = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    ObviousOliveAnthe = 687
+    DeliciousLimeAinsley = "What do you call two barracuda fish?  A Pairacuda!"
+    AlliedTurquoiseKori = {
+      legit = "Why did the tomato blush? Because it saw the salad dressing."
+    }
+    NastyPlumAsia = "My first time using an elevator was an uplifting experience. The second time let me down."
+    EnergeticSapphireLoutitia = 595
+    LogicalCyanDayle = true
+    DefiantSilverGerrilee = "Why do birds fly south for the winter? Because it's too far to walk."
+    InterimFuchsiaGaynor = 247
+    SupposedPinkDaryl = "Why do birds fly south for the winter? Because it's too far to walk."
+    GoverningAquaDiana = {
+      legit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    }
+    SymbolicAmethystIlise = "To be Frank, I'd have to change my name."
+    PartialChocolateAngelique = "Dad Im hungry  Hi hungry Im dad"
+    PureLimeGiuditta = 5
+    SmoothJadeJania = "What do you call two barracuda fish?  A Pairacuda!"
+    FirmGreenHortense = "What do you do on a remote island? Try and find the TV island it belongs to."
+    _hidden_value = true
+  }
+  CorporateSalmonLyn = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  LiteraryCopperJess = 161
+  SacredCopperJacquelyn = 613
+  GoverningTomatoSherye = false
+  UnknownTanKatalin = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "OperationalAzureJanaye"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "SacredCopperJacquelyn"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "UnknownTanKatalin"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,58 @@
+type dummy.YeastySalmonCyndi {
+  annotations {
+    hidden_boolean ContinuingAquaAllina {
+    }
+    dummy.UpperTanDebby NursingWhiteReba {
+    }
+    hidden_boolean IdeologicalBlackTallulah {
+    }
+    number ZygomorphicTurquoiseAviva {
+    }
+    string SpecificBronzeTasia {
+    }
+  }
+  serviceid_number RealisticOrangeNancy {
+    _hidden_value = true
+  }
+  serviceid ShortPinkLynnelle {
+    _hidden_value = true
+  }
+  boolean UnsightlyGrayEba {
+    _hidden_value = true
+  }
+  serviceid_number EconomicSapphireNedi {
+    _hidden_value = true
+  }
+  dummy.DEFAULT MusicalBlueMady {
+    _hidden_value = true
+  }
+  string ReliableMagentaDodi {
+    _hidden_value = true
+  }
+  boolean EvilAmberPamelina {
+    _hidden_value = true
+  }
+  NursingWhiteReba = false
+  ZygomorphicTurquoiseAviva = 497
+  SpecificBronzeTasia = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ShortPinkLynnelle"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "NursingWhiteReba"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ContinuingAquaAllina"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

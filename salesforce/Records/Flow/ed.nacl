@@ -1,0 +1,697 @@
+salesforce.Flow ed {
+  fullName = "ed"
+  apiVersion = 49
+  assignments = [
+    {
+      name = "Assign_Stage_1"
+      label = "Assign Stage 1"
+      locationX = 48
+      locationY = 202
+      assignmentItems = [
+        {
+          assignToReference = "$Flow.CurrentStage"
+          operator = "Assign"
+          value = {
+            elementReference = "Verify_Name_Stage"
+          }
+        },
+      ]
+      connector = {
+        targetReference = "Verify_Name_Screen"
+      }
+    },
+    {
+      name = "Assign_Stage_2"
+      label = "Assign Stage 2"
+      locationX = 464
+      locationY = 600
+      assignmentItems = [
+        {
+          assignToReference = "$Flow.CurrentStage"
+          operator = "Assign"
+          value = {
+            elementReference = "Verify_Birthdate_Stage"
+          }
+        },
+      ]
+      connector = {
+        targetReference = "Verify_Birthdate_Screen"
+      }
+    },
+    {
+      name = "Assign_Stage_3"
+      label = "Assign Stage 3"
+      locationX = 631
+      locationY = 363
+      assignmentItems = [
+        {
+          assignToReference = "$Flow.CurrentStage"
+          operator = "Assign"
+          value = {
+            elementReference = "Verify_Postal_Code_Stage"
+          }
+        },
+      ]
+      connector = {
+        targetReference = "Verify_Postcode_Screen"
+      }
+    },
+    {
+      name = "Assign_Stage_4"
+      label = "Assign Stage 4"
+      locationX = 990
+      locationY = 199
+      assignmentItems = [
+        {
+          assignToReference = "$Flow.CurrentStage"
+          operator = "Assign"
+          value = {
+            elementReference = "Identity_Verified_Stage"
+          }
+        },
+      ]
+      connector = {
+        targetReference = "Success_Screen"
+      }
+    },
+  ]
+  decisions = [
+    {
+      name = "Does_birthdate_exist"
+      label = "Does birthdate exist"
+      locationX = 743
+      locationY = 606
+      defaultConnector = {
+        targetReference = "Assign_Stage_3"
+      }
+      defaultConnectorLabel = "Default Outcome"
+      rules = [
+        {
+          name = "Birthdate_not_found"
+          conditionLogic = "and"
+          conditions = [
+            {
+              leftValueReference = "Birthdate_Variable"
+              operator = "IsNull"
+              rightValue = {
+                booleanValue = true
+              }
+            },
+          ]
+          connector = {
+            targetReference = "birthdate_postal_not_found_screen"
+          }
+          label = "Birthdate not found"
+        },
+      ]
+    },
+    {
+      name = "Does_Contact_Exist"
+      label = "Does Contact Exist"
+      locationX = 241
+      locationY = 604
+      defaultConnector = {
+        targetReference = "Assign_Stage_2"
+      }
+      defaultConnectorLabel = "[Default Outcome]"
+      rules = [
+        {
+          name = "Contact_Null"
+          conditionLogic = "and"
+          conditions = [
+            {
+              leftValueReference = "Contact_Id_Variable"
+              operator = "EqualTo"
+              rightValue = {
+                stringValue = ""
+              }
+            },
+          ]
+          connector = {
+            targetReference = "Name_Not_Found_Screen"
+          }
+          label = "Contact Null"
+        },
+      ]
+    },
+    {
+      name = "Does_postal_exist"
+      label = "Does postal exist"
+      locationX = 814
+      locationY = 194
+      defaultConnector = {
+        targetReference = "Assign_Stage_4"
+      }
+      defaultConnectorLabel = "Default Outcome"
+      rules = [
+        {
+          name = "Postal_not_found"
+          conditionLogic = "and"
+          conditions = [
+            {
+              leftValueReference = "Postcode_Variable"
+              operator = "IsNull"
+              rightValue = {
+                booleanValue = true
+              }
+            },
+          ]
+          connector = {
+            targetReference = "birthdate_postal_not_found_screen"
+          }
+          label = "Postal not found"
+        },
+      ]
+    },
+  ]
+  formulas = [
+    {
+      name = "User_Formula"
+      dataType = "String"
+      expression = "{!$User.FirstName}"
+    },
+  ]
+  interviewLabel = "ed {!$Flow.CurrentDateTime}"
+  label = "ed"
+  processMetadataValues = [
+    {
+      name = "BuilderType"
+      value = {
+        stringValue = "LightningFlowBuilder"
+      }
+    },
+    {
+      name = "CanvasMode"
+      value = {
+        stringValue = "FREE_FORM_CANVAS"
+      }
+    },
+  ]
+  processType = "Flow"
+  recordLookups = [
+    {
+      name = "Contact_Lookup_by_Name"
+      label = "Contact Lookup by Name"
+      locationX = 48
+      locationY = 602
+      assignNullValuesIfNoRecordsFound = false
+      connector = {
+        targetReference = "Does_Contact_Exist"
+      }
+      filterLogic = "and"
+      filters = [
+        {
+          field = "FirstName"
+          operator = "EqualTo"
+          value = {
+            elementReference = "First_Name_Input"
+          }
+        },
+        {
+          field = "LastName"
+          operator = "EqualTo"
+          value = {
+            elementReference = "Last_Name_Input"
+          }
+        },
+      ]
+      object = salesforce.Contact
+      outputAssignments = [
+        {
+          assignToReference = "Birthdate_Variable"
+          field = salesforce.Contact.field.Birthdate
+        },
+        {
+          assignToReference = "Contact_Id_Variable"
+          field = salesforce.Contact.field.Id
+        },
+        {
+          assignToReference = "Postcode_Variable"
+          field = "MailingPostalCode"
+        },
+      ]
+      sortField = "LastName"
+      sortOrder = "Desc"
+    },
+  ]
+  screens = [
+    {
+      name = "birthdate_postal_not_found_screen"
+      label = "Name Not Found"
+      locationX = 897
+      locationY = 410
+      allowBack = true
+      allowFinish = true
+      allowPause = true
+      connector = {
+        targetReference = "abg"
+      }
+      fields = [
+        {
+          name = "Birth_postal_not_found"
+          fieldText = "<p><span style=\"background-color: rgb(255, 255, 255); font-size: 20px; color: rgb(62, 62, 60);\">Missing birth date or postal code</span></p>"
+          fieldType = "DisplayText"
+        },
+        {
+          name = "birthdate_postal_not_found_script"
+          extensionName = "lbpm:flowScript"
+          fieldType = "ComponentInstance"
+          inputParameters = [
+            {
+              name = "script"
+              value = {
+                elementReference = "Birthdate_postal_not_found_call_script"
+              }
+            },
+          ]
+          inputsOnNextNavToAssocScrn = "UseStoredValues"
+          isRequired = true
+          storeOutputAutomatically = true
+        },
+      ]
+      showFooter = true
+      showHeader = true
+    },
+    {
+      name = "Name_Not_Found_Screen"
+      label = "Name Not Found"
+      locationX = 249
+      locationY = 390
+      allowBack = true
+      allowFinish = true
+      allowPause = true
+      connector = {
+        targetReference = "Verify_Name_Screen"
+      }
+      fields = [
+        {
+          name = "Name_Not_Found_Title"
+          fieldText = "<p style=\"text-align: center;\"><span style=\"font-size: 20px;\">Name Not Found</span></p>"
+          fieldType = "DisplayText"
+        },
+        {
+          name = "Name_Not_Found_Script"
+          extensionName = "lbpm:flowScript"
+          fieldType = "ComponentInstance"
+          inputParameters = [
+            {
+              name = "recordId"
+              value = {
+                elementReference = "recordId"
+              }
+            },
+            {
+              name = "script"
+              value = {
+                elementReference = "Name_Not_Found_Script_Text_Template"
+              }
+            },
+          ]
+          inputsOnNextNavToAssocScrn = "UseStoredValues"
+          isRequired = true
+          storeOutputAutomatically = true
+        },
+      ]
+      showFooter = true
+      showHeader = true
+    },
+    {
+      name = "Success_Screen"
+      label = "Identity Verified"
+      locationX = 1112
+      locationY = 197
+      allowBack = true
+      allowFinish = true
+      allowPause = true
+      fields = [
+        {
+          name = "Success_Title"
+          fieldText = "<p style=\"text-align: center;\"><span style=\"font-size: 20px;\">Identity Verified</span></p>"
+          fieldType = "DisplayText"
+        },
+        {
+          name = "Success_Script"
+          extensionName = "lbpm:flowScript"
+          fieldType = "ComponentInstance"
+          inputParameters = [
+            {
+              name = "recordId"
+              value = {
+                elementReference = "recordId"
+              }
+            },
+            {
+              name = "script"
+              value = {
+                elementReference = "Identity_Verified_Script_Text_Template"
+              }
+            },
+          ]
+          inputsOnNextNavToAssocScrn = "UseStoredValues"
+          isRequired = true
+          storeOutputAutomatically = true
+        },
+      ]
+      showFooter = true
+      showHeader = true
+    },
+    {
+      name = "Verify_Birthdate_Screen"
+      label = "Verify Birthdate"
+      locationX = 584
+      locationY = 683
+      allowBack = true
+      allowFinish = true
+      allowPause = true
+      connector = {
+        targetReference = "Does_birthdate_exist"
+      }
+      fields = [
+        {
+          name = "Verify_Birthdate_Title"
+          fieldText = "<p style=\"text-align: center;\"><span style=\"font-size: 20px;\">Verify Birthdate</span></p>"
+          fieldType = "DisplayText"
+        },
+        {
+          name = "Verify_Caller_Script"
+          extensionName = "lbpm:flowScript"
+          fieldType = "ComponentInstance"
+          inputParameters = [
+            {
+              name = "recordId"
+              value = {
+                elementReference = "recordId"
+              }
+            },
+            {
+              name = "script"
+              value = {
+                elementReference = "Verify_Birthdate_Script_Text_Template"
+              }
+            },
+          ]
+          inputsOnNextNavToAssocScrn = "UseStoredValues"
+          isRequired = true
+          storeOutputAutomatically = true
+        },
+        {
+          name = "Birthdate_Input"
+          dataType = "Date"
+          fieldText = "Birthdate"
+          fieldType = "InputField"
+          isRequired = true
+          validationRule = {
+            errorMessage = "<p><span style=\"color: rgb(194, 57, 52);\">Birthdate doesn't match</span></p>"
+            formulaExpression = "{!Birthdate_Variable} = {!Birthdate_Input}"
+          }
+          visibilityRule = {
+            conditionLogic = "and"
+            conditions = {
+              leftValueReference = "Birthdate_Variable"
+              operator = "IsNull"
+              rightValue = {
+                booleanValue = false
+              }
+            }
+          }
+        },
+        {
+          name = "No_Birthdate_Error"
+          fieldText = "<p><span style=\"color: rgb(0, 0, 0);\">Birthdate</span></p><p><span style=\"font-size: 20px; color: rgb(194, 57, 52);\">{!Null_Birthdate_Text_Template}</span></p>"
+          fieldType = "DisplayText"
+          visibilityRule = {
+            conditionLogic = "and"
+            conditions = {
+              leftValueReference = "Birthdate_Variable"
+              operator = "IsNull"
+              rightValue = {
+                booleanValue = true
+              }
+            }
+          }
+        },
+      ]
+      showFooter = true
+      showHeader = true
+    },
+    {
+      name = "Verify_Name_Screen"
+      label = "Verify Name"
+      locationX = 48
+      locationY = 390
+      allowBack = true
+      allowFinish = true
+      allowPause = true
+      connector = {
+        targetReference = "Contact_Lookup_by_Name"
+      }
+      fields = [
+        {
+          name = "Verify_Name_Title"
+          fieldText = "<p style=\"text-align: center;\"><span style=\"font-size: 20px;\">Verify Name</span></p>"
+          fieldType = "DisplayText"
+        },
+        {
+          name = "Customer_Name_Script"
+          extensionName = "lbpm:flowScript"
+          fieldType = "ComponentInstance"
+          inputParameters = [
+            {
+              name = "script"
+              value = {
+                elementReference = "Customer_Name_Script_Template"
+              }
+            },
+            {
+              name = "recordId"
+              value = {
+                elementReference = "recordId"
+              }
+            },
+          ]
+          inputsOnNextNavToAssocScrn = "UseStoredValues"
+          isRequired = true
+          storeOutputAutomatically = true
+        },
+        {
+          name = "First_Name_Input"
+          dataType = "String"
+          fieldText = "First Name"
+          fieldType = "InputField"
+          isRequired = true
+        },
+        {
+          name = "Last_Name_Input"
+          dataType = "String"
+          fieldText = "Last Name"
+          fieldType = "InputField"
+          isRequired = true
+        },
+      ]
+      showFooter = true
+      showHeader = true
+    },
+    {
+      name = "Verify_Postcode_Screen"
+      label = "Verify Postal Code"
+      locationX = 619
+      locationY = 194
+      allowBack = true
+      allowFinish = true
+      allowPause = true
+      connector = {
+        targetReference = "Does_postal_exist"
+      }
+      fields = [
+        {
+          name = "Postcode_Verification_Title"
+          fieldText = "<p style=\"text-align: center;\"><span style=\"font-size: 20px;\">Verify Postal Code</span></p>"
+          fieldType = "DisplayText"
+        },
+        {
+          name = "Verify_Postcode_Script"
+          extensionName = "lbpm:flowScript"
+          fieldType = "ComponentInstance"
+          inputParameters = [
+            {
+              name = "recordId"
+              value = {
+                elementReference = "recordId"
+              }
+            },
+            {
+              name = "script"
+              value = {
+                elementReference = "Verify_Postcode_Script_Text_Template"
+              }
+            },
+          ]
+          inputsOnNextNavToAssocScrn = "UseStoredValues"
+          isRequired = true
+          storeOutputAutomatically = true
+        },
+        {
+          name = "Postcode_Display"
+          fieldText = "<p>Postal Code</p><p><span style=\"font-size: 20px;\">﻿{!Postcode_Variable}</span></p>"
+          fieldType = "DisplayText"
+          visibilityRule = {
+            conditionLogic = "and"
+            conditions = {
+              leftValueReference = "Postcode_Variable"
+              operator = "IsNull"
+              rightValue = {
+                booleanValue = false
+              }
+            }
+          }
+        },
+        {
+          name = "No_Postcode_Error"
+          fieldText = "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);\">Postal Code</span></p><p><span style=\"font-size: 20px; color: rgb(194, 57, 52);\">{!Null_Postcode_Text_Template}</span></p>"
+          fieldType = "DisplayText"
+          visibilityRule = {
+            conditionLogic = "and"
+            conditions = {
+              leftValueReference = "Postcode_Variable"
+              operator = "IsNull"
+              rightValue = {
+                booleanValue = true
+              }
+            }
+          }
+        },
+      ]
+      showFooter = true
+      showHeader = true
+    },
+  ]
+  stages = [
+    {
+      name = "Identity_Verified_Stage"
+      isActive = true
+      label = "Identity Verified"
+      stageOrder = 4
+    },
+    {
+      name = "Verify_Birthdate_Stage"
+      isActive = true
+      label = "Verify Birthdate"
+      stageOrder = 2
+    },
+    {
+      name = "Verify_Name_Stage"
+      isActive = true
+      label = "Verify Name"
+      stageOrder = 1
+    },
+    {
+      name = "Verify_Postal_Code_Stage"
+      isActive = true
+      label = "Verify Postal Code"
+      stageOrder = 3
+    },
+  ]
+  start = {
+    locationX = 48
+    locationY = 51
+    connector = {
+      targetReference = "Assign_Stage_1"
+    }
+  }
+  status = "Draft"
+  subflows = {
+    name = "abg"
+    label = "abg"
+    locationX = 1323
+    locationY = 353
+    flowName = salesforce.Flow.instance.michalsub
+  }
+  textTemplates = [
+    {
+      name = "Birthdate_postal_not_found_call_script"
+      isViewedAsPlainText = false
+      text = "We can’t verify your identity at this time. Let me connect you to a supervisor to further assist."
+    },
+    {
+      name = "Customer_Name_Script_Template"
+      isViewedAsPlainText = false
+      text = "Hello, I'm {!User_Formula}. With whom am I speaking?"
+    },
+    {
+      name = "Flow_Title_Text_Template"
+      isViewedAsPlainText = false
+      text = "Verify Identity"
+    },
+    {
+      name = "Identity_Verified_Script_Text_Template"
+      isViewedAsPlainText = false
+      text = "Thanks, we verified your identity successfully."
+    },
+    {
+      name = "Name_Not_Found_Script_Text_Template"
+      isViewedAsPlainText = false
+      text = "Hmm, I can't find any information for that name. Let me try again."
+    },
+    {
+      name = "Null_Birthdate_Text_Template"
+      isViewedAsPlainText = false
+      text = "<p><span style=\"background-color: rgb(255, 255, 255); font-size: 20px; color: rgb(194, 57, 52);\">Hmm, we don't have a birthdate on record to check against.</span></p>"
+    },
+    {
+      name = "Null_Postcode_Text_Template"
+      isViewedAsPlainText = false
+      text = "<p><span style=\"background-color: rgb(255, 255, 255); font-size: 20px; color: rgb(194, 57, 52);\">Hmm, we don't have a postal code on record to check against.</span></p>"
+    },
+    {
+      name = "Verify_Birthdate_Script_Text_Template"
+      isViewedAsPlainText = false
+      text = "Thanks, Mr. / Ms. {!Last_Name_Input}. For verification, may I please have your date of birth?"
+    },
+    {
+      name = "Verify_Postcode_Script_Text_Template"
+      isViewedAsPlainText = false
+      text = "And lastly, can I verify your postal code?"
+    },
+  ]
+  variables = [
+    {
+      name = "Birthdate_Variable"
+      dataType = "Date"
+      isCollection = false
+      isInput = false
+      isOutput = false
+    },
+    {
+      name = "Contact_Id_Variable"
+      dataType = "String"
+      isCollection = false
+      isInput = true
+      isOutput = true
+      value = {
+        stringValue = ""
+      }
+    },
+    {
+      name = "Postcode_Variable"
+      dataType = "String"
+      isCollection = false
+      isInput = true
+      isOutput = true
+    },
+    {
+      name = "recordId"
+      dataType = "String"
+      isCollection = false
+      isInput = true
+      isOutput = false
+    },
+    {
+      name = "userVar"
+      dataType = "String"
+      isCollection = false
+      isInput = false
+      isOutput = false
+    },
+  ]
+  _alias = "ed"
+}

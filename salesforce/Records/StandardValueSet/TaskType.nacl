@@ -1,0 +1,22 @@
+salesforce.StandardValueSet TaskType {
+  fullName = "TaskType"
+  sorted = false
+  standardValue = [
+    {
+      fullName = "Meeting"
+      default = false
+      label = "Meeting"
+    },
+    {
+      fullName = "Other"
+      default = false
+      label = "Other"
+    },
+    {
+      fullName = "Email"
+      default = false
+      label = "Email"
+    },
+  ]
+  _alias = "TaskType"
+}

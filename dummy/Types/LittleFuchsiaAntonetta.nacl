@@ -1,0 +1,37 @@
+type dummy.LittleFuchsiaAntonetta {
+  annotations {
+    number AttractiveBlueCelesta {
+    }
+    boolean RichLavenderIsahella {
+    }
+    json StupidMoccasinNanni {
+    }
+    serviceid_number PotentialFuchsiaSherry {
+    }
+    number ParticularCoffeeMeris {
+    }
+    hidden_boolean ReliableIvoryNatalie {
+    }
+  }
+  string ConfidentCoffeeBert {
+    _hidden_value = true
+  }
+  AttractiveBlueCelesta = 14
+  RichLavenderIsahella = false
+  StupidMoccasinNanni = "Why did the kid cross the playground? To get to the other slide."
+  PotentialFuchsiaSherry = 569
+  ParticularCoffeeMeris = 604
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "ParticularCoffeeMeris"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "AttractiveBlueCelesta"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

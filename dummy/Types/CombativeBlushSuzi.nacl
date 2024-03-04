@@ -1,0 +1,40 @@
+type dummy.CombativeBlushSuzi {
+  annotations {
+    hidden_boolean CivilHarlequinAnnamaria {
+    }
+    hidden_boolean ProtectiveAmberRonny {
+    }
+    serviceid LikelyBronzeCaritta {
+    }
+    boolean FancyPinkOthella {
+    }
+  }
+  serviceid SubstantialHarlequinDoloritas {
+    _hidden_value = true
+  }
+  json AlrightPurpleHedi {
+    _hidden_value = true
+  }
+  LikelyBronzeCaritta = "My first time using an elevator was an uplifting experience. The second time let me down."
+  FancyPinkOthella = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "SubstantialHarlequinDoloritas"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "LikelyBronzeCaritta"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "FancyPinkOthella"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

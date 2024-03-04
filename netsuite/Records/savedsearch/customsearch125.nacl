@@ -1,0 +1,188 @@
+netsuite.savedsearch customsearch125 {
+  scriptid = "customsearch125"
+  definition = "92f01b19a2e652955e2281e14257a9403ec928e2dc05d2bbe995f47a54639524@GZC@2022.1.17@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"
+  search_filter = [
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Transaction_TYPE"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "VendAuth"
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Transaction_STATUS"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "VendAuth:B"
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Transaction_MAINLINE"
+      FIELD_ATTRIBUTE = "T"
+      FIELD_TYPE = "CHECKBOX"
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "Transaction_TRANDATE"
+      FIELD_INDEX = 1
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_NUMBER"
+      FIELD_INDEX = 2
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_NAME"
+      FIELD_INDEX = 3
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_MEMO"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_AMOUNT"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_STATUS"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_SHIPDATE"
+      FIELD_INDEX = 7
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  detail_fields = [
+    {
+      FIELD_ALIAS = "Transaction_MAINLINE"
+      FIELD_INDEX = 8
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_TRANDATE"
+      FIELD_INDEX = 8
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_POSTINGPERIOD"
+      FIELD_INDEX = 8
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_TYPE"
+      FIELD_INDEX = 8
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_NUMBER"
+      FIELD_INDEX = 8
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_NAME"
+      FIELD_INDEX = 8
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_ACCOUNT"
+      FIELD_INDEX = 8
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_MEMO"
+      FIELD_INDEX = 8
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_AMOUNT"
+      FIELD_INDEX = 8
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_EXCHANGERATE"
+      FIELD_INDEX = 8
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "Transaction_TRANDATE"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  KEY_SCRIPT_ID = "customsearch125"
+  FIELD_DEFAULT_NAME = "Vendor RMAs to be Shipped"
+  FIELD_SEARCH_TYPE = "Transaction"
+  FLAG_PUBLIC = false
+  FLAG_LIST = false
+  FLAG_PORTLET = true
+  FLAG_MACHINE = false
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = false
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = true
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = true
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+  _alias = "Vendor RMAs to be Shipped"
+}

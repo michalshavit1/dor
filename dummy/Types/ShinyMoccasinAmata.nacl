@@ -1,0 +1,28 @@
+type dummy.ShinyMoccasinAmata {
+  annotations {
+    string BasicPlumDinnie {
+    }
+    number SmartIvoryKelcie {
+    }
+    hidden_boolean DominantAmethystOlympie {
+    }
+    dummy.DEFAULT RegionalLimeWendie {
+    }
+  }
+  number PotentialTurquoiseAnnecorinne {
+    _hidden_value = true
+  }
+  BasicPlumDinnie = "What did one nut say as he chased another nut?  I'm a cashew!"
+  SmartIvoryKelcie = 69
+  RegionalLimeWendie = {
+    legit = "Why did the kid cross the playground? To get to the other slide."
+  }
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "BasicPlumDinnie"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

@@ -1,0 +1,134 @@
+netsuite.savedsearch customsearch126 {
+  scriptid = "customsearch126"
+  definition = "b871b976696aab39c596f82b2e8c779f5b10683b61fb6b158be804bff52855f4@GZC@2022.1.17@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"
+  search_filter = [
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Transaction_TYPE"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "VendAuth"
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Transaction_MAINLINE"
+      FIELD_ATTRIBUTE = "T"
+      FIELD_TYPE = "CHECKBOX"
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Transaction_STATUS"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "VendAuth:F"
+        },
+      ]
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "Transaction_TRANDATE"
+      FIELD_INDEX = 1
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_NUMBER"
+      FIELD_INDEX = 2
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_NAME"
+      FIELD_INDEX = 3
+      FIELD_SUMMARY_TYPE = "GROUP"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_MEMO"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_STATUS"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_AMOUNT"
+      FIELD_INDEX = 6
+      FIELD_SUMMARY_LABEL = "Amount"
+      FIELD_SUMMARY_TYPE = "SUM"
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "Transaction_AMOUNT"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = true
+    },
+  ]
+  KEY_SCRIPT_ID = "customsearch126"
+  FIELD_DEFAULT_NAME = "Outstanding Vendor Credits"
+  FIELD_SEARCH_TYPE = "Transaction"
+  FLAG_PUBLIC = false
+  FLAG_LIST = false
+  FLAG_PORTLET = true
+  FLAG_MACHINE = false
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = false
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = true
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = true
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+  _alias = "Outstanding Vendor Credits"
+}

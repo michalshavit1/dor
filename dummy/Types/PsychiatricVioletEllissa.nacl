@@ -1,0 +1,32 @@
+type dummy.PsychiatricVioletEllissa {
+  annotations {
+    boolean AmbitiousEmeraldSalome {
+    }
+    serviceid NavalTomatoIanthe {
+    }
+    json DistantEmeraldNeilla {
+    }
+    hidden_boolean FunctionalOrangeEmlynn {
+    }
+    json WelcomeCopperSophronia {
+    }
+  }
+  string UnsightlyMaroonKaria {
+    _hidden_value = true
+  }
+  json MinimumBlushKorella {
+    _hidden_value = true
+  }
+  AmbitiousEmeraldSalome = false
+  NavalTomatoIanthe = "Dad Im hungry  Hi hungry Im dad"
+  DistantEmeraldNeilla = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  WelcomeCopperSophronia = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "MinimumBlushKorella"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

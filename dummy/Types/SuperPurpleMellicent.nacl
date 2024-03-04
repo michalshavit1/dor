@@ -1,0 +1,106 @@
+type dummy.SuperPurpleMellicent {
+  annotations {
+    number SurprisedBlushCaria {
+    }
+    json SupportingIndigoDawna {
+    }
+    number ToughAquaRenae {
+    }
+    hidden_boolean IncredibleIndigoJonell {
+    }
+    serviceid_number BareBlushAnabal {
+    }
+  }
+  serviceid WastefulGrayLynnelle {
+    _hidden_value = true
+  }
+  string MuteAzureLenee {
+    _hidden_value = true
+  }
+  number ActualGoldTatum {
+    _hidden_value = true
+  }
+  json CuteCopperFarra {
+    _hidden_value = true
+  }
+  serviceid CoolBlackTawsha {
+    _hidden_value = true
+  }
+  json InadequateRoseJessalyn {
+    _hidden_value = true
+  }
+  serviceid_number SourAmaranthMinnie {
+    _hidden_value = true
+  }
+  string SquealingSalmonRevkah {
+    _hidden_value = true
+  }
+  json ShallowScarletRora {
+    _hidden_value = true
+  }
+  number WonderfulTealJenni {
+    _hidden_value = true
+  }
+  json OralOliveEbba {
+    _hidden_value = true
+  }
+  boolean FullTanTheo {
+    _hidden_value = true
+  }
+  string SmoggyMagentaNatalya {
+    _hidden_value = true
+  }
+  json TinyMoccasinMiguelita {
+    _hidden_value = true
+  }
+  dummy.DEFAULT MeltedBrownMarketa {
+    _hidden_value = true
+  }
+  json ParentalAmberMirella {
+    _hidden_value = true
+  }
+  "List<dummy.LegitimateBlushGoldie>" CoherentHarlequinBlondelle {
+    RealisticCoffeeRoberta = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    ConvincingJadeNorma = "Whoever invented the knock-knock joke should get a no bell prize."
+    _hidden_value = true
+  }
+  hidden_boolean UpperMaroonLetti {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  SurprisedBlushCaria = 999
+  SupportingIndigoDawna = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  ToughAquaRenae = 88
+  BareBlushAnabal = 532
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "MuteAzureLenee"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "InadequateRoseJessalyn"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "TinyMoccasinMiguelita"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "FullTanTheo"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ToughAquaRenae"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,179 @@
+netsuite.savedsearch customsearch100 {
+  scriptid = "customsearch100"
+  definition = "02d64f9c24a88bf1b3da398d79ef518de43b31f48ae0f454a9700f9483ada430@GZC@2022.1.17@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"
+  search_filter = [
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Transaction_MAINLINE"
+      FIELD_ATTRIBUTE = "F"
+      FIELD_TYPE = "CHECKBOX"
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Transaction_ITEM"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "628"
+        },
+        {
+          KEY_ID = 1
+          FIELD_VALUE = "626"
+        },
+      ]
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "Transaction_MAINLINE"
+      FIELD_INDEX = 1
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_TRANDATE"
+      FIELD_INDEX = 2
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_POSTINGPERIOD"
+      FIELD_INDEX = 3
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_TYPE"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_NUMBER"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_NAME"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_ACCOUNT"
+      FIELD_INDEX = 7
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_MEMO"
+      FIELD_INDEX = 8
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_AMOUNT"
+      FIELD_INDEX = 9
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  detail_fields = [
+    {
+      FIELD_ALIAS = "Transaction_MAINLINE"
+      FIELD_INDEX = 10
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_TRANDATE"
+      FIELD_INDEX = 10
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_POSTINGPERIOD"
+      FIELD_INDEX = 10
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_TYPE"
+      FIELD_INDEX = 10
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_NUMBER"
+      FIELD_INDEX = 10
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_NAME"
+      FIELD_INDEX = 10
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_ACCOUNT"
+      FIELD_INDEX = 10
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_MEMO"
+      FIELD_INDEX = 10
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_AMOUNT"
+      FIELD_INDEX = 10
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "Transaction_TRANDATE"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  KEY_SCRIPT_ID = "customsearch100"
+  FIELD_DEFAULT_NAME = "Download Orders This Quarter"
+  FIELD_SEARCH_TYPE = "Transaction"
+  FLAG_PUBLIC = false
+  FLAG_LIST = true
+  FLAG_PORTLET = true
+  FLAG_MACHINE = true
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = true
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = true
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = true
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+  _alias = "Download Orders This Quarter"
+}

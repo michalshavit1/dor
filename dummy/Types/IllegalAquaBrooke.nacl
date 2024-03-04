@@ -1,0 +1,119 @@
+type dummy.IllegalAquaBrooke {
+  annotations {
+    boolean HealthyTanAloise {
+    }
+    dummy.DEFAULT DullAmethystTabby {
+    }
+    serviceid ZestfulIvoryDaloris {
+    }
+    hidden_boolean VivaciousAmaranthKaroline {
+    }
+    dummy.DEFAULT ZonalLimeMaryellen {
+    }
+  }
+  string PublicTurquoiseBrietta {
+    _hidden_value = true
+  }
+  string CharacteristicWhiteRosemaria {
+    _hidden_value = true
+  }
+  string ConsistentRoseBertie {
+    _hidden_value = true
+  }
+  hidden_boolean RationalBlushSidoney {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number VastBronzeCairistiona {
+    _hidden_value = true
+  }
+  string FarGrayRikki {
+    _hidden_value = true
+  }
+  number FederalFuchsiaBibbie {
+    _hidden_value = true
+  }
+  string StraightAmberDelly {
+    _hidden_value = true
+  }
+  dummy.AnnualPurpleRyann TopCyanBrear {
+    MisleadingCyanPietra = "Slept like a log last night  woke up in the fireplace."
+    DecisiveBeigeTeddi = "What do you do on a remote island? Try and find the TV island it belongs to."
+    EconomicYellowErtha = true
+    OnlyBrownMoyna = {
+      legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    }
+    UpperEmeraldLaverne = {
+      legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    }
+    ZygoticBeigeBiddie = true
+    AloneMaroonRonna = false
+    ConsciousEmeraldWendy = 36
+    ReducedCyanSherrie = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    BrightScarletLucy = "Slept like a log last night  woke up in the fireplace."
+    ThoroughAmberNanete = "What do you do on a remote island? Try and find the TV island it belongs to."
+    HardBronzeEbba = "Im only familiar with 25 letters in the English language. I dont know why."
+    _hidden_value = true
+  }
+  serviceid_number UpsetMagentaVivian {
+    _hidden_value = true
+  }
+  dummy.UpperTanDebby PrincipalAquamarineLianna {
+    SocialCyanBlondelle = "Why didnt the skeleton cross the road? Because he had no guts."
+    CompatibleLimeKarleen = false
+    _hidden_value = true
+  }
+  serviceid_number ControlledAquamarineKippy {
+    _hidden_value = true
+  }
+  hidden_boolean HorizontalBrownJolee {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean XerothermicGreenSilvia {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean UrgentBronzeMarylee {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean OtherAzureAshely {
+    _hidden_value = true
+  }
+  HealthyTanAloise = false
+  DullAmethystTabby = {
+    legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  }
+  ZestfulIvoryDaloris = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ZonalLimeMaryellen = {
+    legit = "Whoever invented the knock-knock joke should get a no bell prize."
+  }
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ConsistentRoseBertie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "UrgentBronzeMarylee"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "CharacteristicWhiteRosemaria"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "FederalFuchsiaBibbie"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

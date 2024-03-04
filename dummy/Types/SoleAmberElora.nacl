@@ -1,0 +1,48 @@
+type dummy.SoleAmberElora {
+  annotations {
+    hidden_boolean GrotesquePlumKass {
+    }
+    json ChristianPinkMarcelle {
+    }
+    serviceid CommercialBlushMarsiella {
+    }
+    hidden_boolean EmbarrassedRoseGwen {
+    }
+    json InquisitiveCopperEmilia {
+    }
+    serviceid ArtificialPurpleElaina {
+    }
+  }
+  number MightyCoralJolynn {
+    _hidden_value = true
+  }
+  boolean UglySalmonTommie {
+    _hidden_value = true
+  }
+  hidden_boolean UpsetFuchsiaAnge {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number WeeklyMagentaBarbi {
+    _hidden_value = true
+  }
+  json MixedApricotMarabel {
+    _hidden_value = true
+  }
+  json BoldFuchsiaChristalle {
+    _hidden_value = true
+  }
+  ChristianPinkMarcelle = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  CommercialBlushMarsiella = "Im only familiar with 25 letters in the English language. I dont know why."
+  InquisitiveCopperEmilia = "How come the stadium got hot after the game? Because all of the fans left."
+  ArtificialPurpleElaina = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "InquisitiveCopperEmilia"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

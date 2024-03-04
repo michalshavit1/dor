@@ -1,0 +1,36 @@
+type dummy.ToughAmberRoxine {
+  annotations {
+    serviceid LateRoseMaurita {
+    }
+    serviceid HotJadeTara {
+    }
+    number DryLimeStepha {
+    }
+    string ClassicalWhiteLeodora {
+    }
+  }
+  boolean UncomfortableTealNerta {
+    _hidden_value = true
+  }
+  serviceid QuintessentialAmberAloysia {
+    _hidden_value = true
+  }
+  number QuixoticMaroonAmabel {
+    _hidden_value = true
+  }
+  json KeyPinkOthelia {
+    _hidden_value = true
+  }
+  LateRoseMaurita = "Why did the kid cross the playground? To get to the other slide."
+  HotJadeTara = "Why did the kid cross the playground? To get to the other slide."
+  DryLimeStepha = 435
+  ClassicalWhiteLeodora = "Im only familiar with 25 letters in the English language. I dont know why."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "KeyPinkOthelia"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

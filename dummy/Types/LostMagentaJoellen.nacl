@@ -1,0 +1,42 @@
+type dummy.LostMagentaJoellen {
+  annotations {
+    json NotablePinkAnnadiana {
+    }
+    string FiscalFuchsiaTracey {
+    }
+    json HorizontalSapphireNixie {
+    }
+    dummy.DEFAULT BeneficialEmeraldCyndie {
+    }
+    json PublicCopperLotty {
+    }
+    hidden_boolean CoolGoldDell {
+    }
+  }
+  number TypicalCyanFaydra {
+    _hidden_value = true
+  }
+  serviceid SpottyPinkBella {
+    _hidden_value = true
+  }
+  number StrongHarlequinKirsteni {
+    _hidden_value = true
+  }
+  number PoorScarletSilvie {
+    _hidden_value = true
+  }
+  serviceid_number IncreasingGrayCorrey {
+    _hidden_value = true
+  }
+  serviceid_number SolarApricotNatty {
+    _hidden_value = true
+  }
+  NotablePinkAnnadiana = "What do you do on a remote island? Try and find the TV island it belongs to."
+  FiscalFuchsiaTracey = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  HorizontalSapphireNixie = "How come the stadium got hot after the game? Because all of the fans left."
+  BeneficialEmeraldCyndie = {
+    legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  }
+  PublicCopperLotty = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  _hidden_value = true
+}

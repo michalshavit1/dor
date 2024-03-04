@@ -1,0 +1,123 @@
+type dummy.FragileBronzeSheela {
+  annotations {
+    json ContemporaryGreenDosi {
+    }
+    number FunctionalCoralWynn {
+    }
+    json YappyMoccasinShina {
+    }
+    number StripedAmberMarget {
+    }
+    string TopCrimsonYvonne {
+    }
+  }
+  serviceid ShortAmberIsabella {
+    _hidden_value = true
+  }
+  dummy.DiverseTurquoiseMariya SolidCoralTomasine {
+    AdversePlumLadonna = "Why do birds fly south for the winter? Because it's too far to walk."
+    SupremeCopperMellisa = "What do you do on a remote island? Try and find the TV island it belongs to."
+    ForthcomingMaroonAda = "What creature is smarter than a talking parrot? A spelling bee."
+    FunIndigoRaine = "Whoever invented the knock-knock joke should get a no bell prize."
+    WonderfulBlushSonnnie = "I'll tell you what often gets over looked... garden fences."
+    FreshBlackDasha = "Why didnt the skeleton cross the road? Because he had no guts."
+    NastyCrimsonVinni = true
+    _hidden_value = true
+  }
+  boolean DistinguishedSilverMaryjo {
+    _hidden_value = true
+  }
+  boolean ShockedWhiteElayne {
+    _hidden_value = true
+  }
+  serviceid_number ThirstySapphireTrenna {
+    _hidden_value = true
+  }
+  serviceid_number OverwhelmingIvoryLeanora {
+    _hidden_value = true
+  }
+  boolean PresidentialBlushVere {
+    _hidden_value = true
+  }
+  boolean MelodicTealFreddi {
+    _hidden_value = true
+  }
+  serviceid_number UnderlyingGoldDaveta {
+    _hidden_value = true
+  }
+  string SunnyAmaranthSorcha {
+    _hidden_value = true
+  }
+  string TightOrangeDemetris {
+    _hidden_value = true
+  }
+  number UniqueEmeraldBrietta {
+    _hidden_value = true
+  }
+  boolean LooseLimeDasya {
+    _hidden_value = true
+  }
+  serviceid ProtestantScarletLoraine {
+    _hidden_value = true
+  }
+  string DisappointedBrownAmeline {
+    _hidden_value = true
+  }
+  boolean AmusedSilverEvelyn {
+    _hidden_value = true
+  }
+  string WorthyAquamarineKizzee {
+    _hidden_value = true
+  }
+  hidden_boolean ExcitedBronzeAngela {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number MoaningPlumLorilee {
+    _hidden_value = true
+  }
+  json LogicalCoralBria {
+    _hidden_value = true
+  }
+  hidden_boolean ChubbyRedRosette {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  ContemporaryGreenDosi = "To be Frank, I'd have to change my name."
+  FunctionalCoralWynn = 891
+  YappyMoccasinShina = "Whoever invented the knock-knock joke should get a no bell prize."
+  StripedAmberMarget = 200
+  TopCrimsonYvonne = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "LooseLimeDasya"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "AmusedSilverEvelyn"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "UnderlyingGoldDaveta"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ExcitedBronzeAngela"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "FunctionalCoralWynn"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

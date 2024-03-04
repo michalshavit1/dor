@@ -1,0 +1,70 @@
+type dummy.MassTurquoiseFaun {
+  annotations {
+    serviceid_number WoodenBeigeRoseline {
+    }
+    string CombativePinkAlie {
+    }
+    json HighPeachBrigit {
+    }
+    string ScrawnySalmonBernadene {
+    }
+    serviceid FaintTurquoiseJody {
+    }
+    dummy.UnhappyMagentaNorah GracefulRedCherilynn {
+    }
+    dummy.ZonalBeigeGinny LengthyCyanOphelia {
+    }
+    hidden_boolean WideAquamarineGertie {
+    }
+    dummy.SorryGrayMariele ElegantRedNissy {
+    }
+    string BloodyScarletJasmin {
+    }
+    json GeneticBlushHollyanne {
+    }
+    string IncreasedBeigeElyse {
+    }
+    hidden_boolean NarrowApricotArdra {
+    }
+    string BizarreSalmonCosetta {
+    }
+    serviceid_number SinglePeachLiza {
+    }
+    string InterimPurpleTiphany {
+    }
+    string ShiveringGoldPhillis {
+    }
+    json DramaticMaroonMinerva {
+    }
+    json ChristianSalmonAnnaliese {
+    }
+  }
+  WoodenBeigeRoseline = 682
+  CombativePinkAlie = "What creature is smarter than a talking parrot? A spelling bee."
+  HighPeachBrigit = "To be Frank, I'd have to change my name."
+  ScrawnySalmonBernadene = "Why was it called the dark ages? Because of all the knights. "
+  FaintTurquoiseJody = "Why is Peter Pan always flying? Because he Neverlands."
+  GracefulRedCherilynn = 5
+  BloodyScarletJasmin = "Why do birds fly south for the winter? Because it's too far to walk."
+  GeneticBlushHollyanne = "Why did the kid cross the playground? To get to the other slide."
+  IncreasedBeigeElyse = "Slept like a log last night  woke up in the fireplace."
+  BizarreSalmonCosetta = "Dad Im hungry  Hi hungry Im dad"
+  SinglePeachLiza = 849
+  InterimPurpleTiphany = "Why was it called the dark ages? Because of all the knights. "
+  ShiveringGoldPhillis = "Im only familiar with 25 letters in the English language. I dont know why."
+  DramaticMaroonMinerva = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ChristianSalmonAnnaliese = "Slept like a log last night  woke up in the fireplace."
+  _self_important_values = [
+    {
+      value = "ScrawnySalmonBernadene"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "BloodyScarletJasmin"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "MassTurquoiseFaun_alias"
+}

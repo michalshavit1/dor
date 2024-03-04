@@ -1,0 +1,83 @@
+salesforce.Flow mifccvjkm {
+  fullName = "mifccvjkm"
+  actionCalls = [
+    {
+      name = "sdfgcvb"
+      label = "cvb"
+      locationX = 176
+      locationY = 278
+      actionName = salesforce.QuickAction.instance.CollaborationGroup_NewGroupMember@v
+      actionType = "quickAction"
+      flowTransactionModel = "CurrentTransaction"
+      inputParameters = [
+        {
+          name = "MemberId"
+          value = {
+            stringValue = ""
+          }
+        },
+        {
+          name = "contextId"
+          value = {
+            stringValue = ""
+          }
+        },
+      ]
+      nameSegment = "CollaborationGroup.NewGroupMember"
+      versionSegment = 1
+    },
+  ]
+  apiVersion = 52
+  assignments = [
+    {
+      name = "vbn"
+      label = "lkmn"
+      locationX = 176
+      locationY = 158
+      assignmentItems = [
+        {
+          assignToReference = "$Flow.ActiveStages"
+          operator = "RemoveFirst"
+          value = {
+            stringValue = ""
+          }
+        },
+      ]
+      connector = {
+        targetReference = "sdfgcvb"
+      }
+    },
+  ]
+  interviewLabel = "mifccvjkm, {!$Flow.CurrentDateTime}"
+  label = "mifccvjkm,"
+  processMetadataValues = [
+    {
+      name = "BuilderType"
+      value = {
+        stringValue = "LightningFlowBuilder"
+      }
+    },
+    {
+      name = "CanvasMode"
+      value = {
+        stringValue = "AUTO_LAYOUT_CANVAS"
+      }
+    },
+    {
+      name = "OriginBuilderType"
+      value = {
+        stringValue = "LightningFlowBuilder"
+      }
+    },
+  ]
+  processType = "Flow"
+  start = {
+    locationX = 50
+    locationY = 0
+    connector = {
+      targetReference = "vbn"
+    }
+  }
+  status = "InvalidDraft"
+  _alias = "mifccvjkm,"
+}

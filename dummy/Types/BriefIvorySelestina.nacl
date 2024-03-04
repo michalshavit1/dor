@@ -1,0 +1,139 @@
+type dummy.BriefIvorySelestina {
+  annotations {
+    hidden_boolean SatisfactoryCrimsonLexy {
+    }
+    json IncreasingCopperLana {
+    }
+    hidden_boolean BreakableCyanCourtnay {
+    }
+    boolean DelightedHarlequinCalli {
+    }
+  }
+  serviceid_number ProposedWhiteLila {
+    _hidden_value = true
+  }
+  json RealCyanTiffi {
+    _hidden_value = true
+  }
+  json StormyGrayJacquenetta {
+    _hidden_value = true
+  }
+  hidden_boolean ObligedMagentaAbra {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string MadJadeQuintana {
+    _hidden_value = true
+  }
+  serviceid_number PoliteTanJacquetta {
+    _hidden_value = true
+  }
+  json EmptyBronzeTheresina {
+    _hidden_value = true
+  }
+  number ChemicalScarletMadelena {
+    _hidden_value = true
+  }
+  serviceid_number RulingBrownShay {
+    _hidden_value = true
+  }
+  string RepulsiveVioletLoleta {
+    _hidden_value = true
+  }
+  serviceid_number MushyAquaGeorgette {
+    _hidden_value = true
+  }
+  json FirmHarlequinCarlin {
+    _hidden_value = true
+  }
+  json NiceAmberDevonne {
+    _hidden_value = true
+  }
+  string ExtendedBlackBerget {
+    _hidden_value = true
+  }
+  dummy.DEFAULT FlyingCopperMamie {
+    _hidden_value = true
+  }
+  serviceid_number OkayTurquoiseAuguste {
+    _hidden_value = true
+  }
+  dummy.DEFAULT GeneticLimeKristan {
+    _hidden_value = true
+  }
+  hidden_boolean GrotesqueCoffeeKaree {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number RealHarlequinBecca {
+    _hidden_value = true
+  }
+  number MereHarlequinHinda {
+    _hidden_value = true
+  }
+  dummy.JustBeigeShaylynn FixedSapphireChad {
+    FreshAquamarineRubie = 109
+    RoastedGrayCammie = true
+    FavourableIndigoBritte = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    RemoteSapphireCarree = 613
+    AloneOrangeMarijo = "What did one nut say as he chased another nut?  I'm a cashew!"
+    DoubtfulGreenTamara = 683
+    SocialAmberLilah = 9
+    TropicalGoldAmelita = {
+      legit = "To be Frank, I'd have to change my name."
+    }
+    VulnerableAquamarineAyn = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    WorldwideMaroonVinni = "Slept like a log last night  woke up in the fireplace."
+    ArmedOrangeSibbie = 413
+    _hidden_value = true
+  }
+  IncreasingCopperLana = "Dad Im hungry  Hi hungry Im dad"
+  DelightedHarlequinCalli = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "RealHarlequinBecca"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "RulingBrownShay"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "EmptyBronzeTheresina"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "NiceAmberDevonne"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "FlyingCopperMamie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "FixedSapphireChad"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "GrotesqueCoffeeKaree"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "SatisfactoryCrimsonLexy"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

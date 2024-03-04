@@ -1,0 +1,57 @@
+type dummy.RandomSapphireAilee {
+  annotations {
+    serviceid SelectiveScarletLinell {
+    }
+    serviceid SeparateFuchsiaMichelina {
+    }
+    json BetterBlackAvie {
+    }
+    dummy.MassYellowCorina MetropolitanBeigeOndrea {
+    }
+    hidden_boolean RelievedSalmonTasia {
+    }
+    hidden_boolean ForeignTanSarine {
+    }
+  }
+  serviceid CrudeYellowHenrie {
+    _hidden_value = true
+  }
+  hidden_boolean YoungestTealTwila {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json HandicappedChocolateRenee {
+    _hidden_value = true
+  }
+  number ElderlyPurpleLeonora {
+    _hidden_value = true
+  }
+  hidden_boolean RelativePurpleHephzibah {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid MisleadingYellowEimile {
+    _hidden_value = true
+  }
+  SelectiveScarletLinell = "My first time using an elevator was an uplifting experience. The second time let me down."
+  SeparateFuchsiaMichelina = "What do you call two barracuda fish?  A Pairacuda!"
+  BetterBlackAvie = "A steak pun is a rare medium well done."
+  MetropolitanBeigeOndrea = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "YoungestTealTwila"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "BetterBlackAvie"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

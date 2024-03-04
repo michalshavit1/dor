@@ -1,0 +1,71 @@
+type dummy.ZerothHarlequinBritni {
+  annotations {
+    serviceid_number SoreBronzeUla {
+    }
+    hidden_boolean VagueRoseBianka {
+    }
+    string CompetitiveIndigoBrandie {
+    }
+    dummy.DEFAULT ChronicBrownCarolann {
+    }
+    boolean MarvellousBlackClaribel {
+    }
+  }
+  boolean ArtisticRedManon {
+    _hidden_value = true
+  }
+  hidden_boolean EldestBlackZarah {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number BottomBlushLeonie {
+    _hidden_value = true
+  }
+  hidden_boolean DeadTomatoHope {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string DisturbedBronzeLeigha {
+    _hidden_value = true
+  }
+  boolean EvidentTealMadelaine {
+    _hidden_value = true
+  }
+  "List<serviceid>" StiffCoralEloisa {
+    _hidden_value = true
+  }
+  string MinimalIvoryDanell {
+    _hidden_value = true
+  }
+  SoreBronzeUla = 174
+  CompetitiveIndigoBrandie = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ChronicBrownCarolann = {
+    legit = "Im only familiar with 25 letters in the English language. I dont know why."
+  }
+  MarvellousBlackClaribel = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "BottomBlushLeonie"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "DisturbedBronzeLeigha"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ArtisticRedManon"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "StiffCoralEloisa"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

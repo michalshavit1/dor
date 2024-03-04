@@ -1,0 +1,56 @@
+type dummy.VastLavenderPearla {
+  annotations {
+    boolean NutritiousCoffeeHeddie {
+    }
+    json IncreasedGreenHildagard {
+    }
+    serviceid ObviousSalmonAlysia {
+    }
+    serviceid BalancedBeigePhillis {
+    }
+    boolean FastSalmonFarah {
+    }
+  }
+  serviceid ReasonableSapphireAmeline {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" MainSalmonYoko {
+    _hidden_value = true
+  }
+  hidden_boolean SuccessfulVioletMaryl {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number UnlikelySalmonSophie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SportingRoseMarcela {
+    _hidden_value = true
+  }
+  NutritiousCoffeeHeddie = false
+  IncreasedGreenHildagard = "Why didnt the skeleton cross the road? Because he had no guts."
+  ObviousSalmonAlysia = "Slept like a log last night  woke up in the fireplace."
+  BalancedBeigePhillis = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  FastSalmonFarah = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ReasonableSapphireAmeline"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "NutritiousCoffeeHeddie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "FastSalmonFarah"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

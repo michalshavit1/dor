@@ -1,0 +1,102 @@
+type dummy.InfluentialAmethystMalanie {
+  annotations {
+    boolean AlonePeachTracee {
+    }
+    serviceid PassiveAquaLeela {
+    }
+    dummy.ImaginativeCyanEmmalynn DailyBronzeIdette {
+    }
+    json CulturalSalmonEmily {
+    }
+    dummy.DEFAULT UnnecessaryBeigeCally {
+    }
+    hidden_boolean PsychologicalMaroonMagdalena {
+    }
+    serviceid_number ExcellentTanEva {
+    }
+  }
+  json WetGoldAudra {
+    _hidden_value = true
+  }
+  boolean RubberMoccasinSibel {
+    _hidden_value = true
+  }
+  string CoastalGoldAdrianne {
+    _hidden_value = true
+  }
+  json ThickCyanSandye {
+    _hidden_value = true
+  }
+  json HeavyBlushMollie {
+    _hidden_value = true
+  }
+  serviceid_number RunningTanHildagard {
+    _hidden_value = true
+  }
+  serviceid CharacteristicAquaAnya {
+    _hidden_value = true
+  }
+  string MixedMaroonFilippa {
+    _hidden_value = true
+  }
+  serviceid DepressedBlushMarla {
+    _hidden_value = true
+  }
+  dummy.IndependentOliveClaudetta MassiveEmeraldJilly {
+    WelcomeCoffeeRanique = 987
+    ActualVioletRozelle = 645
+    DearOrangeBobbe = "Why did the tomato blush? Because it saw the salad dressing."
+    UninterestedTanMaddi = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    EventualLavenderFern = false
+    ManagerialAquaMeagan = true
+    UnconsciousAmaranthSuzie = {
+      legit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    }
+    TastyMagentaAnnice = false
+    InadequateChocolateAnnmarie = 464
+    UnconsciousLavenderArdelle = "Dad Im hungry  Hi hungry Im dad"
+    _hidden_value = true
+  }
+  dummy.LegitimateBlushGoldie MinisterialTealOpal {
+    RealisticCoffeeRoberta = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    ConvincingJadeNorma = "Whoever invented the knock-knock joke should get a no bell prize."
+    _hidden_value = true
+  }
+  number OrganicHarlequinEugine {
+    _hidden_value = true
+  }
+  number LeadingCoralKyrstin {
+    _hidden_value = true
+  }
+  hidden_boolean CommonOliveMarchelle {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  AlonePeachTracee = false
+  PassiveAquaLeela = "I'll tell you what often gets over looked... garden fences."
+  DailyBronzeIdette = true
+  CulturalSalmonEmily = "My first time using an elevator was an uplifting experience. The second time let me down."
+  UnnecessaryBeigeCally = {
+    legit = "Im only familiar with 25 letters in the English language. I dont know why."
+  }
+  ExcellentTanEva = 577
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "HeavyBlushMollie"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "CommonOliveMarchelle"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "MinisterialTealOpal"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

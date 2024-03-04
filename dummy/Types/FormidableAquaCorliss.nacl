@@ -1,0 +1,79 @@
+type dummy.FormidableAquaCorliss {
+  annotations {
+    serviceid_number DailyGreenJenn {
+    }
+    number SwiftBlackVeronike {
+    }
+    serviceid WealthyCopperHertha {
+    }
+    hidden_boolean FixedTurquoiseAudi {
+    }
+    dummy.DEFAULT ScientificLavenderAnnelise {
+    }
+    string OrdinaryAquaStephi {
+    }
+    number YammeringGreenPhilippine {
+    }
+  }
+  string HorribleBlackKimbra {
+    _hidden_value = true
+  }
+  serviceid_number XerothermicWhiteBrunhilda {
+    _hidden_value = true
+  }
+  serviceid VeryCrimsonJacinta {
+    _hidden_value = true
+  }
+  serviceid SoundCoralTabina {
+    _hidden_value = true
+  }
+  string AbsentWhiteAnnadiana {
+    _hidden_value = true
+  }
+  boolean ProfoundBrownKarolina {
+    _hidden_value = true
+  }
+  number WeeklySalmonLita {
+    _hidden_value = true
+  }
+  hidden_boolean AbsoluteMaroonClaudetta {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean ElatedOrangeGael {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean UncomfortableBeigeMelodie {
+    _hidden_value = true
+  }
+  boolean EnormousVioletSaba {
+    _hidden_value = true
+  }
+  serviceid_number NavalCopperTasha {
+    _hidden_value = true
+  }
+  hidden_boolean ZestyChocolateMonah {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  DailyGreenJenn = 197
+  SwiftBlackVeronike = 985
+  WealthyCopperHertha = "What do you call two barracuda fish?  A Pairacuda!"
+  ScientificLavenderAnnelise = {
+    legit = "Why did the tomato blush? Because it saw the salad dressing."
+  }
+  OrdinaryAquaStephi = "To be Frank, I'd have to change my name."
+  YammeringGreenPhilippine = 90
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "SoundCoralTabina"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

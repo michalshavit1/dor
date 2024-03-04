@@ -1,0 +1,139 @@
+type dummy.UninterestedPurpleWilone {
+  annotations {
+    serviceid_number IntegralRedBili {
+    }
+    serviceid NiceAzureEvvy {
+    }
+    number CompetitiveBlushMaye {
+    }
+    serviceid_number DryPeachCari {
+    }
+  }
+  serviceid EverydayBrownStormy {
+    _hidden_value = true
+  }
+  json ParliamentarySilverVeronika {
+    _hidden_value = true
+  }
+  number AssociatedOrangeAntonietta {
+    _hidden_value = true
+  }
+  json UndergroundCyanGodiva {
+    _hidden_value = true
+  }
+  boolean CompactLimeLianna {
+    _hidden_value = true
+  }
+  boolean DreadfulAquaChelsae {
+    _hidden_value = true
+  }
+  boolean PsychiatricJadeAlicea {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CuddlyPurpleMersey {
+    _hidden_value = true
+  }
+  serviceid FlutteringTomatoGriselda {
+    _hidden_value = true
+  }
+  serviceid_number ValidOliveMerrielle {
+    _hidden_value = true
+  }
+  dummy.AutomaticAmberEditha JollyAzureKaitlynn {
+    HardFuchsiaLenette = false
+    ProfessionalRedGermaine = 154
+    SteadyPinkDebbie = 155
+    SlightVioletElinor = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    WrittenTurquoiseEsther = false
+    InstitutionalAmberNadiya = "Dad Im hungry  Hi hungry Im dad"
+    AdjacentGreenRubie = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    SpontaneousBrownRosana = false
+    FarBrownKellie = true
+    StandardBronzeOthilie = 761
+    DiverseLimeEdie = 366
+    RelaxedWhiteNara = "A steak pun is a rare medium well done."
+    CreativeAquaMerle = 74
+    ArrogantTanKeriann = 305
+    _hidden_value = true
+  }
+  serviceid_number YeastyGrayNeila {
+    _hidden_value = true
+  }
+  string MeltedAmethystFreddy {
+    _hidden_value = true
+  }
+  hidden_boolean AggressiveAmethystKimberli {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean DangerousBeigeRenata {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number RemoteAquaLotti {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" AllegedSilverSeline {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean TameCopperDeanna {
+    _hidden_value = true
+  }
+  number AbsentJadeMerrill {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" DeafTanGusta {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number MainGrayKeriann {
+    _hidden_value = true
+  }
+  serviceid SunnyJadeSheryl {
+    _hidden_value = true
+  }
+  IntegralRedBili = 652
+  NiceAzureEvvy = "Did you know that protons have mass? I didn't even know they were catholic."
+  CompetitiveBlushMaye = 4
+  DryPeachCari = 754
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "DreadfulAquaChelsae"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "AssociatedOrangeAntonietta"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "MeltedAmethystFreddy"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "AggressiveAmethystKimberli"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "IntegralRedBili"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "NiceAzureEvvy"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

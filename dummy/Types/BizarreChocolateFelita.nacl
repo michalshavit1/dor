@@ -1,0 +1,33 @@
+type dummy.BizarreChocolateFelita {
+  annotations {
+    boolean LegalSapphireVi {
+    }
+    serviceid_number PrettyTurquoiseAlmire {
+    }
+    json IntelligentAquamarineRoseann {
+    }
+    dummy.WitteringTomatoMufinella AwfulSapphireAbigael {
+    }
+  }
+  number EquivalentRoseJanka {
+    _hidden_value = true
+  }
+  serviceid SlimSilverKristina {
+    _hidden_value = true
+  }
+  boolean WorthwhileIndigoBrandice {
+    _hidden_value = true
+  }
+  LegalSapphireVi = false
+  PrettyTurquoiseAlmire = 350
+  IntelligentAquamarineRoseann = "Slept like a log last night  woke up in the fireplace."
+  AwfulSapphireAbigael = false
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "IntelligentAquamarineRoseann"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

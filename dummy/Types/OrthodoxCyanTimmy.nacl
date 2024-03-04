@@ -1,0 +1,97 @@
+type dummy.OrthodoxCyanTimmy {
+  annotations {
+    serviceid SubtleOliveBlair {
+    }
+    string HelpfulMoccasinOlive {
+    }
+    hidden_boolean ChosenBlushMerlina {
+    }
+    number CheapBronzeKaren {
+    }
+    number DustyChocolateAnallese {
+    }
+  }
+  json InjuredAmberPegeen {
+    _hidden_value = true
+  }
+  serviceid_number ProminentPinkDarcy {
+    _hidden_value = true
+  }
+  dummy.EstablishedRoseGussie PassiveBrownGertruda {
+    ActiveScarletMartguerita = "I'll tell you what often gets over looked... garden fences."
+    LogicalAmethystCristine = "Whoever invented the knock-knock joke should get a no bell prize."
+    EligibleChocolateTrudey = true
+    RenewedAquaFlori = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    GiganticLimeShena = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    DynamicAzureLaverne = 282
+    RichTurquoiseKiah = "Why do birds fly south for the winter? Because it's too far to walk."
+    RightMoccasinPavla = 883
+    ViciousLimeHannis = "Whoever invented the knock-knock joke should get a no bell prize."
+    GratefulPlumLaetitia = 49
+    FrightenedBronzeCarey = 701
+    _hidden_value = true
+  }
+  number SymbolicAzureNeely {
+    _hidden_value = true
+  }
+  serviceid_number UnitedVioletBonnie {
+    _hidden_value = true
+  }
+  hidden_boolean MistyBlushFanchette {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  "Map<serviceid>" MoaningBeigeGrier {
+    _hidden_value = true
+  }
+  number RomanticYellowDelinda {
+    _hidden_value = true
+  }
+  json SlightBronzeDonni {
+    _hidden_value = true
+  }
+  hidden_boolean EldestGoldAshely {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid EvilSilverDana {
+    _hidden_value = true
+  }
+  json ImplicitOrangeElita {
+    _hidden_value = true
+  }
+  number DesirableMoccasinChickie {
+    _hidden_value = true
+  }
+  SubtleOliveBlair = "Why did the kid cross the playground? To get to the other slide."
+  HelpfulMoccasinOlive = "Slept like a log last night  woke up in the fireplace."
+  CheapBronzeKaren = 773
+  DustyChocolateAnallese = 680
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ProminentPinkDarcy"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "DesirableMoccasinChickie"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "DustyChocolateAnallese"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "CheapBronzeKaren"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

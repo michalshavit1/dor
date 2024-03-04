@@ -1,0 +1,65 @@
+type dummy.RubberPeachCarlie {
+  annotations {
+    json GeneticScarletNadia {
+    }
+    dummy.DEFAULT StingySalmonCicily {
+    }
+    dummy.InformalTurquoiseFaith SymbolicTealDona {
+    }
+    serviceid ZestyJadeAlexine {
+    }
+    boolean JollyBlushEsther {
+    }
+  }
+  json SuperCyanLynnet {
+    _hidden_value = true
+  }
+  json VerbalPlumKalindi {
+    _hidden_value = true
+  }
+  string PlannedMagentaSari {
+    _hidden_value = true
+  }
+  serviceid IncredibleVioletAnabel {
+    _hidden_value = true
+  }
+  number RequiredJadeNicolette {
+    _hidden_value = true
+  }
+  json SlightScarletAile {
+    _hidden_value = true
+  }
+  serviceid FellowMoccasinCatharine {
+    _hidden_value = true
+  }
+  string PoorAmaranthKyla {
+    _hidden_value = true
+  }
+  GeneticScarletNadia = "Why did the kid cross the playground? To get to the other slide."
+  StingySalmonCicily = {
+    legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  SymbolicTealDona = true
+  ZestyJadeAlexine = "What creature is smarter than a talking parrot? A spelling bee."
+  JollyBlushEsther = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "RequiredJadeNicolette"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "PoorAmaranthKyla"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "JollyBlushEsther"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

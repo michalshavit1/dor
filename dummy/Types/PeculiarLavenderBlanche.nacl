@@ -1,0 +1,161 @@
+type dummy.PeculiarLavenderBlanche {
+  annotations {
+    serviceid_number RemainingAquaMellie {
+    }
+    hidden_boolean FellowAmethystCinnamon {
+    }
+    number BusyBeigeBrittne {
+    }
+    json CriticalBlackNathalia {
+    }
+    boolean ClumsyVioletEdythe {
+    }
+    dummy.DiverseTurquoiseMariya RigidRedGilbertine {
+    }
+  }
+  dummy.DEFAULT ProminentAquamarineGaby {
+    _hidden_value = true
+  }
+  boolean ComparablePurpleColleen {
+    _hidden_value = true
+  }
+  number UnfairMaroonLeontine {
+    _hidden_value = true
+  }
+  boolean SensitiveMagentaBeret {
+    _hidden_value = true
+  }
+  serviceid_number AcuteAzureEden {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CriticalRoseNetti {
+    _hidden_value = true
+  }
+  number ThoroughLavenderSharyl {
+    _hidden_value = true
+  }
+  boolean CollectiveLimeJinny {
+    _hidden_value = true
+  }
+  serviceid_number WealthySapphireAimil {
+    _hidden_value = true
+  }
+  string YappyBlushAshli {
+    _hidden_value = true
+  }
+  string StrikingGreenPeggie {
+    _hidden_value = true
+  }
+  hidden_boolean RetiredLavenderMellicent {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string ChillyPurpleKerrin {
+    _hidden_value = true
+  }
+  number FortunateSapphireOthelia {
+    _hidden_value = true
+  }
+  hidden_boolean UnableCrimsonWinona {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT SickMaroonCris {
+    _hidden_value = true
+  }
+  serviceid RoastedMoccasinDorelle {
+    _hidden_value = true
+  }
+  serviceid EvidentMagentaCorene {
+    _hidden_value = true
+  }
+  boolean MatureHarlequinTerrie {
+    _hidden_value = true
+  }
+  serviceid SmoggyAmberLeda {
+    _hidden_value = true
+  }
+  "List<json>" AshamedMagentaAnny {
+    _hidden_value = true
+  }
+  number ProgressiveAzureAndriana {
+    _hidden_value = true
+  }
+  boolean DevelopedBlueLorelei {
+    _hidden_value = true
+  }
+  dummy.ViciousGoldTessi ShyYellowAurlie {
+    YtterbicTomatoJobie = "What did one nut say as he chased another nut?  I'm a cashew!"
+    FatTurquoiseKiersten = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    RelativeBlackGlennis = 795
+    SkilledCrimsonMargi = 876
+    EfficientTurquoiseRasla = 901
+    ThoroughIvoryJanette = 255
+    FineTurquoiseCorry = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    EfficientTomatoMerci = 121
+    OverwhelmingGreenStephine = "Why is Peter Pan always flying? Because he Neverlands."
+    UnpleasantGreenKristin = '''
+I'll tell you what often gets over looked... garden fences.
+Did you hear the joke about the wandering nun? She was a roman catholic.
+A steak pun is a rare medium well done.
+'''
+    StraightforwardChocolateGermaine = 84
+    PermanentPinkOthella = false
+    _hidden_value = true
+  }
+  dummy.ResultingCrimsonArdath GrossCyanJilly {
+    SuddenSalmonLissa = 736
+    LiableMaroonFrank = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    QuintessentialLavenderCorenda = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    SexualIvoryNannette = "Slept like a log last night  woke up in the fireplace."
+    SplendidTomatoNesta = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    SkinnyLavenderKorry = {
+      legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+    }
+    _hidden_value = true
+  }
+  json HonestAquaJoanie {
+    _hidden_value = true
+  }
+  json DutchGreenSharyl {
+    _hidden_value = true
+  }
+  string AverageRoseRosette {
+    _hidden_value = true
+  }
+  dummy.DEFAULT NakedAmberSherry {
+    _hidden_value = true
+  }
+  RemainingAquaMellie = 65
+  BusyBeigeBrittne = 290
+  CriticalBlackNathalia = "A steak pun is a rare medium well done."
+  ClumsyVioletEdythe = false
+  RigidRedGilbertine = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "AcuteAzureEden"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "WealthySapphireAimil"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "BusyBeigeBrittne"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "FellowAmethystCinnamon"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

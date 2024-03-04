@@ -1,0 +1,107 @@
+type dummy.FeministTealTrudy {
+  annotations {
+    string SmoggyScarletZorah {
+    }
+    number JitteryPlumPaola {
+    }
+    json IndirectPinkGabie {
+    }
+    serviceid SubtleRoseSamara {
+    }
+    json CooperativeCoralJulissa {
+    }
+  }
+  string ConvincedPinkOpaline {
+    _hidden_value = true
+  }
+  dummy.GlobalLimeMatti TenseIndigoWrennie {
+    ArrogantPurpleMadelene = {
+      legit = "How come the stadium got hot after the game? Because all of the fans left."
+    }
+    InsufficientTomatoHetti = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    UltimateRosePandora = true
+    SilentCyanMelina = 913
+    MeltedAquamarinePatsy = false
+    AppallingRedMegen = 664
+    StuckVioletLynette = true
+    PersistentChocolateNicolina = 273
+    PanickyJadeBianka = true
+    FunIvoryCristionna = "My first time using an elevator was an uplifting experience. The second time let me down."
+    HardCopperCahra = {
+      legit = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    }
+    ProtectiveSalmonLiza = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    SacredCyanRakel = "What do you call two barracuda fish?  A Pairacuda!"
+    _hidden_value = true
+  }
+  boolean AdvisoryApricotBernadina {
+    _hidden_value = true
+  }
+  dummy.AccessibleTurquoiseEssie CentralIndigoLaurianne {
+    BrilliantMaroonBonni = {
+      legit = "Why was it called the dark ages? Because of all the knights. "
+    }
+    SupposedIndigoDusty = false
+    _hidden_value = true
+  }
+  json SimpleRoseImogene {
+    _hidden_value = true
+  }
+  dummy.DEFAULT YtterbicEmeraldPetronilla {
+    _hidden_value = true
+  }
+  dummy.DEFAULT MysteriousFuchsiaChloris {
+    _hidden_value = true
+  }
+  number AccurateMaroonMarielle {
+    _hidden_value = true
+  }
+  serviceid SpectacularApricotKaylee {
+    _hidden_value = true
+  }
+  serviceid NeatCopperAnthe {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SolarSapphireMirabel {
+    _hidden_value = true
+  }
+  hidden_boolean PeculiarCoffeeTawsha {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean AdvisoryAquaShellie {
+    _hidden_value = true
+  }
+  serviceid_number LiteraryAquaAustina {
+    _hidden_value = true
+  }
+  serviceid_number SurroundingBlueMarcelle {
+    _hidden_value = true
+  }
+  json AmbitiousCyanRosalinde {
+    _hidden_value = true
+  }
+  json ToxicCrimsonAnallese {
+    _hidden_value = true
+  }
+  number FrailTomatoPrudy {
+    _hidden_value = true
+  }
+  number VerySalmonAriana {
+    _hidden_value = true
+  }
+  SmoggyScarletZorah = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  JitteryPlumPaola = 299
+  IndirectPinkGabie = "What do you do on a remote island? Try and find the TV island it belongs to."
+  SubtleRoseSamara = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  CooperativeCoralJulissa = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "JitteryPlumPaola"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

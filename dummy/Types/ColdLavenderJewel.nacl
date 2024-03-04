@@ -1,0 +1,52 @@
+type dummy.ColdLavenderJewel {
+  annotations {
+    serviceid_number PresentCrimsonDorolice {
+    }
+    dummy.DEFAULT YeastyBlueAlison {
+    }
+    serviceid_number SquealingRoseSteffie {
+    }
+    serviceid AccessiblePlumRenell {
+    }
+  }
+  dummy.CombinedCyanNatasha XenophobicMoccasinAlana {
+    FrozenCyanClaudette = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    WideCyanRhoda = 622
+    EnergeticGoldPauli = "What creature is smarter than a talking parrot? A spelling bee."
+    SpotlessCopperKyla = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    VitreousBrownJolee = 649
+    AdjacentSalmonLura = "What creature is smarter than a talking parrot? A spelling bee."
+    SpotlessCoffeeJaneva = false
+    UselessSalmonDarlleen = "Why was it called the dark ages? Because of all the knights. "
+    PreviousTealBerri = 809
+    RegionalTomatoLorilee = 223
+    NoisyPlumGiustina = false
+    SharedPurpleAdele = "Why did the kid cross the playground? To get to the other slide."
+    RottenAmaranthPhillie = "Dad Im hungry  Hi hungry Im dad"
+    ImprovedIvoryGenna = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    RoyalTurquoiseRonny = true
+    _hidden_value = true
+  }
+  serviceid ComfortableTomatoIvory {
+    _hidden_value = true
+  }
+  PresentCrimsonDorolice = 74
+  YeastyBlueAlison = {
+    legit = "Dad Im hungry  Hi hungry Im dad"
+  }
+  SquealingRoseSteffie = 421
+  AccessiblePlumRenell = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "YeastyBlueAlison"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "PresentCrimsonDorolice"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

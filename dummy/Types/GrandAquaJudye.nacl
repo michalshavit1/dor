@@ -1,0 +1,75 @@
+type dummy.GrandAquaJudye {
+  annotations {
+    serviceid_number StandardCrimsonEda {
+    }
+    json SufficientCoffeeStaci {
+    }
+    number EverydayCopperLisette {
+    }
+    json ExclusiveRedNara {
+    }
+    string SouthernPurpleLorilyn {
+    }
+  }
+  hidden_boolean RepulsiveOliveMerci {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean OptimisticTanEleanora {
+    _hidden_value = true
+  }
+  json RearScarletZorana {
+    _hidden_value = true
+  }
+  string CreativeRoseBirgitta {
+    _hidden_value = true
+  }
+  number OverwhelmingMoccasinDi {
+    _hidden_value = true
+  }
+  hidden_boolean InterestedCyanNikki {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number StuckFuchsiaKarlee {
+    _hidden_value = true
+  }
+  string RichYellowRobbie {
+    _hidden_value = true
+  }
+  serviceid_number SlipperyLavenderGilda {
+    _hidden_value = true
+  }
+  boolean ImplicitBrownMerrilee {
+    _hidden_value = true
+  }
+  boolean UniqueTurquoiseDeane {
+    _hidden_value = true
+  }
+  serviceid_number OlympicMaroonAvrit {
+    _hidden_value = true
+  }
+  hidden_boolean YuckyBlueKyrstin {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number StraightMoccasinKorella {
+    _hidden_value = true
+  }
+  StandardCrimsonEda = 37
+  SufficientCoffeeStaci = "Why did the tomato blush? Because it saw the salad dressing."
+  EverydayCopperLisette = 798
+  ExclusiveRedNara = "To be Frank, I'd have to change my name."
+  SouthernPurpleLorilyn = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "RearScarletZorana"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

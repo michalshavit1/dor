@@ -1,0 +1,102 @@
+type dummy.SensitiveTomatoSuzy {
+  annotations {
+    number ZestfulBlueCristionna {
+    }
+    serviceid LegitimatePlumPetunia {
+    }
+    serviceid_number PassiveApricotJennie {
+    }
+    serviceid_number LengthyFuchsiaStacey {
+    }
+    serviceid_number InvisibleRoseGilli {
+    }
+    boolean LostAquaKarin {
+    }
+    serviceid_number GothicRoseEffie {
+    }
+  }
+  string GrumpyTealLida {
+    _hidden_value = true
+  }
+  hidden_boolean StillTanLibby {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean FriendlyRoseDaniela {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number OpenLimeCyndie {
+    _hidden_value = true
+  }
+  boolean IdenticalScarletAnny {
+    _hidden_value = true
+  }
+  number NotableEmeraldRoseanne {
+    _hidden_value = true
+  }
+  serviceid_number GiganticPeachGavrielle {
+    _hidden_value = true
+  }
+  serviceid_number ActiveCrimsonCordey {
+    _hidden_value = true
+  }
+  json ConventionalBrownGiralda {
+    _hidden_value = true
+  }
+  boolean RoundAzureJanis {
+    _hidden_value = true
+  }
+  hidden_boolean HarshAquamarineRubia {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string AggressiveAquaHesther {
+    _hidden_value = true
+  }
+  ZestfulBlueCristionna = 305
+  LegitimatePlumPetunia = "Dad Im hungry  Hi hungry Im dad"
+  PassiveApricotJennie = 167
+  LengthyFuchsiaStacey = 949
+  InvisibleRoseGilli = 828
+  LostAquaKarin = false
+  GothicRoseEffie = 767
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "GrumpyTealLida"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "HarshAquamarineRubia"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "IdenticalScarletAnny"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "InvisibleRoseGilli"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ZestfulBlueCristionna"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "PassiveApricotJennie"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

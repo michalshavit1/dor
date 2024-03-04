@@ -1,0 +1,40 @@
+type dummy.MixedSalmonRosaleen {
+  annotations {
+    serviceid MassOliveShelbi {
+    }
+    json PlannedRedDaryl {
+    }
+    dummy.DEFAULT WastefulCoffeeMelicent {
+    }
+    dummy.JustBeigeShaylynn UgliestWhiteSelena {
+    }
+    serviceid PreparedTanMyrlene {
+    }
+  }
+  "List<serviceid>" SuddenHarlequinHalette {
+    _hidden_value = true
+  }
+  hidden_boolean UndergroundMaroonJenny {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid DeliciousTealChristian {
+    _hidden_value = true
+  }
+  MassOliveShelbi = "Why didnt the skeleton cross the road? Because he had no guts."
+  PlannedRedDaryl = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  WastefulCoffeeMelicent = {
+    legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  UgliestWhiteSelena = false
+  PreparedTanMyrlene = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "WastefulCoffeeMelicent"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

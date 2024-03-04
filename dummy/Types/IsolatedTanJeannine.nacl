@@ -1,0 +1,25 @@
+type dummy.IsolatedTanJeannine {
+  annotations {
+    serviceid ValuableBlackAuroora {
+    }
+    number DailyBlushDrusilla {
+    }
+    json DomesticIvoryAnnetta {
+    }
+    boolean ImprovedVioletHeidie {
+    }
+    serviceid_number SharpIndigoWinny {
+    }
+    hidden_boolean AbstractTomatoJacynth {
+    }
+  }
+  number EverydayVioletKellie {
+    _hidden_value = true
+  }
+  ValuableBlackAuroora = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  DailyBlushDrusilla = 456
+  DomesticIvoryAnnetta = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ImprovedVioletHeidie = true
+  SharpIndigoWinny = 481
+  _hidden_value = true
+}

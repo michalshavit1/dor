@@ -1,0 +1,154 @@
+type dummy.GiantGoldJoellyn {
+  annotations {
+    dummy.EventualSilverMerrilee SharedCyanRoxane {
+    }
+    string AccusedBeigeRyann {
+    }
+    json CourageousLimeMadelena {
+    }
+    serviceid_number PunyPeachPetronilla {
+    }
+    serviceid TartCoffeeJsandye {
+    }
+    number MentalAzureBarbie {
+    }
+  }
+  boolean SteadyAquaMargo {
+    _hidden_value = true
+  }
+  serviceid_number VisualAmaranthYoshiko {
+    _hidden_value = true
+  }
+  serviceid TerribleRoseRonda {
+    _hidden_value = true
+  }
+  dummy.NervousCyanBlisse ShinyPlumTeresina {
+    _hidden_value = true
+  }
+  string YummySapphireStefanie {
+    _hidden_value = true
+  }
+  number MultipleJadeKyle {
+    _hidden_value = true
+  }
+  dummy.UpperTanDebby CombinedCoralDix {
+    SocialCyanBlondelle = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    CompatibleLimeKarleen = false
+    _hidden_value = true
+  }
+  json WorthyPurpleSusanne {
+    _hidden_value = true
+  }
+  hidden_boolean ActiveSilverMerl {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number SimpleBlackLida {
+    _hidden_value = true
+  }
+  json MereTurquoiseAustin {
+    _hidden_value = true
+  }
+  string AbsentBlackLatrena {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SoleIvoryPerry {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SelfishLimeDarryl {
+    _hidden_value = true
+  }
+  serviceid_number WrongJadeAloisia {
+    _hidden_value = true
+  }
+  number CautiousLavenderKamila {
+    _hidden_value = true
+  }
+  string FuriousScarletYetty {
+    _hidden_value = true
+  }
+  json IntactBrownMicheline {
+    _hidden_value = true
+  }
+  string PuzzledBeigeMaryjo {
+    _hidden_value = true
+  }
+  "List<serviceid>" LexicalOliveEllissa {
+    _hidden_value = true
+  }
+  json VisitingSalmonCarlota {
+    _hidden_value = true
+  }
+  number EffectiveBeigePrudi {
+    _hidden_value = true
+  }
+  boolean PrimeWhiteQuinta {
+    _hidden_value = true
+  }
+  string WetScarletAllix {
+    _hidden_value = true
+  }
+  boolean PuzzledChocolateClementine {
+    _hidden_value = true
+  }
+  string CautiousBeigeShaylynn {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SolarTanBettina {
+    _hidden_value = true
+  }
+  serviceid_number FantasticChocolateLynnell {
+    _hidden_value = true
+  }
+  hidden_boolean InformalChocolateBertine {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.PreparedChocolateVanny BadJadeHelene {
+    DampCrimsonDacia = 142
+    FlyingFuchsiaAlfreda = {
+      legit = "What do you call two barracuda fish?  A Pairacuda!"
+    }
+    ConceptualOrangeJana = "To be Frank, I'd have to change my name."
+    VividCyanShina = 557
+    _hidden_value = true
+  }
+  SharedCyanRoxane = false
+  AccusedBeigeRyann = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  CourageousLimeMadelena = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  PunyPeachPetronilla = 692
+  TartCoffeeJsandye = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  MentalAzureBarbie = 53
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "PuzzledBeigeMaryjo"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "CautiousBeigeShaylynn"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "VisitingSalmonCarlota"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "TartCoffeeJsandye"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "PunyPeachPetronilla"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

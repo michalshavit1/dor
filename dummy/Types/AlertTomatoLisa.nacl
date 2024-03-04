@@ -1,0 +1,38 @@
+type dummy.AlertTomatoLisa {
+  annotations {
+    number GivenHarlequinElvina {
+    }
+    hidden_boolean FragileLavenderDyann {
+    }
+    serviceid_number MajorGreenAurilia {
+    }
+    serviceid ResultingIndigoAlida {
+    }
+    hidden_boolean UnacceptableTurquoiseGenvieve {
+    }
+    boolean GiantMoccasinMaggi {
+    }
+  }
+  hidden_boolean SpectacularCrimsonUrsala {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  GivenHarlequinElvina = 830
+  MajorGreenAurilia = 792
+  ResultingIndigoAlida = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  GiantMoccasinMaggi = true
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "FragileLavenderDyann"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "GivenHarlequinElvina"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

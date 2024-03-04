@@ -1,0 +1,43 @@
+salesforce.Flow michalsub {
+  fullName = "michalsub"
+  apiVersion = 52
+  interviewLabel = "michalsub {!$Flow.CurrentDateTime}"
+  label = "michalsub"
+  processMetadataValues = [
+    {
+      name = "BuilderType"
+      value = {
+        stringValue = "LightningFlowBuilder"
+      }
+    },
+    {
+      name = "CanvasMode"
+      value = {
+        stringValue = "FREE_FORM_CANVAS"
+      }
+    },
+    {
+      name = "OriginBuilderType"
+      value = {
+        stringValue = "LightningFlowBuilder"
+      }
+    },
+  ]
+  processType = "Flow"
+  start = {
+    locationX = 50
+    locationY = 50
+    connector = {
+      targetReference = "mm"
+    }
+  }
+  status = "Active"
+  subflows = {
+    name = "mm"
+    label = "mm"
+    locationX = 419
+    locationY = 121
+    flowName = salesforce.Flow.instance.mifccvjkm
+  }
+  _alias = "michalsub"
+}

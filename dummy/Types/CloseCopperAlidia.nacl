@@ -1,0 +1,59 @@
+type dummy.CloseCopperAlidia {
+  annotations {
+    serviceid_number PerfectLavenderDaphene {
+    }
+    boolean JudicialAquaDoretta {
+    }
+    string WittyMagentaBell {
+    }
+    serviceid_number OrthodoxMagentaValma {
+    }
+    serviceid BlindCoralHarriette {
+    }
+    string SupposedAquamarineKatee {
+    }
+  }
+  string FatalRoseCaterina {
+    _hidden_value = true
+  }
+  boolean NervousIvoryLois {
+    _hidden_value = true
+  }
+  number PetiteEmeraldFaydra {
+    _hidden_value = true
+  }
+  hidden_boolean DecentTurquoiseMilka {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number MinorJadeMichelina {
+    _hidden_value = true
+  }
+  boolean GuiltyJadeMurielle {
+    _hidden_value = true
+  }
+  json SuitableWhiteGreer {
+    _hidden_value = true
+  }
+  json RetailAmberGrazia {
+    _hidden_value = true
+  }
+  json OutsideCoffeeLiuka {
+    _hidden_value = true
+  }
+  PerfectLavenderDaphene = 646
+  JudicialAquaDoretta = false
+  WittyMagentaBell = "What did one nut say as he chased another nut?  I'm a cashew!"
+  OrthodoxMagentaValma = 260
+  BlindCoralHarriette = "Why did the kid cross the playground? To get to the other slide."
+  SupposedAquamarineKatee = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "NervousIvoryLois"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

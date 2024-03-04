@@ -1,0 +1,117 @@
+type dummy.EnviousMoccasinJuli {
+  annotations {
+    dummy.QualifiedHarlequinJolee WildEmeraldLizabeth {
+    }
+    dummy.DelightedVioletLiv FashionableFuchsiaCamille {
+    }
+    dummy.DEFAULT LivelyPeachMuriel {
+    }
+    string TopMoccasinFilia {
+    }
+    string IncSilverGermana {
+    }
+    hidden_boolean RuralHarlequinMisha {
+    }
+  }
+  serviceid_number FarOliveLacie {
+    _hidden_value = true
+  }
+  serviceid ScatteredWhiteSela {
+    _hidden_value = true
+  }
+  string FlatBlackDavina {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ViciousBrownPaulita {
+    _hidden_value = true
+  }
+  serviceid_number HonHarlequinLauri {
+    _hidden_value = true
+  }
+  json MoralSapphireJobi {
+    _hidden_value = true
+  }
+  serviceid_number MinimumMagentaMilena {
+    _hidden_value = true
+  }
+  string UnacceptableCrimsonCherye {
+    _hidden_value = true
+  }
+  serviceid_number MinimalTealCorene {
+    _hidden_value = true
+  }
+  string StupidYellowBobbee {
+    _hidden_value = true
+  }
+  json GrossEmeraldLisbeth {
+    _hidden_value = true
+  }
+  json CertainGreenCassie {
+    _hidden_value = true
+  }
+  string LoyalTealWilhelmine {
+    _hidden_value = true
+  }
+  "List<number>" YoungestCoralElane {
+    _hidden_value = true
+  }
+  serviceid UnpleasantLimeCharlene {
+    _hidden_value = true
+  }
+  boolean EmptyChocolateCoreen {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" DustyCrimsonSherry {
+    _hidden_value = true
+  }
+  serviceid NobleBlushMalina {
+    _hidden_value = true
+  }
+  number MainPlumIngeberg {
+    _hidden_value = true
+  }
+  serviceid PlainBlushIngrid {
+    _hidden_value = true
+  }
+  hidden_boolean GrotesqueApricotLavena {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json LatinJadeTeddi {
+    _hidden_value = true
+  }
+  boolean ThoughtfulFuchsiaHettie {
+    _hidden_value = true
+  }
+  boolean OverseasWhiteAlexandra {
+    _hidden_value = true
+  }
+  WildEmeraldLizabeth = 531
+  FashionableFuchsiaCamille = "Why is Peter Pan always flying? Because he Neverlands."
+  LivelyPeachMuriel = {
+    legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  TopMoccasinFilia = "Why did the tomato blush? Because it saw the salad dressing."
+  IncSilverGermana = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ScatteredWhiteSela"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "LoyalTealWilhelmine"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "LivelyPeachMuriel"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

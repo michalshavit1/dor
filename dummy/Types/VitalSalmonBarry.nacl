@@ -1,0 +1,56 @@
+type dummy.VitalSalmonBarry {
+  annotations {
+    dummy.AnnualPurpleRyann PhilosophicalSilverSelma {
+    }
+    json HeadChocolateDorree {
+    }
+    number OkBrownShelba {
+    }
+    serviceid_number ConfidentialSapphireLida {
+    }
+  }
+  number ArchitecturalMoccasinCherrita {
+    _hidden_value = true
+  }
+  string RomanticSilverDina {
+    _hidden_value = true
+  }
+  serviceid StraightforwardBrownBellanca {
+    _hidden_value = true
+  }
+  hidden_boolean CooperativeAmethystMinny {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string ForwardYellowBertine {
+    _hidden_value = true
+  }
+  string SorryEmeraldInessa {
+    _hidden_value = true
+  }
+  serviceid DemocraticGreenKarlotte {
+    _hidden_value = true
+  }
+  dummy.DEFAULT QuickRedSianna {
+    _hidden_value = true
+  }
+  serviceid_number MarkedMoccasinJuliann {
+    _hidden_value = true
+  }
+  "List<json>" WastefulScarletJojo {
+    _hidden_value = true
+  }
+  PhilosophicalSilverSelma = false
+  HeadChocolateDorree = "What do you call two barracuda fish?  A Pairacuda!"
+  OkBrownShelba = 880
+  ConfidentialSapphireLida = 629
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "HeadChocolateDorree"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

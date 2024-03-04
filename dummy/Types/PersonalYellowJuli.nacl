@@ -1,0 +1,41 @@
+type dummy.PersonalYellowJuli {
+  annotations {
+    string ShinyGoldOlimpia {
+    }
+    dummy.OutrageousApricotDelia TechnologicalScarletLorry {
+    }
+    serviceid MaleMagentaNiki {
+    }
+    string IntegratedBlushVanya {
+    }
+    hidden_boolean MusicalGreenRaeann {
+    }
+    hidden_boolean FashionableMagentaJulissa {
+    }
+  }
+  string DisappointedTurquoiseVally {
+    _hidden_value = true
+  }
+  ShinyGoldOlimpia = "Dad Im hungry  Hi hungry Im dad"
+  TechnologicalScarletLorry = 545
+  MaleMagentaNiki = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  IntegratedBlushVanya = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "ShinyGoldOlimpia"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "TechnologicalScarletLorry"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "IntegratedBlushVanya"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

@@ -1,0 +1,123 @@
+netsuite.savedsearch customsearchtestsearch {
+  scriptid = "customsearchtestsearch"
+  definition = "8c3b39d6dfe118bad2ba6e1dcfa3d0bf12722f1406f3c605e40cb0cc747cd225@GZC@2022.1.17@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"
+  search_filter = [
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Script_INTERNALID"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "15"
+        },
+      ]
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "Script_NAME"
+      FIELD_INDEX = 1
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Script_SCRIPTID"
+      FIELD_INDEX = 2
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Script_SCRIPTTYPE"
+      FIELD_INDEX = 3
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Script_OWNER"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Script_ISINACTIVE"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  detail_fields = [
+    {
+      FIELD_ALIAS = "Script_NAME"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Script_SCRIPTID"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Script_SCRIPTTYPE"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Script_OWNER"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Script_ISINACTIVE"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "Script_NAME"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  KEY_SCRIPT_ID = "customsearchtestsearch"
+  FIELD_DEFAULT_NAME = "Custom Script Search"
+  FIELD_SEARCH_TYPE = "Script"
+  FLAG_PUBLIC = false
+  FLAG_LIST = false
+  FLAG_PORTLET = false
+  FLAG_MACHINE = false
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = false
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = false
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = true
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+  _alias = "Custom Script Search"
+}

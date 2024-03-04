@@ -1,0 +1,77 @@
+type dummy.GayOrangeMargarethe {
+  annotations {
+    serviceid ConventionalYellowBernelle {
+    }
+    boolean DrunkAquamarineCarlota {
+    }
+    hidden_boolean PrivateGrayCynthia {
+    }
+    serviceid ChronicYellowAshley {
+    }
+    number BloodyRedDosi {
+    }
+  }
+  boolean PossibleGoldTherine {
+    _hidden_value = true
+  }
+  serviceid RevolutionaryHarlequinHaley {
+    _hidden_value = true
+  }
+  boolean EmpiricalFuchsiaMireille {
+    _hidden_value = true
+  }
+  serviceid_number UsefulTomatoEve {
+    _hidden_value = true
+  }
+  serviceid NutritiousBlueSharai {
+    _hidden_value = true
+  }
+  number BusyTealRuth {
+    _hidden_value = true
+  }
+  boolean WeakLimeCarine {
+    _hidden_value = true
+  }
+  serviceid SatisfactoryBronzeReeva {
+    _hidden_value = true
+  }
+  serviceid_number WellTanReggie {
+    _hidden_value = true
+  }
+  json PartialEmeraldKenna {
+    _hidden_value = true
+  }
+  string EvolutionaryBlackKayley {
+    _hidden_value = true
+  }
+  json VoluntaryAquaLisbeth {
+    _hidden_value = true
+  }
+  json PartialRoseEmelyne {
+    _hidden_value = true
+  }
+  ConventionalYellowBernelle = "My first time using an elevator was an uplifting experience. The second time let me down."
+  DrunkAquamarineCarlota = false
+  ChronicYellowAshley = "Why was it called the dark ages? Because of all the knights. "
+  BloodyRedDosi = 558
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "RevolutionaryHarlequinHaley"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "BloodyRedDosi"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "DrunkAquamarineCarlota"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

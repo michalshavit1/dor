@@ -1,0 +1,91 @@
+type dummy.LengthyAmaranthNicole {
+  annotations {
+    json PerfectScarletRaine {
+    }
+    dummy.DEFAULT NoisyEmeraldUlla {
+    }
+    json VoicelessTealVyky {
+    }
+    hidden_boolean ZonalAquamarineRikki {
+    }
+    boolean MedicalAquamarineIssi {
+    }
+  }
+  serviceid_number MixedAquaEleni {
+    _hidden_value = true
+  }
+  number JitteryAquamarineLuce {
+    _hidden_value = true
+  }
+  string DreadfulSalmonSuzette {
+    _hidden_value = true
+  }
+  json ArtisticIvoryDaryn {
+    _hidden_value = true
+  }
+  json BlondeAmethystJosie {
+    _hidden_value = true
+  }
+  serviceid FitGreenUrsala {
+    _hidden_value = true
+  }
+  boolean StillYellowSusanne {
+    _hidden_value = true
+  }
+  string AlrightEmeraldSiouxie {
+    _hidden_value = true
+  }
+  serviceid_number SelectIndigoCrysta {
+    _hidden_value = true
+  }
+  serviceid ThoughtlessIvoryBrandise {
+    _hidden_value = true
+  }
+  serviceid_number StructuralAquaBeulah {
+    _hidden_value = true
+  }
+  serviceid UrbanIvoryIlse {
+    _hidden_value = true
+  }
+  serviceid_number ManagingAquaNatasha {
+    _hidden_value = true
+  }
+  boolean FuriousIvoryMarice {
+    _hidden_value = true
+  }
+  boolean DevotedHarlequinKattie {
+    _hidden_value = true
+  }
+  boolean IntelligentGoldJorrie {
+    _hidden_value = true
+  }
+  PerfectScarletRaine = "Slept like a log last night  woke up in the fireplace."
+  NoisyEmeraldUlla = {
+    legit = "Im only familiar with 25 letters in the English language. I dont know why."
+  }
+  VoicelessTealVyky = "My first time using an elevator was an uplifting experience. The second time let me down."
+  MedicalAquamarineIssi = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "FuriousIvoryMarice"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "SelectIndigoCrysta"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "BlondeAmethystJosie"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "JitteryAquamarineLuce"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

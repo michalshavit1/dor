@@ -1,0 +1,73 @@
+type dummy.TartBronzeClovis {
+  annotations {
+    hidden_boolean AfraidGreenLeona {
+    }
+    hidden_boolean PersistentOrangeMarita {
+    }
+    boolean MarkedAmethystMarijo {
+    }
+    serviceid_number CombinedAquamarineCherish {
+    }
+    boolean TemporaryAmaranthDasha {
+    }
+    serviceid FrozenAmaranthAnette {
+    }
+    json ScreechingAmberMindy {
+    }
+    string ExplicitBlushFey {
+    }
+    dummy.DisturbedAquamarineDaffy InfluentialPurplePaloma {
+    }
+    number HealthyMoccasinGodiva {
+    }
+    serviceid_number ShaggyPurpleAudry {
+    }
+    number MarkedEmeraldSerene {
+    }
+    boolean AwkwardAquamarineNelly {
+    }
+    number VariableGrayLeela {
+    }
+    serviceid_number OutsideTurquoiseEllissa {
+    }
+    dummy.MechanicalRoseBlondelle FavourableAmaranthCeline {
+    }
+    string ProfitableMagentaAmi {
+    }
+    hidden_boolean NiceFuchsiaGeorgia {
+    }
+  }
+  MarkedAmethystMarijo = false
+  CombinedAquamarineCherish = 577
+  TemporaryAmaranthDasha = true
+  FrozenAmaranthAnette = "Why did the kid cross the playground? To get to the other slide."
+  ScreechingAmberMindy = "Whoever invented the knock-knock joke should get a no bell prize."
+  ExplicitBlushFey = "Slept like a log last night  woke up in the fireplace."
+  HealthyMoccasinGodiva = 280
+  ShaggyPurpleAudry = 867
+  MarkedEmeraldSerene = 186
+  AwkwardAquamarineNelly = true
+  VariableGrayLeela = 529
+  OutsideTurquoiseEllissa = 241
+  ProfitableMagentaAmi = "To be Frank, I'd have to change my name."
+  _important_values = [
+    {
+      value = "SourAmaranthMaggi"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "PersistentOrangeMarita"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "NiceFuchsiaGeorgia"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _alias = "TartBronzeClovis_alias"
+}

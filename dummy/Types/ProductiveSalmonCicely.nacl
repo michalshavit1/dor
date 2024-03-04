@@ -1,0 +1,94 @@
+type dummy.ProductiveSalmonCicely {
+  annotations {
+    serviceid DustyJadeAgace {
+    }
+    serviceid PreciseSalmonPearl {
+    }
+    string LiberalOrangeKesley {
+    }
+    json GrandHarlequinRoxi {
+    }
+    dummy.DEFAULT NearJadeMarcelle {
+    }
+    dummy.AcceptableAmaranthGertrudis SadLimeLia {
+    }
+    json TameOrangeRosella {
+    }
+  }
+  json FuriousBlackGinger {
+    _hidden_value = true
+  }
+  serviceid GastricCyanSarena {
+    _hidden_value = true
+  }
+  json YellingMaroonLorelei {
+    _hidden_value = true
+  }
+  number StiffWhiteBinny {
+    _hidden_value = true
+  }
+  string LevelFuchsiaKellsie {
+    _hidden_value = true
+  }
+  number CombinedBeigeAnnnora {
+    _hidden_value = true
+  }
+  "Map<string>" MusicalBeigeAmberly {
+    _hidden_value = true
+  }
+  string FantasticPurpleTabby {
+    _hidden_value = true
+  }
+  boolean OverwhelmingCyanAuroora {
+    _hidden_value = true
+  }
+  number SatisfactoryMaroonJordan {
+    _hidden_value = true
+  }
+  serviceid ShallowTealEvangeline {
+    _hidden_value = true
+  }
+  boolean MisleadingEmeraldRikki {
+    _hidden_value = true
+  }
+  number RenewedPlumRana {
+    _hidden_value = true
+  }
+  string DoubtfulMaroonLillis {
+    _hidden_value = true
+  }
+  DustyJadeAgace = "A steak pun is a rare medium well done."
+  PreciseSalmonPearl = "Why didnt the skeleton cross the road? Because he had no guts."
+  LiberalOrangeKesley = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  GrandHarlequinRoxi = "Why did the tomato blush? Because it saw the salad dressing."
+  NearJadeMarcelle = {
+    legit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  }
+  SadLimeLia = 136
+  TameOrangeRosella = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ShallowTealEvangeline"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "CombinedBeigeAnnnora"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "MisleadingEmeraldRikki"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "DustyJadeAgace"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

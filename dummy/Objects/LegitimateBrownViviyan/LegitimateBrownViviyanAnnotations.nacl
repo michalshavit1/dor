@@ -1,0 +1,84 @@
+type dummy.LegitimateBrownViviyan {
+  annotations {
+    serviceid ConfidentialTealJaney {
+    }
+    serviceid_number LateOrangeEvvie {
+    }
+    serviceid_number WilfulApricotKassia {
+    }
+    serviceid MechanicalPlumLavena {
+    }
+    json CreativeTurquoiseBrianne {
+    }
+    string EconomicAmaranthSondra {
+    }
+    json SimilarAzureBinni {
+    }
+    string SteadyIndigoBrigid {
+    }
+    hidden_boolean ExclusiveSilverHazel {
+    }
+    dummy.OppositeBlueStacia RegularAzureBenni {
+    }
+    json XenophobicGrayClio {
+    }
+    serviceid_number RequiredGoldYnes {
+    }
+    hidden_boolean CognitivePurpleDanyette {
+    }
+    serviceid_number FatVioletKata {
+    }
+    hidden_boolean ToxicTanMela {
+    }
+    hidden_boolean PleasantVioletAnnabela {
+    }
+    json AloneTomatoEunice {
+    }
+    hidden_boolean ToughLavenderNona {
+    }
+    serviceid CapableCoralKathy {
+    }
+    hidden_boolean IntimateLimeDoll {
+    }
+    string ShinyMoccasinNata {
+    }
+  }
+  ConfidentialTealJaney = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  LateOrangeEvvie = 243
+  WilfulApricotKassia = 130
+  MechanicalPlumLavena = "Im only familiar with 25 letters in the English language. I dont know why."
+  CreativeTurquoiseBrianne = "To be Frank, I'd have to change my name."
+  EconomicAmaranthSondra = "What do you do on a remote island? Try and find the TV island it belongs to."
+  SimilarAzureBinni = "Im only familiar with 25 letters in the English language. I dont know why."
+  SteadyIndigoBrigid = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  RegularAzureBenni = 568
+  XenophobicGrayClio = "Slept like a log last night  woke up in the fireplace."
+  RequiredGoldYnes = 120
+  FatVioletKata = 19
+  AloneTomatoEunice = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  CapableCoralKathy = "What creature is smarter than a talking parrot? A spelling bee."
+  ShinyMoccasinNata = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _self_important_values = [
+    {
+      value = "AloneTomatoEunice"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "FatVioletKata"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "CreativeTurquoiseBrianne"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "RegularAzureBenni"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _alias = "LegitimateBrownViviyan_alias"
+}

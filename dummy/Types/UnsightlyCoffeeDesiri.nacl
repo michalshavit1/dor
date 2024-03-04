@@ -1,0 +1,128 @@
+type dummy.UnsightlyCoffeeDesiri {
+  annotations {
+    serviceid_number MereVioletCookie {
+    }
+    hidden_boolean MiniatureMagentaCharo {
+    }
+    serviceid InappropriateMoccasinLianne {
+    }
+    boolean ProperCyanTandy {
+    }
+    boolean RepresentativeOrangeCassy {
+    }
+    dummy.DEFAULT SpatialMoccasinNatty {
+    }
+    dummy.DEFAULT AwareWhiteCaty {
+    }
+    dummy.NervousCyanBlisse DistinguishedApricotLucina {
+    }
+  }
+  serviceid GlobalGrayShalne {
+    _hidden_value = true
+  }
+  boolean LinearTanPhillis {
+    _hidden_value = true
+  }
+  json SatisfiedIndigoDebbi {
+    _hidden_value = true
+  }
+  dummy.MathematicalLavenderUlrica ExtraordinaryCopperSheela {
+    WanderingJadeAnestassia = "Im only familiar with 25 letters in the English language. I dont know why."
+    ContinuousPurpleAaren = "My first time using an elevator was an uplifting experience. The second time let me down."
+    SeriousTomatoMaurine = 88
+    PainfulAmethystKrista = 147
+    BlushingJadeRici = 216
+    SelectiveEmeraldBathsheba = 712
+    EffectiveTanKathye = "How come the stadium got hot after the game? Because all of the fans left."
+    CheerfulAquaAdda = false
+    CommercialSapphireLeilah = 503
+    GrumpySilverWilly = 656
+    GrubbyPinkNanice = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    AboveSapphireCrysta = 89
+    InevitablePeachSal = "Did you know that protons have mass? I didn't even know they were catholic."
+    _hidden_value = true
+  }
+  hidden_boolean RapidGoldAstrid {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid SadApricotKoralle {
+    _hidden_value = true
+  }
+  "List<boolean>" AdvisoryEmeraldMarianne {
+    _hidden_value = true
+  }
+  serviceid_number EncouragingAmberSigrid {
+    _hidden_value = true
+  }
+  boolean BrokenGreenMarya {
+    _hidden_value = true
+  }
+  serviceid MarineCoffeePamelina {
+    _hidden_value = true
+  }
+  serviceid_number SignificantBrownNollie {
+    _hidden_value = true
+  }
+  number SpecialCoralHali {
+    _hidden_value = true
+  }
+  number FineAmaranthAsia {
+    _hidden_value = true
+  }
+  json InnocentGreenBert {
+    _hidden_value = true
+  }
+  MereVioletCookie = 318
+  InappropriateMoccasinLianne = "Did you know that protons have mass? I didn't even know they were catholic."
+  ProperCyanTandy = false
+  RepresentativeOrangeCassy = true
+  SpatialMoccasinNatty = {
+    legit = "Why was it called the dark ages? Because of all the knights. "
+  }
+  AwareWhiteCaty = {
+    legit = "How come the stadium got hot after the game? Because all of the fans left."
+  }
+  DistinguishedApricotLucina = 225
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ExtraordinaryCopperSheela"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "SpecialCoralHali"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "FineAmaranthAsia"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SadApricotKoralle"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "GlobalGrayShalne"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ProperCyanTandy"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "AwareWhiteCaty"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

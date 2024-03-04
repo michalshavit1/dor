@@ -1,0 +1,27 @@
+type dummy.SoleIndigoAllyce {
+  annotations {
+    hidden_boolean RadicalAmberClem {
+    }
+    serviceid_number MarvellousSapphireMalva {
+    }
+    serviceid RelatedRedRaina {
+    }
+    boolean CivicLimeBecky {
+    }
+    serviceid_number DeadEmeraldBertina {
+    }
+    serviceid_number SocialistScarletLelia {
+    }
+  }
+  hidden_boolean PartialCyanGiralda {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  MarvellousSapphireMalva = 180
+  RelatedRedRaina = "Why did the tomato blush? Because it saw the salad dressing."
+  CivicLimeBecky = true
+  DeadEmeraldBertina = 839
+  SocialistScarletLelia = 312
+  _hidden_value = true
+}

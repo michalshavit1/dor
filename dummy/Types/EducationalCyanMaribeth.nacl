@@ -1,0 +1,36 @@
+type dummy.EducationalCyanMaribeth {
+  annotations {
+    json SlightTurquoiseTove {
+    }
+    serviceid PuzzledBeigeMelanie {
+    }
+    serviceid ConsciousChocolateShana {
+    }
+    string EagerJadeMoll {
+    }
+  }
+  dummy.DEFAULT VagueWhiteCrissy {
+    _hidden_value = true
+  }
+  boolean NearbyVioletKendre {
+    _hidden_value = true
+  }
+  json RoundFuchsiaDeirdre {
+    _hidden_value = true
+  }
+  json ConsciousMaroonDaune {
+    _hidden_value = true
+  }
+  SlightTurquoiseTove = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  PuzzledBeigeMelanie = "Why is Peter Pan always flying? Because he Neverlands."
+  ConsciousChocolateShana = "Why was it called the dark ages? Because of all the knights. "
+  EagerJadeMoll = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "RoundFuchsiaDeirdre"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

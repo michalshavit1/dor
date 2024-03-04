@@ -1,0 +1,31 @@
+type dummy.ObedientAmberLeisha {
+  annotations {
+    number CondemnedIvorySherri {
+    }
+    dummy.ConsciousAquaMahalia RepulsiveAmberLana {
+    }
+    hidden_boolean PrivateSalmonLyndy {
+    }
+    boolean RelievedIndigoGeorgiana {
+    }
+  }
+  number HeavySilverBarbaraanne {
+    _hidden_value = true
+  }
+  hidden_boolean ExternalTomatoDyan {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  CondemnedIvorySherri = 479
+  RepulsiveAmberLana = "Im only familiar with 25 letters in the English language. I dont know why."
+  RelievedIndigoGeorgiana = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ExternalTomatoDyan"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

@@ -1,0 +1,40 @@
+type dummy.InteriorFuchsiaBarbie {
+  annotations {
+    number LegitimateCrimsonDoralyn {
+    }
+    serviceid PaleTanRhodia {
+    }
+    hidden_boolean FortunatePinkGlenna {
+    }
+    serviceid_number PatientApricotLishe {
+    }
+    boolean ColorfulSapphireAlexa {
+    }
+    serviceid_number UnableAzureNannette {
+    }
+    hidden_boolean PrimitiveBlueShanda {
+    }
+  }
+  dummy.DEFAULT AdequateFuchsiaElayne {
+    _hidden_value = true
+  }
+  string ChiefChocolateAmmamaria {
+    _hidden_value = true
+  }
+  json SickApricotBianca {
+    _hidden_value = true
+  }
+  LegitimateCrimsonDoralyn = 238
+  PaleTanRhodia = "What do you do on a remote island? Try and find the TV island it belongs to."
+  PatientApricotLishe = 764
+  ColorfulSapphireAlexa = true
+  UnableAzureNannette = 368
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "AdequateFuchsiaElayne"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

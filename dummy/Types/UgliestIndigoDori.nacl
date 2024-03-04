@@ -1,0 +1,43 @@
+type dummy.UgliestIndigoDori {
+  annotations {
+    dummy.OutrageousApricotDelia PersonalApricotAllsun {
+    }
+    json VerticalIndigoCindee {
+    }
+    number ColonialAmaranthBryna {
+    }
+    string UglySilverHynda {
+    }
+    hidden_boolean GothicScarletMartie {
+    }
+    json ImpossibleAmberGeorgianne {
+    }
+  }
+  json FatalCoffeeHildegaard {
+    _hidden_value = true
+  }
+  string SkilledPinkLana {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" ElectronicPurpleRiannon {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json ReligiousBlueJanenna {
+    _hidden_value = true
+  }
+  PersonalApricotAllsun = 595
+  VerticalIndigoCindee = "My first time using an elevator was an uplifting experience. The second time let me down."
+  ColonialAmaranthBryna = 83
+  UglySilverHynda = "Dad Im hungry  Hi hungry Im dad"
+  ImpossibleAmberGeorgianne = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ElectronicPurpleRiannon"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

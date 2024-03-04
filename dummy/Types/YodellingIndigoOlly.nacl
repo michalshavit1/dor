@@ -1,0 +1,112 @@
+type dummy.YodellingIndigoOlly {
+  annotations {
+    string ActiveCopperAlvera {
+    }
+    hidden_boolean EnormousMaroonStella {
+    }
+    json RemoteEmeraldCeciley {
+    }
+    number YammeringSapphireAnalise {
+    }
+    string DependentCyanElka {
+    }
+    number AllegedBlueMurielle {
+    }
+    string UnconsciousTealCarly {
+    }
+  }
+  dummy.DEFAULT DifficultLavenderGracia {
+    _hidden_value = true
+  }
+  json MidCoralEugenie {
+    _hidden_value = true
+  }
+  json RelevantRoseEmmalyn {
+    _hidden_value = true
+  }
+  dummy.JustBeigeShaylynn ShortLavenderMerrily {
+    FreshAquamarineRubie = 231
+    RoastedGrayCammie = false
+    FavourableIndigoBritte = "What do you call two barracuda fish?  A Pairacuda!"
+    RemoteSapphireCarree = 355
+    AloneOrangeMarijo = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    DoubtfulGreenTamara = 558
+    SocialAmberLilah = 834
+    TropicalGoldAmelita = {
+      legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    }
+    VulnerableAquamarineAyn = "Slept like a log last night  woke up in the fireplace."
+    WorldwideMaroonVinni = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    ArmedOrangeSibbie = 154
+    _hidden_value = true
+  }
+  number EquivalentEmeraldPansie {
+    _hidden_value = true
+  }
+  serviceid_number PlannedWhiteFelisha {
+    _hidden_value = true
+  }
+  serviceid GoverningTurquoiseCarmon {
+    _hidden_value = true
+  }
+  number HomelessApricotSuzi {
+    _hidden_value = true
+  }
+  hidden_boolean NeutralOrangeEsta {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number AwakeChocolateRubina {
+    _hidden_value = true
+  }
+  serviceid ArbitraryMaroonDevan {
+    _hidden_value = true
+  }
+  string ChangingMagentaGeorgianne {
+    _hidden_value = true
+  }
+  dummy.MassYellowCorina StrictRoseWrennie {
+    _hidden_value = true
+  }
+  boolean MarriedCoffeeJodi {
+    _hidden_value = true
+  }
+  json UnconsciousGoldMaryellen {
+    _hidden_value = true
+  }
+  serviceid PeacefulYellowSheilah {
+    _hidden_value = true
+  }
+  ActiveCopperAlvera = "What creature is smarter than a talking parrot? A spelling bee."
+  RemoteEmeraldCeciley = "Why didnt the skeleton cross the road? Because he had no guts."
+  YammeringSapphireAnalise = 245
+  DependentCyanElka = "A steak pun is a rare medium well done."
+  AllegedBlueMurielle = 830
+  UnconsciousTealCarly = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "RelevantRoseEmmalyn"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "DifficultLavenderGracia"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "NeutralOrangeEsta"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ActiveCopperAlvera"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

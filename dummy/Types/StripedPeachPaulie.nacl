@@ -1,0 +1,46 @@
+type dummy.StripedPeachPaulie {
+  annotations {
+    dummy.DEFAULT YawningApricotAllix {
+    }
+    boolean StickyLavenderMelisent {
+    }
+    json UgliestSapphireDulcy {
+    }
+    json AssistantPinkFanchon {
+    }
+    serviceid StandardTomatoDaune {
+    }
+    serviceid JitteryTealJacquenetta {
+    }
+    serviceid_number ArtisticSalmonDarcey {
+    }
+    serviceid_number PresentPlumRora {
+    }
+  }
+  serviceid ExtendedCopperDawn {
+    _hidden_value = true
+  }
+  YawningApricotAllix = {
+    legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  }
+  StickyLavenderMelisent = false
+  UgliestSapphireDulcy = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  AssistantPinkFanchon = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  StandardTomatoDaune = "I'll tell you what often gets over looked... garden fences."
+  JitteryTealJacquenetta = "Why did the tomato blush? Because it saw the salad dressing."
+  ArtisticSalmonDarcey = 785
+  PresentPlumRora = 950
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "StickyLavenderMelisent"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ArtisticSalmonDarcey"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

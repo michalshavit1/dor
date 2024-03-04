@@ -1,0 +1,101 @@
+type dummy.ConsiderableOrangeAstrid {
+  annotations {
+    string SelectedBlueGilli {
+    }
+    boolean LengthyAquamarineRevkah {
+    }
+    boolean SparklingBrownPhilippa {
+    }
+    number YuckyCoffeeReine {
+    }
+    dummy.GentleScarletAlbina EagerTurquoiseMarci {
+    }
+    hidden_boolean XenialEmeraldJillana {
+    }
+    boolean MathematicalCrimsonLotti {
+    }
+    serviceid EffectiveYellowMerle {
+    }
+    json LiberalJadeVeronika {
+    }
+    dummy.IncreasedOliveSuzanna BoredCoffeeKary {
+    }
+    string ComparableFuchsiaRonnie {
+    }
+    string MultipleEmeraldDaphne {
+    }
+    serviceid_number ThickLimeCallida {
+    }
+    number ExceptionalHarlequinUrsulina {
+    }
+    dummy.OutrageousApricotDelia NewBlackChris {
+    }
+    json FundamentalBlueVivien {
+    }
+    number MammothMoccasinShandeigh {
+    }
+    serviceid_number IncreasingApricotJodie {
+    }
+  }
+  SelectedBlueGilli = "Why did the tomato blush? Because it saw the salad dressing."
+  LengthyAquamarineRevkah = false
+  SparklingBrownPhilippa = true
+  YuckyCoffeeReine = 988
+  EagerTurquoiseMarci = file("TameGrayRobinette.txt")
+  MathematicalCrimsonLotti = true
+  EffectiveYellowMerle = "I'll tell you what often gets over looked... garden fences."
+  LiberalJadeVeronika = "What do you call two barracuda fish?  A Pairacuda!"
+  ComparableFuchsiaRonnie = "What creature is smarter than a talking parrot? A spelling bee."
+  MultipleEmeraldDaphne = "Whoever invented the knock-knock joke should get a no bell prize."
+  ThickLimeCallida = 24
+  ExceptionalHarlequinUrsulina = 242
+  NewBlackChris = 54
+  FundamentalBlueVivien = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  MammothMoccasinShandeigh = 931
+  IncreasingApricotJodie = 82
+  _important_values = [
+    {
+      value = "ExpensiveTurquoiseTybie"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "PleasantPlumBenedetta"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "CertainBeigeCarlotta"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "DelightedJadeKarie"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "BoredCoffeeKary"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "EagerTurquoiseMarci"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "FundamentalBlueVivien"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "LengthyAquamarineRevkah"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _alias = "ConsiderableOrangeAstrid_alias"
+}

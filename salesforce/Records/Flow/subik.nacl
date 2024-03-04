@@ -1,0 +1,804 @@
+salesforce.Flow subik {
+  fullName = "subik"
+  apiVersion = 52
+  assignments = [
+    {
+      name = "Set_Service_Resource_Id"
+      label = "Set Service Resource Id"
+      locationX = 324
+      locationY = 575
+      assignmentItems = [
+        {
+          assignToReference = "serviceResourceId"
+          operator = "Assign"
+          value = {
+            elementReference = "assignedResourceRecord.ServiceResourceId"
+          }
+        },
+        {
+          assignToReference = "workTypeGroupId"
+          operator = "Assign"
+          value = {
+            elementReference = "workTypeGroupId"
+          }
+        },
+      ]
+      connector = {
+        targetReference = "getWorkTypeRecord"
+      }
+    },
+    {
+      name = "SetConfirmationStage"
+      label = "Set Confirmation Stage"
+      locationX = 780
+      locationY = 192
+      assignmentItems = [
+        {
+          assignToReference = "$Flow.CurrentStage"
+          operator = "Assign"
+          value = {
+            elementReference = "ConfirmationStage"
+          }
+        },
+      ]
+      connector = {
+        targetReference = "ConfirmationScreen"
+      }
+    },
+    {
+      name = "SetReviewStage"
+      label = "Set Review Stage"
+      locationX = 779
+      locationY = 539
+      assignmentItems = [
+        {
+          assignToReference = "$Flow.CurrentStage"
+          operator = "Assign"
+          value = {
+            elementReference = "ReviewStage"
+          }
+        },
+      ]
+      connector = {
+        targetReference = "ReviewScreen"
+      }
+    },
+  ]
+  constants = [
+    {
+      name = "FIND_RESOURCE"
+      dataType = "String"
+      value = {
+        stringValue = "findResource"
+      }
+    },
+  ]
+  decisions = [
+    {
+      name = "Check_Appointment_Status_Category"
+      label = "Check Appointment Status Category"
+      locationX = 313
+      locationY = 200
+      defaultConnector = {
+        targetReference = "Assigned_Resource"
+      }
+      defaultConnectorLabel = "Default Outcome"
+      rules = [
+        {
+          name = "CanceledAppointment"
+          conditionLogic = "and"
+          conditions = [
+            {
+              leftValueReference = "ServiceAppointment.StatusCategory"
+              operator = "EqualTo"
+              rightValue = {
+                stringValue = "Canceled"
+              }
+            },
+          ]
+          connector = {
+            targetReference = "ConfirmationScreen"
+          }
+          label = "Canceled Appointment"
+        },
+      ]
+    },
+  ]
+  interviewLabel = "subik {!$Flow.CurrentDateTime}"
+  label = "subik"
+  processMetadataValues = [
+    {
+      name = "BuilderType"
+      value = {
+        stringValue = "LightningFlowBuilder"
+      }
+    },
+    {
+      name = "CanvasMode"
+      value = {
+        stringValue = "FREE_FORM_CANVAS"
+      }
+    },
+  ]
+  processType = "Appointments"
+  recordLookups = [
+    {
+      name = "Assigned_Resource"
+      label = "Assigned Resource"
+      locationX = 323
+      locationY = 439
+      assignNullValuesIfNoRecordsFound = false
+      connector = {
+        targetReference = "Set_Service_Resource_Id"
+      }
+      filterLogic = "and"
+      filters = [
+        {
+          field = salesforce.AssignedResource.field.ServiceAppointmentId
+          operator = "EqualTo"
+          value = {
+            elementReference = "ServiceAppointmentId"
+          }
+        },
+      ]
+      object = salesforce.AssignedResource
+      outputReference = "assignedResourceRecord"
+      queriedFields = [
+        salesforce.AssignedResource.field.Id,
+        salesforce.AssignedResource.field.ServiceResourceId,
+      ]
+    },
+    {
+      name = "getWorkTypeRecord"
+      label = "getWorkTypeRecord"
+      locationX = 477
+      locationY = 539
+      assignNullValuesIfNoRecordsFound = false
+      connector = {
+        targetReference = "TimeSlotScreen"
+      }
+      filterLogic = "and"
+      filters = [
+        {
+          field = salesforce.WorkType.field.Id
+          operator = "EqualTo"
+          value = {
+            elementReference = "ServiceAppointment.WorkTypeId"
+          }
+        },
+      ]
+      object = salesforce.WorkType
+      outputReference = "workType"
+      queriedFields = [
+        salesforce.WorkType.field.Id,
+        salesforce.WorkType.field.BlockTimeBeforeAppointment,
+        salesforce.WorkType.field.BlockTimeAfterAppointment,
+      ]
+    },
+    {
+      name = "Service_Appointment"
+      label = "Service Appointment"
+      locationX = 176
+      locationY = 198
+      assignNullValuesIfNoRecordsFound = false
+      connector = {
+        targetReference = "Check_Appointment_Status_Category"
+      }
+      filterLogic = "and"
+      filters = [
+        {
+          field = salesforce.ServiceAppointment.field.Id
+          operator = "EqualTo"
+          value = {
+            elementReference = "ServiceAppointmentId"
+          }
+        },
+      ]
+      object = salesforce.ServiceAppointment
+      outputReference = "ServiceAppointment"
+      queriedFields = [
+        salesforce.ServiceAppointment.field.Id,
+        salesforce.ServiceAppointment.field.ServiceTerritoryId,
+        salesforce.ServiceAppointment.field.WorkTypeId,
+        salesforce.ServiceAppointment.field.AdditionalInformation,
+        salesforce.ServiceAppointment.field.AppointmentType,
+        salesforce.ServiceAppointment.field.ParentRecordId,
+        salesforce.ServiceAppointment.field.Comments,
+        "City",
+        "Country",
+        "PostalCode",
+        "State",
+        "Street",
+        salesforce.ServiceAppointment.field.SchedEndTime,
+        salesforce.ServiceAppointment.field.SchedStartTime,
+        salesforce.ServiceAppointment.field.Description,
+        salesforce.ServiceAppointment.field.Subject,
+        salesforce.ServiceAppointment.field.Phone,
+        salesforce.ServiceAppointment.field.Email,
+        salesforce.ServiceAppointment.field.ContactId,
+        salesforce.ServiceAppointment.field.StatusCategory,
+      ]
+    },
+  ]
+  screens = [
+    {
+      name = "ConfirmationScreen"
+      label = "Confirmation Screen"
+      locationX = 539
+      locationY = 327
+      allowBack = false
+      allowFinish = true
+      allowPause = false
+      connector = {
+        targetReference = "subi"
+      }
+      fields = [
+        {
+          name = "flowConfirm"
+          extensionName = "runtime_appointmentbooking:flowConfirm"
+          fieldType = "ComponentInstance"
+          inputParameters = [
+            {
+              name = "category"
+              value = {
+                elementReference = "ServiceAppointment.StatusCategory"
+              }
+            },
+          ]
+          inputsOnNextNavToAssocScrn = "ResetValues"
+          isRequired = true
+        },
+      ]
+      showFooter = true
+      showHeader = true
+    },
+    {
+      name = "ReviewScreen"
+      label = "Review Screen"
+      locationX = 1016
+      locationY = 414
+      allowBack = true
+      allowFinish = true
+      allowPause = false
+      fields = [
+        {
+          name = "newFlowReview"
+          extensionName = "runtime_appointmentbooking:flowReviewIO"
+          fieldType = "ComponentInstance"
+          inputParameters = [
+            {
+              name = "appointmentType"
+              value = {
+                elementReference = "ServiceAppointment.AppointmentType"
+              }
+            },
+            {
+              name = "contactId"
+              value = {
+                elementReference = "ServiceAppointment.ContactId"
+              }
+            },
+            {
+              name = "parentRecordId"
+              value = {
+                elementReference = "ServiceAppointment.ParentRecordId"
+              }
+            },
+            {
+              name = "additionalInformation"
+              value = {
+                elementReference = "ServiceAppointment.AdditionalInformation"
+              }
+            },
+            {
+              name = "city"
+              value = {
+                elementReference = "ServiceAppointment.City"
+              }
+            },
+            {
+              name = "comments"
+              value = {
+                elementReference = "ServiceAppointment.Comments"
+              }
+            },
+            {
+              name = "country"
+              value = {
+                elementReference = "ServiceAppointment.Country"
+              }
+            },
+            {
+              name = "endDateTime"
+              value = {
+                elementReference = "ServiceAppointment.SchedEndTime"
+              }
+            },
+            {
+              name = "postalCode"
+              value = {
+                elementReference = "ServiceAppointment.PostalCode"
+              }
+            },
+            {
+              name = "startDateTime"
+              value = {
+                elementReference = "ServiceAppointment.SchedStartTime"
+              }
+            },
+            {
+              name = "state"
+              value = {
+                elementReference = "ServiceAppointment.State"
+              }
+            },
+            {
+              name = "street"
+              value = {
+                elementReference = "ServiceAppointment.Street"
+              }
+            },
+            {
+              name = "serviceResourceId"
+              value = {
+                elementReference = "serviceResourceId"
+              }
+            },
+            {
+              name = "serviceTerritoryId"
+              value = {
+                elementReference = "ServiceAppointment.ServiceTerritoryId"
+              }
+            },
+            {
+              name = "workTypeGroupId"
+              value = {
+                elementReference = "workTypeGroupId"
+              }
+            },
+            {
+              name = "serviceAppointmentFields"
+              value = {
+                elementReference = "serviceAppointmentFields"
+              }
+            },
+            {
+              name = "optionalAttendees"
+              value = {
+                elementReference = "optionalAttendees"
+              }
+            },
+            {
+              name = "saveErrors"
+              value = {
+                elementReference = "$Flow.FaultMessage"
+              }
+            },
+            {
+              name = "serviceAppointment"
+              value = {
+                elementReference = "ServiceAppointment"
+              }
+            },
+            {
+              name = "serviceAppointmentId"
+              value = {
+                elementReference = "ServiceAppointmentId"
+              }
+            },
+            {
+              name = "serviceResources"
+              value = {
+                elementReference = "serviceResources"
+              }
+            },
+            {
+              name = "isShowResourceSection"
+              value = {
+                elementReference = "showServiceResource"
+              }
+            },
+            {
+              name = "isSlotChanged"
+              value = {
+                elementReference = "isSlotChanged"
+              }
+            },
+            {
+              name = "selectedTimezone"
+              value = {
+                elementReference = "selectedTimezone"
+              }
+            },
+            {
+              name = "validationErrors"
+              value = {
+                elementReference = "validationErrors"
+              }
+            },
+            {
+              name = "workTypeId"
+              value = {
+                elementReference = "ServiceAppointment.WorkTypeId"
+              }
+            },
+            {
+              name = "schedulingPolicyName"
+              value = {
+                elementReference = "SchedulingPolicyName"
+              }
+            },
+          ]
+          inputsOnNextNavToAssocScrn = "ResetValues"
+          isRequired = true
+          outputParameters = [
+            {
+              assignToReference = "serviceAppointmentFields"
+              name = "serviceAppointmentFields"
+            },
+            {
+              assignToReference = "optionalAttendees"
+              name = "optionalAttendees"
+            },
+            {
+              assignToReference = "validationErrors"
+              name = "validationErrors"
+            },
+          ]
+        },
+      ]
+      showFooter = true
+      showHeader = true
+    },
+    {
+      name = "TimeSlotScreen"
+      label = "Time Slot Screen"
+      locationX = 612
+      locationY = 539
+      allowBack = true
+      allowFinish = true
+      allowPause = false
+      connector = {
+        targetReference = "SetReviewStage"
+      }
+      fields = [
+        {
+          name = "flowTimeslot"
+          extensionName = "runtime_appointmentbooking:flowTimeslot"
+          fieldType = "ComponentInstance"
+          inputParameters = [
+            {
+              name = "serviceResources"
+              value = {
+                elementReference = "serviceResources"
+              }
+            },
+            {
+              name = "showTimeZonePicklist"
+              value = {
+                elementReference = "showTimeZonePicklist"
+              }
+            },
+            {
+              name = "parentRecordId"
+              value = {
+                elementReference = "ServiceAppointment.ParentRecordId"
+              }
+            },
+            {
+              name = "isSlotChanged"
+              value = {
+                elementReference = "isSlotChanged"
+              }
+            },
+            {
+              name = "isInbound"
+              value = {
+                booleanValue = true
+              }
+            },
+            {
+              name = "isHideSkip"
+              value = {
+                booleanValue = true
+              }
+            },
+            {
+              name = "serviceResourceId"
+              value = {
+                elementReference = "serviceResourceId"
+              }
+            },
+            {
+              name = "serviceTerritoryId"
+              value = {
+                elementReference = "ServiceAppointment.ServiceTerritoryId"
+              }
+            },
+            {
+              name = "workTypeGroupId"
+              value = {
+                elementReference = "workTypeGroupId"
+              }
+            },
+            {
+              name = "currStartDate"
+              value = {
+                elementReference = "startDate"
+              }
+            },
+            {
+              name = "validationErrors"
+              value = {
+                elementReference = "validationErrors"
+              }
+            },
+            {
+              name = "workType"
+              value = {
+                elementReference = "workType"
+              }
+            },
+            {
+              name = "selectedEndTime"
+              value = {
+                elementReference = "ServiceAppointment.SchedEndTime"
+              }
+            },
+            {
+              name = "selectedStartTime"
+              value = {
+                elementReference = "ServiceAppointment.SchedStartTime"
+              }
+            },
+            {
+              name = "disableMultiResourceAndConcurrency"
+              value = {
+                elementReference = "disableMultiResource"
+              }
+            },
+            {
+              name = "serviceAppointmentId"
+              value = {
+                elementReference = "ServiceAppointmentId"
+              }
+            },
+            {
+              name = "schedulingPolicyName"
+              value = {
+                elementReference = "SchedulingPolicyName"
+              }
+            },
+            {
+              name = "preselectedTimezone"
+              value = {
+                elementReference = "DefaultTimeZone"
+              }
+            },
+            {
+              name = "selectedTimezone"
+              value = {
+                elementReference = "selectedTimezone"
+              }
+            },
+          ]
+          inputsOnNextNavToAssocScrn = "ResetValues"
+          isRequired = true
+          outputParameters = [
+            {
+              assignToReference = "ServiceAppointment.SchedStartTime"
+              name = "selectedStartTime"
+            },
+            {
+              assignToReference = "ServiceAppointment.SchedEndTime"
+              name = "selectedEndTime"
+            },
+            {
+              assignToReference = "validationErrors"
+              name = "validationErrors"
+            },
+            {
+              assignToReference = "startDate"
+              name = "currStartDate"
+            },
+            {
+              assignToReference = "isSlotChanged"
+              name = "isSlotChanged"
+            },
+            {
+              assignToReference = "serviceResources"
+              name = "serviceResources"
+            },
+            {
+              assignToReference = "selectedTimezone"
+              name = "selectedTimezone"
+            },
+          ]
+        },
+      ]
+      showFooter = true
+      showHeader = true
+    },
+  ]
+  stages = [
+    {
+      name = "ConfirmationStage"
+      isActive = true
+      label = "Confirmation"
+      stageOrder = 70
+    },
+    {
+      name = "ReviewStage"
+      isActive = true
+      label = "Review"
+      stageOrder = 60
+    },
+    {
+      name = "TimeSlotStage"
+      isActive = true
+      label = "Select Time Slot"
+      stageOrder = 50
+    },
+  ]
+  start = {
+    locationX = 50
+    locationY = 50
+    connector = {
+      targetReference = "Service_Appointment"
+    }
+  }
+  status = "Active"
+  subflows = {
+    name = "subi"
+    label = "subi"
+    locationX = 529
+    locationY = 99
+    flowName = salesforce.Flow.instance.michalsub
+  }
+  variables = [
+    {
+      name = "assignedResourceRecord"
+      dataType = "SObject"
+      isCollection = false
+      isInput = false
+      isOutput = false
+      objectType = salesforce.AssignedResource
+    },
+    {
+      description = "Specify a default time zone for Lightning Scheduler appointments."
+      name = "DefaultTimeZone"
+      dataType = "String"
+      isCollection = false
+      isInput = false
+      isOutput = false
+    },
+    {
+      name = "disableMultiResource"
+      dataType = "Boolean"
+      isCollection = false
+      isInput = false
+      isOutput = false
+      value = {
+        booleanValue = true
+      }
+    },
+    {
+      name = "isSlotChanged"
+      dataType = "Boolean"
+      isCollection = false
+      isInput = false
+      isOutput = false
+      value = {
+        booleanValue = false
+      }
+    },
+    {
+      name = "optionalAttendees"
+      dataType = "String"
+      isCollection = false
+      isInput = false
+      isOutput = false
+    },
+    {
+      description = "Stores the API name of the scheduling policy you want to associate with the flow."
+      name = "SchedulingPolicyName"
+      dataType = "String"
+      isCollection = false
+      isInput = false
+      isOutput = false
+    },
+    {
+      name = "selectedTimezone"
+      dataType = "String"
+      isCollection = false
+      isInput = false
+      isOutput = false
+    },
+    {
+      name = "ServiceAppointment"
+      dataType = "SObject"
+      isCollection = false
+      isInput = false
+      isOutput = false
+      objectType = salesforce.ServiceAppointment
+    },
+    {
+      name = "serviceAppointmentFields"
+      dataType = "String"
+      isCollection = false
+      isInput = false
+      isOutput = false
+    },
+    {
+      name = "ServiceAppointmentId"
+      dataType = "String"
+      isCollection = false
+      isInput = true
+      isOutput = false
+    },
+    {
+      name = "serviceResourceId"
+      dataType = "String"
+      isCollection = false
+      isInput = false
+      isOutput = false
+    },
+    {
+      name = "serviceResources"
+      dataType = "String"
+      isCollection = false
+      isInput = false
+      isOutput = false
+    },
+    {
+      name = "showServiceResource"
+      dataType = "Boolean"
+      isCollection = false
+      isInput = false
+      isOutput = false
+      value = {
+        booleanValue = true
+      }
+    },
+    {
+      name = "showTimeZonePicklist"
+      dataType = "Boolean"
+      isCollection = false
+      isInput = false
+      isOutput = false
+      value = {
+        booleanValue = false
+      }
+    },
+    {
+      name = "startDate"
+      dataType = "String"
+      isCollection = false
+      isInput = false
+      isOutput = false
+    },
+    {
+      name = "validationErrors"
+      dataType = "String"
+      isCollection = false
+      isInput = false
+      isOutput = false
+    },
+    {
+      name = "workType"
+      dataType = "SObject"
+      isCollection = false
+      isInput = true
+      isOutput = true
+      objectType = salesforce.WorkType
+    },
+    {
+      name = "workTypeGroupId"
+      dataType = "String"
+      isCollection = false
+      isInput = false
+      isOutput = false
+    },
+  ]
+  _alias = "subik"
+}

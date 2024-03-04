@@ -1,0 +1,54 @@
+type dummy.MissingPinkDonny {
+  annotations {
+    serviceid_number AvailableGrayPenni {
+    }
+    number FancyPurpleMaddy {
+    }
+    json ExactRoseCharmain {
+    }
+    dummy.DEFAULT ExclusiveBlackDelinda {
+    }
+    json DreadfulPlumDaile {
+    }
+  }
+  serviceid_number InstitutionalAmberJillayne {
+    _hidden_value = true
+  }
+  number ViciousApricotChristy {
+    _hidden_value = true
+  }
+  serviceid_number CorrectTurquoiseRois {
+    _hidden_value = true
+  }
+  number FrailSalmonAstra {
+    _hidden_value = true
+  }
+  boolean CompetitiveBlushBinny {
+    _hidden_value = true
+  }
+  number SteepAmaranthCorene {
+    _hidden_value = true
+  }
+  json ExcitingMaroonElset {
+    _hidden_value = true
+  }
+  serviceid_number IdeologicalIvoryPhaedra {
+    _hidden_value = true
+  }
+  hidden_boolean IdealSalmonMalorie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json VariousSalmonStacee {
+    _hidden_value = true
+  }
+  AvailableGrayPenni = 317
+  FancyPurpleMaddy = 191
+  ExactRoseCharmain = "Whoever invented the knock-knock joke should get a no bell prize."
+  ExclusiveBlackDelinda = {
+    legit = "To be Frank, I'd have to change my name."
+  }
+  DreadfulPlumDaile = "How come the stadium got hot after the game? Because all of the fans left."
+  _hidden_value = true
+}

@@ -1,0 +1,188 @@
+type dummy.SkilledRedBerta {
+  annotations {
+    boolean MelodicAquaHarriott {
+    }
+    number MinorBlackAila {
+    }
+    hidden_boolean TechnicalBrownTracy {
+    }
+    serviceid_number ArrogantGoldCelestyn {
+    }
+  }
+  boolean StaleFuchsiaGrayce {
+    _hidden_value = true
+  }
+  number CrucialBrownAgnella {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CruelTanMelinde {
+    _hidden_value = true
+  }
+  json SpiritualSapphireKorney {
+    _hidden_value = true
+  }
+  serviceid_number DevelopingIvoryAgace {
+    _hidden_value = true
+  }
+  json StrongFuchsiaImogene {
+    _hidden_value = true
+  }
+  dummy.QualifiedHarlequinJolee PanickyBlushAngelique {
+    ConvenientSalmonKristin = {
+      legit = "Why is Peter Pan always flying? Because he Neverlands."
+    }
+    ArmedYellowAmeline = {
+      legit = "Slept like a log last night  woke up in the fireplace."
+    }
+    ShiveringCoffeePammy = false
+    CasualEmeraldEmilee = "How come the stadium got hot after the game? Because all of the fans left."
+    _hidden_value = true
+  }
+  serviceid TheoreticalBeigeKari {
+    _hidden_value = true
+  }
+  json ImpressedGrayKorry {
+    _hidden_value = true
+  }
+  json SuitableBlackViviana {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RevolutionaryMoccasinOdette {
+    _hidden_value = true
+  }
+  hidden_boolean AverageOliveCaren {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean ObedientCopperRhona {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.CombinedCyanNatasha SteadySalmonLorrie {
+    FrozenCyanClaudette = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    WideCyanRhoda = 677
+    EnergeticGoldPauli = "Why didnt the skeleton cross the road? Because he had no guts."
+    SpotlessCopperKyla = "A steak pun is a rare medium well done."
+    VitreousBrownJolee = 244
+    AdjacentSalmonLura = "What do you do on a remote island? Try and find the TV island it belongs to."
+    SpotlessCoffeeJaneva = false
+    UselessSalmonDarlleen = "Why didnt the skeleton cross the road? Because he had no guts."
+    PreviousTealBerri = 524
+    RegionalTomatoLorilee = 143
+    NoisyPlumGiustina = false
+    SharedPurpleAdele = "Why was it called the dark ages? Because of all the knights. "
+    RottenAmaranthPhillie = "I'll tell you what often gets over looked... garden fences."
+    ImprovedIvoryGenna = "Why did the tomato blush? Because it saw the salad dressing."
+    RoyalTurquoiseRonny = false
+    _hidden_value = true
+  }
+  number SexualTanSaloma {
+    _hidden_value = true
+  }
+  json RipeTomatoCandida {
+    _hidden_value = true
+  }
+  boolean IdeologicalEmeraldJulia {
+    _hidden_value = true
+  }
+  string RudeBlushMartha {
+    _hidden_value = true
+  }
+  json IntimateSapphireBernadina {
+    _hidden_value = true
+  }
+  serviceid_number DefeatedApricotQuinta {
+    _hidden_value = true
+  }
+  number UnlikelySalmonRonalda {
+    _hidden_value = true
+  }
+  dummy.GlobalLimeMatti LazyEmeraldJelene {
+    ArrogantPurpleMadelene = {
+      legit = "What creature is smarter than a talking parrot? A spelling bee."
+    }
+    InsufficientTomatoHetti = "What do you call two barracuda fish?  A Pairacuda!"
+    UltimateRosePandora = false
+    SilentCyanMelina = 435
+    MeltedAquamarinePatsy = false
+    AppallingRedMegen = 934
+    StuckVioletLynette = true
+    PersistentChocolateNicolina = 730
+    PanickyJadeBianka = false
+    FunIvoryCristionna = "Why was it called the dark ages? Because of all the knights. "
+    HardCopperCahra = {
+      legit = "Dad Im hungry  Hi hungry Im dad"
+    }
+    ProtectiveSalmonLiza = "How come the stadium got hot after the game? Because all of the fans left."
+    SacredCyanRakel = "Why is Peter Pan always flying? Because he Neverlands."
+    _hidden_value = true
+  }
+  json RoundChocolateAdrea {
+    _hidden_value = true
+  }
+  number FortunateGoldJonie {
+    _hidden_value = true
+  }
+  boolean StrategicCyanCharisse {
+    _hidden_value = true
+  }
+  string DesirableIvoryCecil {
+    _hidden_value = true
+  }
+  hidden_boolean PrimeBlushBrianna {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string ZygomorphicLimeBunni {
+    _hidden_value = true
+  }
+  hidden_boolean RetailSilverRaine {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json SmartRedElsie {
+    _hidden_value = true
+  }
+  hidden_boolean NervousMoccasinHarley {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  MelodicAquaHarriott = false
+  MinorBlackAila = 773
+  ArrogantGoldCelestyn = 76
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "CrucialBrownAgnella"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "RudeBlushMartha"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SmartRedElsie"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ArrogantGoldCelestyn"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "MinorBlackAila"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

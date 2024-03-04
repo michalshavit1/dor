@@ -1,0 +1,83 @@
+type dummy.TemporaryAquaJamie {
+  annotations {
+    serviceid WeakBronzeAmabelle {
+    }
+    string ImperialTealJoanne {
+    }
+    boolean WorthySilverRoda {
+    }
+    serviceid MeanFuchsiaJuana {
+    }
+    dummy.DEFAULT DistinguishedEmeraldDacey {
+    }
+  }
+  serviceid ProvincialSilverKrystalle {
+    _hidden_value = true
+  }
+  json DelightfulRoseDdene {
+    _hidden_value = true
+  }
+  dummy.DEFAULT PoisedAmethystBambie {
+    _hidden_value = true
+  }
+  hidden_boolean CompatibleMagentaAlejandrina {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid SurePlumMel {
+    _hidden_value = true
+  }
+  serviceid_number SmartCyanPaulie {
+    _hidden_value = true
+  }
+  json PsychologicalLavenderElonore {
+    _hidden_value = true
+  }
+  string NakedRosePaulina {
+    _hidden_value = true
+  }
+  dummy.DEFAULT HighBlushAmelina {
+    _hidden_value = true
+  }
+  boolean ChronicSalmonThea {
+    _hidden_value = true
+  }
+  number XenialFuchsiaAndriette {
+    _hidden_value = true
+  }
+  serviceid_number LimitedSalmonHinda {
+    _hidden_value = true
+  }
+  number EarlyAzureViviana {
+    _hidden_value = true
+  }
+  serviceid_number SeriousEmeraldAnastasie {
+    _hidden_value = true
+  }
+  WeakBronzeAmabelle = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ImperialTealJoanne = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  WorthySilverRoda = false
+  MeanFuchsiaJuana = "What did one nut say as he chased another nut?  I'm a cashew!"
+  DistinguishedEmeraldDacey = {
+    legit = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  }
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "HighBlushAmelina"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "SurePlumMel"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "PsychologicalLavenderElonore"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

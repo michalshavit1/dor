@@ -1,0 +1,26 @@
+type dummy.CentralPurpleTresa {
+  annotations {
+    boolean MultipleIvoryMel {
+    }
+    number PartialWhiteGertie {
+    }
+    hidden_boolean PresidentialRoseBenedikta {
+    }
+    string LinearSalmonKate {
+    }
+  }
+  boolean ExpensiveTanStarlin {
+    _hidden_value = true
+  }
+  MultipleIvoryMel = false
+  PartialWhiteGertie = 836
+  LinearSalmonKate = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "LinearSalmonKate"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

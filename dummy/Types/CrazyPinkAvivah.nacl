@@ -1,0 +1,80 @@
+type dummy.CrazyPinkAvivah {
+  annotations {
+    string SuperiorLavenderKissiah {
+    }
+    boolean ApplicableTanElsie {
+    }
+    json AwakeBlueKarie {
+    }
+    json ConsciousBlueJoelie {
+    }
+    number TerribleApricotDita {
+    }
+  }
+  boolean TastyMaroonSher {
+    _hidden_value = true
+  }
+  hidden_boolean CrazyCoffeeMelisande {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean ColouredAmberMuffin {
+    _hidden_value = true
+  }
+  boolean DevelopedMagentaMelany {
+    _hidden_value = true
+  }
+  number PreciousSilverNina {
+    _hidden_value = true
+  }
+  string IntactGreenKarole {
+    _hidden_value = true
+  }
+  dummy.MassYellowCorina UncomfortableCoffeeAileen {
+    _hidden_value = true
+  }
+  json PoliticalTomatoPeggie {
+    _hidden_value = true
+  }
+  serviceid VerticalSilverMaible {
+    _hidden_value = true
+  }
+  hidden_boolean CoherentLavenderMoira {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string DamagedAzureStepha {
+    _hidden_value = true
+  }
+  json FundamentalMaroonChristiane {
+    _hidden_value = true
+  }
+  "List<number>" ProtestantGoldFlorencia {
+    _hidden_value = true
+  }
+  SuperiorLavenderKissiah = "Why did the tomato blush? Because it saw the salad dressing."
+  ApplicableTanElsie = false
+  AwakeBlueKarie = "A steak pun is a rare medium well done."
+  ConsciousBlueJoelie = "What do you do on a remote island? Try and find the TV island it belongs to."
+  TerribleApricotDita = 946
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "PreciousSilverNina"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "CrazyCoffeeMelisande"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "VerticalSilverMaible"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

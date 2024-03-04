@@ -1,0 +1,69 @@
+type dummy.VisualAquaGina {
+  annotations {
+    dummy.NervousCyanBlisse CompetitiveWhiteMelina {
+    }
+    hidden_boolean ClosedIvoryShaylah {
+    }
+    boolean ImpossibleRoseDanya {
+    }
+    dummy.AppropriateOrangeCalley SupremeMagentaJewell {
+    }
+    number EthnicAmethystDanit {
+    }
+    number InjuredVioletCairistiona {
+    }
+    json NervousOliveBarrie {
+    }
+    boolean WittyMaroonAndeee {
+    }
+    string DullCyanNicola {
+    }
+    serviceid VivaciousAquaIlise {
+    }
+    serviceid_number BigBlushCorene {
+    }
+    string LiquidTomatoNessie {
+    }
+    boolean HardAmberHeather {
+    }
+    string FewYellowCammie {
+    }
+    boolean ToryCyanBernardina {
+    }
+    serviceid_number LonelyCrimsonJerrilee {
+    }
+    serviceid GreatMagentaHoratia {
+    }
+    string RightIvoryGarnette {
+    }
+  }
+  CompetitiveWhiteMelina = 225
+  ImpossibleRoseDanya = false
+  EthnicAmethystDanit = 666
+  InjuredVioletCairistiona = 67
+  NervousOliveBarrie = "Why do birds fly south for the winter? Because it's too far to walk."
+  WittyMaroonAndeee = true
+  DullCyanNicola = "What do you do on a remote island? Try and find the TV island it belongs to."
+  VivaciousAquaIlise = "Did you know that protons have mass? I didn't even know they were catholic."
+  BigBlushCorene = 964
+  LiquidTomatoNessie = "What creature is smarter than a talking parrot? A spelling bee."
+  HardAmberHeather = true
+  FewYellowCammie = "Why did the kid cross the playground? To get to the other slide."
+  ToryCyanBernardina = true
+  LonelyCrimsonJerrilee = 200
+  GreatMagentaHoratia = "Why did the tomato blush? Because it saw the salad dressing."
+  RightIvoryGarnette = "Slept like a log last night  woke up in the fireplace."
+  _self_important_values = [
+    {
+      value = "LonelyCrimsonJerrilee"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "NervousOliveBarrie"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "VisualAquaGina_alias"
+}

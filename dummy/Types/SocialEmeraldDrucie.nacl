@@ -1,0 +1,125 @@
+type dummy.SocialEmeraldDrucie {
+  annotations {
+    serviceid_number OrthodoxLimeLorraine {
+    }
+    hidden_boolean ExternalTomatoMaible {
+    }
+    serviceid_number PartialAmaranthLesley {
+    }
+    json SteepOliveSimonne {
+    }
+    number VitalAquaAnnetta {
+    }
+  }
+  number ObviousEmeraldEm {
+    _hidden_value = true
+  }
+  string ShockedLavenderBamby {
+    _hidden_value = true
+  }
+  serviceid ResidentialGoldBrittni {
+    _hidden_value = true
+  }
+  serviceid ConsciousRoseGretel {
+    _hidden_value = true
+  }
+  serviceid TemporarySilverAndi {
+    _hidden_value = true
+  }
+  string BoredMoccasinMagdaia {
+    _hidden_value = true
+  }
+  string PlasticMaroonBeverlie {
+    _hidden_value = true
+  }
+  json HandicappedYellowCoralyn {
+    _hidden_value = true
+  }
+  dummy.OutrageousApricotDelia CloudyBrownMyra {
+    ConvenientGoldYasmin = 27
+    OccasionalGoldSabine = 648
+    ComparableCyanAddia = "I'll tell you what often gets over looked... garden fences."
+    ConceptualCoffeeAngelle = {
+      legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    }
+    NervousCrimsonBernice = 374
+    DeadIvoryMatilda = {
+      legit = "Why was it called the dark ages? Because of all the knights. "
+    }
+    ManagerialChocolateMaddi = "How come the stadium got hot after the game? Because all of the fans left."
+    MagneticCoffeeGae = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    ConcreteApricotJordain = "A steak pun is a rare medium well done."
+    SupportingCyanAdda = 510
+    AdvancedGreenGilda = 224
+    AvailableTomatoFlorentia = 540
+    SacredLimeGeorgeta = 800
+    ComplexCoffeeNatala = "How come the stadium got hot after the game? Because all of the fans left."
+    ColdAquamarineRorie = 428
+    CriticalApricotRita = true
+    UncertainApricotCorly = "Why did the tomato blush? Because it saw the salad dressing."
+    FragileFuchsiaBeitris = 822
+    _hidden_value = true
+  }
+  boolean VocalAzureArdelia {
+    _hidden_value = true
+  }
+  serviceid_number DirtyWhiteFayth {
+    _hidden_value = true
+  }
+  string EvilTurquoiseBab {
+    _hidden_value = true
+  }
+  serviceid_number StripedJadeMargeaux {
+    _hidden_value = true
+  }
+  hidden_boolean MuteBlueDiandra {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json KeenAmaranthTwyla {
+    _hidden_value = true
+  }
+  string SquareFuchsiaNana {
+    _hidden_value = true
+  }
+  hidden_boolean TenderBlueAmye {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number RunningTurquoiseHedda {
+    _hidden_value = true
+  }
+  string FewTealAdan {
+    _hidden_value = true
+  }
+  serviceid AnnualCrimsonManya {
+    _hidden_value = true
+  }
+  serviceid GracefulMagentaVanessa {
+    _hidden_value = true
+  }
+  OrthodoxLimeLorraine = 742
+  PartialAmaranthLesley = 223
+  SteepOliveSimonne = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  VitalAquaAnnetta = 511
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "HandicappedYellowCoralyn"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ConsciousRoseGretel"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ResidentialGoldBrittni"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

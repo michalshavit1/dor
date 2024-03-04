@@ -1,0 +1,60 @@
+type dummy.SelectMoccasinWendeline {
+  annotations {
+    number BrilliantIvoryPerla {
+    }
+    hidden_boolean PartialSilverChloe {
+    }
+    boolean FuzzyCrimsonAimee {
+    }
+    number VicariousFuchsiaIsobel {
+    }
+    string WateryTanCrissy {
+    }
+  }
+  serviceid ProfessionalGreenCorrianne {
+    _hidden_value = true
+  }
+  "List<string>" ChiefIndigoKathy {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AestheticAquaCindra {
+    _hidden_value = true
+  }
+  serviceid MajorCoffeeMelodee {
+    _hidden_value = true
+  }
+  number TragicCoralJannel {
+    _hidden_value = true
+  }
+  "List<json>" ClassicJadeCharmine {
+    _hidden_value = true
+  }
+  dummy.MassYellowCorina UsualVioletDorolisa {
+    _hidden_value = true
+  }
+  hidden_boolean DiplomaticAquaMaisie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid SecurePinkStevana {
+    _hidden_value = true
+  }
+  BrilliantIvoryPerla = 421
+  FuzzyCrimsonAimee = false
+  VicariousFuchsiaIsobel = 994
+  WateryTanCrissy = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "FuzzyCrimsonAimee"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "WateryTanCrissy"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

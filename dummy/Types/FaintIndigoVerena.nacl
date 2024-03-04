@@ -1,0 +1,73 @@
+type dummy.FaintIndigoVerena {
+  annotations {
+    json AbleAquaGrayce {
+    }
+    string PublicRedGlenna {
+    }
+    boolean ComingTurquoiseCally {
+    }
+    boolean EntireBrownNolie {
+    }
+    boolean CoherentGreenSylvia {
+    }
+    boolean CircularBlackMoselle {
+    }
+  }
+  boolean OnlyMaroonValaree {
+    _hidden_value = true
+  }
+  hidden_boolean PregnantFuchsiaJania {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean FitMaroonNadia {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean CorrectPinkAlissa {
+    _hidden_value = true
+  }
+  json TopBlackSybil {
+    _hidden_value = true
+  }
+  json FellowMoccasinMaggy {
+    _hidden_value = true
+  }
+  string TallBrownBrooke {
+    _hidden_value = true
+  }
+  serviceid_number MushyCoffeeTracie {
+    _hidden_value = true
+  }
+  serviceid DoubleVioletPier {
+    _hidden_value = true
+  }
+  json AsleepCrimsonLoutitia {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AbsentSilverDorothy {
+    _hidden_value = true
+  }
+  serviceid SevereAmaranthAlfie {
+    _hidden_value = true
+  }
+  json RawVioletIsabelita {
+    _hidden_value = true
+  }
+  AbleAquaGrayce = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  PublicRedGlenna = "What do you call two barracuda fish?  A Pairacuda!"
+  ComingTurquoiseCally = true
+  EntireBrownNolie = false
+  CoherentGreenSylvia = false
+  CircularBlackMoselle = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "AsleepCrimsonLoutitia"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

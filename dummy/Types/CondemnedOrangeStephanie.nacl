@@ -1,0 +1,31 @@
+type dummy.CondemnedOrangeStephanie {
+  annotations {
+    number FinalOliveNetta {
+    }
+    string ElectricalTealMelesa {
+    }
+    string ConvincingPlumAnderea {
+    }
+    hidden_boolean AlertPinkCthrine {
+    }
+  }
+  json SensitiveWhiteCarol {
+    _hidden_value = true
+  }
+  FinalOliveNetta = 733
+  ElectricalTealMelesa = "Why is Peter Pan always flying? Because he Neverlands."
+  ConvincingPlumAnderea = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "ConvincingPlumAnderea"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "FinalOliveNetta"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

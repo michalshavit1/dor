@@ -1,0 +1,130 @@
+type dummy.FrequentCrimsonJuanita {
+  annotations {
+    hidden_boolean GlamorousPeachKrissie {
+    }
+    json UnacceptableLavenderCaria {
+    }
+    boolean IncredibleBlushMaureen {
+    }
+    serviceid_number ExtraordinaryBeigeChiquia {
+    }
+  }
+  serviceid ResultingTealLexie {
+    _hidden_value = true
+  }
+  serviceid MedicalTealMaurita {
+    _hidden_value = true
+  }
+  number SurprisingScarletChristy {
+    _hidden_value = true
+  }
+  boolean GlobalIvoryFayre {
+    _hidden_value = true
+  }
+  hidden_boolean LogicalCoffeeTawnya {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json DecentIndigoSimona {
+    _hidden_value = true
+  }
+  number PayableSilverAlaine {
+    _hidden_value = true
+  }
+  json CircularSapphireCatlee {
+    _hidden_value = true
+  }
+  hidden_boolean VastPeachDolorita {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.AcceptableAmaranthGertrudis BackPurpleShandee {
+    SportingGreenRachel = {
+      legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    }
+    ColorfulAmberRhetta = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    UsedLimeMia = 8
+    SharpAzureChandra = "I'll tell you what often gets over looked... garden fences."
+    AnnualAquamarineAmii = true
+    UninterestedSalmonClaretta = true
+    IllTomatoKimberley = 190
+    TemporaryFuchsiaGuillema = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    MentalSalmonKori = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    CarefulBlushSaraann = 333
+    TropicalWhiteLauralee = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    PsychologicalFuchsiaAnnabal = "To be Frank, I'd have to change my name."
+    _hidden_value = true
+  }
+  hidden_boolean WillingWhiteGinnifer {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number RearMaroonEthelda {
+    _hidden_value = true
+  }
+  hidden_boolean IndustrialBrownPierrette {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<serviceid>" AppropriatePinkDi {
+    _hidden_value = true
+  }
+  serviceid_number BlushingSilverVelma {
+    _hidden_value = true
+  }
+  json UpperMagentaRivalee {
+    _hidden_value = true
+  }
+  hidden_boolean VictoriousBronzeChickie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  UnacceptableLavenderCaria = "My first time using an elevator was an uplifting experience. The second time let me down."
+  IncredibleBlushMaureen = true
+  ExtraordinaryBeigeChiquia = 408
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "BackPurpleShandee"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ResultingTealLexie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "CircularSapphireCatlee"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "LogicalCoffeeTawnya"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "IndustrialBrownPierrette"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "GlobalIvoryFayre"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "IncredibleBlushMaureen"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

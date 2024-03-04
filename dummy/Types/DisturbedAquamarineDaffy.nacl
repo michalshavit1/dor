@@ -1,0 +1,41 @@
+type dummy.DisturbedAquamarineDaffy {
+  annotations {
+    dummy.InformalTurquoiseFaith ProminentBlushQuintana {
+    }
+    boolean ProminentRoseKristine {
+    }
+    number VocationalAquamarineTony {
+    }
+    hidden_boolean FinancialFuchsiaPeria {
+    }
+    string EvilJadeMala {
+    }
+  }
+  serviceid_number PricklyTurquoiseAriel {
+    _hidden_value = true
+  }
+  number CriminalWhiteHalli {
+    _hidden_value = true
+  }
+  serviceid_number LiableMagentaCecile {
+    _hidden_value = true
+  }
+  boolean ArbitraryLimeNatassia {
+    _hidden_value = true
+  }
+  boolean InstantWhiteSam {
+    _hidden_value = true
+  }
+  ProminentBlushQuintana = false
+  ProminentRoseKristine = false
+  VocationalAquamarineTony = 810
+  EvilJadeMala = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "ProminentRoseKristine"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

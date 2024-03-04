@@ -1,0 +1,83 @@
+type dummy.DualSapphireAnnnora {
+  annotations {
+    dummy.KeyTurquoiseArdyce AncientAmberFredi {
+    }
+    boolean UncomfortableSilverNara {
+    }
+    dummy.UpperTanDebby HolyAquamarineBlaire {
+    }
+    hidden_boolean FineBronzeLeshia {
+    }
+    serviceid_number KeyTurquoiseMelli {
+    }
+    serviceid OppositeAzureEmera {
+    }
+    string RainyCoffeeDeirdre {
+    }
+    dummy.ElectoralTanAnet LowHarlequinDoralin {
+    }
+    serviceid DesperateCoralKinna {
+    }
+    serviceid VisualIvoryShane {
+    }
+    json QuickestPeachAlvina {
+    }
+    serviceid_number DevelopingSapphireGoldia {
+    }
+    boolean BrainyRoseStevana {
+    }
+    json OralGoldHedvig {
+    }
+    boolean JointCrimsonLeland {
+    }
+    dummy.PastWhiteVin RenewedAzureDaisey {
+    }
+    dummy.MagicBrownEuphemia VivaciousGoldFleurette {
+    }
+  }
+  UncomfortableSilverNara = true
+  HolyAquamarineBlaire = false
+  KeyTurquoiseMelli = 695
+  OppositeAzureEmera = "Dad Im hungry  Hi hungry Im dad"
+  RainyCoffeeDeirdre = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  DesperateCoralKinna = "Did you know that protons have mass? I didn't even know they were catholic."
+  VisualIvoryShane = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  QuickestPeachAlvina = "Dad Im hungry  Hi hungry Im dad"
+  DevelopingSapphireGoldia = 377
+  BrainyRoseStevana = true
+  OralGoldHedvig = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  JointCrimsonLeland = true
+  _self_important_values = [
+    {
+      value = "KeyTurquoiseMelli"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "OralGoldHedvig"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "VisualIvoryShane"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "BrainyRoseStevana"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "DevelopingSapphireGoldia"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "AncientAmberFredi"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _alias = "DualSapphireAnnnora_alias"
+}

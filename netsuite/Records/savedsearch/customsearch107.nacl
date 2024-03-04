@@ -1,0 +1,191 @@
+netsuite.savedsearch customsearch107 {
+  scriptid = "customsearch107"
+  definition = "3c697be875aa7787ec5fbd65c0adb9fc9735bb18cbdadd297ca86cfdea8e1490@GZC@2022.1.17@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"
+  search_filter = [
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Transaction_TYPE"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "SalesOrd"
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Transaction_TRANDATE"
+      FIELD_MODIFIER = "WITHIN"
+      FIELD_ATTRIBUTE = "TM"
+      FIELD_TYPE = "DATE"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "2006-05-01 07:00:00.0 UTC"
+        },
+        {
+          KEY_ID = 1
+          FIELD_VALUE = "2006-05-31 07:00:00.0 UTC"
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Transaction_MAINLINE"
+      FIELD_ATTRIBUTE = "T"
+      FIELD_TYPE = "CHECKBOX"
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Transaction_SALESTEAMMEMBER"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "@CURRENT@"
+        },
+      ]
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "Transaction_TRANDATE"
+      FIELD_INDEX = 1
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_NUMBER"
+      FIELD_INDEX = 2
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_NAME"
+      FIELD_INDEX = 3
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_AMOUNT"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  detail_fields = [
+    {
+      FIELD_ALIAS = "Transaction_MAINLINE"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_TRANDATE"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_POSTINGPERIOD"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_TYPE"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_NUMBER"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_NAME"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_ACCOUNT"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_MEMO"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_AMOUNT"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "Transaction_TRANDATE"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  KEY_SCRIPT_ID = "customsearch107"
+  FIELD_DEFAULT_NAME = "My Sales Team Membership This Month"
+  FIELD_SEARCH_TYPE = "Transaction"
+  FLAG_PUBLIC = false
+  FLAG_LIST = true
+  FLAG_PORTLET = true
+  FLAG_MACHINE = true
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = true
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = true
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = true
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+  _alias = "My Sales Team Membership This Month"
+}

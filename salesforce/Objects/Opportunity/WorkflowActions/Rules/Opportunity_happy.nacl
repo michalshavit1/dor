@@ -1,0 +1,26 @@
+salesforce.WorkflowRule Opportunity_happy@v {
+  fullName = "Opportunity.happy"
+  actions = [
+    {
+      name = salesforce.WorkflowOutboundMessage.instance.Opportunity_sad@v
+      type = "OutboundMessage"
+    },
+    {
+      name = salesforce.WorkflowTask.instance.Opportunity_happytask@v
+      type = "Task"
+    },
+  ]
+  active = false
+  criteriaItems = [
+    {
+      field = salesforce.Opportunity.field.IsClosed
+      operation = "equals"
+      value = "True"
+    },
+  ]
+  triggerType = "onCreateOrTriggeringUpdate"
+  _parent = [
+    salesforce.Opportunity,
+  ]
+  _alias = "Opportunity.happy"
+}

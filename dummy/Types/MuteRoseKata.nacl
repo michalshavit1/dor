@@ -1,0 +1,120 @@
+type dummy.MuteRoseKata {
+  annotations {
+    boolean HissingCoffeeTwyla {
+    }
+    dummy.DEFAULT BackRedRubie {
+    }
+    json ModestGoldAdey {
+    }
+    json CarefulAmaranthAdrea {
+    }
+  }
+  boolean IllegalMagentaLelia {
+    _hidden_value = true
+  }
+  string InlandHarlequinFayre {
+    _hidden_value = true
+  }
+  serviceid_number LegislativeGoldRonda {
+    _hidden_value = true
+  }
+  serviceid_number MixedAmaranthIdaline {
+    _hidden_value = true
+  }
+  dummy.LatinHarlequinDarbie OppositePlumDanika {
+    UnnecessarySalmonScarlett = true
+    ElatedBlackVeronike = 385
+    SlipperySalmonDaisy = 504
+    SwiftBlushMeryl = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    WholeSapphireShirlee = "Why did the kid cross the playground? To get to the other slide."
+    AdditionalCrimsonPaulita = false
+    CrucialHarlequinDorri = "To be Frank, I'd have to change my name."
+    UnevenTurquoiseJodie = {
+      legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    }
+    PsychologicalMaroonLetisha = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    FrozenPurpleTrula = "My first time using an elevator was an uplifting experience. The second time let me down."
+    CourageousPlumJane = "What did one nut say as he chased another nut?  I'm a cashew!"
+    HiddenMagentaRonica = "A steak pun is a rare medium well done."
+    WorthyAmethystGiorgia = "Whoever invented the knock-knock joke should get a no bell prize."
+    RichApricotEvita = "Slept like a log last night  woke up in the fireplace."
+    NervousSalmonSashenka = "A steak pun is a rare medium well done."
+    TenderFuchsiaElly = {
+      legit = "Did you know that protons have mass? I didn't even know they were catholic."
+    }
+    RespectableYellowJanet = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    ChangingCoralVanni = false
+    AmusedLavenderJenine = 600
+    ExcessiveTurquoiseDorothee = 63
+    PrimitiveApricotVilma = true
+    WorthwhileIvoryShanda = 297
+    ComprehensivePurpleKerstin = "My first time using an elevator was an uplifting experience. The second time let me down."
+    CorrespondingTurquoiseAdi = "I'll tell you what often gets over looked... garden fences."
+    _hidden_value = true
+  }
+  string ComprehensiveBlackRodina {
+    _hidden_value = true
+  }
+  boolean RomanticJadeChristy {
+    _hidden_value = true
+  }
+  number LiveYellowAllsun {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RequiredBlackAlysia {
+    _hidden_value = true
+  }
+  dummy.DEFAULT XenialChocolateNanci {
+    _hidden_value = true
+  }
+  boolean RegionalScarletElsinore {
+    _hidden_value = true
+  }
+  string AnonymousAquaTove {
+    _hidden_value = true
+  }
+  number YodellingVioletKara {
+    _hidden_value = true
+  }
+  serviceid_number SurvivingWhiteLeah {
+    _hidden_value = true
+  }
+  number NegativeCopperMargo {
+    _hidden_value = true
+  }
+  hidden_boolean FinalApricotCharo {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid ThoughtfulPlumArdelia {
+    _hidden_value = true
+  }
+  serviceid_number CooperativeMagentaNelle {
+    _hidden_value = true
+  }
+  boolean UrgentMaroonErinn {
+    _hidden_value = true
+  }
+  HissingCoffeeTwyla = false
+  BackRedRubie = {
+    legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  }
+  ModestGoldAdey = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  CarefulAmaranthAdrea = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "AnonymousAquaTove"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "CarefulAmaranthAdrea"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

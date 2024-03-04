@@ -1,0 +1,29 @@
+type salesforce.TestModifyCustomAnnotations__c {
+  salesforce.Text Address__c {
+    apiName = "TestModifyCustomAnnotations__c.Address__c"
+    externalId = false
+    label = "Address"
+    length = 80
+    trackTrending = false
+    unique = false
+    createable = true
+    updateable = true
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Text Banana__c {
+    apiName = "TestModifyCustomAnnotations__c.Banana__c"
+    businessStatus = "Hidden"
+    complianceGroup = "GDPR"
+    externalId = false
+    label = "Banana Split"
+    length = 80
+    securityClassification = "Restricted"
+    trackTrending = false
+    unique = false
+    createable = true
+    updateable = true
+    caseSensitive = false
+    queryable = true
+  }
+}

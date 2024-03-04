@@ -1,0 +1,60 @@
+type dummy.HistoricalBluePammi {
+  annotations {
+    serviceid_number LivelyGreenColene {
+    }
+    number BitterLimeHannie {
+    }
+    serviceid_number ImpressiveVioletLauraine {
+    }
+    number PoisedOrangeMirabelle {
+    }
+    serviceid PatientAmaranthMagdaia {
+    }
+    serviceid ZygoticApricotCindi {
+    }
+  }
+  number ImmediateBeigeAlyson {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AssistantCoralDarya {
+    _hidden_value = true
+  }
+  serviceid_number HilariousAmaranthKailey {
+    _hidden_value = true
+  }
+  serviceid_number ThirstyCopperCristin {
+    _hidden_value = true
+  }
+  boolean DelightedCoralMelisandra {
+    _hidden_value = true
+  }
+  json ElaborateBrownErmina {
+    _hidden_value = true
+  }
+  LivelyGreenColene = 11
+  BitterLimeHannie = 340
+  ImpressiveVioletLauraine = 619
+  PoisedOrangeMirabelle = 575
+  PatientAmaranthMagdaia = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ZygoticApricotCindi = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "HilariousAmaranthKailey"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "PoisedOrangeMirabelle"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ZygoticApricotCindi"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}
