@@ -1,5 +1,5 @@
-type salesforce.Account {
-  salesforce.Picklist Active__c {
+type salesforce2.Account {
+  salesforce2.Picklist Active__c {
     apiName = "Account.Active__c"
     externalId = false
     label = "Active"
@@ -21,7 +21,45 @@ type salesforce.Account {
     updateable = true
     queryable = true
   }
-  salesforce.Picklist CustomerPriority__c {
+  salesforce2.Picklist Colors__c {
+    apiName = "Account.Colors__c"
+    description = "List of colors"
+    externalId = false
+    label = "Colors"
+    valueSet = [
+      {
+        fullName = "Yellow"
+        default = false
+        label = "Yellow"
+      },
+      {
+        fullName = "Purple"
+        default = false
+        label = "Purple"
+      },
+      {
+        fullName = "Blue"
+        default = false
+        label = "Blue"
+      },
+      {
+        fullName = "Red"
+        default = false
+        label = "Red"
+      },
+      {
+        fullName = "Green"
+        default = false
+        label = "Green"
+      },
+    ]
+    sorted = false
+    restricted = true
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce2.Picklist CustomerPriority__c {
     apiName = "Account.CustomerPriority__c"
     externalId = false
     label = "Customer Priority"
@@ -48,7 +86,7 @@ type salesforce.Account {
     updateable = true
     queryable = true
   }
-  salesforce.Number NumberofLocations__c {
+  salesforce2.Number NumberofLocations__c {
     apiName = "Account.NumberofLocations__c"
     externalId = false
     label = "Number of Locations"
@@ -59,7 +97,7 @@ type salesforce.Account {
     updateable = true
     queryable = true
   }
-  salesforce.Date SLAExpirationDate__c {
+  salesforce2.Date SLAExpirationDate__c {
     apiName = "Account.SLAExpirationDate__c"
     externalId = false
     label = "SLA Expiration Date"
@@ -67,7 +105,7 @@ type salesforce.Account {
     updateable = true
     queryable = true
   }
-  salesforce.Text SLASerialNumber__c {
+  salesforce2.Text SLASerialNumber__c {
     apiName = "Account.SLASerialNumber__c"
     externalId = false
     label = "SLA Serial Number"
@@ -78,7 +116,7 @@ type salesforce.Account {
     caseSensitive = false
     queryable = true
   }
-  salesforce.Picklist SLA__c {
+  salesforce2.Picklist SLA__c {
     apiName = "Account.SLA__c"
     externalId = false
     label = "SLA"
@@ -110,7 +148,7 @@ type salesforce.Account {
     updateable = true
     queryable = true
   }
-  salesforce.Picklist UpsellOpportunity__c {
+  salesforce2.Picklist UpsellOpportunity__c {
     apiName = "Account.UpsellOpportunity__c"
     externalId = false
     label = "Upsell Opportunity"
@@ -137,5 +175,25 @@ type salesforce.Account {
     updateable = true
     queryable = true
   }
-  
+  salesforce2.Text custom_text__c {
+    apiName = "Account.custom_text__c"
+    description = "Yet another text field UPDATED"
+    externalId = false
+    label = "custom_text"
+    length = 100
+    unique = false
+    createable = true
+    updateable = true
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce2.Checkbox testcb__c {
+    apiName = "Account.testcb__c"
+    defaultValue = false
+    externalId = false
+    label = "testcb"
+    createable = true
+    updateable = true
+    queryable = true
+  }
 }

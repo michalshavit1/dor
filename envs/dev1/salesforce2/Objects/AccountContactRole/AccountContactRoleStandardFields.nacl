@@ -1,0 +1,106 @@
+type salesforce2.AccountContactRole {
+  salesforce2.Picklist Role {
+    apiName = "AccountContactRole.Role"
+    restricted = false
+    label = "Role"
+    createable = true
+    updateable = true
+    queryable = true
+    valueSetName = salesforce2.StandardValueSet.instance.ContractContactRole
+  }
+  serviceid Id {
+    apiName = "AccountContactRole.Id"
+    label = "Contact Role ID"
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce2.Checkbox IsDeleted {
+    apiName = "AccountContactRole.IsDeleted"
+    defaultValue = false
+    label = "Deleted"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce2.DateTime CreatedDate {
+    apiName = "AccountContactRole.CreatedDate"
+    label = "Created Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce2.Lookup CreatedById {
+    apiName = "AccountContactRole.CreatedById"
+    relationshipName = "CreatedBy"
+    referenceTo = [
+      salesforce2.User,
+    ]
+    label = "Created By ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce2.DateTime LastModifiedDate {
+    apiName = "AccountContactRole.LastModifiedDate"
+    label = "Last Modified Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce2.Lookup LastModifiedById {
+    apiName = "AccountContactRole.LastModifiedById"
+    relationshipName = "LastModifiedBy"
+    referenceTo = [
+      salesforce2.User,
+    ]
+    label = "Last Modified By ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce2.DateTime SystemModstamp {
+    apiName = "AccountContactRole.SystemModstamp"
+    label = "System Modstamp"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce2.Lookup AccountId {
+    apiName = "AccountContactRole.AccountId"
+    relationshipName = "Account"
+    referenceTo = [
+      salesforce2.Account,
+    ]
+    _required = true
+    label = "Account ID"
+    createable = true
+    updateable = false
+    queryable = true
+  }
+  salesforce2.Lookup ContactId {
+    apiName = "AccountContactRole.ContactId"
+    relationshipName = "Contact"
+    referenceTo = [
+      salesforce2.Contact,
+    ]
+    _required = true
+    label = "Contact ID"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce2.Checkbox IsPrimary {
+    apiName = "AccountContactRole.IsPrimary"
+    defaultValue = false
+    label = "Primary"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+}
